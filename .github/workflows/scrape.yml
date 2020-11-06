@@ -5,7 +5,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '13 * * * *'
+    - cron:  '18 * * * *'
 
 jobs:
   scheduled:
@@ -15,7 +15,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl "https://share.uzis.cz/s/dCZBiARJ27ayeoS/download?path=%2F&files=mestske-castu.csv" > mestske-casti.csv
+        curl "https://share.uzis.cz/s/dCZBiARJ27ayeoS/download?path=%2F&files=mestske-casti.csv" > mestske-casti.csv
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
