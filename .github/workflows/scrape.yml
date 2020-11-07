@@ -5,7 +5,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '18 * * * *'
+    - cron:  '7 * * * *'
 
 jobs:
   scheduled:
@@ -13,9 +13,22 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
-    - name: Fetch latest data
+    - name: Fetch latest data mestske-casti
       run: |-
         curl "https://share.uzis.cz/s/dCZBiARJ27ayeoS/download?path=%2F&files=mestske-casti.csv" > mestske-casti.csv
+      name: Fetch latest data obec
+        curl "https://share.uzis.cz/s/dCZBiARJ27ayeoS/download?path=%2F&files=obec.csv" > obec.csv
+        HEADER=`head -n 1 obec.csv`
+        echo $HEADER > header.csv
+        N1=`grep -nr 533416 obec.csv | gawk '{print $1}' FS=":" | tail -n 1`
+        N2=`grep -nr 576689 obec.csv | gawk '{print $1}' FS=":" | tail -n 1`
+        TOTAL=`wc -l obec.csv | cut -f1 -d' '`
+        head -$N1 obec.csv > obec_1.csv
+        head -n $N2 obec.csv | tail -n `expr $N2 - $N1` > obec_2_tmp.csv
+        cat header.csv obec_2_tmp.csv > obec_2.csv
+        tail -n `expr $TOTAL - $N2` obec.csv > obec_3_tmp.csv
+        cat header.csv obec_3_tmp.csv > obec_3.csv
+        rm obec.csv obec_2_tmp.csv obec_3_tmp.csv
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
