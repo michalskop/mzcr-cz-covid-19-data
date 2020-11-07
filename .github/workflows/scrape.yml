@@ -5,7 +5,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '7 * * * *'
+    - cron:  '8 * * * *'
 
 jobs:
   scheduled:
@@ -16,7 +16,8 @@ jobs:
     - name: Fetch latest data mestske-casti
       run: |-
         curl "https://share.uzis.cz/s/dCZBiARJ27ayeoS/download?path=%2F&files=mestske-casti.csv" > mestske-casti.csv
-      name: Fetch latest data obec
+    - name: Fetch latest data obec
+      run: |-
         curl "https://share.uzis.cz/s/dCZBiARJ27ayeoS/download?path=%2F&files=obec.csv" > obec.csv
         HEADER=`head -n 1 obec.csv`
         echo $HEADER > header.csv
