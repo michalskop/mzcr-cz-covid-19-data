@@ -60,6 +60,18 @@ jobs:
     - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/account/verejne-distribuovana-data/file/dip%252Fweb_orp.csv
       run: |-
         curl "https://onemocneni-aktualne.mzcr.cz/api/account/verejne-distribuovana-data/file/dip%252Fweb_orp.csv" > web_orp.csv
+ 
+    - name: Fetch latest https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_CR.csv
+      run: |-
+        curl "https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_CR.csv" > pes_CR.csv
+    - name: Fetch latest https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_kraje.csv
+      run: |-
+        curl "https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_kraje.csv" > pes_kraje.csv
+    - name: Fetch latest https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_okresy.csv
+      run: |-
+        curl "https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_okresy.csv" > pes_okresy.csv
+        
+        
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
