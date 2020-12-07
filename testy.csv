@@ -1,315 +1,252 @@
-﻿datum,prirustkovy_pocet_testu,kumulativni_pocet_testu,prirustkovy_pocet_prvnich_testu,kumulativni_pocet_prvnich_testu
-2020-01-27,20,20,,
-2020-01-28,8,28,,
-2020-01-29,5,33,,
-2020-01-30,1,34,,
-2020-01-31,3,37,,
-2020-02-01,1,38,,
-2020-02-02,5,43,,
-2020-02-03,5,48,,
-2020-02-04,5,53,,
-2020-02-05,0,53,,
-2020-02-06,3,56,,
-2020-02-07,6,62,,
-2020-02-08,0,62,,
-2020-02-09,2,64,,
-2020-02-10,8,72,,
-2020-02-11,2,74,,
-2020-02-12,1,75,,
-2020-02-13,1,76,,
-2020-02-14,0,76,,
-2020-02-15,1,77,,
-2020-02-16,1,78,,
-2020-02-17,2,80,,
-2020-02-18,0,80,,
-2020-02-19,2,82,,
-2020-02-20,0,82,,
-2020-02-21,0,82,,
-2020-02-22,1,83,,
-2020-02-23,3,86,,
-2020-02-24,12,98,,
-2020-02-25,14,112,,
-2020-02-26,23,135,,
-2020-02-27,35,170,,
-2020-02-28,23,193,,
-2020-02-29,7,200,,
-2020-03-01,11,211,,
-2020-03-02,51,262,,
-2020-03-03,78,340,,
-2020-03-04,67,407,,
-2020-03-05,76,483,,
-2020-03-06,111,594,,
-2020-03-07,193,787,,
-2020-03-08,141,928,,
-2020-03-09,265,1193,,
-2020-03-10,165,1358,,
-2020-03-11,458,1816,,
-2020-03-12,537,2353,,
-2020-03-13,845,3198,,
-2020-03-14,986,4184,,
-2020-03-15,1028,5212,,
-2020-03-16,1319,6531,,
-2020-03-17,1294,7825,,
-2020-03-18,1756,9581,,
-2020-03-19,2259,11840,,
-2020-03-20,2121,13961,,
-2020-03-21,1882,15843,,
-2020-03-22,1801,17644,,
-2020-03-23,2291,19935,,
-2020-03-24,3062,22997,,
-2020-03-25,4107,27104,,
-2020-03-26,4633,31737,,
-2020-03-27,5359,37096,,
-2020-03-28,4224,41320,,
-2020-03-29,2848,44168,,
-2020-03-30,5159,49327,,
-2020-03-31,6661,55988,,
-2020-04-01,6102,62090,,
-2020-04-02,6673,68763,,
-2020-04-03,7398,76161,,
-2020-04-04,5837,81998,,
-2020-04-05,4812,86810,,
-2020-04-06,6435,93245,,
-2020-04-07,8173,101418,,
-2020-04-08,8469,109887,,
-2020-04-09,8180,118067,,
-2020-04-10,5702,123769,,
-2020-04-11,4891,128660,,
-2020-04-12,3250,131910,,
-2020-04-13,3215,135125,,
-2020-04-14,6173,141298,,
-2020-04-15,8476,149774,,
-2020-04-16,8381,158155,,
-2020-04-17,8288,166443,,
-2020-04-18,5605,172048,,
-2020-04-19,4027,176075,,
-2020-04-20,6567,182642,,
-2020-04-21,8341,190983,,
-2020-04-22,8818,199801,,
-2020-04-23,7901,207702,,
-2020-04-24,7129,214831,,
-2020-04-25,4446,219277,,
-2020-04-26,3381,222658,,
-2020-04-27,7754,230412,,
-2020-04-28,8741,239153,,
-2020-04-29,7322,246475,,
-2020-04-30,7396,253871,,
-2020-05-01,4497,258368,,
-2020-05-02,3885,262253,,
-2020-05-03,3881,266134,,
-2020-05-04,7756,273890,,
-2020-05-05,9383,283273,,
-2020-05-06,8052,291325,,
-2020-05-07,7599,298924,,
-2020-05-08,4510,303434,,
-2020-05-09,3788,307222,,
-2020-05-10,4052,311274,,
-2020-05-11,7809,319083,,
-2020-05-12,8755,327838,,
-2020-05-13,7687,335525,,
-2020-05-14,6902,342427,,
-2020-05-15,6790,349217,,
-2020-05-16,4197,353414,,
-2020-05-17,3553,356967,,
-2020-05-18,7458,364425,,
-2020-05-19,8336,372761,,
-2020-05-20,7518,380279,,
-2020-05-21,7290,387569,,
-2020-05-22,7748,395317,,
-2020-05-23,5059,400376,,
-2020-05-24,3849,404225,,
-2020-05-25,7508,411733,,
-2020-05-26,7241,418974,,
-2020-05-27,6846,425820,,
-2020-05-28,6013,431833,,
-2020-05-29,6113,437946,,
-2020-05-30,3548,441494,,
-2020-05-31,2141,443635,,
-2020-06-01,5721,449356,,
-2020-06-02,6478,455834,,
-2020-06-03,5313,461147,,
-2020-06-04,5011,466158,,
-2020-06-05,4173,470331,,
-2020-06-06,2150,472481,,
-2020-06-07,2127,474608,,
-2020-06-08,4684,479292,,
-2020-06-09,4552,483844,,
-2020-06-10,4068,487912,,
-2020-06-11,3739,491651,,
-2020-06-12,3726,495377,,
-2020-06-13,1652,497029,,
-2020-06-14,1121,498150,,
-2020-06-15,3673,501823,,
-2020-06-16,4023,505846,,
-2020-06-17,4036,509882,,
-2020-06-18,4403,514285,,
-2020-06-19,3574,517859,,
-2020-06-20,1699,519558,,
-2020-06-21,1313,520871,,
-2020-06-22,3910,524781,,
-2020-06-23,4567,529348,,
-2020-06-24,4287,533635,,
-2020-06-25,4047,537682,,
-2020-06-26,4533,542215,,
-2020-06-27,2554,544769,,
-2020-06-28,2423,547192,,
-2020-06-29,4485,551677,,
-2020-06-30,4412,556089,,
-2020-07-01,4593,560682,,
-2020-07-02,4665,565347,,
-2020-07-03,5109,570456,,
-2020-07-04,1687,572143,,
-2020-07-05,1524,573667,,
-2020-07-06,1714,575381,,
-2020-07-07,4159,579540,,
-2020-07-08,5406,584946,,
-2020-07-09,4682,589628,,
-2020-07-10,5333,594961,,
-2020-07-11,2321,597282,,
-2020-07-12,1787,599069,,
-2020-07-13,4424,603493,,
-2020-07-14,4802,608295,,
-2020-07-15,4694,612989,,
-2020-07-16,4730,617719,,
-2020-07-17,4727,622446,,
-2020-07-18,2334,624780,,
-2020-07-19,1830,626610,,
-2020-07-20,5785,632395,,
-2020-07-21,6089,638484,,
-2020-07-22,6609,645093,,
-2020-07-23,5557,650650,,
-2020-07-24,6238,656888,,
-2020-07-25,3337,660225,,
-2020-07-26,1784,662009,,
-2020-07-27,6552,668561,,
-2020-07-28,7909,676470,,
-2020-07-29,7509,683979,,
-2020-07-30,7623,691602,,
-2020-07-31,8206,699808,,
-2020-08-01,4707,704515,3654,527871
-2020-08-02,2647,707162,2063,529934
-2020-08-03,7746,714908,5841,535775
-2020-08-04,8414,723322,6651,542426
-2020-08-05,6945,730267,5443,547869
-2020-08-06,7362,737629,5774,553643
-2020-08-07,9206,746835,7235,560878
-2020-08-08,5511,752346,4400,565278
-2020-08-09,2928,755274,2474,567752
-2020-08-10,6483,761757,5105,572857
-2020-08-11,8693,770450,7042,579899
-2020-08-12,7922,778372,6654,586553
-2020-08-13,7412,785784,5852,592405
-2020-08-14,7969,793753,6485,598890
-2020-08-15,5053,798806,4317,603207
-2020-08-16,2979,801785,2516,605723
-2020-08-17,7252,809037,6096,611819
-2020-08-18,7690,816727,6424,618243
-2020-08-19,7655,824382,6386,624629
-2020-08-20,8238,832620,6783,631412
-2020-08-21,9712,842332,7928,639340
-2020-08-22,5118,847450,4047,643387
-2020-08-23,2404,849854,2019,645406
-2020-08-24,7413,857267,6123,651529
-2020-08-25,8763,866030,7298,658827
-2020-08-26,8867,874897,7362,666189
-2020-08-27,9198,884095,7363,673552
-2020-08-28,10826,894921,8839,682391
-2020-08-29,6573,901494,5512,687903
-2020-08-30,3946,905440,3191,691094
-2020-08-31,9371,914811,7749,698843
-2020-09-01,11137,925948,9372,708215
-2020-09-02,11810,937758,9903,718118
-2020-09-03,11541,949299,9761,727879
-2020-09-04,13654,962953,10964,738843
-2020-09-05,7468,970421,6239,745082
-2020-09-06,4537,974958,3757,748839
-2020-09-07,11604,986562,8970,757809
-2020-09-08,16115,1002677,13108,770917
-2020-09-09,15506,1018183,12712,783629
-2020-09-10,16329,1034512,13065,796694
-2020-09-11,19217,1053729,15415,812109
-2020-09-12,13246,1066975,9705,821814
-2020-09-13,7090,1074065,5237,827051
-2020-09-14,17519,1091584,12621,839672
-2020-09-15,20461,1112045,15696,855368
-2020-09-16,20587,1132632,16895,872263
-2020-09-17,23591,1156223,19001,891264
-2020-09-18,21580,1177803,16731,907995
-2020-09-19,15231,1193034,11759,919754
-2020-09-20,10561,1203595,7606,927360
-2020-09-21,19410,1223005,14159,941519
-2020-09-22,22400,1245405,17951,959470
-2020-09-23,22446,1267851,18604,978074
-2020-09-24,23160,1291011,19209,997283
-2020-09-25,23132,1314143,18722,1016005
-2020-09-26,15388,1329531,12057,1028062
-2020-09-27,10469,1340000,8209,1036271
-2020-09-28,12218,1352218,9843,1046114
-2020-09-29,18317,1370535,14303,1060417
-2020-09-30,21092,1391627,17723,1078140
-2020-10-01,23921,1415548,20042,1098182
-2020-10-02,23639,1439187,20150,1118332
-2020-10-03,15201,1454388,13116,1131448
-2020-10-04,7776,1462164,6950,1138398
-2020-10-05,17768,1479932,15520,1153918
-2020-10-06,23045,1502977,21093,1175011
-2020-10-07,24020,1526997,22012,1197023
-2020-10-08,25073,1552070,23176,1220199
-2020-10-09,27741,1579811,25383,1245582
-2020-10-10,18123,1597934,16659,1262241
-2020-10-11,11504,1609438,10678,1272919
-2020-10-12,22046,1631484,19169,1292088
-2020-10-13,31638,1663122,28785,1320873
-2020-10-14,34858,1697980,31957,1352830
-2020-10-15,34806,1732786,32345,1385175
-2020-10-16,38723,1771509,35393,1420568
-2020-10-17,29279,1800788,26961,1447529
-2020-10-18,17240,1818028,15787,1463316
-2020-10-19,31125,1849153,27348,1490664
-2020-10-20,40597,1889750,37034,1527698
-2020-10-21,45223,1934973,41492,1569190
-2020-10-22,46425,1981398,42174,1611364
-2020-10-23,45252,2026650,41363,1652727
-2020-10-24,39192,2065842,36252,1688979
-2020-10-25,21593,2087435,19862,1708841
-2020-10-26,35597,2123032,30759,1739600
-2020-10-27,47498,2170530,42711,1782311
-2020-10-28,40084,2210614,36928,1819239
-2020-10-29,42577,2253191,38117,1857356
-2020-10-30,46822,2300013,41980,1899336
-2020-10-31,36296,2336309,32772,1932108
-2020-11-01,20643,2356952,18659,1950767
-2020-11-02,32728,2389680,28631,1979398
-2020-11-03,43327,2433007,38721,2018119
-2020-11-04,45484,2478491,40971,2059090
-2020-11-05,43233,2521724,38713,2097803
-2020-11-06,40325,2562049,36091,2133894
-2020-11-07,26242,2588291,23420,2157314
-2020-11-08,13727,2602018,12037,2169351
-2020-11-09,30467,2632485,25857,2195208
-2020-11-10,37274,2669759,32735,2227943
-2020-11-11,32935,2702694,28831,2256774
-2020-11-12,31174,2733868,26908,2283682
-2020-11-13,31297,2765165,27184,2310866
-2020-11-14,16193,2781358,14242,2325108
-2020-11-15,9019,2790377,7611,2332719
-2020-11-16,26066,2816443,25699,2358418
-2020-11-17,17590,2834033,17374,2375792
-2020-11-18,24530,2858563,24072,2399864
-2020-11-19,26702,2885265,26394,2426258
-2020-11-20,25845,2911110,25576,2451834
-2020-11-21,14584,2925694,14551,2466385
-2020-11-22,7230,2932924,7230,2473615
-2020-11-23,23621,2956545,23331,2496946
-2020-11-24,24629,2981174,24367,2521313
-2020-11-25,22649,3003823,22594,2543907
-2020-11-26,20500,3024323,20227,2564134
-2020-11-27,23326,3047649,23197,2587331
-2020-11-28,12305,3059954,12305,2599636
-2020-11-29,6450,3066404,6450,2606086
-2020-11-30,22265,3088669,21970,2628056
-2020-12-01,23136,3111805,23024,2651080
-2020-12-02,22650,3134455,22163,2673243
-2020-12-03,20578,3155033,20578,2693821
-2020-12-04,22420,3177453,22240,2716061
-2020-12-05,12804,3190257,12804,2728865
+<!DOCTYPE html>
+<html lang="cs" class="no-js no-js-loaded">
+<head>
+
+  <!--
+  WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+  WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+  WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW     WWW     WWW     WWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+  WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW     WWW     WWW     WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+  WWW     WWWWWWWWWWWWWWWWWWWWW     WWWWWWWWWWWWWWWWWWWWW     WWWWWW     WWW     WWW     WWWWW                      WWWW
+  WWWW     WWWWWWWWWWWWWWWWWWW       WWWWWWWWWWWWWWWWWWW     WWWWWW     WWW     WWW     WWWWWW     WWWWWWWWWWWW     WWWW
+  WWWWW     WWWWWWWWWWWWWWWWW         WWWWWWWWWWWWWWWWW     WWWWWW     WWW     WWW     WWWWWWW     WWWWWWWWWWWW     WWWW
+  WWWWWW     WWWWWWWWWWWWWWW     W     WWWWWWWWWWWWWWW     WWWWWW     WWW     WWW     WWWWWWWW     WWWWWWWWWWWWWWWWWWWWW
+  WWWWWWW     WWWWWWWWWWWWW     WWW     WWWWWWWWWWWWW     WWWWWW     WWW     WWW     WWWWWWWWW     WWWWWWWWWWWWWWWWWWWWW
+  WWWWWWWW     WWWWWWWWWWW     WWWWW     WWWWWWWWWWW     WWWWWW     WWW     WWW     WWWWWWWWWW     WWWWWWWWWWWWWWWWWWWWW
+  WWWWWWWWW     WWWWWWWWW     WWWWWWW     WWWWWWWWW     WWWWWW     WWW     WWW     WWWWWWWWWWW                     WWWWW
+  WWWWWWWWWW     WWWWWWW     WWWWWWWWW     WWWWWWW     WWWWWW     WWW     WWW     WWWWWWWWWWWWWWWWWWWWWWWWWWWW     WWWWW
+  WWWWWWWWWWW     WWWWW     WWWWWWWWWWW     WWWWW     WWWWWW     WWW     WWW     WWWWWWWWWWWWWWWWWWWWWWWWWWWWW     WWWWW
+  WWWWWWWWWWWW     WWW     WWWWWWWWWWWWW     WWW     WWWWWW     WWW     WWW     WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW     WWWWW
+  WWWWWWWWWWWWW     W     WWWWWWWWWWWWWWW     W     WWWWWW     WWW     WWW     WWWWWWWWWWWWWWW     WWWWWWWWWWW     WWWWW
+  WWWWWWWWWWWWWW         WWWWWWWWWWWWWWWWW         WWWWWW     WWW     WWW     WWWWWWWWWWWWWWWW     WWWWWWWWWWW     WWWWW
+  WWWWWWWWWWWWWWW       WWWWWWWWWWWWWWWWWWW       WWWWWW     WWW     WWW     WWWWWWWWWWWWWWWWW                     WWWWW
+  WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW     WWW     WWW     WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+  WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW     WWW     WWW     WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+  WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+  WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+                             |
+                            |
+  |   | |    |||| ||||    ||||| |     | ||||   ||||| |||| |||  |||| |
+  |   | |    |    |    |  |   | | | | | |        |   |    |  | |    |
+  ||||| |    |||  |     | ||||| |  |  | |||      |   |||  |||  |||  |
+  |   | |    |    |    |  |   | |     | |        |   |    |  | |
+  |   | |||| |||| ||||    |   | |     | ||||     |   |||| |||  |||| .
+
+  #Když tě zajímá náš kód, přidej se k nám do týmu.
+  Jdi na https://webstudio.team/index.html#career a napiš.
+  -->
+
+  <meta charset="UTF-8">
+  <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Onemocnění COVID-19 je způsobeno novým typem koronaviru s odborným označením SARS-CoV-2. Jedná se o vysoce
+  infekční onemocnění, které se projevuje zejména horečkami, respiračními potížemi (kašel, dušnost), bolestí svalů a
+  únavou."/>
+      <meta name="robots" content="index,follow"/>
+    <title>COVID-19 | Onemocnění aktuálně od MZČR</title>
+        <link rel="stylesheet" href="/build/app.256b1ac0.css">
+  
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125495940-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag('js', new Date());
+
+      gtag('config', 'UA-125495940-3');
+    </script>
+  
+  <meta property="og:locale" content="cs_CZ"/>
+  <meta property="og:site_name" content="onemocneni-aktualne.mzcr.cz"/>
+
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:site" content="@Onemocneni-Aktualne"/>
+
+    <meta property="og:type" content="website"/>
+  <meta property="og:url" content="https://onemocneni-aktualne.mzcr.cz/covid-19"/>
+  <meta property="og:title" content="COVID-19 | Onemocnění Aktuálně MZČR"/>
+  <meta property="og:description"
+        content="Onemocnění COVID-19 je způsobeno novým typem koronaviru s odborným označením SARS-CoV-2. Vysoceinfekční onemocnění, které se projevuje zejména horečkami, respiračními potížemi (kašel, dušnost), bolestí svalů a únavou."/>
+  <meta property="og:image" content="https://onemocneni-aktualne.mzcr.cz/images/covid-19.jpg"/>
+
+  <meta name="twitter:title" content="COVID-19 | Onemocnění Aktuálně MZČR"/>
+  <meta name="twitter:description"
+        content="Onemocnění COVID-19 je způsobeno novým typem koronaviru s odborným označením SARS-CoV-2. Vysoceinfekční onemocnění, které se projevuje zejména horečkami, respiračními potížemi (kašel, dušnost), bolestí svalů a únavou."/>
+  <meta name="twitter:image" content="https://onemocneni-aktualne.mzcr.cz/images/covid-19.jpg"/>
+
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/favicon/apple-touch-icon-57x57.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/favicon/apple-touch-icon-114x114.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/favicon/apple-touch-icon-72x72.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/favicon/apple-touch-icon-144x144.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/images/favicon/apple-touch-icon-60x60.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/favicon/apple-touch-icon-120x120.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/images/favicon/apple-touch-icon-76x76.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/images/favicon/apple-touch-icon-152x152.png" />
+  <link rel="icon" type="image/png" href="/images/favicon/favicon-196x196.png" sizes="196x196" />
+  <link rel="icon" type="image/png" href="/images/favicon/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/png" href="/images/favicon/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="/images/favicon/favicon-16x16.png" sizes="16x16" />
+  <link rel="icon" type="image/png" href="/images/favicon/favicon-128.png" sizes="128x128" />
+  <meta name="application-name" content="Onemocnění aktuálně od MZČR"/>
+  <meta name="msapplication-TileColor" content="#D31944" />
+  <meta name="msapplication-TileImage" content="/images/favicon/mstile-144x144.png" />
+  <meta name="msapplication-square70x70logo" content="/images/favicon/mstile-70x70.png" />
+  <meta name="msapplication-square150x150logo" content="/images/favicon/mstile-150x150.png" />
+  <meta name="msapplication-wide310x150logo" content="/images/favicon/mstile-310x150.png" />
+  <meta name="msapplication-square310x310logo" content="/images/favicon/mstile-310x310.png" />
+
+
+</head>
+<body>
+<div class="callout visually-hidden" id="js-broadcast-message"></div>
+  <header class="header ">
+    <div>
+      <div class="row row--large">
+        <div class="header__logo-container">
+          <div class="header__logo header__logo--main">
+            <a href="/" aria-label="Úvodní stránka – Onemocnění aktuálně">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 387.6 110.21">
+                <style>.st0 {
+                    fill: #fff
+                  }</style>
+                <g id="inverse_1_">
+                  <circle class="st0" cx="110.21" cy="55.1" r="13.78"/>
+                  <circle class="st0" cx="27.55" cy="55.1" r="27.55"/>
+                  <circle class="st0" cx="75.77" cy="20.66" r="20.66"/>
+                  <circle class="st0" cx="75.77" cy="89.55" r="20.66"/>
+                  <g>
+                    <path class="st0"
+                          d="M176.66 36.2c0 4-1.01 7.14-3.03 9.43-2.02 2.29-4.83 3.44-8.43 3.44-3.68 0-6.52-1.12-8.52-3.38-2-2.25-3-5.43-3-9.53 0-4.07 1-7.22 3.01-9.46 2-2.24 4.85-3.36 8.54-3.36 3.59 0 6.39 1.14 8.41 3.42 2.01 2.29 3.02 5.43 3.02 9.44zm-19.91 0c0 3.38.72 5.95 2.16 7.7 1.44 1.75 3.54 2.62 6.28 2.62 2.77 0 4.86-.87 6.27-2.61s2.12-4.31 2.12-7.71c0-3.36-.7-5.91-2.11-7.65-1.41-1.74-3.49-2.61-6.25-2.61-2.77 0-4.87.88-6.32 2.62s-2.15 4.3-2.15 7.64zM201.75 48.73h-3.32l-13.65-20.97h-.14c.18 2.46.27 4.72.27 6.77v14.2h-2.68V23.74h3.28l13.62 20.88h.14c-.02-.31-.07-1.3-.15-2.96s-.11-2.86-.08-3.58V23.74h2.72v24.99zM222.55 48.73h-13.93V23.74h13.93v2.58h-11.02v8.05h10.36v2.56h-10.36v9.19h11.02v2.61zM239.14 48.73l-8.48-22.15h-.14c.16 1.75.24 3.84.24 6.25v15.89h-2.68V23.74h4.38l7.91 20.61h.14l7.98-20.61h4.34v24.99h-2.91v-16.1c0-1.85.08-3.85.24-6.02h-.14l-8.54 22.11h-2.34zM281.37 36.2c0 4-1.01 7.14-3.03 9.43-2.02 2.29-4.83 3.44-8.43 3.44-3.68 0-6.52-1.12-8.52-3.38-2-2.25-3-5.43-3-9.53 0-4.07 1-7.22 3.01-9.46 2-2.24 4.85-3.36 8.54-3.36 3.59 0 6.39 1.14 8.41 3.42 2.01 2.29 3.02 5.43 3.02 9.44zm-19.91 0c0 3.38.72 5.95 2.16 7.7 1.44 1.75 3.54 2.62 6.28 2.62 2.77 0 4.86-.87 6.27-2.61 1.41-1.74 2.12-4.31 2.12-7.71 0-3.36-.7-5.91-2.11-7.65-1.41-1.74-3.49-2.61-6.25-2.61-2.77 0-4.87.88-6.32 2.62s-2.15 4.3-2.15 7.64zM297.64 25.98c-2.75 0-4.91.91-6.5 2.74-1.59 1.83-2.38 4.33-2.38 7.51 0 3.27.77 5.8 2.3 7.58s3.72 2.67 6.55 2.67c1.74 0 3.73-.31 5.96-.94v2.55c-1.73.65-3.87.97-6.41.97-3.68 0-6.52-1.12-8.52-3.35s-3-5.41-3-9.52c0-2.57.48-4.83 1.44-6.77.96-1.94 2.35-3.43 4.17-4.48 1.82-1.05 3.96-1.57 6.42-1.57 2.62 0 4.91.48 6.87 1.44l-1.23 2.49c-1.89-.87-3.78-1.32-5.67-1.32zM328.54 48.73h-3.31l-13.66-20.97h-.14c.18 2.46.27 4.72.27 6.77v14.2h-2.68V23.74h3.28l13.62 20.88h.14c-.02-.31-.07-1.3-.15-2.96-.08-1.67-.11-2.86-.09-3.58V23.74h2.72v24.99zM349.34 48.73h-13.93V23.74h13.93v2.58h-11.02v8.05h10.36v2.56h-10.36v9.19h11.02v2.61zm-12.51-32.59h1.96c1.3.84 2.55 1.92 3.74 3.23 1.48-1.48 2.74-2.56 3.78-3.23h2.03v.43l-1.13 1.16c-1.64 1.69-2.72 3.02-3.25 4.02h-2.84c-.26-.47-.68-1.06-1.26-1.78s-1.6-1.85-3.04-3.4v-.43zM374.39 48.73h-3.31l-13.66-20.97h-.14c.18 2.46.27 4.72.27 6.77v14.2h-2.68V23.74h3.28l13.62 20.88h.14c-.02-.31-.07-1.3-.15-2.96-.08-1.67-.11-2.86-.09-3.58V23.74h2.72v24.99zM380.88 21.32c.55-.71 1.14-1.56 1.77-2.56.63-1 1.13-1.87 1.5-2.61h3.45v.36c-.5.74-1.25 1.65-2.24 2.73-.99 1.08-1.85 1.92-2.58 2.51h-1.9v-.43zm.38 27.41V23.74h2.9v24.99h-2.9zM169.98 93.73l-1.81-5.95h-9.11l-1.81 5.95h-5.71l8.82-25.09h6.48l8.85 25.09h-5.71zm-3.08-10.39c-1.67-5.39-2.62-8.44-2.83-9.14-.21-.71-.36-1.27-.45-1.68-.38 1.46-1.45 5.07-3.23 10.82h6.51zM198.93 93.73h-6.02l-6.55-10.53-2.24 1.61v8.92h-5.3V68.74h5.3v11.43l2.08-2.94 6.77-8.49h5.88l-8.72 11.06 8.8 13.93zM211.71 93.73h-5.3V73.15h-6.79v-4.41h18.87v4.41h-6.78v20.58zM242.68 68.74v16.17c0 1.85-.41 3.46-1.24 4.85-.83 1.39-2.02 2.46-3.58 3.2-1.56.74-3.41 1.11-5.54 1.11-3.21 0-5.71-.82-7.49-2.47-1.78-1.65-2.67-3.9-2.67-6.76v-16.1h5.28v15.3c0 1.92.39 3.34 1.16 4.24.77.9 2.06 1.35 3.85 1.35 1.73 0 2.99-.45 3.77-1.36.78-.91 1.17-2.33 1.17-4.26V68.74h5.29zM264.09 93.73l-1.81-5.95h-9.11l-1.81 5.95h-5.71l8.82-25.09h6.48l8.85 25.09h-5.71zm-3.07-10.39c-1.67-5.39-2.62-8.44-2.83-9.14-.21-.71-.36-1.27-.45-1.68-.38 1.46-1.45 5.07-3.23 10.82h6.51zm-6.12-16.59v-.46c1.96-2.28 3.3-3.99 4.02-5.14h5.84v.36c-.59.59-1.6 1.47-3.03 2.64-1.43 1.17-2.55 2.04-3.36 2.61h-3.47zM272.95 93.73V68.74h5.3v20.61h10.13v4.38h-15.43zM314.88 93.73h-6.73l-10.87-18.9h-.15c.22 3.34.33 5.72.33 7.14v11.76h-4.73V68.74h6.68l10.85 18.71h.12c-.17-3.25-.26-5.54-.26-6.89V68.74h4.77v24.99zM335.87 61.14v.46c-.96.96-1.84 1.91-2.64 2.86s-1.38 1.71-1.73 2.28h-6.1c-.33-.54-.8-1.18-1.42-1.92s-1.6-1.82-2.96-3.22v-.46h3.47c1.67 1.06 2.98 2.06 3.91 3.01.96-.99 2.29-1.99 4-3.01h3.47zm-.31 32.59h-14.39V68.74h14.39v4.34h-9.09v5.49h8.46v4.34h-8.46v6.44h9.09v4.38z"/>
+                  </g>
+                </g>
+              </svg>
+            </a>
+          </div>
+          <div class="header__logo header__logo--mzcr">
+            <a href="http://www.mzcr.cz/" target="_blank" aria-label="Stránka Ministerstva zdravotnictví (externí odkaz, nová záložka)">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740.8 63.4"><title>Ministerstvo zdravotnictví České republiky</title>
+                <style>.st0 {
+                    fill: #fff
+                  }</style>
+                <path class="st0"
+                      d="M222.1 56.8h-.6v6.6h15.3c1.5-1.3 3.1-2.8 4.8-4.5 8.2-8.2-11.7-2.8-19.5-2.1M221.5 30.8v17.4c2.8-2.3 7.7-5 16.8-11.8 10.4-7.8 1.7-5.7-16.8-5.6M233.6 4.3h-12v10.4c4.7-3.7 9.2-6.8 9.2-6.8.8-1.3 1.8-2.5 2.8-3.6"></path>
+                <path class="st0"
+                      d="M280.6 4.3h-31.1c0 4.9-9.4 7.9-11.2 8.6-4.7 2.9-10.7 6.4-13 8.8-4.3 4.3 9 1.3 25.6 1.3 4.6 0 7.2 4.1 4.9 7-5.1 6.3-11.4 10.6-18.1 15-9.3 6.1 14.4-4.2 14.4 7.9 0 4.2-3.1 7.7-7.2 10.5h35.7V4.3M132.9 34V4.3h-12.1c-4.7 43.1-34.1 32.4-47 25.4v33.6h19.9C103 28 120.9 28.6 132.9 34"></path>
+                <path class="st0"
+                      d="M118 4.3H73.8v23.4c25.9 6 37.3-7.2 44.2-23.4M81.5 14.9c0-4.6 3.7-8.3 8.3-8.3 4.6 0 8.3 3.7 8.3 8.3 0 4.6-3.7 8.3-8.3 8.3-4.6 0-8.3-3.7-8.3-8.3zM44.5 36.8C30.4 36.8 19 25.4 19 11.3c0-2.4.3-4.7 1-7H0v25.8l13.8-14.4c.7 4.7 2.3 9.2 4.7 13.1L0 31.2v32.2h59.1V32.2c-4.2 2.9-9.2 4.6-14.6 4.6m-26 10.9l2.3-15.4c3.2 3.3 7.1 6.1 11.4 8l-13.7 7.4zm26 12.5l-7-19.2c2.3.4 4.6.7 7 .7 2.4 0 4.7-.2 7-.7l-7 19.2zM151.1 37.5s26.6 19.8 54.5-12.9c0 0-22.7-28.4-57.8 3.1v35.8h59.1V36.2c-12 12.6-33 26.1-55.8 1.3m26.4-17.9c4.6 0 8.3 3.7 8.3 8.3 0 4.6-3.7 8.3-8.3 8.3-4.6 0-8.3-3.7-8.3-8.3 0-4.6 3.8-8.3 8.3-8.3zM170.5 4.3h-22.8v16.3c5.1-6.9 12.6-13.9 22.8-16.3M333.4 24.3h-2.8V8.8h-.1l-6.1 7.7h-.5l-6.1-7.7h-.1v15.5h-2.8V4.4h2.7l6.6 8.1 6.6-8.1h2.6v19.9M337.8 4.4h2.9v19.9h-2.9zM363.5 24.3H361L347.7 9v15.3H345V4.4h2.3l13.5 15.4V4.4h2.7v19.9M367.9 4.4h2.9v19.9h-2.9zM384.6 8.7c-1.7-1.6-3.3-2.1-4.7-2.1-1.9 0-3.2 1-3.2 2.4 0 3.8 8.6 3.8 8.6 10.1 0 3.1-2.4 5.4-5.6 5.4-2.2 0-3.9-.6-5.6-1.9V19c1.5 1.9 3.3 2.9 5.3 2.9 2.2 0 3.2-1.4 3.2-2.5 0-4.1-8.6-4.6-8.6-10 0-3.2 2.4-5.3 6-5.3 1.5 0 3 .5 4.4 1.4v3.2M403.4 6.9h-6.9v17.4h-2.8V6.9h-6.9V4.4h16.6v2.5M417.4 6.9H409v6h8.1v2.6H409v6.2h8.7v2.6h-11.6V4.4h11.3v2.5M425.8 4.4c4 0 6.5 2.1 6.5 5.6 0 2.3-1.2 4-3.3 4.9 1.8 1.2 2.9 3 4.4 5.5.8 1.4 1.3 2 2.7 3.9h-3.4l-2.6-4.1c-2.6-4.1-3.8-4.6-5.3-4.6h-1.2v8.6h-2.8V4.4h5m-2.2 8.7h1.8c3.1 0 4-1.6 3.9-3.2 0-1.9-1.1-3-3.9-3h-1.8v6.2zM447.8 8.7c-1.7-1.6-3.3-2.1-4.7-2.1-1.8 0-3.1 1-3.1 2.4 0 3.8 8.6 3.8 8.6 10.1 0 3.1-2.3 5.4-5.6 5.4-2.2 0-3.9-.6-5.6-1.9V19c1.5 1.9 3.3 2.9 5.3 2.9 2.2 0 3.2-1.4 3.2-2.5 0-4.1-8.6-4.6-8.6-10 0-3.2 2.4-5.3 6-5.3 1.5 0 3 .5 4.4 1.4v3.2M466.7 6.9h-6.9v17.4h-2.9V6.9H450V4.4h16.7v2.5M476.3 24.4h-.5l-8.6-20h2.8l6 13.9 5.9-13.9h2.9l-8.5 20M495.6 4.1c6.6 0 10.7 4.7 10.7 10.2 0 5.4-4 10.2-10.7 10.2-6.5 0-10.6-4.8-10.6-10.2-.1-5.5 4.2-10.2 10.6-10.2m0 17.8c4.5 0 7.8-3.3 7.8-7.6 0-4.4-3.3-7.6-7.8-7.6-4.4 0-7.7 3.2-7.7 7.6 0 4.4 3.3 7.6 7.7 7.6zM517 6.9V4.4h17.2l-12.7 17.3h12.7v2.6h-18l12.7-17.4H517M536.8 4.4h7.7c7.3 0 10.6 5.3 10.6 10 0 5.1-4 9.9-10.6 9.9h-7.8V4.4m3 17.3h4.5c6.5 0 8-4.9 8-7.4 0-4-2.5-7.4-8.1-7.4h-4.4v14.8zM563.8 4.4c4 0 6.6 2.1 6.6 5.6 0 2.3-1.2 4-3.3 4.9 1.8 1.2 2.9 3 4.4 5.5.8 1.4 1.3 2 2.7 3.9h-3.4l-2.6-4.1c-2.6-4.1-3.8-4.6-5.3-4.6h-1.2v8.6h-2.9V4.4h5m-2.2 8.7h1.8c3.1 0 3.9-1.6 3.9-3.2 0-1.9-1.2-3-3.9-3h-1.8v6.2zM593.6 24.3h-2.9l-2.6-5.9h-8.5l-2.5 5.9h-2.9l8.5-20h2l8.9 20m-12.9-8.5h6.2l-3.2-7.2-3 7.2zM600.5 24.4h-.6l-8.6-20h2.8l6 13.9L606 4.4h2.9l-8.4 20M619.7 4.1c6.6 0 10.7 4.7 10.7 10.2 0 5.4-4 10.2-10.8 10.2-6.5 0-10.6-4.8-10.6-10.2.1-5.5 4.3-10.2 10.7-10.2m0 17.8c4.5 0 7.8-3.3 7.8-7.6 0-4.4-3.3-7.6-7.8-7.6-4.4 0-7.7 3.2-7.7 7.6 0 4.4 3.3 7.6 7.7 7.6zM647 6.9h-6.9v17.4h-2.9V6.9h-6.9V4.4H647v2.5M668.1 24.3h-2.5L652.3 9v15.3h-2.6V4.4h2.2l13.5 15.4V4.4h2.7v19.9M672.5 4.4h2.9v19.9h-2.9zM696.7 8.8c-2.4-1.4-4.5-2.1-6.9-2.1-4.5 0-7.9 3.2-7.9 7.6 0 4.5 3.3 7.6 8.1 7.6 2.2 0 4.7-.8 6.9-2.3v3.1c-2 1-4.1 1.8-7.2 1.8-7.5 0-10.7-5.8-10.7-9.9 0-6.1 4.6-10.5 10.9-10.5 2.1 0 4.1.5 6.8 1.6v3.1M715.4 6.9h-6.9v17.4h-2.9V6.9h-6.9V4.4h16.7v2.5M725.1 24.4h-.6l-8.6-20h2.8l6 13.9 6-13.9h2.8l-8.4 20M740.8 0L737 3.4h-1.7l2.2-3.4h3.3m-2.2 24.3h-2.9V4.4h2.9v19.9zM331.9 47.7c-2.5-1.4-4.6-2.1-6.9-2.1-4.5 0-7.9 3.2-7.9 7.6 0 4.5 3.3 7.6 8.1 7.6 2.2 0 4.7-.8 6.9-2.2v3.1c-2 1-4.1 1.7-7.2 1.7-7.5 0-10.7-5.7-10.7-9.9 0-6 4.6-10.5 10.9-10.5 2 0 4.1.5 6.8 1.6v3.1m-8.5-5.4l-3.5-3.4h1.8l3.3 1.8 3.4-1.8h1.8l-3.5 3.4h-3.3zM346.9 45.9h-8.4v6h8.1v2.5h-8.1v6.2h8.7v2.6h-11.6V43.3h11.3v2.6M359.7 47.7c-1.7-1.6-3.3-2.1-4.7-2.1-1.8 0-3.1.9-3.1 2.3 0 3.8 8.6 3.8 8.6 10.1 0 3.1-2.4 5.4-5.6 5.4-2.2 0-3.9-.6-5.6-1.8V58c1.5 1.9 3.3 2.9 5.3 2.9 2.2 0 3.2-1.4 3.2-2.5 0-4.1-8.6-4.6-8.6-10 0-3.2 2.4-5.3 6-5.3 1.5 0 3 .5 4.4 1.4v3.2M380.5 63.2h-3.9l-10.2-9.9v9.9h-2.8V43.3h2.8v9.1l8.4-9.1h3.6l-8.7 9.4 10.8 10.5M394 45.9h-8.4v6h8.1v2.6h-8.1v6.2h8.7v2.6h-11.6v-20H394v2.6m-1.4-7l-3.8 3.4h-1.7l2.2-3.4h3.3zM410.5 43.3c4 0 6.5 2.1 6.5 5.6 0 2.3-1.2 4-3.3 4.9 1.8 1.2 2.9 3 4.4 5.5.9 1.3 1.3 2 2.7 3.9h-3.4l-2.6-4.1c-2.6-4.1-3.8-4.5-5.3-4.5h-1.2v8.6h-2.9V43.3h5.1m-2.2 8.7h1.8c3.1 0 4-1.6 3.9-3.2 0-1.9-1.1-3-3.9-3h-1.8V52zM434.3 45.9h-8.4v6h8.2v2.5h-8.2v6.2h8.7v2.6h-11.5V43.3h11.2v2.6M443.7 43.3c4.4 0 6.4 2.6 6.4 5.7s-2.1 5.6-6.7 5.6h-3v8.6h-2.8V43.3h6.1m-3.3 8.7h3.2c2.1 0 3.5-1.1 3.5-3.1 0-1.5-.8-3-3.4-3h-3.3V52zM469.3 55.3c0 4.9-2.9 8.1-8.8 8.1-4.2 0-8.3-2.3-8.3-7.8V43.3h2.9V55c0 2.3.3 3.2 1.2 4.1 1.1 1.1 2.6 1.7 4.3 1.7 2.2 0 3.8-.7 4.7-1.6 1-1 1.3-2.5 1.3-4.3V43.3h2.9v12M473.2 43.3h5.8c4.3 0 6.1 2.6 6.1 5.1 0 2.1-1 3.4-3 4.3 3 .6 4.8 2.5 4.8 5.2 0 2.4-1.8 5.3-6.8 5.3h-6.8V43.3m2.8 8.5h1.9c2.8 0 4.2-1 4.2-3.2 0-1.5-.9-2.8-3.5-2.8h-2.6v6zm0 8.8h3.6c3.4 0 4.3-1.7 4.3-3.1 0-1.8-1.4-3.1-4.4-3.1h-3.4v6.2zM492.5 60.6h8.9v2.6h-11.8V43.3h2.9v17.3M504 43.3h2.9v19.9H504zM528.2 63.2h-4l-10.1-9.9v9.9h-2.9V43.3h2.9v9.1l8.4-9.1h3.5l-8.6 9.4 10.8 10.5M542.4 43.3h3.4l-7.4 9.4v10.5h-2.8V52.7l-7.4-9.4h3.4l5.4 6.8 5.4-6.8"></path>
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="header__background"></div>
+  </header>
+
+<main id="main" role="main" class="main ">
+    <div class="row header__primary-color-background">
+    <h1 class="header__title">Probíhají servisní práce</h1>
+  </div>
+    <div>
+    <div class="row">
+      <div class="column small-12 medium-12 large-12 grid__box">
+        <p>
+          Omlouváme se za dočasnou nedostupnost stránky COVID-19: Přehled aktuální situace v&nbsp;ČR. Pracujeme na
+          vylepšeních.<br>
+          <span class="h2">Hned jsme zpět, zkuste se vrátit za chvíli.</span>
+        </p>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer class="footer">
+      <div class="row row--large">
+      <div class="columns large-8 medium-8 small-12">
+        <div class="footer__copyright">
+          <a href="https://www.uzis.cz/" target="_blank" rel="noreferrer noopener" class="hide-element-small-down"
+             title="Ústav zdravotnických informací a statistiky České republiky"
+             aria-label="Ústav zdravotnických informací a statistiky České republiky">
+            <img class="footer__copyright-logo" src="/build/images/logo-uzis.svg" width="60" alt="Ústav zdravotnických informací a statistiky České republiky">
+          </a>
+          <a href="http://www.iba.muni.cz/" target="_blank" rel="noreferrer noopener" class="ml-30 mr-20 hide-element-small-down"
+             title="Institut biostatistiky a analýz Lékařské fakulty Masarykovy univerzity"
+             aria-label="Institut biostatistiky a analýz Lékařské fakulty Masarykovy univerzity">
+            <img class="footer__copyright-logo" src="/build/images/logo-iba-mu.svg" width="120" alt="Institut biostatistiky a analýz Lékařské fakulty Masarykovy univerzity">
+          </a>
+          <div>
+            <p>
+              Vývoj: společné pracoviště
+              <a href="https://www.uzis.cz/" target="_blank" rel="noreferrer noopener"
+                 title="Ústav zdravotnických informací a statistiky ČR"
+                 aria-label="Ústav zdravotnických informací a statistiky České republiky"><span>ÚZIS&nbsp;ČR</span></a>
+              a
+              <a href="http://www.iba.muni.cz/" target="_blank" rel="noreferrer noopener"
+                 title="Institut biostatistiky a analýz Lékařské fakulty Masarykovy univerzity"
+                 aria-label="Institut biostatistiky a analýz Lékařské fakulty Masarykovy univerzity"><span>IBA&nbsp;LF&nbsp;MU</span></a>.
+              <br/>
+              <span>Zdroj dat: Národní zdravotnický informační systém, Krajské hygienické stanice, Ministerstvo zdravotnictví ČR</span>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="columns large-4 medium-4 small-12 mt-15">
+        <a href="https://www.uzis.cz/index.php?pg=home--prohlaseni-pristupnosti" target="_blank" rel="noreferrer noopener" class="text--sm">Prohlášení o&nbsp;přístupnosti</a><br>
+        <a href="https://www.uzis.cz/cookies" target="_blank" rel="noreferrer noopener" class="text--sm">Informace o&nbsp;souborech cookie</a>
+      </div>
+    </div>
+      <div class="row row--large">
+  <div class="columns large-12 medium-12 small-12 mt-15">
+    <div class="row row--large pl-0 pr-0">
+      <div class="large-12 medium-12 small-12 columns mb-15">
+        <div class="legend legend--inverse">
+          <strong>Odborná publikace:</strong><br>
+          Komenda M., Bulhart V., Karolyi M., et al.
+          <a href="https://doi.org/10.2196/19367"
+             target="_blank" rel="noopener noreferrer"
+             title="Journal of Medical Internet Research"
+             aria-label="Journal of Medical Internet Research">
+            Complex reporting of coronavirus disease (COVID-19) epidemic in the Czech Republic: use of interactive web-based application in practice</a>.
+          <i>Journal of Medical Internet Research. 2020</i>, <strong>22</strong>(5), e19367.
+        </div>
+      </div>
+    </div>
+
+    <p class="text--sm mb-20">
+      <a href="mailto:martin.komenda@uzis.cz?subject=Dotaz z webu COVID‑19: Přehled aktuální situace v ČR">Komenda M.</a>, Karolyi M., Bulhart V., Žofka J., Brauner T., Hak J., Jarkovský J., Mužík J., Blaha M., Kubát J.,
+      Klimeš D., Langhammer P., Daňková Š., Májek O., Bartůňková M., Dušek L.
+      COVID&#8209;19: Přehled aktuální situace v ČR. <i>Onemocnění aktuálně</i> [online].
+      Praha: Ministerstvo zdravotnictví ČR, 2020 [cit. 07.12.2020].
+      Dostupné z: <a
+          href="https://onemocneni-aktualne.mzcr.cz/covid-19">https://onemocneni-aktualne.mzcr.cz/covid-19</a>. Vývoj:
+      společné pracoviště ÚZIS ČR a IBA LF MU. ISSN 2694-9423.
+    </p>
+  </div>
+</div></footer>
+
+<div class="cookies">
+  <div class="row">
+    <div class="cookies__wrapper">
+      <p class="cookies__text">Tento web používá k poskytování služeb a analýze návštěvnosti soubory cookie. Používáním tohoto webu s tím souhlasíte.
+        <a href="http://www.uzis.cz/cookies" target="_blank" rel="noreferrer noopener">Další informace
+          <span class="icon icon--non-svg ml-5">
+            <i class="fas fa-external-link-alt"></i>
+          </span>
+        </a>
+      </p>
+      <button id="js-cookies-button" class="js-cookies-button button button--primary button--small cookies__button">Rozumím</button>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/build/runtime.aaf237d5.js"></script><script src="/build/0.c90fd7d1.js"></script><script src="/build/1.9a609f12.js"></script><script src="/build/app.291ec0d4.js"></script>
+
+</body>
+</html>
