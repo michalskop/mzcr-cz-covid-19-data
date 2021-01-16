@@ -18,7 +18,7 @@ jobs:
         curl "https://share.uzis.cz/s/dCZBiARJ27ayeoS/download?path=%2F&files=mestske-casti.csv" > mestske-casti.csv
     - name: Fetch latest data obec.csv
       run: |-
-        curl "https://share.uzis.cz/s/dCZBiARJ27ayeoS/download?path=%2F&files=obec.csv" > obec.csv
+        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/obce.csv" > obec.csv
         HEADER=`head -n 1 obec.csv`
         echo $HEADER > header.csv
         N1=`grep -nr 533416 obec.csv | gawk '{print $1}' FS=":" | tail -n 1`
