@@ -13,12 +13,12 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
-    - name: Fetch latest data mestske-casti.csv
-      run: |-
-        curl "https://share.uzis.cz/s/dCZBiARJ27ayeoS/download?path=%2F&files=mestske-casti.csv" > mestske-casti.csv
+    # - name: Fetch latest data mestske-casti.csv
+    #  run: |-
+    #    curl "https://share.uzis.cz/s/dCZBiARJ27ayeoS/download?path=%2F&files=mestske-casti.csv" > mestske-casti.csv
     - name: Fetch latest data https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/mestske-casti.csv
       run: |-
-        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/mestske-casti.csv"
+        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/mestske-casti.csv" > mestske-casti.csv
     - name: Fetch latest data obec.csv
       run: |-
         curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/obce.csv" > obec.csv
@@ -74,10 +74,13 @@ jobs:
         curl "https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_okresy.csv" > pes_okresy.csv
     - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/testy-pcr-antigenni.csv
       run: |-
-        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/testy-pcr-antigenni.csv"
+        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/testy-pcr-antigenni.csv" > testy-pcr-antigenni.csv
     - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/hospitalizace.csv
       run: |-
-        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/hospitalizace.csv"
+        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/hospitalizace.csv" > hospitalizace.csv
+    - name: Fetch latest data https://share.uzis.cz/s/ZEAZtS4dWQXKWF4/download
+      run: |-
+        curl "https://share.uzis.cz/s/ZEAZtS4dWQXKWF4/download" > covid-19-vakcinace-cr.csv
         
         
     - name: Commit and push if it changed
