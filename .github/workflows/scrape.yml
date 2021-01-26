@@ -81,6 +81,9 @@ jobs:
     - name: Fetch latest data https://share.uzis.cz/s/ZEAZtS4dWQXKWF4/download
       run: |-
         curl "https://share.uzis.cz/s/ZEAZtS4dWQXKWF4/download" > covid-19-vakcinace-cr.csv
+    - name: Fetch latest data https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani.csv
+      run: |-
+        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani.csv" > ockovani.csv
         
         
     - name: Commit and push if it changed
