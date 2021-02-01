@@ -892,15 +892,15 @@
 2021-01-06,Comirnaty,CZ053,"Pardubický kraj",65-69,7,0,7
 2021-01-06,Comirnaty,CZ053,"Pardubický kraj",70-74,1,0,1
 2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",18-24,1,0,1
-2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",25-29,23,0,23
-2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",30-34,16,0,16
-2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",35-39,32,0,32
-2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",40-44,46,0,46
-2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",45-49,55,0,55
-2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",50-54,49,0,49
-2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",55-59,42,0,42
-2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",60-64,26,0,26
-2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",65-69,8,0,8
+2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",25-29,29,0,29
+2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",30-34,17,0,17
+2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",35-39,35,0,35
+2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",40-44,52,0,52
+2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",45-49,67,0,67
+2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",50-54,58,0,58
+2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",55-59,59,0,59
+2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",60-64,28,0,28
+2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",65-69,10,0,10
 2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",70-74,7,0,7
 2021-01-06,Comirnaty,CZ063,"Kraj Vysočina",80+,1,0,1
 2021-01-06,Comirnaty,CZ064,"Jihomoravský kraj",18-24,2,0,2
@@ -1023,7 +1023,7 @@
 2021-01-07,Comirnaty,CZ041,"Karlovarský kraj",75-79,3,0,3
 2021-01-07,Comirnaty,CZ041,"Karlovarský kraj",80+,1,0,1
 2021-01-07,Comirnaty,CZ042,"Ústecký kraj",18-24,18,0,18
-2021-01-07,Comirnaty,CZ042,"Ústecký kraj",25-29,31,0,31
+2021-01-07,Comirnaty,CZ042,"Ústecký kraj",25-29,32,0,32
 2021-01-07,Comirnaty,CZ042,"Ústecký kraj",30-34,26,0,26
 2021-01-07,Comirnaty,CZ042,"Ústecký kraj",35-39,35,0,35
 2021-01-07,Comirnaty,CZ042,"Ústecký kraj",40-44,67,0,67
@@ -1076,7 +1076,7 @@
 2021-01-07,Comirnaty,CZ063,"Kraj Vysočina",30-34,25,0,25
 2021-01-07,Comirnaty,CZ063,"Kraj Vysočina",35-39,38,0,38
 2021-01-07,Comirnaty,CZ063,"Kraj Vysočina",40-44,57,0,57
-2021-01-07,Comirnaty,CZ063,"Kraj Vysočina",45-49,80,0,80
+2021-01-07,Comirnaty,CZ063,"Kraj Vysočina",45-49,81,0,81
 2021-01-07,Comirnaty,CZ063,"Kraj Vysočina",50-54,44,0,44
 2021-01-07,Comirnaty,CZ063,"Kraj Vysočina",55-59,37,0,37
 2021-01-07,Comirnaty,CZ063,"Kraj Vysočina",60-64,26,0,26
@@ -1086,8 +1086,8 @@
 2021-01-07,Comirnaty,CZ064,"Jihomoravský kraj",18-24,32,0,32
 2021-01-07,Comirnaty,CZ064,"Jihomoravský kraj",25-29,88,0,88
 2021-01-07,Comirnaty,CZ064,"Jihomoravský kraj",30-34,59,0,59
-2021-01-07,Comirnaty,CZ064,"Jihomoravský kraj",35-39,69,0,69
-2021-01-07,Comirnaty,CZ064,"Jihomoravský kraj",40-44,93,0,93
+2021-01-07,Comirnaty,CZ064,"Jihomoravský kraj",35-39,68,0,68
+2021-01-07,Comirnaty,CZ064,"Jihomoravský kraj",40-44,92,0,92
 2021-01-07,Comirnaty,CZ064,"Jihomoravský kraj",45-49,93,0,93
 2021-01-07,Comirnaty,CZ064,"Jihomoravský kraj",50-54,78,0,78
 2021-01-07,Comirnaty,CZ064,"Jihomoravský kraj",55-59,71,0,71
@@ -1135,18 +1135,18 @@
 2021-01-07,Comirnaty,CZ080,"Moravskoslezský kraj",75-79,4,0,4
 2021-01-07,Comirnaty,CZ080,"Moravskoslezský kraj",80+,3,0,3
 2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",0-17,1,0,1
-2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",18-24,80,0,80
-2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",25-29,217,0,217
-2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",30-34,181,0,181
-2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",35-39,207,0,207
-2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",40-44,315,0,315
-2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",45-49,352,0,352
-2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",50-54,278,0,278
-2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",55-59,272,0,272
-2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",60-64,217,0,217
-2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",65-69,140,0,140
-2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",70-74,102,0,102
-2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",75-79,80,0,80
+2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",18-24,79,0,79
+2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",25-29,211,0,211
+2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",30-34,176,0,176
+2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",35-39,200,0,200
+2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",40-44,311,0,311
+2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",45-49,349,0,349
+2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",50-54,274,0,274
+2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",55-59,267,0,267
+2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",60-64,216,0,216
+2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",65-69,134,0,134
+2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",70-74,100,0,100
+2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",75-79,78,0,78
 2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",80+,274,0,274
 2021-01-08,Comirnaty,CZ010,"Hlavní město Praha",nezařazeno,3,0,3
 2021-01-08,Comirnaty,CZ020,"Středočeský kraj",18-24,35,0,35
@@ -1164,7 +1164,7 @@
 2021-01-08,Comirnaty,CZ020,"Středočeský kraj",80+,79,0,79
 2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",0-17,1,0,1
 2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",18-24,46,0,46
-2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",25-29,61,0,61
+2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",25-29,63,0,63
 2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",30-34,69,0,69
 2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",35-39,104,0,104
 2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",40-44,141,0,141
@@ -1172,10 +1172,10 @@
 2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",50-54,178,0,178
 2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",55-59,160,0,160
 2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",60-64,139,0,139
-2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",65-69,103,0,103
-2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",70-74,73,0,73
+2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",65-69,102,0,102
+2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",70-74,72,0,72
 2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",75-79,60,0,60
-2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",80+,326,0,326
+2021-01-08,Comirnaty,CZ031,"Jihočeský kraj",80+,327,0,327
 2021-01-08,Comirnaty,CZ032,"Plzeňský kraj",18-24,11,0,11
 2021-01-08,Comirnaty,CZ032,"Plzeňský kraj",25-29,24,0,24
 2021-01-08,Comirnaty,CZ032,"Plzeňský kraj",30-34,26,0,26
@@ -1202,8 +1202,8 @@
 2021-01-08,Comirnaty,CZ041,"Karlovarský kraj",70-74,3,0,3
 2021-01-08,Comirnaty,CZ041,"Karlovarský kraj",75-79,1,0,1
 2021-01-08,Comirnaty,CZ042,"Ústecký kraj",18-24,21,0,21
-2021-01-08,Comirnaty,CZ042,"Ústecký kraj",25-29,23,0,23
-2021-01-08,Comirnaty,CZ042,"Ústecký kraj",30-34,31,0,31
+2021-01-08,Comirnaty,CZ042,"Ústecký kraj",25-29,24,0,24
+2021-01-08,Comirnaty,CZ042,"Ústecký kraj",30-34,32,0,32
 2021-01-08,Comirnaty,CZ042,"Ústecký kraj",35-39,29,0,29
 2021-01-08,Comirnaty,CZ042,"Ústecký kraj",40-44,76,0,76
 2021-01-08,Comirnaty,CZ042,"Ústecký kraj",45-49,78,0,78
@@ -1266,13 +1266,13 @@
 2021-01-08,Comirnaty,CZ063,"Kraj Vysočina",65-69,14,0,14
 2021-01-08,Comirnaty,CZ063,"Kraj Vysočina",70-74,3,0,3
 2021-01-08,Comirnaty,CZ063,"Kraj Vysočina",80+,2,0,2
-2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",18-24,21,0,21
-2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",25-29,45,0,45
-2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",30-34,53,0,53
-2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",35-39,88,0,88
-2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",40-44,95,0,95
-2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",45-49,102,0,102
-2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",50-54,88,0,88
+2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",18-24,20,0,20
+2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",25-29,39,0,39
+2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",30-34,50,0,50
+2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",35-39,85,0,85
+2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",40-44,94,0,94
+2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",45-49,98,0,98
+2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",50-54,87,0,87
 2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",55-59,62,0,62
 2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",60-64,45,0,45
 2021-01-08,Comirnaty,CZ064,"Jihomoravský kraj",65-69,26,0,26
@@ -1320,7 +1320,7 @@
 2021-01-08,Comirnaty,CZ080,"Moravskoslezský kraj",75-79,1,0,1
 2021-01-08,Comirnaty,CZ080,"Moravskoslezský kraj",80+,2,0,2
 2021-01-08,Comirnaty,CZ080,"Moravskoslezský kraj",nezařazeno,1,0,1
-2021-01-09,Comirnaty,CZ010,"Hlavní město Praha",18-24,11,0,11
+2021-01-09,Comirnaty,CZ010,"Hlavní město Praha",18-24,9,0,9
 2021-01-09,Comirnaty,CZ010,"Hlavní město Praha",25-29,36,0,36
 2021-01-09,Comirnaty,CZ010,"Hlavní město Praha",30-34,32,0,32
 2021-01-09,Comirnaty,CZ010,"Hlavní město Praha",35-39,42,0,42
@@ -1455,23 +1455,23 @@
 2021-01-09,Comirnaty,CZ080,"Moravskoslezský kraj",55-59,1,0,1
 2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",18-24,16,0,16
 2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",25-29,32,0,32
-2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",30-34,40,0,40
+2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",30-34,41,0,41
 2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",35-39,41,0,41
-2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",40-44,69,0,69
-2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",45-49,79,0,79
+2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",40-44,70,0,70
+2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",45-49,80,0,80
 2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",50-54,79,0,79
 2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",55-59,71,0,71
 2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",60-64,50,0,50
 2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",65-69,65,0,65
 2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",70-74,57,0,57
 2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",75-79,35,0,35
-2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",80+,50,0,50
+2021-01-10,Comirnaty,CZ010,"Hlavní město Praha",80+,53,0,53
 2021-01-10,Comirnaty,CZ020,"Středočeský kraj",18-24,2,0,2
 2021-01-10,Comirnaty,CZ020,"Středočeský kraj",25-29,3,0,3
 2021-01-10,Comirnaty,CZ020,"Středočeský kraj",30-34,9,0,9
 2021-01-10,Comirnaty,CZ020,"Středočeský kraj",35-39,9,0,9
 2021-01-10,Comirnaty,CZ020,"Středočeský kraj",40-44,8,0,8
-2021-01-10,Comirnaty,CZ020,"Středočeský kraj",45-49,10,0,10
+2021-01-10,Comirnaty,CZ020,"Středočeský kraj",45-49,11,0,11
 2021-01-10,Comirnaty,CZ020,"Středočeský kraj",50-54,4,0,4
 2021-01-10,Comirnaty,CZ020,"Středočeský kraj",55-59,3,0,3
 2021-01-10,Comirnaty,CZ020,"Středočeský kraj",60-64,5,0,5
@@ -1500,13 +1500,13 @@
 2021-01-10,Comirnaty,CZ042,"Ústecký kraj",55-59,12,0,12
 2021-01-10,Comirnaty,CZ042,"Ústecký kraj",60-64,6,0,6
 2021-01-10,Comirnaty,CZ042,"Ústecký kraj",65-69,5,0,5
-2021-01-10,Comirnaty,CZ052,"Královéhradecký kraj",18-24,14,0,14
-2021-01-10,Comirnaty,CZ052,"Královéhradecký kraj",25-29,27,0,27
+2021-01-10,Comirnaty,CZ052,"Královéhradecký kraj",18-24,15,0,15
+2021-01-10,Comirnaty,CZ052,"Královéhradecký kraj",25-29,26,0,26
 2021-01-10,Comirnaty,CZ052,"Královéhradecký kraj",30-34,23,0,23
-2021-01-10,Comirnaty,CZ052,"Královéhradecký kraj",35-39,39,0,39
-2021-01-10,Comirnaty,CZ052,"Královéhradecký kraj",40-44,52,0,52
+2021-01-10,Comirnaty,CZ052,"Královéhradecký kraj",35-39,40,0,40
+2021-01-10,Comirnaty,CZ052,"Královéhradecký kraj",40-44,53,0,53
 2021-01-10,Comirnaty,CZ052,"Královéhradecký kraj",45-49,39,0,39
-2021-01-10,Comirnaty,CZ052,"Královéhradecký kraj",50-54,42,0,42
+2021-01-10,Comirnaty,CZ052,"Královéhradecký kraj",50-54,44,0,44
 2021-01-10,Comirnaty,CZ052,"Královéhradecký kraj",55-59,28,0,28
 2021-01-10,Comirnaty,CZ052,"Královéhradecký kraj",60-64,23,0,23
 2021-01-10,Comirnaty,CZ052,"Královéhradecký kraj",65-69,12,0,12
@@ -1590,7 +1590,7 @@
 2021-01-11,Comirnaty,CZ020,"Středočeský kraj",75-79,9,0,9
 2021-01-11,Comirnaty,CZ020,"Středočeský kraj",80+,1,0,1
 2021-01-11,Comirnaty,CZ031,"Jihočeský kraj",18-24,14,0,14
-2021-01-11,Comirnaty,CZ031,"Jihočeský kraj",25-29,36,0,36
+2021-01-11,Comirnaty,CZ031,"Jihočeský kraj",25-29,34,0,34
 2021-01-11,Comirnaty,CZ031,"Jihočeský kraj",30-34,19,0,19
 2021-01-11,Comirnaty,CZ031,"Jihočeský kraj",35-39,28,0,28
 2021-01-11,Comirnaty,CZ031,"Jihočeský kraj",40-44,27,0,27
@@ -1744,15 +1744,15 @@
 2021-01-11,Comirnaty,CZ080,"Moravskoslezský kraj",75-79,8,0,8
 2021-01-11,Comirnaty,CZ080,"Moravskoslezský kraj",80+,2,0,2
 2021-01-11,Comirnaty,CZ080,"Moravskoslezský kraj",nezařazeno,1,0,1
-2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",18-24,87,0,87
-2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",25-29,155,0,155
-2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",30-34,192,0,192
-2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",35-39,234,0,234
+2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",18-24,82,0,82
+2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",25-29,153,0,153
+2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",30-34,191,0,191
+2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",35-39,233,0,233
 2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",40-44,282,0,282
-2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",45-49,318,0,318
-2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",50-54,229,0,229
-2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",55-59,235,0,235
-2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",60-64,212,0,212
+2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",45-49,317,0,317
+2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",50-54,228,0,228
+2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",55-59,233,0,233
+2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",60-64,211,0,211
 2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",65-69,214,0,214
 2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",70-74,148,0,148
 2021-01-12,Comirnaty,CZ010,"Hlavní město Praha",75-79,140,0,140
@@ -2309,9 +2309,9 @@
 2021-01-14,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",45-49,57,0,57
 2021-01-14,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",50-54,76,0,76
 2021-01-14,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",55-59,83,0,83
-2021-01-14,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",60-64,60,0,60
+2021-01-14,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",60-64,61,0,61
 2021-01-14,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",65-69,68,0,68
-2021-01-14,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",70-74,75,0,75
+2021-01-14,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",70-74,76,0,76
 2021-01-14,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",75-79,109,0,109
 2021-01-14,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",80+,363,0,363
 2021-01-15,Comirnaty,CZ010,"Hlavní město Praha",0-17,1,0,1
@@ -3312,15 +3312,15 @@
 2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",18-24,16,0,16
 2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",25-29,22,0,22
 2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",30-34,24,0,24
-2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",35-39,26,0,26
-2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",40-44,53,0,53
-2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",45-49,89,0,89
-2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",50-54,99,0,99
-2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",55-59,83,0,83
-2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",60-64,62,0,62
-2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",65-69,51,0,51
-2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",70-74,78,0,78
-2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",75-79,120,0,120
+2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",35-39,28,0,28
+2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",40-44,55,0,55
+2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",45-49,100,0,100
+2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",50-54,110,0,110
+2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",55-59,91,0,91
+2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",60-64,73,0,73
+2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",65-69,53,0,53
+2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",70-74,79,0,79
+2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",75-79,121,0,121
 2021-01-20,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",80+,508,0,508
 2021-01-21,Comirnaty,CZ010,"Hlavní město Praha",0-17,1,0,1
 2021-01-21,Comirnaty,CZ010,"Hlavní město Praha",18-24,28,16,44
@@ -3546,7 +3546,7 @@
 2021-01-22,Comirnaty,CZ020,"Středočeský kraj",60-64,94,0,94
 2021-01-22,Comirnaty,CZ020,"Středočeský kraj",65-69,74,0,74
 2021-01-22,Comirnaty,CZ020,"Středočeský kraj",70-74,69,0,69
-2021-01-22,Comirnaty,CZ020,"Středočeský kraj",75-79,60,0,60
+2021-01-22,Comirnaty,CZ020,"Středočeský kraj",75-79,61,0,61
 2021-01-22,Comirnaty,CZ020,"Středočeský kraj",80+,407,0,407
 2021-01-22,Comirnaty,CZ031,"Jihočeský kraj",18-24,3,0,3
 2021-01-22,Comirnaty,CZ031,"Jihočeský kraj",25-29,2,0,2
@@ -3982,13 +3982,13 @@
 2021-01-25,Comirnaty,CZ042,"Ústecký kraj",18-24,7,1,8
 2021-01-25,Comirnaty,CZ042,"Ústecký kraj",25-29,9,7,16
 2021-01-25,Comirnaty,CZ042,"Ústecký kraj",30-34,5,6,11
-2021-01-25,Comirnaty,CZ042,"Ústecký kraj",35-39,13,2,15
+2021-01-25,Comirnaty,CZ042,"Ústecký kraj",35-39,15,2,17
 2021-01-25,Comirnaty,CZ042,"Ústecký kraj",40-44,16,15,31
-2021-01-25,Comirnaty,CZ042,"Ústecký kraj",45-49,23,17,40
+2021-01-25,Comirnaty,CZ042,"Ústecký kraj",45-49,25,17,42
 2021-01-25,Comirnaty,CZ042,"Ústecký kraj",50-54,24,11,35
 2021-01-25,Comirnaty,CZ042,"Ústecký kraj",55-59,19,6,25
 2021-01-25,Comirnaty,CZ042,"Ústecký kraj",60-64,23,8,31
-2021-01-25,Comirnaty,CZ042,"Ústecký kraj",65-69,20,8,28
+2021-01-25,Comirnaty,CZ042,"Ústecký kraj",65-69,21,8,29
 2021-01-25,Comirnaty,CZ042,"Ústecký kraj",70-74,11,3,14
 2021-01-25,Comirnaty,CZ042,"Ústecký kraj",75-79,6,2,8
 2021-01-25,Comirnaty,CZ042,"Ústecký kraj",80+,130,6,136
@@ -4174,19 +4174,19 @@
 2021-01-26,Comirnaty,CZ041,"Karlovarský kraj",70-74,3,4,7
 2021-01-26,Comirnaty,CZ041,"Karlovarský kraj",75-79,2,2,4
 2021-01-26,Comirnaty,CZ041,"Karlovarský kraj",80+,40,1,41
-2021-01-26,Comirnaty,CZ042,"Ústecký kraj",18-24,0,1,1
-2021-01-26,Comirnaty,CZ042,"Ústecký kraj",25-29,4,5,9
-2021-01-26,Comirnaty,CZ042,"Ústecký kraj",30-34,3,9,12
+2021-01-26,Comirnaty,CZ042,"Ústecký kraj",18-24,3,1,4
+2021-01-26,Comirnaty,CZ042,"Ústecký kraj",25-29,6,5,11
+2021-01-26,Comirnaty,CZ042,"Ústecký kraj",30-34,6,9,15
 2021-01-26,Comirnaty,CZ042,"Ústecký kraj",35-39,10,9,19
-2021-01-26,Comirnaty,CZ042,"Ústecký kraj",40-44,3,22,25
-2021-01-26,Comirnaty,CZ042,"Ústecký kraj",45-49,8,30,38
-2021-01-26,Comirnaty,CZ042,"Ústecký kraj",50-54,8,15,23
-2021-01-26,Comirnaty,CZ042,"Ústecký kraj",55-59,13,17,30
-2021-01-26,Comirnaty,CZ042,"Ústecký kraj",60-64,8,4,12
-2021-01-26,Comirnaty,CZ042,"Ústecký kraj",65-69,7,3,10
-2021-01-26,Comirnaty,CZ042,"Ústecký kraj",70-74,2,4,6
-2021-01-26,Comirnaty,CZ042,"Ústecký kraj",75-79,8,0,8
-2021-01-26,Comirnaty,CZ042,"Ústecký kraj",80+,104,0,104
+2021-01-26,Comirnaty,CZ042,"Ústecký kraj",40-44,7,22,29
+2021-01-26,Comirnaty,CZ042,"Ústecký kraj",45-49,14,30,44
+2021-01-26,Comirnaty,CZ042,"Ústecký kraj",50-54,12,15,27
+2021-01-26,Comirnaty,CZ042,"Ústecký kraj",55-59,24,17,41
+2021-01-26,Comirnaty,CZ042,"Ústecký kraj",60-64,11,4,15
+2021-01-26,Comirnaty,CZ042,"Ústecký kraj",65-69,8,3,11
+2021-01-26,Comirnaty,CZ042,"Ústecký kraj",70-74,4,4,8
+2021-01-26,Comirnaty,CZ042,"Ústecký kraj",75-79,10,0,10
+2021-01-26,Comirnaty,CZ042,"Ústecký kraj",80+,109,0,109
 2021-01-26,Comirnaty,CZ051,"Liberecký kraj",18-24,6,2,8
 2021-01-26,Comirnaty,CZ051,"Liberecký kraj",25-29,6,13,19
 2021-01-26,Comirnaty,CZ051,"Liberecký kraj",30-34,6,17,23
@@ -4202,18 +4202,18 @@
 2021-01-26,Comirnaty,CZ051,"Liberecký kraj",80+,81,0,81
 2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",0-17,1,0,1
 2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",18-24,12,3,15
-2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",25-29,9,2,11
+2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",25-29,10,2,12
 2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",30-34,11,3,14
 2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",35-39,23,7,30
-2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",40-44,28,5,33
+2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",40-44,29,5,34
 2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",45-49,54,15,69
-2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",50-54,43,3,46
-2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",55-59,38,8,46
-2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",60-64,33,7,40
+2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",50-54,45,4,49
+2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",55-59,40,8,48
+2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",60-64,34,7,41
 2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",65-69,17,2,19
 2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",70-74,20,0,20
-2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",75-79,41,0,41
-2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",80+,490,0,490
+2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",75-79,43,0,43
+2021-01-26,Comirnaty,CZ052,"Královéhradecký kraj",80+,492,0,492
 2021-01-26,Comirnaty,CZ053,"Pardubický kraj",18-24,0,2,2
 2021-01-26,Comirnaty,CZ053,"Pardubický kraj",25-29,1,17,18
 2021-01-26,Comirnaty,CZ053,"Pardubický kraj",30-34,5,9,14
@@ -4425,16 +4425,16 @@
 2021-01-27,Comirnaty,CZ053,"Pardubický kraj",70-74,1,0,1
 2021-01-27,Comirnaty,CZ053,"Pardubický kraj",75-79,2,0,2
 2021-01-27,Comirnaty,CZ053,"Pardubický kraj",80+,496,0,496
-2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",18-24,8,1,9
-2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",25-29,11,21,32
-2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",30-34,13,16,29
-2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",35-39,27,32,59
-2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",40-44,25,41,66
-2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",45-49,39,55,94
-2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",50-54,22,48,70
-2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",55-59,30,37,67
-2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",60-64,17,26,43
-2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",65-69,23,6,29
+2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",18-24,9,1,10
+2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",25-29,11,28,39
+2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",30-34,15,18,33
+2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",35-39,27,36,63
+2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",40-44,25,47,72
+2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",45-49,43,67,110
+2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",50-54,24,56,80
+2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",55-59,33,55,88
+2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",60-64,18,28,46
+2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",65-69,23,8,31
 2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",70-74,22,7,29
 2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",75-79,29,0,29
 2021-01-27,Comirnaty,CZ063,"Kraj Vysočina",80+,258,1,259
@@ -4514,7 +4514,7 @@
 2021-01-28,Comirnaty,CZ010,"Hlavní město Praha",45-49,14,163,177
 2021-01-28,Comirnaty,CZ010,"Hlavní město Praha",50-54,11,110,121
 2021-01-28,Comirnaty,CZ010,"Hlavní město Praha",55-59,13,111,124
-2021-01-28,Comirnaty,CZ010,"Hlavní město Praha",60-64,7,99,106
+2021-01-28,Comirnaty,CZ010,"Hlavní město Praha",60-64,7,100,107
 2021-01-28,Comirnaty,CZ010,"Hlavní město Praha",65-69,12,58,70
 2021-01-28,Comirnaty,CZ010,"Hlavní město Praha",70-74,11,30,41
 2021-01-28,Comirnaty,CZ010,"Hlavní město Praha",75-79,4,11,15
@@ -4574,7 +4574,7 @@
 2021-01-28,Comirnaty,CZ041,"Karlovarský kraj",75-79,0,5,5
 2021-01-28,Comirnaty,CZ041,"Karlovarský kraj",80+,38,1,39
 2021-01-28,Comirnaty,CZ042,"Ústecký kraj",18-24,5,15,20
-2021-01-28,Comirnaty,CZ042,"Ústecký kraj",25-29,2,21,23
+2021-01-28,Comirnaty,CZ042,"Ústecký kraj",25-29,2,22,24
 2021-01-28,Comirnaty,CZ042,"Ústecký kraj",30-34,5,15,20
 2021-01-28,Comirnaty,CZ042,"Ústecký kraj",35-39,11,22,33
 2021-01-28,Comirnaty,CZ042,"Ústecký kraj",40-44,15,35,50
@@ -4627,16 +4627,16 @@
 2021-01-28,Comirnaty,CZ053,"Pardubický kraj",80+,327,0,327
 2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",0-17,0,1,1
 2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",18-24,2,10,12
-2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",25-29,3,20,23
-2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",30-34,6,23,29
-2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",35-39,12,29,41
-2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",40-44,20,46,66
-2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",45-49,12,66,78
-2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",50-54,8,36,44
-2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",55-59,17,27,44
-2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",60-64,16,21,37
-2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",65-69,20,12,32
-2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",70-74,22,4,26
+2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",25-29,3,21,24
+2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",30-34,6,25,31
+2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",35-39,12,36,48
+2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",40-44,20,58,78
+2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",45-49,12,77,89
+2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",50-54,8,44,52
+2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",55-59,17,36,53
+2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",60-64,16,26,42
+2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",65-69,20,16,36
+2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",70-74,22,6,28
 2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",75-79,34,2,36
 2021-01-28,Comirnaty,CZ063,"Kraj Vysočina",80+,174,0,174
 2021-01-28,Comirnaty,CZ064,"Jihomoravský kraj",18-24,25,30,55
@@ -4692,58 +4692,59 @@
 2021-01-28,Comirnaty,CZ080,"Moravskoslezský kraj",70-74,7,6,13
 2021-01-28,Comirnaty,CZ080,"Moravskoslezský kraj",75-79,5,5,10
 2021-01-28,Comirnaty,CZ080,"Moravskoslezský kraj",80+,519,4,523
-2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",25-29,1,0,1
-2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",30-34,3,0,3
-2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",35-39,3,0,3
+2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",18-24,1,0,1
+2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",25-29,2,0,2
+2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",30-34,4,0,4
+2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",35-39,4,0,4
 2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",40-44,3,0,3
 2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",45-49,3,0,3
 2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",50-54,6,0,6
-2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",55-59,2,0,2
-2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",60-64,5,0,5
+2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",55-59,5,0,5
+2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",60-64,8,0,8
 2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",65-69,4,0,4
 2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",70-74,5,0,5
-2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",80+,27,0,27
+2021-01-28,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",80+,28,0,28
 2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",0-17,0,1,1
-2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",18-24,2,23,25
-2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",25-29,12,67,79
-2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",30-34,4,73,77
-2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",35-39,8,68,76
-2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",40-44,14,135,149
-2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",45-49,10,143,153
-2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",50-54,12,128,140
-2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",55-59,18,128,146
-2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",60-64,21,95,116
-2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",65-69,18,53,71
-2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",70-74,10,38,48
-2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",75-79,8,29,37
-2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",80+,1152,42,1194
-2021-01-29,Comirnaty,CZ020,"Středočeský kraj",18-24,10,25,35
-2021-01-29,Comirnaty,CZ020,"Středočeský kraj",25-29,11,70,81
-2021-01-29,Comirnaty,CZ020,"Středočeský kraj",30-34,15,64,79
-2021-01-29,Comirnaty,CZ020,"Středočeský kraj",35-39,24,85,109
-2021-01-29,Comirnaty,CZ020,"Středočeský kraj",40-44,41,143,184
-2021-01-29,Comirnaty,CZ020,"Středočeský kraj",45-49,71,141,212
-2021-01-29,Comirnaty,CZ020,"Středočeský kraj",50-54,43,104,147
-2021-01-29,Comirnaty,CZ020,"Středočeský kraj",55-59,50,98,148
-2021-01-29,Comirnaty,CZ020,"Středočeský kraj",60-64,20,68,88
-2021-01-29,Comirnaty,CZ020,"Středočeský kraj",65-69,15,46,61
-2021-01-29,Comirnaty,CZ020,"Středočeský kraj",70-74,14,26,40
-2021-01-29,Comirnaty,CZ020,"Středočeský kraj",75-79,18,6,24
-2021-01-29,Comirnaty,CZ020,"Středočeský kraj",80+,145,33,178
+2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",18-24,2,34,36
+2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",25-29,12,103,115
+2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",30-34,6,96,102
+2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",35-39,9,101,110
+2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",40-44,15,183,198
+2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",45-49,10,205,215
+2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",50-54,13,168,181
+2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",55-59,18,166,184
+2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",60-64,22,130,152
+2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",65-69,21,72,93
+2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",70-74,12,55,67
+2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",75-79,13,38,51
+2021-01-29,Comirnaty,CZ010,"Hlavní město Praha",80+,1156,67,1223
+2021-01-29,Comirnaty,CZ020,"Středočeský kraj",18-24,11,25,36
+2021-01-29,Comirnaty,CZ020,"Středočeský kraj",25-29,11,71,82
+2021-01-29,Comirnaty,CZ020,"Středočeský kraj",30-34,16,65,81
+2021-01-29,Comirnaty,CZ020,"Středočeský kraj",35-39,28,86,114
+2021-01-29,Comirnaty,CZ020,"Středočeský kraj",40-44,50,146,196
+2021-01-29,Comirnaty,CZ020,"Středočeský kraj",45-49,94,144,238
+2021-01-29,Comirnaty,CZ020,"Středočeský kraj",50-54,56,106,162
+2021-01-29,Comirnaty,CZ020,"Středočeský kraj",55-59,65,102,167
+2021-01-29,Comirnaty,CZ020,"Středočeský kraj",60-64,29,72,101
+2021-01-29,Comirnaty,CZ020,"Středočeský kraj",65-69,18,48,66
+2021-01-29,Comirnaty,CZ020,"Středočeský kraj",70-74,15,29,44
+2021-01-29,Comirnaty,CZ020,"Středočeský kraj",75-79,19,11,30
+2021-01-29,Comirnaty,CZ020,"Středočeský kraj",80+,147,69,216
 2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",0-17,0,1,1
 2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",18-24,2,29,31
 2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",25-29,2,57,59
 2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",30-34,2,54,56
 2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",35-39,2,82,84
 2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",40-44,8,99,107
-2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",45-49,9,135,144
+2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",45-49,9,136,145
 2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",50-54,4,101,105
 2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",55-59,9,97,106
 2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",60-64,6,101,107
-2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",65-69,4,73,77
+2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",65-69,5,73,78
 2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",70-74,3,45,48
 2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",75-79,2,28,30
-2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",80+,23,42,65
+2021-01-29,Comirnaty,CZ031,"Jihočeský kraj",80+,23,43,66
 2021-01-29,Comirnaty,CZ032,"Plzeňský kraj",18-24,2,0,2
 2021-01-29,Comirnaty,CZ032,"Plzeňský kraj",25-29,2,0,2
 2021-01-29,Comirnaty,CZ032,"Plzeňský kraj",35-39,7,0,7
@@ -4770,14 +4771,14 @@
 2021-01-29,Comirnaty,CZ041,"Karlovarský kraj",75-79,21,1,22
 2021-01-29,Comirnaty,CZ041,"Karlovarský kraj",80+,85,0,85
 2021-01-29,Comirnaty,CZ042,"Ústecký kraj",18-24,6,12,18
-2021-01-29,Comirnaty,CZ042,"Ústecký kraj",25-29,5,15,20
-2021-01-29,Comirnaty,CZ042,"Ústecký kraj",30-34,4,19,23
-2021-01-29,Comirnaty,CZ042,"Ústecký kraj",35-39,6,19,25
-2021-01-29,Comirnaty,CZ042,"Ústecký kraj",40-44,17,37,54
-2021-01-29,Comirnaty,CZ042,"Ústecký kraj",45-49,26,53,79
-2021-01-29,Comirnaty,CZ042,"Ústecký kraj",50-54,15,38,53
-2021-01-29,Comirnaty,CZ042,"Ústecký kraj",55-59,13,33,46
-2021-01-29,Comirnaty,CZ042,"Ústecký kraj",60-64,10,28,38
+2021-01-29,Comirnaty,CZ042,"Ústecký kraj",25-29,5,16,21
+2021-01-29,Comirnaty,CZ042,"Ústecký kraj",30-34,4,20,24
+2021-01-29,Comirnaty,CZ042,"Ústecký kraj",35-39,6,23,29
+2021-01-29,Comirnaty,CZ042,"Ústecký kraj",40-44,17,40,57
+2021-01-29,Comirnaty,CZ042,"Ústecký kraj",45-49,26,56,82
+2021-01-29,Comirnaty,CZ042,"Ústecký kraj",50-54,15,39,54
+2021-01-29,Comirnaty,CZ042,"Ústecký kraj",55-59,13,36,49
+2021-01-29,Comirnaty,CZ042,"Ústecký kraj",60-64,10,30,40
 2021-01-29,Comirnaty,CZ042,"Ústecký kraj",65-69,6,13,19
 2021-01-29,Comirnaty,CZ042,"Ústecký kraj",70-74,4,5,9
 2021-01-29,Comirnaty,CZ042,"Ústecký kraj",75-79,1,3,4
@@ -4810,16 +4811,16 @@
 2021-01-29,Comirnaty,CZ052,"Královéhradecký kraj",75-79,2,5,7
 2021-01-29,Comirnaty,CZ052,"Královéhradecký kraj",80+,186,6,192
 2021-01-29,Comirnaty,CZ052,"Královéhradecký kraj",nezařazeno,0,1,1
-2021-01-29,Comirnaty,CZ053,"Pardubický kraj",18-24,13,7,20
-2021-01-29,Comirnaty,CZ053,"Pardubický kraj",25-29,7,24,31
-2021-01-29,Comirnaty,CZ053,"Pardubický kraj",30-34,7,19,26
-2021-01-29,Comirnaty,CZ053,"Pardubický kraj",35-39,10,38,48
-2021-01-29,Comirnaty,CZ053,"Pardubický kraj",40-44,22,50,72
+2021-01-29,Comirnaty,CZ053,"Pardubický kraj",18-24,13,8,21
+2021-01-29,Comirnaty,CZ053,"Pardubický kraj",25-29,7,25,32
+2021-01-29,Comirnaty,CZ053,"Pardubický kraj",30-34,7,20,27
+2021-01-29,Comirnaty,CZ053,"Pardubický kraj",35-39,10,40,50
+2021-01-29,Comirnaty,CZ053,"Pardubický kraj",40-44,22,55,77
 2021-01-29,Comirnaty,CZ053,"Pardubický kraj",45-49,22,59,81
-2021-01-29,Comirnaty,CZ053,"Pardubický kraj",50-54,7,52,59
-2021-01-29,Comirnaty,CZ053,"Pardubický kraj",55-59,12,31,43
-2021-01-29,Comirnaty,CZ053,"Pardubický kraj",60-64,6,26,32
-2021-01-29,Comirnaty,CZ053,"Pardubický kraj",65-69,3,14,17
+2021-01-29,Comirnaty,CZ053,"Pardubický kraj",50-54,7,55,62
+2021-01-29,Comirnaty,CZ053,"Pardubický kraj",55-59,12,35,47
+2021-01-29,Comirnaty,CZ053,"Pardubický kraj",60-64,6,27,33
+2021-01-29,Comirnaty,CZ053,"Pardubický kraj",65-69,3,15,18
 2021-01-29,Comirnaty,CZ053,"Pardubický kraj",70-74,1,3,4
 2021-01-29,Comirnaty,CZ053,"Pardubický kraj",75-79,1,3,4
 2021-01-29,Comirnaty,CZ053,"Pardubický kraj",80+,225,0,225
@@ -4836,18 +4837,18 @@
 2021-01-29,Comirnaty,CZ063,"Kraj Vysočina",70-74,3,3,6
 2021-01-29,Comirnaty,CZ063,"Kraj Vysočina",75-79,2,0,2
 2021-01-29,Comirnaty,CZ063,"Kraj Vysočina",80+,267,2,269
-2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",18-24,8,14,22
-2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",25-29,16,31,47
-2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",30-34,15,44,59
-2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",35-39,13,53,66
-2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",40-44,30,66,96
-2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",45-49,45,75,120
-2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",50-54,35,61,96
-2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",55-59,40,51,91
-2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",60-64,31,37,68
-2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",65-69,31,13,44
-2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",70-74,14,19,33
-2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",75-79,25,23,48
+2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",18-24,8,15,23
+2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",25-29,17,33,50
+2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",30-34,16,48,64
+2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",35-39,14,58,72
+2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",40-44,31,71,102
+2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",45-49,45,80,125
+2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",50-54,35,74,109
+2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",55-59,41,56,97
+2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",60-64,31,41,72
+2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",65-69,31,18,49
+2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",70-74,14,20,34
+2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",75-79,26,23,49
 2021-01-29,Comirnaty,CZ064,"Jihomoravský kraj",80+,432,91,523
 2021-01-29,Comirnaty,CZ071,"Olomoucký kraj",0-17,0,1,1
 2021-01-29,Comirnaty,CZ071,"Olomoucký kraj",18-24,1,10,11
@@ -4901,28 +4902,31 @@
 2021-01-29,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",60-64,9,0,9
 2021-01-29,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",65-69,1,0,1
 2021-01-29,"COVID-19 Vaccine Moderna",CZ080,"Moravskoslezský kraj",80+,53,0,53
-2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",25-29,1,1,2
-2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",30-34,6,1,7
-2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",35-39,3,0,3
-2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",40-44,5,0,5
-2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",45-49,4,2,6
-2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",50-54,5,1,6
-2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",55-59,5,0,5
-2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",60-64,5,0,5
-2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",65-69,6,0,6
-2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",70-74,3,0,3
-2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",75-79,2,0,2
-2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",80+,341,0,341
+2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",18-24,1,10,11
+2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",25-29,1,22,23
+2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",30-34,7,22,29
+2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",35-39,3,24,27
+2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",40-44,5,37,42
+2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",45-49,6,53,59
+2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",50-54,5,41,46
+2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",55-59,7,34,41
+2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",60-64,8,28,36
+2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",65-69,12,26,38
+2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",70-74,7,13,20
+2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",75-79,5,8,13
+2021-01-30,Comirnaty,CZ010,"Hlavní město Praha",80+,370,14,384
+2021-01-30,Comirnaty,CZ020,"Středočeský kraj",18-24,0,1,1
+2021-01-30,Comirnaty,CZ020,"Středočeský kraj",25-29,1,1,2
 2021-01-30,Comirnaty,CZ020,"Středočeský kraj",30-34,0,1,1
-2021-01-30,Comirnaty,CZ020,"Středočeský kraj",35-39,0,5,5
-2021-01-30,Comirnaty,CZ020,"Středočeský kraj",40-44,1,4,5
-2021-01-30,Comirnaty,CZ020,"Středočeský kraj",45-49,2,5,7
-2021-01-30,Comirnaty,CZ020,"Středočeský kraj",50-54,1,0,1
-2021-01-30,Comirnaty,CZ020,"Středočeský kraj",55-59,1,2,3
-2021-01-30,Comirnaty,CZ020,"Středočeský kraj",60-64,0,5,5
-2021-01-30,Comirnaty,CZ020,"Středočeský kraj",65-69,0,1,1
-2021-01-30,Comirnaty,CZ020,"Středočeský kraj",70-74,0,3,3
-2021-01-30,Comirnaty,CZ020,"Středočeský kraj",75-79,2,0,2
+2021-01-30,Comirnaty,CZ020,"Středočeský kraj",35-39,1,5,6
+2021-01-30,Comirnaty,CZ020,"Středočeský kraj",40-44,3,4,7
+2021-01-30,Comirnaty,CZ020,"Středočeský kraj",45-49,6,7,13
+2021-01-30,Comirnaty,CZ020,"Středočeský kraj",50-54,7,0,7
+2021-01-30,Comirnaty,CZ020,"Středočeský kraj",55-59,8,3,11
+2021-01-30,Comirnaty,CZ020,"Středočeský kraj",60-64,5,5,10
+2021-01-30,Comirnaty,CZ020,"Středočeský kraj",65-69,11,1,12
+2021-01-30,Comirnaty,CZ020,"Středočeský kraj",70-74,4,3,7
+2021-01-30,Comirnaty,CZ020,"Středočeský kraj",75-79,3,0,3
 2021-01-30,Comirnaty,CZ020,"Středočeský kraj",80+,16,0,16
 2021-01-30,Comirnaty,CZ031,"Jihočeský kraj",40-44,0,3,3
 2021-01-30,Comirnaty,CZ031,"Jihočeský kraj",50-54,0,1,1
@@ -4943,18 +4947,18 @@
 2021-01-30,Comirnaty,CZ042,"Ústecký kraj",75-79,0,1,1
 2021-01-30,Comirnaty,CZ042,"Ústecký kraj",80+,4,1,5
 2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",18-24,0,1,1
-2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",25-29,3,9,12
+2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",25-29,2,9,11
 2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",30-34,0,19,19
 2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",35-39,0,11,11
 2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",40-44,1,26,27
-2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",45-49,0,19,19
-2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",50-54,1,13,14
+2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",45-49,0,20,20
+2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",50-54,2,13,15
 2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",55-59,4,21,25
 2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",60-64,3,23,26
-2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",65-69,0,43,43
-2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",70-74,0,40,40
-2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",75-79,1,21,22
-2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",80+,112,15,127
+2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",65-69,1,43,44
+2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",70-74,2,40,42
+2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",75-79,2,21,23
+2021-01-30,Comirnaty,CZ052,"Královéhradecký kraj",80+,115,15,130
 2021-01-30,Comirnaty,CZ053,"Pardubický kraj",25-29,0,4,4
 2021-01-30,Comirnaty,CZ053,"Pardubický kraj",30-34,0,2,2
 2021-01-30,Comirnaty,CZ053,"Pardubický kraj",35-39,0,3,3
@@ -4990,3 +4994,81 @@
 2021-01-30,Comirnaty,CZ080,"Moravskoslezský kraj",75-79,2,0,2
 2021-01-30,Comirnaty,CZ080,"Moravskoslezský kraj",80+,37,0,37
 2021-01-30,"COVID-19 Vaccine Moderna",CZ020,"Středočeský kraj",80+,1,0,1
+2021-01-31,Comirnaty,CZ010,"Hlavní město Praha",18-24,1,0,1
+2021-01-31,Comirnaty,CZ010,"Hlavní město Praha",25-29,3,0,3
+2021-01-31,Comirnaty,CZ010,"Hlavní město Praha",30-34,1,0,1
+2021-01-31,Comirnaty,CZ010,"Hlavní město Praha",35-39,4,0,4
+2021-01-31,Comirnaty,CZ010,"Hlavní město Praha",40-44,3,2,5
+2021-01-31,Comirnaty,CZ010,"Hlavní město Praha",45-49,5,3,8
+2021-01-31,Comirnaty,CZ010,"Hlavní město Praha",50-54,6,0,6
+2021-01-31,Comirnaty,CZ010,"Hlavní město Praha",55-59,7,2,9
+2021-01-31,Comirnaty,CZ010,"Hlavní město Praha",60-64,10,0,10
+2021-01-31,Comirnaty,CZ010,"Hlavní město Praha",65-69,5,0,5
+2021-01-31,Comirnaty,CZ010,"Hlavní město Praha",70-74,7,0,7
+2021-01-31,Comirnaty,CZ010,"Hlavní město Praha",75-79,2,0,2
+2021-01-31,Comirnaty,CZ010,"Hlavní město Praha",80+,378,3,381
+2021-01-31,Comirnaty,CZ020,"Středočeský kraj",18-24,0,5,5
+2021-01-31,Comirnaty,CZ020,"Středočeský kraj",25-29,0,5,5
+2021-01-31,Comirnaty,CZ020,"Středočeský kraj",30-34,0,18,18
+2021-01-31,Comirnaty,CZ020,"Středočeský kraj",35-39,0,15,15
+2021-01-31,Comirnaty,CZ020,"Středočeský kraj",40-44,0,9,9
+2021-01-31,Comirnaty,CZ020,"Středočeský kraj",45-49,0,18,18
+2021-01-31,Comirnaty,CZ020,"Středočeský kraj",50-54,0,5,5
+2021-01-31,Comirnaty,CZ020,"Středočeský kraj",55-59,1,4,5
+2021-01-31,Comirnaty,CZ020,"Středočeský kraj",60-64,0,5,5
+2021-01-31,Comirnaty,CZ020,"Středočeský kraj",65-69,0,6,6
+2021-01-31,Comirnaty,CZ020,"Středočeský kraj",70-74,0,2,2
+2021-01-31,Comirnaty,CZ020,"Středočeský kraj",75-79,0,1,1
+2021-01-31,Comirnaty,CZ020,"Středočeský kraj",80+,4,0,4
+2021-01-31,Comirnaty,CZ042,"Ústecký kraj",18-24,0,4,4
+2021-01-31,Comirnaty,CZ042,"Ústecký kraj",25-29,0,9,9
+2021-01-31,Comirnaty,CZ042,"Ústecký kraj",30-34,0,7,7
+2021-01-31,Comirnaty,CZ042,"Ústecký kraj",35-39,0,12,12
+2021-01-31,Comirnaty,CZ042,"Ústecký kraj",40-44,0,16,16
+2021-01-31,Comirnaty,CZ042,"Ústecký kraj",45-49,1,25,26
+2021-01-31,Comirnaty,CZ042,"Ústecký kraj",50-54,0,9,9
+2021-01-31,Comirnaty,CZ042,"Ústecký kraj",55-59,1,10,11
+2021-01-31,Comirnaty,CZ042,"Ústecký kraj",60-64,1,7,8
+2021-01-31,Comirnaty,CZ042,"Ústecký kraj",65-69,0,5,5
+2021-01-31,Comirnaty,CZ042,"Ústecký kraj",80+,1,0,1
+2021-01-31,Comirnaty,CZ052,"Královéhradecký kraj",18-24,1,7,8
+2021-01-31,Comirnaty,CZ052,"Královéhradecký kraj",25-29,3,14,17
+2021-01-31,Comirnaty,CZ052,"Královéhradecký kraj",30-34,1,13,14
+2021-01-31,Comirnaty,CZ052,"Královéhradecký kraj",35-39,0,25,25
+2021-01-31,Comirnaty,CZ052,"Královéhradecký kraj",40-44,1,29,30
+2021-01-31,Comirnaty,CZ052,"Královéhradecký kraj",45-49,2,22,24
+2021-01-31,Comirnaty,CZ052,"Královéhradecký kraj",50-54,1,30,31
+2021-01-31,Comirnaty,CZ052,"Královéhradecký kraj",55-59,1,17,18
+2021-01-31,Comirnaty,CZ052,"Královéhradecký kraj",60-64,4,15,19
+2021-01-31,Comirnaty,CZ052,"Královéhradecký kraj",65-69,0,7,7
+2021-01-31,Comirnaty,CZ052,"Královéhradecký kraj",70-74,3,2,5
+2021-01-31,Comirnaty,CZ052,"Královéhradecký kraj",75-79,4,3,7
+2021-01-31,Comirnaty,CZ052,"Královéhradecký kraj",80+,111,3,114
+2021-01-31,Comirnaty,CZ063,"Kraj Vysočina",18-24,0,3,3
+2021-01-31,Comirnaty,CZ063,"Kraj Vysočina",25-29,0,2,2
+2021-01-31,Comirnaty,CZ063,"Kraj Vysočina",30-34,0,7,7
+2021-01-31,Comirnaty,CZ063,"Kraj Vysočina",35-39,0,6,6
+2021-01-31,Comirnaty,CZ063,"Kraj Vysočina",40-44,0,3,3
+2021-01-31,Comirnaty,CZ063,"Kraj Vysočina",45-49,0,5,5
+2021-01-31,Comirnaty,CZ063,"Kraj Vysočina",50-54,0,2,2
+2021-01-31,Comirnaty,CZ063,"Kraj Vysočina",55-59,0,4,4
+2021-01-31,Comirnaty,CZ063,"Kraj Vysočina",60-64,0,2,2
+2021-01-31,Comirnaty,CZ063,"Kraj Vysočina",65-69,0,15,15
+2021-01-31,Comirnaty,CZ063,"Kraj Vysočina",70-74,0,1,1
+2021-01-31,Comirnaty,CZ063,"Kraj Vysočina",80+,0,10,10
+2021-01-31,Comirnaty,CZ071,"Olomoucký kraj",18-24,0,5,5
+2021-01-31,Comirnaty,CZ071,"Olomoucký kraj",25-29,1,9,10
+2021-01-31,Comirnaty,CZ071,"Olomoucký kraj",30-34,1,5,6
+2021-01-31,Comirnaty,CZ071,"Olomoucký kraj",35-39,2,15,17
+2021-01-31,Comirnaty,CZ071,"Olomoucký kraj",40-44,2,14,16
+2021-01-31,Comirnaty,CZ071,"Olomoucký kraj",45-49,3,13,16
+2021-01-31,Comirnaty,CZ071,"Olomoucký kraj",50-54,3,12,15
+2021-01-31,Comirnaty,CZ071,"Olomoucký kraj",55-59,1,7,8
+2021-01-31,Comirnaty,CZ071,"Olomoucký kraj",60-64,0,9,9
+2021-01-31,Comirnaty,CZ071,"Olomoucký kraj",65-69,0,3,3
+2021-01-31,Comirnaty,CZ071,"Olomoucký kraj",70-74,0,2,2
+2021-01-31,Comirnaty,CZ071,"Olomoucký kraj",75-79,0,4,4
+2021-01-31,Comirnaty,CZ071,"Olomoucký kraj",80+,20,31,51
+2021-01-31,Comirnaty,CZ080,"Moravskoslezský kraj",50-54,1,0,1
+2021-01-31,Comirnaty,CZ080,"Moravskoslezský kraj",65-69,1,0,1
+2021-01-31,Comirnaty,CZ080,"Moravskoslezský kraj",80+,22,0,22
