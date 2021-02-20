@@ -63,15 +63,15 @@ jobs:
     - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/orp.csv
       run: |-
         curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/orp.csv" > orp.csv
-    - name: Fetch latest https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_CR.csv
-      run: |-
-        curl "https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_CR.csv" > pes_CR.csv
-    - name: Fetch latest https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_kraje.csv
-      run: |-
-        curl "https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_kraje.csv" > pes_kraje.csv
-    - name: Fetch latest https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_okresy.csv
-      run: |-
-        curl "https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_okresy.csv" > pes_okresy.csv
+    # - name: Fetch latest https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_CR.csv
+    #  run: |-
+    #    curl "https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_CR.csv" > pes_CR.csv
+    # - name: Fetch latest https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_kraje.csv
+    #  run: |-
+    #    curl "https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_kraje.csv" > pes_kraje.csv
+    # - name: Fetch latest https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_okresy.csv
+    #  run: |-
+    #    curl "https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_okresy.csv" > pes_okresy.csv
     - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/testy-pcr-antigenni.csv
       run: |-
         curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/testy-pcr-antigenni.csv" > testy-pcr-antigenni.csv
@@ -87,7 +87,31 @@ jobs:
     - name: Fetch latest data https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovaci-mista.csv
       run: |-
         curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovaci-mista.csv" > ockovaci-mista.csv
-        
+    - name: Fetch latest data https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/kraj-okres-testy.csv
+      run: |-
+        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/kraj-okres-testy.csv"
+    - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/prehled-ockovacich-mist.csv
+      run: |-
+        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/prehled-ockovacich-mist.csv"
+    - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/prehled-odberovych-mist.csv
+      run: |-
+        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/prehled-odberovych-mist.csv"
+    - name: Fetch data https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-vlna-2.csv
+      run: |-
+        curl "https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-vlna-2.csv"
+    - name: Fetch data https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-zdravotnicke-zarizeni.csv
+      run: |-
+        curl "https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-zdravotnicke-zarizeni.csv"
+    - name: Fetch latest https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_CR_verze2.csv
+      run: |-
+        curl "https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_CR_verze2.csv" > pes_CR_verze2.csv
+    - name: Fetch latest https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_kraje_verze2.csv
+      run: |-
+        curl "https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_kraje_verze2.csv" > pes_kraje_verze2.csv
+    - name: Fetch latest https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_okresy_verze2.csv
+      run: |-
+        curl "https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_okresy_verze2.csv" > pes_okresy_verze2.csv
+
         
     - name: Commit and push if it changed
       run: |-
