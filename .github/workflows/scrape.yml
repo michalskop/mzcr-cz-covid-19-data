@@ -30,17 +30,17 @@ jobs:
         N4=`grep -nr "1/14/2021 12:00:00 AM" obec.csv | gawk '{print $1}' FS=":" | tail -n 1`
         N5=`grep -nr "3/4/2021 12:00:00 AM" obec.csv | gawk '{print $1}' FS=":" | tail -n 1`
         TOTAL=`wc -l obec.csv | cut -f1 -d' '`
-        head -$N1 obec.csv > obec_1.csv
+        head -$N1 obec.csv > obec_1_v2.csv
         head -n $N2 obec.csv | tail -n `expr $N2 - $N1` > obec_2_tmp.csv
         head -n $N3 obec.csv | tail -n `expr $N3 - $N2` > obec_3_tmp.csv
         head -n $N4 obec.csv | tail -n `expr $N4 - $N3` > obec_4_tmp.csv
         head -n $N5 obec.csv | tail -n `expr $N5 - $N4` > obec_5_tmp.csv
-        cat header.csv obec_2_tmp.csv > obec_2.csv
-        cat header.csv obec_3_tmp.csv > obec_3.csv
-        cat header.csv obec_4_tmp.csv > obec_4.csv
-        cat header.csv obec_5_tmp.csv > obec_5.csv
+        cat header.csv obec_2_tmp.csv > obec_2_v2.csv
+        cat header.csv obec_3_tmp.csv > obec_3_v2.csv
+        cat header.csv obec_4_tmp.csv > obec_4_v2.csv
+        cat header.csv obec_5_tmp.csv > obec_5_v2.csv
         tail -n `expr $TOTAL - $N5` obec.csv > obec_6_tmp.csv
-        cat header.csv obec_6_tmp.csv > obec_6.csv
+        cat header.csv obec_6_tmp.csv > obec_6_v2.csv
         rm obec.csv obec_2_tmp.csv obec_3_tmp.csv obec_4_tmp.csv obec_5_tmp.csv obec_6_tmp.csv header.csv
     - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/testy.csv
       run: |-
