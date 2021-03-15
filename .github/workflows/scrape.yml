@@ -93,21 +93,6 @@ jobs:
     # - name: Fetch latest data https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovaci-mista.csv
     #  run: |-
     #    curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovaci-mista.csv" > ockovaci-mista.csv
-    - name: Fetch latest data https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/kraj-okres-testy.csv
-      run: |-
-        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/kraj-okres-testy.csv"
-    - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/prehled-ockovacich-mist.csv
-      run: |-
-        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/prehled-ockovacich-mist.csv"
-    - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/prehled-odberovych-mist.csv
-      run: |-
-        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/prehled-odberovych-mist.csv"
-    - name: Fetch data https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-vlna-2.csv
-      run: |-
-        curl "https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-vlna-2.csv"
-    - name: Fetch data https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-zdravotnicke-zarizeni.csv
-      run: |-
-        curl "https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-zdravotnicke-zarizeni.csv"
     - name: Fetch latest https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_CR_verze2.csv
       run: |-
         curl "https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_CR_verze2.csv" > pes_CR_verze2.csv
@@ -117,8 +102,34 @@ jobs:
     - name: Fetch latest https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_okresy_verze2.csv
       run: |-
         curl "https://share.uzis.cz/s/BRfppYFpNTddAy4/download?path=%2F&files=pes_okresy_verze2.csv" > pes_okresy_verze2.csv
+    - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/prehled-ockovacich-mist.csv
+      run: |-
+        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/prehled-ockovacich-mist.csv" > prehled-ockovacich-mist.csv
+    - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/kraj-okres-testy.csv
+      run: |-
+        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/kraj-okres-testy.csv" > kraj-okres-testy.csv
+    - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/prehled-odberovych-mist.csv
+      run: |-
+        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/prehled-odberovych-mist.csv" > prehled-odberovych-mist.csv
+    - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-spotreba.csv
+      run: |-
+        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-spotreba.csv" > ockovani-spotreba.csv
+    - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-distribuce.csv
+      run: |-
+        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-distribuce.csv" > ockovani-distribuce.csv
+    - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-registrace.csv
+      run: |-
+        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-registrace.csv" > ockovani-registrace.csv
+    - name: Fetch latest https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-rezervace.csv
+      run: |-
+        curl "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani-rezervace.csv" > ockovani-rezervace.csv
+    - name: Fetch latest https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-vlna-2.csv
+      run: |-
+        curl "https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-vlna-2.csv" > kapacity-intenzivni-pece-vlna-2.csv
+    - name: Fetch latest https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-zdravotnicke-zarizeni.csv
+      run: |-
+        curl "https://dip.mzcr.cz/api/v1/kapacity-intenzivni-pece-zdravotnicke-zarizeni.csv" > kapacity-intenzivni-pece-zdravotnicke-zarizeni.csv
 
-        
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
