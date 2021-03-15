@@ -9,4 +9,4 @@ df = pd.read_csv(url)
 months = df['datum'].str[:7].unique()
 
 for month in months:
-    df[df['datum'].str[:7] == month].to_csv("ockovaci-mista_" + month + "_v2.csv")
+    df[df['datum'].str[:7] == month].to_csv("ockovaci-mista_" + month + "_v2.csv", index=False)
