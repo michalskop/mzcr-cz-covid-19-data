@@ -59,7 +59,7 @@ d760e957-17fa-456c-b347-173ecd10f52c,"AGEL Středomoravská nemocniční a.s., N
 bba214a6-62fc-414c-a473-8844e06110f5,"AKESO holding - OM Grmelova - Ostrava",CZ0806,,"Grmelova 2033/4, Ostrava - Mariánské Hory, 709 00",49.8365250,18.2504342,320,,,1,
 2f2efdc8-63ea-4ab1-b6cd-9f39896ee2d8,"AKESO holding - OM Jeremiášova - Stodůlky",CZ0100,1,"Jeremiášova 947/16, 155 00 Praha 5 - Stodůlky",50.0553869,14.3105781,440,,,1,
 8c49206d-ff94-4183-a1eb-df190d9f345b,"AKESO holding - OM Lípa - Stodůlky",CZ0100,1,"Seydlerova 2451, 158 00 Praha 5 - Stodůlky",50.0506300,14.3473500,440,,,1,
-ea992325-3efa-48d9-898e-933ee2be052d,"AKESO holding - OM Plzeň Stavební",CZ0323,,"Stavební 2957, Plzeň, 301 00",49.7292203,13.3509133,300,,,,
+ea992325-3efa-48d9-898e-933ee2be052d,"AKESO holding - OM Plzeň Hotel IBIS",CZ0323,,"Univerzitní 65, 301 00 Plzeň 3",49.7250439,13.3271497,300,,,,
 0d6a6d59-1ae7-43d8-8dc1-a8ecbb8a425c,"AKESO holding - OM Stroupežnického - Smíchov",CZ0100,1,"Stroupežnického 3181/21, 150 00 Praha 5 - Smíchov",50.0714911,14.4026425,760,,,1,
 672c2ea0-3b68-40cf-bb49-8b44e4eda8a1,"AeskuLab Louny",CZ0424,1,"Louny, Pod nemocnicí 2503",50.3499028,13.8082453,60,1,1,1,
 bbeeefc5-5529-4f98-a8d4-1b6f49323ccd,"AeskuLab Teplice",CZ0426,1,"Teplice, Duchcovská 53",50.6365694,13.8108558,80,1,,1,
@@ -74,6 +74,11 @@ d4327480-4ee5-4ffe-8991-e788114841b3,"Bohumínská městská nemocnice, a.s.",CZ
 3cae800b-8074-4968-a152-de24ce830888,"CITYLAB spol. s r.o. - odběrové místo mobilní poradna Praha",CZ0100,1,"území hlavního města Prahy",,,100,,,,
 8d90015d-8de7-411c-badb-fc7687c28896,"COVID TEST Zlín - odběrové místo Napajedla",CZ0724,1,"Kvítkovická 1386, areál Agropodnik a.s., 763 61 Napajedla",49.1911903,17.5277936,120,,,1,1
 168064b1-6b72-47bb-80ae-24e1230bd0dd,"CTCenter MaVE s.r.o.",CZ0712,,"Na Šibeníku 914/1, Olomouc 779 00",49.5972683,17.2364047,10,,,,
+cce82f55-23a1-476a-be0c-3c83db2db749,"CTPark Hrabová",CZ0806,,"Na Rovince 720, Ostrava, 720 00",49.7698650,18.2691650,0,,,1,
+e38a5311-b258-4a79-a8a5-b1c528b00af8,"CTPark Modřice",CZ0643,,"Evropská 2, Modřice, 664 42",49.1214510,16.6003900,0,,,1,
+1550c2c0-0ca8-4487-98c2-db3e79d21afc,"CTPark Plzeň",CZ0323,,"Podnikatelská 30",49.7298081,13.3192267,0,,,,
+df007224-9b38-4d59-8277-22440e679a87,"CTPark Pohořelice",CZ0643,,"Vídeňská, Pohořelice, 691 23",48.9753540,16.5185290,0,,,1,
+3678e049-4f8a-49cf-9465-435755d81e35,"CTPark Černovické terasy",CZ0642,,"Tuřanka - Areál Slatina, Slatina, 627 00",49.1684953,16.6789664,0,,,1,
 f6f6b3b0-360b-40de-bf60-78beb7813464,"Centrum zdravotnického zabezpečení sportovní reprezentace OM Strahov",CZ0100,1,"Vaníčkova ulice, Praha 6, Velký strahovský stadion",50.0802650,14.3900014,500,1,,1,
 088baba9-49f9-49d4-b660-6e3687bf47f0,"Chrudimská nemocnice, NPK, .a.s.",CZ0531,1,"Václavská 570, 537 27 Chrudim",49.9419936,15.8064839,160,1,,1,
 870eb4b6-cd8c-4328-9283-5ce418de6996,"Citylab  s.r.o. - Poliklinika Stodůlky",CZ0100,1,"Hostinského 1533, Praha 13",50.0462122,14.3149161,50,1,,1,
@@ -118,7 +123,7 @@ d880adb6-3f63-4fc1-8bcd-f7e87d2cce79,"GHC GENETICS Praha - Vítězné náměstí
 9947ae04-e229-4101-a856-c22a52ddfa31,"GHC Praha Džbán",CZ0100,,"Nad Lávkou 672/5, Praha 6",50.0986758,14.3368428,100,1,,,1
 a58b3f43-3880-4ff6-9d43-a8718a319b5f,"GHC Praha Prosek",CZ0100,1,"Lovosická 440, Praha 9, 19800",50.1288628,14.4901978,180,1,,1,
 4b235f81-daad-49fb-8ba9-5e03c9dcaa28,"GHC, Václavské náměstí",CZ0100,1,"Václavské náměstí 824 / 29, Praha 1",50.0819253,14.4273281,200,1,,1,
-a64d2ab1-6e59-40cf-baac-78fe5d025c44,"GenDetective - Brandýs nad Labem",CZ0209,1,"Zápy 301, 250 01 Brandýs nad Labem",50.1750278,14.6722222,250,1,,1,1
+a64d2ab1-6e59-40cf-baac-78fe5d025c44,"GenDetective - Brandýs nad Labem",CZ0209,1,"Zápy 301, 250 01 Brandýs nad Labem",50.1750278,14.6722222,250,1,,,1
 cfbabb96-6c89-4b05-9158-5aef3119e4f7,"GenDetective - Liberec",CZ0513,1,"České mládeže 456, 460 03 Liberec",50.7419300,15.0493000,250,1,,,1
 f5a96a2d-de00-4782-9819-383e2c1832ea,"GenDetective - Mladá Boleslav",CZ0207,1,"OC Olympia, Jičínská 1350/III, 293 01 Mladá Boleslav",50.4080242,14.9366775,250,1,1,,1
 4d3cda9e-a123-4a83-8e43-a8d8aeba634b,"GenDetective - Plzeň",CZ0323,1,"U Prazdroje 2750/24, 301 00 Plzeň",49.7471500,13.3949000,250,1,,,1
@@ -161,7 +166,7 @@ e47d8eb1-643c-4afb-8d92-a3374e2d6a55,"KNL,a.s.-odběrové místo Turnov",CZ0514,
 a44eb6f9-3486-4bc9-8ee1-8c3f703eaaab,"Karlovarská krajská nemocnice a.s.",CZ0412,1,"Bezručova 1190/19, 360 01 Karlovy Vary",50.2321730,12.8752200,400,1,,1,1
 7ccb360f-f43e-43e8-a7df-40f1c4e08d83,"Klatovská nemocnice, a.s.,",CZ0322,1,"Plzeňská 929, Klatovy II,",49.4034211,13.2898983,260,1,,1,1
 d25a9ec0-67ca-4b07-9058-b6cbee256085,"Klinické laboratoře Tábor",CZ0317,1,"U Čápova dvora 3125, Tábor",49.3956794,14.6893042,350,1,,1,1
-a047cf19-f136-4ad8-a804-82d0ca88a4b6,"Klinické laboratoře Tábor - Mobilní odběrový tým",CZ0317,1,"U Čápova dvora 3125, Tábor",,,0,,,1,
+a047cf19-f136-4ad8-a804-82d0ca88a4b6,"Klinické laboratoře Tábor - Mobilní odběrový tým",CZ0317,1,"U Čápova dvora 3125, Tábor",,,500,,,1,
 74f1319c-d061-47fd-b8e8-df9ff53ba4d5,"KoRo Medics s.r.o.",CZ0713,1,"Olympijská 4228, 796 01 Prostějov",49.4846697,17.1040361,150,,,1,1
 9329aaa6-2955-4311-9476-247ac379be84,"Krajská nemocnice Liberec. a.s.",CZ0513,1,"Husova 10, Liberec",50.7715703,15.0689608,500,1,,1,
 83497f16-4abf-498a-9853-b7af4c65373a,"Krajská nemocnice T.Bati, a. s.",CZ0724,1,"Havlíčkovo nábřeží 600, 762 75 Zlín",49.2300910,17.6940250,1200,1,1,1,1
@@ -310,8 +315,8 @@ f9822c01-9c1c-4760-abe5-be9a6c72293b,"Nemocnice s poliklinikou Havířov, p.o.",
 92b03d48-f556-46be-b3a0-a838d1391c85,"Nemocnice s poliklinikou Česká Lípa",CZ0511,1,"Purkyňova 1849, Česká Lípa 470 01",50.6866311,14.5484203,200,1,,1,
 f8481e8a-f027-4ba6-b582-d4fbea21aa0e,"Nemocnice s poliklinikou Karviná, p. o.",CZ0803,1,"Vydmuchov 399/5, 734 01 Karviná-Ráj",49.8476090,18.5516250,150,1,,1,1
 e4796ba3-bdd8-463d-b6b6-2f206319e67e,"Nemocnice ve Frýdku-Místku, p.o.",CZ0802,1,"El. Krásnohorské 321, Frýdek, 738 01 Frýdek-Místek",49.6899870,18.3553920,150,1,,1,
-e6c85208-7725-4773-b1a9-e9198d1decc8,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",48.9590440,14.4686910,800,1,,1,
 e6794a78-b750-4403-b948-05594fef0584,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",,,100,,,,
+e6c85208-7725-4773-b1a9-e9198d1decc8,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",48.9590440,14.4686910,800,1,,1,
 d72b10d4-741d-494d-b7de-ef6201852291,"Nemocnice Český Krumlov",CZ0312,1,"Nemocniční 429, 38301 Český Krumlov",48.8114706,14.3266972,350,1,,1,
 feef4fd2-5f23-4d24-92e6-f6dbc706c4ea,"Nemocnice Šumperk a.s.",CZ0715,1,"Nerudova 640/41, 787 01 Šumperk",49.9586911,16.9631111,250,1,,1,
 58a81619-1e77-4fce-922f-70d6d3475c39,"Nemocnice Žatec, o.p.s.",CZ0424,1,"Husova 2796, Žatec 438 01",50.3218992,13.5388500,100,1,,1,
@@ -338,6 +343,7 @@ d9bac971-6760-4e71-9f47-2ce5701ca463,"Ordinace Ruzyně s.r.o., odběrové místo
 d02ac580-5977-4133-8b19-e3d9e58a8c84,"Ostrava Vítkovice, budova Hasičů - ANYGENCE, PREVEDIG medical - Ostrava",CZ0806,1,"Průmyslová ulice, budova bývalého HZS Vítkovice",49.8206011,18.2658694,800,1,,1,1
 d91a2948-366c-40d2-a593-3358b8504f7b,"POLIKLINIKA AGEL Praha",CZ0100,1,"Italská 560/37, 121 43, Praha 2",50.0805722,14.4379836,80,1,,1,
 f6213cd4-b529-4002-a677-c412849593ff,"PREVEDIG medical - Jedenáctka",CZ0100,1,"Mírového hnutí 2385/3, Praha 11",50.0382814,14.5002661,300,1,,1,1
+e407cb1e-3d33-44e0-b3bf-5103f5ed31b2,"PREVEDIG medical - Jihlava",CZ0632,1,"na prostranství vedle Městského nádraží Jihlava",,,200,,,,
 bfe85780-eb4c-4108-ba5c-3706d57cd515,"PREVEDIG medical - Krupka - Maršov",CZ0426,1,"K.Čapka 294, 417 42 Krupka - Maršov",50.6866842,13.8855194,200,1,1,1,
 1c637b80-9180-4b0d-b0cf-4b11a940d4fa,"PREVEDIG medical - Libiš",CZ0206,1,"Pražská 626, 277 11 Libiš",50.2804939,14.4967375,300,1,,1,1
 57f1de95-2606-4b4b-9d7d-f4a0e60e5d50,"PREVEDIG medical - Poznaňská (Bohnice)",CZ0100,1,"Poznaňská 461/34,180 00 Praha 8 - Bohnice",50.1294869,14.4222086,200,1,,1,
@@ -347,13 +353,14 @@ ccf58d40-e213-4ab3-9ac0-0ad7efc9e9e6,"PREVEDIG medical - Šutka",CZ0100,1,"Čimi
 edff2d5a-8702-418f-86ea-17e59747c59f,"PREVEDIG medical, s.r.o. - Pelléova Praha 6",CZ0100,1,"Pelléova 244/9, 160 00 Praha 6",50.0991056,14.4069944,1000,1,,1,
 f0da7b52-e4e1-4c93-b7f9-f73ca7646a39,"PRIVAMED a.s. Plzeň",CZ0323,1,"Kotíkovská 19, Plzeň",49.7652106,13.3597078,96,,,1,
 4c92c09a-6051-48b1-9678-4a1665355f88,"PRONATAL s.r.o.  Mobilní odběry",CZ0100,1,"Antala Staška 1670/80, Praha 4, 140 00",50.0425325,14.4510703,100,,,,
+a8b2c626-b6b7-4a1c-87cc-7f7d8ade131b,"Panattoni Park Brno Airport",CZ0642,,"Evropská Brno Tuřany",,,0,,,,
 0398be79-a5dd-4042-9164-2d87d296931a,"Parkoviště Nové Sady Drive IN - PREVEDIG medical - Brno",CZ0642,1,"parkoviště na parc. č. 1358/1, Nové Sady, 602 00 Brno",49.1868233,16.6054058,200,1,,1,1
 f326e18e-2502-4551-860e-04056d7696a2,"Podané ruce o.p.s. Brno - Ag testy",CZ0642,1,"Výstaviště Brno, hlavní brána, ulice Křížkovského",49.1888236,16.5856286,1000,,,1,
 c7162021-8d24-4c8d-9f07-2eaa926ee880,"Poliklinika AGEL Plzeň",CZ0323,1,"Švihovská 14, Plzeň",49.7458553,13.3935442,30,1,,1,
 f5aad7d7-89f1-4cee-b395-7658fd11b439,"Poliklinika Chomutovická",CZ0100,1,"Chomutovická 1444/2, Praha 4",50.0233878,14.5134325,50,1,,1,
 a35671a2-ea21-4148-b77b-14b744737406,"Poliklinika Flora Cheb",CZ0411,1,"Májová 582/19, Cheb",50.0756370,12.3698247,68,,,1,
 81d11a19-7061-425f-adb7-af56b50ce61a,"Pražská tržnice Holešovice - PREVEDIG medical - Anygence",CZ0100,1,"Bubenské nábřeží 306/13, 170 00 Praha 7",50.0989028,14.4469169,1500,,,1,
-47944eda-3dc1-40e3-aa79-3c6d9fdd3a6d,"RESCUE HELP - ZDRAVOTNICKÁ SLUŽBA, z. s. - Černuc",CZ0203,1,"Černuc 124, 273 23 Černuc",50.3043400,14.2023100,40,1,1,1,
+47944eda-3dc1-40e3-aa79-3c6d9fdd3a6d,"RESCUE HELP - ZDRAVOTNICKÁ SLUŽBA, z. s. - Černuc",CZ0203,1,"Černuc 124, 273 23 Černuc",50.3043400,14.2023100,60,,,1,
 983197fc-2be4-4b14-a7ad-e84fceb24e16,"Rehabilitační klinika Malvazinky",CZ0100,1,"U Malvazinky 177/7, 150 00 Praha 5 - Smíchov",50.0640731,14.3936992,10,,,,1
 19b4b578-196f-4a3c-ab49-52a69fe65bd7,"Rokycanská nemocnice, a.s.",CZ0326,1,"Voldušská 750/II, 337 01 Rokycany",49.7489310,13.6042890,96,,,1,1
 606640a8-15f6-4642-b870-e408612cb2db,"SMRŽO-MEDIC, s.r.o. - Hrádek nad Nisou",CZ0513,1,"Legionářská 269, Hrádek nad Nisou",50.8510081,14.8467617,0,,,1,
@@ -412,6 +419,7 @@ b84211a4-9c9e-4773-8439-71bb18fde2d4,"Vsetínská nemocnice a.s",CZ0723,1,"Nemoc
 fdffdb56-f2c5-40d8-a46a-3c593b827c52,"ZRUŠENO - Nextclinics Praha Hvězdova",CZ0100,,"Hvězdova 1073/33, 140 00 Praha 4-Nusle",50.0524922,14.4400247,250,,,,
 7836dd81-f19b-48cf-8347-aaec76361ab9,"ZZS Olomouckého kraje - mobilní odběrové vozidlo",CZ0712,1,"Aksamitova 8, 779 00 Olomouc",49.5888583,17.2532683,15,,,,
 13527833-81f7-495a-8346-a905bc8a5e39,"ZZS Pardubického kraje",CZ0532,,"Průmyslová 450 ,530 03 Pardubice",50.0248667,15.7924986,40,,,,
+130ccb73-81a1-40f1-8f48-80421fa53630,"Zahrada Čech - Litoměřice",CZ0423,1,"Na Vinici 948/13, 412 01 Litoměřice",50.5350694,14.1520872,200,,,,
 68d4c96c-9a06-4b1b-8870-1c336c52ab09,"Zdravotnická záchranná služba Kraje Vysočina",CZ0632,1,"Vrchlického 61, 586 01 Jihlava",49.3990836,15.5688858,100,,,,
 0efa7442-684e-4ee8-89c7-58bb1e8f4388,"Zdravotnická záchranná služba hl. m. Prahy",CZ0100,1,"Korunní 98, 101 00 Praha 10",50.0752861,14.4550869,100,1,,,
 3a702a5d-72ca-488d-8c8e-c47d2974482c,"Zdravotní ústav se sídlem v Ostravě",CZ0806,1,"Partyzánské náměstí 2633/7, Moravská Ostrava",49.8465378,18.2845431,20,1,,1,
@@ -421,4 +429,4 @@ c7b2bd02-4e22-445c-b8a3-e12e7492c7e9,"Záchranná služba ASČR Praha-západ * M
 af201738-8b3f-4857-88cb-fbb3c7d8ad7e,"Ústav imunologie a mikrobiologie 1 LF UK",CZ0100,,"Klinika pracovního lékařství VFN,    Na Bojišti 1, Praha 2.",50.0731897,14.4273403,70,,,,
 4e7d08f1-5770-499e-84d9-551c7b15ffa8,"Ústav imunologie a mikrobiologie 1 LF UK - odběrové místo Albertov",CZ0100,,"Studničkova 2030/1, 128 00 Praha 2",50.0681369,14.4254633,300,1,,1,
 f8d72611-e065-4dfe-b0df-b4ac57d04b8c,"Ústřední vojenská nemocnice",CZ0100,1,"U Vojenské nemocnice 1200, 169 02 Praha 6",50.0898056,14.3627833,1500,1,,1,
-a5a7522c-3cd6-49b4-8fe6-8e12ceda419f,"Česká laboratorní s.r.o. Český Brod",CZ0204,1,"Žižkova 282, 282 01 Český Brod",50.0731139,14.8524322,90,1,1,,
+a5a7522c-3cd6-49b4-8fe6-8e12ceda419f,"Česká laboratorní s.r.o. Český Brod",CZ0204,1,"Žižkova 282, 282 01 Český Brod",50.0731139,14.8524322,300,1,1,,
