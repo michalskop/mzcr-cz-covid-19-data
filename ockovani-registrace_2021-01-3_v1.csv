@@ -137,7 +137,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,e1aecc42-6aa6-46cc-9dde-9761fd6fa830,Poliklinika Prosek a.s.,CZ010,Hlavní město Praha,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-04
 2021-01-30,e1aecc42-6aa6-46cc-9dde-9761fd6fa830,Poliklinika Prosek a.s.,CZ010,Hlavní město Praha,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-01
 2021-01-30,e1aecc42-6aa6-46cc-9dde-9761fd6fa830,Poliklinika Prosek a.s.,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,,
-2021-01-30,e1aecc42-6aa6-46cc-9dde-9761fd6fa830,Poliklinika Prosek a.s.,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-05
 2021-01-30,e1aecc42-6aa6-46cc-9dde-9761fd6fa830,Poliklinika Prosek a.s.,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-09
 2021-01-30,e1aecc42-6aa6-46cc-9dde-9761fd6fa830,Poliklinika Prosek a.s.,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-04
 2021-01-30,e1aecc42-6aa6-46cc-9dde-9761fd6fa830,Poliklinika Prosek a.s.,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-04
@@ -338,7 +337,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-04
 2021-01-30,d166058b-d215-4166-925d-69f7c168ef96,"Krajská zdravotní, a.s. - Nemocnice Teplice",CZ042,Ústecký kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-01
 2021-01-30,d166058b-d215-4166-925d-69f7c168ef96,"Krajská zdravotní, a.s. - Nemocnice Teplice",CZ042,Ústecký kraj,80+,neuvedeno,CZ,,
-2021-01-30,d166058b-d215-4166-925d-69f7c168ef96,"Krajská zdravotní, a.s. - Nemocnice Teplice",CZ042,Ústecký kraj,80+,neuvedeno,CZ,,
 2021-01-30,d166058b-d215-4166-925d-69f7c168ef96,"Krajská zdravotní, a.s. - Nemocnice Teplice",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-05
 2021-01-30,4938a85d-84a8-4b1e-bc65-87a6dac5efa5,Masarykova městská nemocnice a.s. (Jilemnice),CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-13
 2021-01-30,4938a85d-84a8-4b1e-bc65-87a6dac5efa5,Masarykova městská nemocnice a.s. (Jilemnice),CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-07
@@ -450,7 +448,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-01
 2021-01-30,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-01-31
 2021-01-30,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-06
-2021-01-30,b6f39bb5-9ebf-44be-a1d1-0efacab96703,Nemocnice Pardubice - Sál Jana Kašpara Krajský úřad,CZ053,Pardubický kraj,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-15
 2021-01-30,b6f39bb5-9ebf-44be-a1d1-0efacab96703,Nemocnice Pardubice - Sál Jana Kašpara Krajský úřad,CZ053,Pardubický kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-27
 2021-01-30,b6f39bb5-9ebf-44be-a1d1-0efacab96703,Nemocnice Pardubice - Sál Jana Kašpara Krajský úřad,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-03
 2021-01-30,b6f39bb5-9ebf-44be-a1d1-0efacab96703,Nemocnice Pardubice - Sál Jana Kašpara Krajský úřad,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-01
@@ -478,7 +475,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-25
 2021-01-30,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-01-30,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-01-30,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-17
+2021-01-30,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-18
 2021-01-30,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-01-30,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-25
 2021-01-30,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-15
@@ -688,7 +685,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
 2021-01-30,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-01
 2021-01-30,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,,
-2021-01-30,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,,
 2021-01-30,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-01-30,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-01-30,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-03-01
@@ -729,7 +725,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,71b299fb-33f6-46b7-ae94-78815297125c,Nemocnice AGEL Ostrava-Vítkovice a.s.,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-27
 2021-01-30,71b299fb-33f6-46b7-ae94-78815297125c,Nemocnice AGEL Ostrava-Vítkovice a.s.,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-01-30,71b299fb-33f6-46b7-ae94-78815297125c,Nemocnice AGEL Ostrava-Vítkovice a.s.,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-01-30,71b299fb-33f6-46b7-ae94-78815297125c,Nemocnice AGEL Ostrava-Vítkovice a.s.,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-01-30,71b299fb-33f6-46b7-ae94-78815297125c,Nemocnice AGEL Ostrava-Vítkovice a.s.,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-25
 2021-01-30,77e3d92d-123b-452d-93ec-30afac4e2c0b,"Nemocnice s poliklinikou Karviná-Ráj, p.o. - pracoviště Karviná",CZ080,Moravskoslezský kraj,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
 2021-01-30,77e3d92d-123b-452d-93ec-30afac4e2c0b,"Nemocnice s poliklinikou Karviná-Ráj, p.o. - pracoviště Karviná",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
@@ -1296,8 +1291,8 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-31,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,,
 2021-01-31,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-01-31,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-18
-2021-01-31,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-18
+2021-01-31,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-18
+2021-01-31,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-18
 2021-01-31,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-31,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-31,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-25
@@ -1346,10 +1341,10 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,Nemocnice Pelhřimov - Kulturní dům Máj,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-05
 2021-01-31,b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,Nemocnice Pelhřimov - Kulturní dům Máj,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,,
 2021-01-31,b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,Nemocnice Pelhřimov - Kulturní dům Máj,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-04
-2021-01-31,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-18
+2021-01-31,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-18
 2021-01-31,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-15
-2021-01-31,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-18
-2021-01-31,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-18
+2021-01-31,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-18
+2021-01-31,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-18
 2021-01-31,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-15
 2021-01-31,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-15
 2021-01-31,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-15
@@ -1548,7 +1543,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-01-31,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-03-01
 2021-01-31,ec7464b3-cfbd-4e49-8187-5f438f69c731,Kroměřížská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-03-12
-2021-01-31,ec7464b3-cfbd-4e49-8187-5f438f69c731,Kroměřížská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-03-10
 2021-01-31,ec7464b3-cfbd-4e49-8187-5f438f69c731,Kroměřížská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-01-31,ec7464b3-cfbd-4e49-8187-5f438f69c731,Kroměřížská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-03-09
 2021-01-31,13226cfa-b720-4a12-b6d7-3c60b6b718d6,Ortopedie - Nandana Bruntál s.r.o.,CZ080,Moravskoslezský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
