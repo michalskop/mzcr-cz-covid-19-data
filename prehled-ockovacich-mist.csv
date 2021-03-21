@@ -12,7 +12,7 @@ be9e7655-6160-4531-816d-62afdf91806b,"Avenier a.s. Centrum očkování a cestovn
 5c30086c-42d4-4e27-b940-2bf80e739739,"Avenier a.s. Centrum očkování a cestovní medicíny - Praha 6",CZ0100,,"Veleslavínská 150/44, 162 00  Praha 6",50.0947206,14.3487636,26260654027,32,
 07270775-d371-4118-b680-91322bb26b17,"Avenier a.s. Centrum očkování a cestovní medicíny - Zlín",CZ0724,,"Třída T. Bati 3705, 760 01  Zlín",49.2209556,17.6553811,26260654012,32,
 cae71614-b96b-4eab-9b3b-41390ff0ae45,"Be Elite Clinic",CZ0100,1,"Jindřišská 939/20",50.0840553,14.4287628,5805627000,60,
-19a6168f-de5b-41d1-80f8-1ca39e836f72,"Bluedent Brno-Slatina",CZ0642,1,"Matlachova 24, Slatina, 62700",49.1771800,16.6901500,2356635000,200,
+19a6168f-de5b-41d1-80f8-1ca39e836f72,"Bluedent Brno-Slatina",CZ0642,1,"Matlachova 239/26, Brno - Slatina, 627 00",49.1771800,16.6901500,2356635000,200,
 c2ec6521-6a37-44c7-a661-1370adbac9c5,"Bohumínská městská nemocnice, a.s.",CZ0803,1,"Slezská 207, Bohumín",49.9174400,18.3352500,26834022000,36,1
 95d1157e-5f77-49fe-ae2d-24e5eef3606c,"Bor - Poliklinika Bor",CZ0327,1,"Přimdská 501, 348 02 Bor",49.7144106,12.7750631,29090300000,160,
 f1b3f2dc-c4d1-4f50-b79a-a48ed0c393d6,"Bílovecká nemocnice, a.s.",CZ0804,1,"17. listopadu 538 743 01 Bílovec",49.7632200,18.0165908,26865858000,0,
@@ -209,7 +209,7 @@ b85e83d4-e9be-456d-b6b5-8e2acac97990,"Očkovací centrum Dobřichovice sportovn�
 a45e27be-cb59-449e-8ee0-ee8646ef0325,"Podřipská nemocnice s poliklinikou Roudnice n. L., s.r.o.",CZ0423,1,"Alej 17.listopadu 1101, Roudnice nad Labem, 41301",50.4233367,14.2477733,25443801000,42,
 724a30ec-c666-42e1-81ca-9df326988d73,"Poliklinika Agel Praha",CZ0100,1,"Italská 560/37, 121 43 Praha 2",50.0805742,14.4379836,25903659003,40,1
 7fd8c9d3-96af-4379-be5c-63849cf5e013,"Poliklinika Anděl s.r.o., Praha 5 - Smíchov",CZ0100,1,"Nádražní 762/32, Praha 5 - Smíchov",50.0616400,14.4095500,27381200000,10,1
-2c11f28c-f95b-4af0-8fd9-d33b104bafb9,"Poliklinika GILMEDA Vratimov",CZ0806,1,"Sokolská 133, 739 32 Vratimov",49.7715900,18.3093700,28607546000,50,1
+2c11f28c-f95b-4af0-8fd9-d33b104bafb9,"Poliklinika GILMEDA Vratimov",CZ0806,,"Sokolská 133, 739 32 Vratimov",49.7715900,18.3093700,28607546000,50,1
 e1aecc42-6aa6-46cc-9dde-9761fd6fa830,"Poliklinika Prosek a.s.",CZ0100,1,"Lovosická 440/40",50.1292300,14.4897400,28495306000,60,1
 3f0f3044-990c-4143-a85e-9fc16da5bb1b,"Poliklinika Telč, spol. s r.o.",CZ0632,1,"Masarykova 330, 588 56 Telč",49.1835000,15.4598000,25302833000,100,
 a8413ced-4d83-4b81-bcb9-e53132722acc,"Poliklinika Třešť spol. s.r.o",CZ0632,1,"Palackého 1334 58901 Třešť",49.2854428,15.4813150,49434691000,100,1
@@ -276,7 +276,7 @@ fc926c27-6f37-49c2-9944-7b641a03d691,"Zdravotní ústav se sídlem v Ústí nad 
 5999950a-0e64-4981-bc02-8c4bce24c1e5,"Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Ústí",CZ0427,1,"Na Kabátě 229",50.6822511,14.0187053,71009361000,40,1
 89e0b07f-ac66-4192-ac25-c3eb5d1b50ce,"Zdravotníci SurGal",CZ0642,1,"Drobného 38, Brno",49.2074400,16.6115900,46965033000,100,1
 df477c63-b6cc-49b2-aa3c-e9c956232f39,"Zorma s.r.o.",CZ0724,1,"Objízdná 1628, Otrokovice",49.2002219,17.5262794,29320135000,20,
-5affc4c2-414a-4cd4-9a04-56647fa66eef,"ÚVN - test (omezený přístup)",CZ0100,,"Českomoravská 2345/17, 190 00 Praha 9",50.1036911,14.4933339,0,0,
+5affc4c2-414a-4cd4-9a04-56647fa66eef,"ÚVN - O2 Universum",CZ0100,,"Českomoravská 2345/17, 190 00 Praha 9",50.1036911,14.4933339,0,0,
 46ed7d53-6b7b-455f-901e-68470c5bcead,"ÚVN Praha - Ambulance CAZP",CZ0100,1,"Evropská 5, Praha 6",50.0901564,14.3634383,61383082000,50,1
 dc7e7342-1c65-494f-bd0a-f522e561c224,"ÚVN Praha - Provozovna ambulance KIN, pav. E6",CZ0100,,"U Vojenské nemocnice 1200/1, 162 00 Praha, Břevnov",50.0901564,14.3634383,61383082000,0,
 4ea9c79c-ebac-4505-8176-7d22ca45c0d2,"ÚVN Praha - Vakcinační centrum COVID-19",CZ0100,1,"U Vojenské nemocnice 1200/1, 162 00 Praha, Břevnov",50.0901564,14.3634383,61383082000,100,1
