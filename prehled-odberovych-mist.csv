@@ -106,7 +106,7 @@ c66e5d2d-2855-499e-ac20-3b301c06342d,"EUC klinika Ostrava a.s.",CZ0806,1,"Opavsk
 1ed509e4-9612-4e19-b980-bfd97d55f14c,"EUC laboratoře - Poliklinika Šustova",CZ0100,1,"Šustova 1930/2, Praha",50.0274633,14.4893417,200,1,,1,
 2c400476-462e-40da-be55-9bdd3a0d8b4c,"EliteMedical s.r.o.",CZ0100,1,"Na Příkopě 859/22, 110 00 Praha 1 - Nové Město",50.0864122,14.4273183,20,1,,,
 7bd73b5c-75de-4a3f-b689-b0f65be7857f,"Elphogene s.r.o. - odběrové místo Stříbro",CZ0327,1,"Revoluční 712, 349 01 Stříbro",49.7556228,12.9928947,100,1,1,,1
-523bb7a3-b5aa-45d8-b570-6dc2bf923325,"EuroCentrumHelp z.s. Rohatec - mobilní odběrový tým",CZ0645,1,"Strážnická 615/1, 696 01 Rohatec",48.8866342,17.1904917,500,,,,
+523bb7a3-b5aa-45d8-b570-6dc2bf923325,"EuroCentrumHelp z.s. Rohatec - mobilní odběrový tým",CZ0645,1,"Strážnická 615/1, 696 01 Rohatec",48.8866342,17.1904917,500,,,1,1
 91c26934-6798-45ab-a906-d11eb7feda49,"FIRM CLINIC s.r.o. - odběrové místo Jesenice",CZ020A,1,,,,1000,,,,1
 087c05c3-584a-4b6f-8da5-d6d250b0a216,"FN Brno Bohunice - mobilní odběrové místo",CZ0642,,"Jihlavská 20, Brno 62500",49.1755828,16.5704460,160,,,,
 20cb8476-3ade-499b-a22f-1f2c4a327e68,"FN Brno Bohunice - odběrová sanita",CZ0642,1,"Jihlavská 20, Brno 62500",49.1755828,16.5704460,40,,,,
@@ -165,7 +165,7 @@ b08ed639-a90f-4fd8-aede-612afd1a764f,"INTER CLINIC Praha-Radotín, s.r.o.",CZ010
 f701f8bf-a98a-4c7f-8714-9c21020a12a0,"IVF CUBE",CZ0100,1,"Evropská 423, 160 00 Praha 6-Vokovice",50.0951508,14.3383903,0,1,,1,
 067ef1e2-2c18-490c-aee5-ccae6558110e,"Imunogen s.r.o. - Odběrové místo Sluneční náměstí",CZ0100,1,"Sluneční náměstí 2588/15",50.0503111,14.3434461,60,1,,1,
 68b00b3c-f73b-45a2-a96f-a88f1d6d072b,JHM-923,CZ0645,1,"Strážnická 615/1 Rohatec 69601",,,500,1,,1,1
-afd5e212-7026-49bb-b706-807d856da1b2,"KKN a. s. nemocnice Cheb LOKOMOTIVA",CZ0411,1,"U Stadionu 1295/1, Cheb",50.0677294,12.3754844,306,1,,1,
+afd5e212-7026-49bb-b706-807d856da1b2,"KKN a. s. nemocnice Cheb LOKOMOTIVA",CZ0411,1,"U Stadionu 1295/1, Cheb",50.0677294,12.3754844,402,1,,1,
 f0edab29-f29e-416f-9269-9fe9ce40a452,"KNL,a.s. - mobilní odběrový tým",CZ0513,1,"Husova 357/10",,,0,1,,1,
 2fc02273-c211-4ed4-b728-5748e6858ce4,"KNL,a.s.-odběrové místo Frýdlant",CZ0513,1,"V Úvoze 860, Frýdlant",50.9258356,15.0874417,160,,,1,
 e47d8eb1-643c-4afb-8d92-a3374e2d6a55,"KNL,a.s.-odběrové místo Turnov",CZ0514,1,"ul. 28. října 1000",50.5887394,15.1687439,220,,,1,
@@ -453,7 +453,7 @@ a793599d-ce36-4f44-bdff-ed99b9033bd8,"Středomoravská nemocniční a.s., Nemocn
 c8b4e8c9-7043-43a1-a7cc-1076fd479fa2,"Synlab, Laboratoř Znojmo",CZ0647,,"Dyjská 579/6,  669 02 Znojmo",48.8513197,16.0507197,45,,,1,
 3880e71e-5a94-49d6-944d-83b1655e3ecf,"THE CLINIC MEDICAL s.r.o.",CZ0100,1,"Na Florenci 1023/21a, Praha 1, 110 00",50.0887794,14.4363261,50,1,1,,
 d481e742-3725-447e-bcd1-b61e5a91250b,"TRANS HOSPITAL PLUS s.r.o. - Řevnice",CZ020A,1,"Řevnice, Mařáková 1080",49.9122897,14.2384225,0,,,1,
-be594aef-d5e2-4483-821a-7237d0c78bc4,"Teplice - Trnovany MUDr. Košťál - odběrové místo Masarykova třída",CZ0426,1,"Masarykova třída 1803, 415 01 Teplice - Trnovany",50.6521328,13.8427522,250,,,,
+be594aef-d5e2-4483-821a-7237d0c78bc4,"Teplice - Trnovany MUDr. Košťál - odběrové místo Masarykova třída",CZ0426,1,"Masarykova třída 1803, 415 01 Teplice - Trnovany",50.6521328,13.8427522,250,,,1,
 d732c6ac-bd51-42fc-b984-390e08f0c87b,"Testovací centrum Revoluční 30, Aiolite/PREVEDIG medical",CZ0100,1,"Revoluční 30, Praha 1",50.0924231,14.4275594,1500,1,,,
 aa29c68c-364a-4980-aa0c-19443aff2eb3,"Thomayerova nemocnice",CZ0100,1,"Vídeňská 800, Praha 4, 140 59",50.0300710,14.4571780,500,1,,1,
 9831ca97-a7a5-42c0-9df5-e8b095e3ade7,"Uherskohradišťská nemocnice a. s.",CZ0722,1,"J. E. Purkyně 365, 686 06 Uherské Hradiště",49.0630667,17.4524353,280,,,1,
