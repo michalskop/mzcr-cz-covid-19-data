@@ -355,7 +355,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-01-30,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-11
 2021-01-30,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-17
-2021-01-30,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,,
 2021-01-30,cb0f8a24-3c54-467e-9e67-de01f424ea85,Česká Lípa očkovací místo  Crystal,CZ051,Liberecký kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-01-30,57932100-0df4-472c-a015-d2b750df5b58,Fakultní nemocnice Hradec Králové,CZ052,Královéhradecký kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-09
 2021-01-30,57932100-0df4-472c-a015-d2b750df5b58,Fakultní nemocnice Hradec Králové,CZ052,Královéhradecký kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-09
@@ -454,7 +453,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,b6f39bb5-9ebf-44be-a1d1-0efacab96703,Nemocnice Pardubice - Sál Jana Kašpara Krajský úřad,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-01-30,b6f39bb5-9ebf-44be-a1d1-0efacab96703,Nemocnice Pardubice - Sál Jana Kašpara Krajský úřad,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-14
 2021-01-30,b6f39bb5-9ebf-44be-a1d1-0efacab96703,Nemocnice Pardubice - Sál Jana Kašpara Krajský úřad,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-27
-2021-01-30,b6f39bb5-9ebf-44be-a1d1-0efacab96703,Nemocnice Pardubice - Sál Jana Kašpara Krajský úřad,CZ053,Pardubický kraj,80+,neuvedeno,CZ,,
+2021-01-30,b6f39bb5-9ebf-44be-a1d1-0efacab96703,Nemocnice Pardubice - Sál Jana Kašpara Krajský úřad,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-03-28
 2021-01-30,b6f39bb5-9ebf-44be-a1d1-0efacab96703,Nemocnice Pardubice - Sál Jana Kašpara Krajský úřad,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-14
 2021-01-30,b6f39bb5-9ebf-44be-a1d1-0efacab96703,Nemocnice Pardubice - Sál Jana Kašpara Krajský úřad,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-14
 2021-01-30,b6f39bb5-9ebf-44be-a1d1-0efacab96703,Nemocnice Pardubice - Sál Jana Kašpara Krajský úřad,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-03
@@ -879,7 +878,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-05
 2021-01-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-07
 2021-01-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-08
-2021-01-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,,
+2021-01-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-28
 2021-01-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-06
 2021-01-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-06
 2021-01-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-07
@@ -896,6 +895,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,0707be37-c28c-489c-b0d2-96704013eb91,Městská nemocnice Městec Králové a.s.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-04
 2021-01-31,0707be37-c28c-489c-b0d2-96704013eb91,Městská nemocnice Městec Králové a.s.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-05
 2021-01-31,281cd704-c5c4-447d-aace-debad0aa3269,Nemocnice AGEL Říčany a.s. - Sportovní hala,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
+2021-01-31,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-03-27
 2021-01-31,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-01-31,31de7f09-960c-4287-80b4-012568de1703,"Vakcinační centrum COVID19 - Obecní dům Nymburk, provozovatel Nemocnice Nymburk s.r.o.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-31,39aece24-3e8d-4261-8cab-db23b2d48d50,"Mělnická zdravotní, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
@@ -1018,7 +1018,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,333a11ee-363d-499f-90cb-9d61f62543cc,"Rokycanská nemocnice, a. s.",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-31,333a11ee-363d-499f-90cb-9d61f62543cc,"Rokycanská nemocnice, a. s.",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-01
-2021-01-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-01-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-01
 2021-01-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-01
 2021-01-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
@@ -1231,7 +1230,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-06
 2021-01-31,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-01-31
 2021-01-31,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-03-26
-2021-01-31,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,,
+2021-01-31,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-03-28
 2021-01-31,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-01
 2021-01-31,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-09
 2021-01-31,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-06
@@ -1485,7 +1484,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-24
 2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,,
 2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-09
-2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,,
+2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-03-28
 2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-09
 2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-27
 2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-03-03
