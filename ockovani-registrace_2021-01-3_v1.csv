@@ -173,6 +173,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-27
 2021-01-30,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-01-30,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
+2021-01-30,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-03-30
 2021-01-30,718fcb7c-904e-41f3-9be6-15a75ef9b5e0,Oblastní nemocnice Kolín - očkovací místo,CZ020,Středočeský kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-24
 2021-01-30,718fcb7c-904e-41f3-9be6-15a75ef9b5e0,Oblastní nemocnice Kolín - očkovací místo,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-01-30,718fcb7c-904e-41f3-9be6-15a75ef9b5e0,Oblastní nemocnice Kolín - očkovací místo,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
@@ -565,12 +566,9 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-09
 2021-01-30,492920f2-e2f6-4d29-9b60-b1ec9924d84d,"Nemocnice Kyjov, příspěvková organizace",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-01-30,492920f2-e2f6-4d29-9b60-b1ec9924d84d,"Nemocnice Kyjov, příspěvková organizace",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-01-30,492920f2-e2f6-4d29-9b60-b1ec9924d84d,"Nemocnice Kyjov, příspěvková organizace",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
-2021-01-30,492920f2-e2f6-4d29-9b60-b1ec9924d84d,"Nemocnice Kyjov, příspěvková organizace",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-01-30,492920f2-e2f6-4d29-9b60-b1ec9924d84d,"Nemocnice Kyjov, příspěvková organizace",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-01-30,492920f2-e2f6-4d29-9b60-b1ec9924d84d,"Nemocnice Kyjov, příspěvková organizace",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-01-30,492920f2-e2f6-4d29-9b60-b1ec9924d84d,"Nemocnice Kyjov, příspěvková organizace",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-01-30,492920f2-e2f6-4d29-9b60-b1ec9924d84d,"Nemocnice Kyjov, příspěvková organizace",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-01-30,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-24
 2021-01-30,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,70-74,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-23
 2021-01-30,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,75-79,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-04
@@ -597,6 +595,9 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-06
 2021-01-30,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-05
 2021-01-30,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-05
+2021-01-30,7db4f337-4936-4175-b7a9-4ddffa91b6f4,Kyjov Městské kulturní středisko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
+2021-01-30,7db4f337-4936-4175-b7a9-4ddffa91b6f4,Kyjov Městské kulturní středisko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
+2021-01-30,7db4f337-4936-4175-b7a9-4ddffa91b6f4,Kyjov Městské kulturní středisko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-01-30,c782926c-12bf-4071-a62a-79b75515a1a6,"Nemocnice Hustopeče, p.o.",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-01-30,ca2ebe9a-25f5-4386-a47a-1def0c83afa5,"Nemocnice TGM Hodonín, přísp. organizace Dům kultury Hodonín - očkovací centrum COVID-19",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-11
 2021-01-30,ca2ebe9a-25f5-4386-a47a-1def0c83afa5,"Nemocnice TGM Hodonín, přísp. organizace Dům kultury Hodonín - očkovací centrum COVID-19",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-11
@@ -668,7 +669,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-01-30,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
 2021-01-30,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-01
-2021-01-30,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,,
 2021-01-30,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-01-30,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-01-30,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-03-01
@@ -897,6 +897,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-01-31,31de7f09-960c-4287-80b4-012568de1703,"Vakcinační centrum COVID19 - Obecní dům Nymburk, provozovatel Nemocnice Nymburk s.r.o.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-31,39aece24-3e8d-4261-8cab-db23b2d48d50,"Mělnická zdravotní, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-01-31,3dc2a084-026d-417c-9401-6f295a918010,Nemocnice Sedlčany - Kulturní dům Josefa Suka Sedlčany,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-01-31,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-01-31,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
 2021-01-31,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
@@ -945,7 +946,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,d206ef0a-fb75-44d3-a67f-f1cc73121aa1,Nemocnice Čáslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-25
 2021-01-31,d206ef0a-fb75-44d3-a67f-f1cc73121aa1,Nemocnice Čáslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
 2021-01-31,de1e1058-0b21-497f-bcf8-94a5690d8b33,Nemocnice Sedlčany,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-09
-2021-01-31,de1e1058-0b21-497f-bcf8-94a5690d8b33,Nemocnice Sedlčany,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-01-31,de1e1058-0b21-497f-bcf8-94a5690d8b33,Nemocnice Sedlčany,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-09
 2021-01-31,de1e1058-0b21-497f-bcf8-94a5690d8b33,Nemocnice Sedlčany,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-03
 2021-01-31,de1e1058-0b21-497f-bcf8-94a5690d8b33,Nemocnice Sedlčany,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-08
@@ -1107,7 +1107,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,5be58deb-47c3-46ee-9181-7a89443f33ff,"Masarykova městská nemocnice, a.s. (nemocnice Semily)",CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-31,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
 2021-01-31,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
-2021-01-31,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,,
 2021-01-31,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-01-31,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-01-31,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-14
