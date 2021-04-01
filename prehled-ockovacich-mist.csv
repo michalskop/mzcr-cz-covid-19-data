@@ -57,7 +57,7 @@ d149c33b-4906-410d-948d-25128f4aa4d7,"Hornická nemocnice s poliklinikou spol. s
 66d5df2b-faaa-4590-86ba-8f403066cf8f,"Hustopeče Společenský dům (FN u sv. Anny)",CZ0644,1,"Herbenova 423/4 Hustopeče",48.9375550,16.7400950,159816000,1000,1
 f923b437-fab1-4e93-b5b5-b8d1ca541272,IMMUNO-FLOW,CZ0100,1,"Rychnovská 651",50.1363439,14.5103592,62415522000,80,1
 d7b72e99-9792-48e5-b615-661839a75456,"ISCARE a.s.",CZ0100,1,"Českomoravská 2510/19, Praha 9",50.1032706,14.4956436,61858366000,80,1
-17f9de03-18a0-48e8-91dd-c9b925b2f66a,"IVF Czech Republic s.r.o. (Sanatorium Tomášov)",CZ0724,1,"U Lomu 638, 760 01 Zlín",49.2167472,17.6636294,25594575001,80,1
+17f9de03-18a0-48e8-91dd-c9b925b2f66a,"IVF Czech Republic s.r.o. (Sanatorium Tomášov)",CZ0724,,"U Lomu 638, 760 01 Zlín",49.2167472,17.6636294,25594575001,80,1
 30b0373e-0b9a-444d-aa0d-42c8066a39a7,"ImunoGen s.r.o.",CZ0100,1,"Sluneční náměstí 15, Praha 13",50.0503111,14.3434461,6686630000,60,1
 f48613c8-f616-460b-bbb3-096e07223c73,"ImunoSantana spol. s r.o.",CZ0411,1,"Májová 582/19, 350 02 Cheb",50.0756700,12.3698400,25687794000,50,1
 c4d419b8-311f-427e-a6fc-3538e2ffc7bb,"Infocentrum Chodov",CZ0413,1,"Staroměstská 39, Chodov 357 35",50.2401831,12.7486403,26365804000,200,
@@ -211,7 +211,7 @@ b85e83d4-e9be-456d-b6b5-8e2acac97990,"Očkovací centrum Dobřichovice sportovn�
 73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,"Očkovací centrum Liberec",CZ0513,1,"U Jezu 642/2a, Liberec",50.7640786,15.0543333,27283933000,100,1
 51202c9c-0869-494a-803f-eb6de980f6f3,"Očkovací centrum Třebíč",CZ0634,1,"Kulturní dům Fórum, Masarykovo nám. 1313/13, 674 07 Třebíč",49.2139389,15.8784253,839396000,300,
 7d48eb57-8ab6-4c37-a267-f759c4ec03bb,"Plasy - Kulturní dům Plasy",CZ0325,1,"Plzeňská 41, 331 01 Plasy",49.9316000,13.3839417,29090300000,160,
-d3b8acc6-6815-4ae9-b3a7-e9f6a49dfd33,"Podbořany - Domov pro seniory (Dr. Nabout)",CZ0424,1,"Nádražní 933, 441 01 Podbořany",50.2244853,13.4068903,4571673000,120,
+d3b8acc6-6815-4ae9-b3a7-e9f6a49dfd33,"Podbořany - Domov pro seniory (Dr. Nabout)",CZ0424,1,"Nádražní 933, 441 01 Podbořany",50.2244853,13.4068903,4571673000,120,1
 a45e27be-cb59-449e-8ee0-ee8646ef0325,"Podřipská nemocnice s poliklinikou Roudnice n. L., s.r.o.",CZ0423,1,"Alej 17.listopadu 1101, Roudnice nad Labem, 41301",50.4233367,14.2477733,25443801000,42,
 7fd8c9d3-96af-4379-be5c-63849cf5e013,"Poliklinika Anděl s.r.o., Praha 5 - Smíchov",CZ0100,1,"Nádražní 762/32, Praha 5 - Smíchov",50.0616400,14.4095500,27381200000,10,1
 2c11f28c-f95b-4af0-8fd9-d33b104bafb9,"Poliklinika GILMEDA Vratimov",CZ0806,,"Sokolská 133, 739 32 Vratimov",49.7715900,18.3093700,28607546000,50,1
