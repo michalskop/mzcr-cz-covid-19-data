@@ -330,7 +330,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-10,e8e63305-db89-43c6-8aa2-eeda1a4287ef,Rehabilitační nemocnici Beroun,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-10,e8e63305-db89-43c6-8aa2-eeda1a4287ef,Rehabilitační nemocnici Beroun,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-10,e8e63305-db89-43c6-8aa2-eeda1a4287ef,Rehabilitační nemocnici Beroun,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-10,ff1d41dd-18a2-45ed-bfee-8b2ff0022633,Nemocnice Brandýs nad Labem,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-02-10,ffddf34a-46dc-48a5-ba76-cf1c35339bf2,Nemocnice Neratovice,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-10,ffddf34a-46dc-48a5-ba76-cf1c35339bf2,Nemocnice Neratovice,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-10,ffddf34a-46dc-48a5-ba76-cf1c35339bf2,Nemocnice Neratovice,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
@@ -350,7 +349,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-10,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-02-10,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-02-10,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
-2021-02-10,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,,
 2021-02-10,313285e5-df33-485b-aad2-1f121d45aba8,Nemocnice Strakonice - OČKO tělocvična STARZ,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-10,313285e5-df33-485b-aad2-1f121d45aba8,Nemocnice Strakonice - OČKO tělocvična STARZ,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-10,313285e5-df33-485b-aad2-1f121d45aba8,Nemocnice Strakonice - OČKO tělocvična STARZ,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
@@ -791,13 +789,13 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-10,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-02-10,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-10,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-10,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
-2021-02-10,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
-2021-02-10,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-10,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-02-10,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-02-10,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-02-10,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
+2021-02-10,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
+2021-02-10,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
+2021-02-10,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-10,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
+2021-02-10,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
+2021-02-10,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
+2021-02-10,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-02-10,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
 2021-02-10,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-10,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
@@ -832,7 +830,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-10,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-10,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-10,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-10,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-02-10,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-10,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-10,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-07
@@ -841,7 +838,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-10,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-02-10,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-11
 2021-02-10,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
-2021-02-10,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-02-10,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-11
 2021-02-10,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
 2021-02-10,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
@@ -923,7 +919,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-10,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-10,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-02-10,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-10
-2021-02-10,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,,
 2021-02-10,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-12
 2021-02-10,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-12
 2021-02-10,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-12
@@ -1138,7 +1133,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-11,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-11
 2021-02-11,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-03
 2021-02-11,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-24
-2021-02-11,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,,
 2021-02-11,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-11,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-11,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-12
@@ -1237,6 +1231,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-11,c8e549b8-aafb-4b4c-ae3b-b1ccee70513f,"LRS Chvaly, o.p.s.",CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-06
 2021-02-11,e1aecc42-6aa6-46cc-9dde-9761fd6fa830,Poliklinika Prosek a.s.,CZ010,Hlavní město Praha,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-06
 2021-02-11,e1aecc42-6aa6-46cc-9dde-9761fd6fa830,Poliklinika Prosek a.s.,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-11
+2021-02-11,e1aecc42-6aa6-46cc-9dde-9761fd6fa830,Poliklinika Prosek a.s.,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-04-01
 2021-02-11,e1aecc42-6aa6-46cc-9dde-9761fd6fa830,Poliklinika Prosek a.s.,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-12
 2021-02-11,e1aecc42-6aa6-46cc-9dde-9761fd6fa830,Poliklinika Prosek a.s.,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-04
 2021-02-11,e1aecc42-6aa6-46cc-9dde-9761fd6fa830,Poliklinika Prosek a.s.,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-11
@@ -1405,7 +1400,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-11,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-11,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-02-11,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
-2021-02-11,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,,
 2021-02-11,313285e5-df33-485b-aad2-1f121d45aba8,Nemocnice Strakonice - OČKO tělocvična STARZ,CZ031,Jihočeský kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-22
 2021-02-11,313285e5-df33-485b-aad2-1f121d45aba8,Nemocnice Strakonice - OČKO tělocvična STARZ,CZ031,Jihočeský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-22
 2021-02-11,313285e5-df33-485b-aad2-1f121d45aba8,Nemocnice Strakonice - OČKO tělocvična STARZ,CZ031,Jihočeský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-22
@@ -1548,7 +1542,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-11,4aec9f14-bc39-4d73-be9e-d2c7e60e3495,Nemocnice Ostrov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-11
 2021-02-11,4aec9f14-bc39-4d73-be9e-d2c7e60e3495,Nemocnice Ostrov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-11
 2021-02-11,4aec9f14-bc39-4d73-be9e-d2c7e60e3495,Nemocnice Ostrov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,,
-2021-02-11,5610e09b-866f-4e7f-b2b5-664fcd5ac19c,KC Svoboda Cheb,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,,
 2021-02-11,5d4ec5da-2348-4a49-9661-ae1f9a60485a,Nemocnice Sokolov,CZ041,Karlovarský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-11
 2021-02-11,5d4ec5da-2348-4a49-9661-ae1f9a60485a,Nemocnice Sokolov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-03-11
 2021-02-11,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-02
@@ -1796,17 +1789,17 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-11,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-02-11,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-11,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,SK,1.0,2021-02-23
-2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-16
-2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,SK,1.0,2021-02-23
+2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-16
+2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
+2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-11,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-02-11,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-18
 2021-02-11,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-18
 2021-02-11,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
@@ -1842,7 +1835,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-11,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-11,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-11,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-02-11,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-02-11,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-11,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-11,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
@@ -1861,7 +1853,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-11,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-13
 2021-02-11,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-11,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
-2021-02-11,7db4f337-4936-4175-b7a9-4ddffa91b6f4,Kyjov Městské kulturní středisko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
+2021-02-11,7db4f337-4936-4175-b7a9-4ddffa91b6f4,Kyjov Městské kulturní středisko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-04-01
 2021-02-11,c782926c-12bf-4071-a62a-79b75515a1a6,"Nemocnice Hustopeče, p.o.",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-25
 2021-02-11,c782926c-12bf-4071-a62a-79b75515a1a6,"Nemocnice Hustopeče, p.o.",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-02-11,c782926c-12bf-4071-a62a-79b75515a1a6,"Nemocnice Hustopeče, p.o.",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
@@ -1894,7 +1886,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-11,f5fe8269-61d2-4c43-8661-81876bbbbc89,Nemocnice Znojmo Sportovni Hala Dvořákova,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-02-11,f5fe8269-61d2-4c43-8661-81876bbbbc89,Nemocnice Znojmo Sportovni Hala Dvořákova,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-18
 2021-02-11,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-26
-2021-02-11,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,,
 2021-02-11,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-11,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-11,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-26
@@ -1907,7 +1898,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-11,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-11,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-13
 2021-02-11,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-11,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-11,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-04-01
 2021-02-11,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-11,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-02-11,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-22
@@ -1921,7 +1912,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-11,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-11,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-11,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-12
-2021-02-11,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-02-11,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-12
 2021-02-11,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-12
 2021-02-11,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-12
@@ -2212,14 +2202,12 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-12,0707be37-c28c-489c-b0d2-96704013eb91,Městská nemocnice Městec Králové a.s.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-14
 2021-02-12,0707be37-c28c-489c-b0d2-96704013eb91,Městská nemocnice Městec Králové a.s.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-12,0707be37-c28c-489c-b0d2-96704013eb91,Městská nemocnice Městec Králové a.s.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-02-12,0707be37-c28c-489c-b0d2-96704013eb91,Městská nemocnice Městec Králové a.s.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-02-12,0707be37-c28c-489c-b0d2-96704013eb91,Městská nemocnice Městec Králové a.s.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-14
 2021-02-12,0707be37-c28c-489c-b0d2-96704013eb91,Městská nemocnice Městec Králové a.s.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-12,0707be37-c28c-489c-b0d2-96704013eb91,Městská nemocnice Městec Králové a.s.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-12,0707be37-c28c-489c-b0d2-96704013eb91,Městská nemocnice Městec Králové a.s.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-12,0707be37-c28c-489c-b0d2-96704013eb91,Městská nemocnice Městec Králové a.s.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-12,0707be37-c28c-489c-b0d2-96704013eb91,Městská nemocnice Městec Králové a.s.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
-2021-02-12,12ca67cd-7038-438f-acf0-d193a141a653,Centrum zdravotní péče Jirny,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-02-12,12ca67cd-7038-438f-acf0-d193a141a653,Centrum zdravotní péče Jirny,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-02-12,281cd704-c5c4-447d-aace-debad0aa3269,Nemocnice AGEL Říčany a.s. - Sportovní hala,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-12,281cd704-c5c4-447d-aace-debad0aa3269,Nemocnice AGEL Říčany a.s. - Sportovní hala,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
@@ -2384,7 +2372,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-12,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-02-12,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-12,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
-2021-02-12,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,,
 2021-02-12,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-12,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-12,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
@@ -2501,7 +2488,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-12,4aec9f14-bc39-4d73-be9e-d2c7e60e3495,Nemocnice Ostrov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-12,4aec9f14-bc39-4d73-be9e-d2c7e60e3495,Nemocnice Ostrov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-12,4aec9f14-bc39-4d73-be9e-d2c7e60e3495,Nemocnice Ostrov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-02-12,5610e09b-866f-4e7f-b2b5-664fcd5ac19c,KC Svoboda Cheb,CZ041,Karlovarský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-02-12,5d4ec5da-2348-4a49-9661-ae1f9a60485a,Nemocnice Sokolov,CZ041,Karlovarský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-11
 2021-02-12,5d4ec5da-2348-4a49-9661-ae1f9a60485a,Nemocnice Sokolov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-03-11
 2021-02-12,5d4ec5da-2348-4a49-9661-ae1f9a60485a,Nemocnice Sokolov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-03-11
@@ -2541,9 +2527,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-12,a45e27be-cb59-449e-8ee0-ee8646ef0325,"Podřipská nemocnice s poliklinikou Roudnice n. L., s.r.o.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-09
 2021-02-12,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-07
 2021-02-12,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-07
-2021-02-12,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-07
 2021-02-12,d149c33b-4906-410d-948d-25128f4aa4d7,Hornická nemocnice s poliklinikou spol. s.r.o. - Bílina,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-16
-2021-02-12,d166058b-d215-4166-925d-69f7c168ef96,"Krajská zdravotní, a.s. - Nemocnice Teplice",CZ042,Ústecký kraj,80+,neuvedeno,CZ,,
 2021-02-12,d166058b-d215-4166-925d-69f7c168ef96,"Krajská zdravotní, a.s. - Nemocnice Teplice",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-12,4938a85d-84a8-4b1e-bc65-87a6dac5efa5,Masarykova městská nemocnice a.s. (Jilemnice),CZ051,Liberecký kraj,80+,neuvedeno,CZ,,
 2021-02-12,4938a85d-84a8-4b1e-bc65-87a6dac5efa5,Masarykova městská nemocnice a.s. (Jilemnice),CZ051,Liberecký kraj,80+,neuvedeno,CZ,,
@@ -2763,20 +2747,20 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-12,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-02-12,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-02-12,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-22
-2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
-2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
-2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-01
-2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
-2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
-2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
+2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-22
+2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
+2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
+2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-01
+2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
+2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
+2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
+2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
+2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
+2021-02-12,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-12,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
 2021-02-12,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
 2021-02-12,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
@@ -2851,7 +2835,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-12,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-12,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-12,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-13
-2021-02-12,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-02-12,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-12,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-14
 2021-02-12,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-13
@@ -3087,7 +3070,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-13,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-04
 2021-02-13,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-25
 2021-02-13,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-02-13,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,,
 2021-02-13,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-02-13,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-13,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-15
@@ -3280,7 +3262,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-13,5d4ec5da-2348-4a49-9661-ae1f9a60485a,Nemocnice Sokolov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-03-11
 2021-02-13,5d4ec5da-2348-4a49-9661-ae1f9a60485a,Nemocnice Sokolov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-03-11
 2021-02-13,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-03-01
-2021-02-13,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,,
+2021-02-13,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-03-31
 2021-02-13,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-27
 2021-02-13,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-03-01
 2021-02-13,db148287-219d-4213-806f-4c7322e26291,Nemocnice v Chebu,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
@@ -3432,7 +3414,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-13,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-02-13,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-02-13,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-13,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
+2021-02-13,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
 2021-02-13,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-13,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-13,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
@@ -3477,7 +3459,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-13,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-14
 2021-02-13,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-14
 2021-02-13,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
-2021-02-13,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-02-13,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-13
 2021-02-13,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-14
 2021-02-13,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-13
@@ -3583,7 +3564,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-14,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-14,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-14,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-02-14,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,,
 2021-02-14,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-14,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-14,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-15
@@ -3605,7 +3585,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-14,9295cb5e-e9ae-4858-97ce-5dadaf99ad72,Všeobecná fakultní nemocnice Praha,CZ010,Hlavní město Praha,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-17
 2021-02-14,9295cb5e-e9ae-4858-97ce-5dadaf99ad72,Všeobecná fakultní nemocnice Praha,CZ010,Hlavní město Praha,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-25
 2021-02-14,b62c5314-15f8-4da2-95f0-0aedd6d11ac2,Nemocnice Na Homolce,CZ010,Hlavní město Praha,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-23
-2021-02-14,b62c5314-15f8-4da2-95f0-0aedd6d11ac2,Nemocnice Na Homolce,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,,
+2021-02-14,b62c5314-15f8-4da2-95f0-0aedd6d11ac2,Nemocnice Na Homolce,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-04-01
 2021-02-14,b8908961-8b5d-46d6-ad40-89bceacd7874,"EUC klinika Praha a.s. - Šustova, Praha 11",CZ010,Hlavní město Praha,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-26
 2021-02-14,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-18
 2021-02-14,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-18
@@ -3732,7 +3712,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-14,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-14,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-14,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
-2021-02-14,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,,
 2021-02-14,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-14,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-14,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
@@ -3823,7 +3802,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-14,be3e9bad-6d9f-4302-8d3c-99fb456f7643,"Nemocnice Rychnov nad Kněžnou, Společenské centrum",CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-02-14,e8de7565-5dad-46a9-b7c1-7d7d7d73263f,Oblastní nemocnice Náchod a.s.,CZ052,Královéhradecký kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-26
 2021-02-14,e8de7565-5dad-46a9-b7c1-7d7d7d73263f,Oblastní nemocnice Náchod a.s.,CZ052,Královéhradecký kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
-2021-02-14,e8de7565-5dad-46a9-b7c1-7d7d7d73263f,Oblastní nemocnice Náchod a.s.,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,,
 2021-02-14,e8de7565-5dad-46a9-b7c1-7d7d7d73263f,Oblastní nemocnice Náchod a.s.,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-02-14,e8de7565-5dad-46a9-b7c1-7d7d7d73263f,Oblastní nemocnice Náchod a.s.,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-14,e8de7565-5dad-46a9-b7c1-7d7d7d73263f,Oblastní nemocnice Náchod a.s.,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-26
@@ -3928,20 +3906,20 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-14,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-14,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-14,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
-2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
-2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-27
-2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
-2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
-2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
-2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
+2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
+2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
+2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-27
+2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
+2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
+2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
+2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
+2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
+2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-14,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-14,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
 2021-02-14,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
 2021-02-14,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
@@ -4002,8 +3980,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-14,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-02-14,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-25
 2021-02-14,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-15
-2021-02-14,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
-2021-02-14,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-02-14,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-15
 2021-02-14,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-15
 2021-02-14,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-15
@@ -4511,10 +4487,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-15,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-02-15,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
-2021-02-15,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,,
 2021-02-15,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
-2021-02-15,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,,
-2021-02-15,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,,
 2021-02-15,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-02-15,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,313285e5-df33-485b-aad2-1f121d45aba8,Nemocnice Strakonice - OČKO tělocvična STARZ,CZ031,Jihočeský kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-26
@@ -4563,7 +4536,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-15,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-22
 2021-02-15,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-24
-2021-02-15,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,75-79,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-02-15,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-03-02
 2021-02-15,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
@@ -4654,7 +4626,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-15,c5881ce2-0007-4fe1-8a80-66fba7dafa3d,"Nemocnice následné péče Svatá Anna, s.r.o.",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-15,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-15,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
-2021-02-15,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-02-15,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-15,d420fe26-7f32-4287-b929-4dc90d824b77,Stříbro - Kulturní dům Stříbro,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
@@ -4912,7 +4883,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-15,6edad920-0382-4946-af44-cafeb841d6b1,Litomyšlská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-15,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-16
 2021-02-15,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
-2021-02-15,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-29
 2021-02-15,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
 2021-02-15,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,70-74,neuvedeno,CZ,1.0,2021-02-17
 2021-02-15,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-16
@@ -4976,7 +4946,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-15,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-15,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-02-15,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,,
 2021-02-15,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,5af3b96f-7153-4eec-a66a-20a2fcdb9aa8,Nemocnice Havlíčkův Brod,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-15,5af3b96f-7153-4eec-a66a-20a2fcdb9aa8,Nemocnice Havlíčkův Brod,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-18
@@ -5136,30 +5105,30 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-15,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-15,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-15,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-18
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-16
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-07
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-18
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-16
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-07
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
+2021-02-15,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-02-15,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
 2021-02-15,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
 2021-02-15,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
@@ -5304,8 +5273,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-15,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
-2021-02-15,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
-2021-02-15,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-02-15,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-15,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-15,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
@@ -5313,7 +5280,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-15,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-15,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
-2021-02-15,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-02-15,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-15,7db4f337-4936-4175-b7a9-4ddffa91b6f4,Kyjov Městské kulturní středisko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-02-15,7db4f337-4936-4175-b7a9-4ddffa91b6f4,Kyjov Městské kulturní středisko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
@@ -5371,7 +5337,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-15,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-25
 2021-02-15,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
-2021-02-15,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
+2021-02-15,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-04-01
 2021-02-15,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
@@ -5660,14 +5626,12 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-16
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,70-74,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-16
-2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,,
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-17
-2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,,
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-17
@@ -5684,8 +5648,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-16
-2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,,
-2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,,
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-16,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-16
@@ -6115,7 +6077,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-16,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-03-02
 2021-02-16,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-16,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-03-02
-2021-02-16,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-03-03
+2021-02-16,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-04-01
 2021-02-16,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-16,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-16,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-03-03
@@ -6167,7 +6129,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-16,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-16,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-16,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
-2021-02-16,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,,
 2021-02-16,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-02-16,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-02-16,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
@@ -6269,7 +6230,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-16,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-16,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-16,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
-2021-02-16,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-02-16,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-09
 2021-02-16,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-16,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
@@ -6383,7 +6343,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-16,c5881ce2-0007-4fe1-8a80-66fba7dafa3d,"Nemocnice následné péče Svatá Anna, s.r.o.",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-02-16,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-16,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-16,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-02-16,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-16,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-16,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
@@ -6532,7 +6491,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-16,b3427f78-5252-4318-b26e-80670c7bf0a6,Nemocnice AGEL Louny a.s.,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-02
 2021-02-16,b3427f78-5252-4318-b26e-80670c7bf0a6,Nemocnice AGEL Louny a.s.,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-02
 2021-02-16,b3427f78-5252-4318-b26e-80670c7bf0a6,Nemocnice AGEL Louny a.s.,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-06
-2021-02-16,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-07
 2021-02-16,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-11
 2021-02-16,d149c33b-4906-410d-948d-25128f4aa4d7,Hornická nemocnice s poliklinikou spol. s.r.o. - Bílina,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-16,d149c33b-4906-410d-948d-25128f4aa4d7,Hornická nemocnice s poliklinikou spol. s.r.o. - Bílina,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-18
@@ -6811,6 +6769,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-16,b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,Nemocnice Pelhřimov - Kulturní dům Máj,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-25
 2021-02-16,b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,Nemocnice Pelhřimov - Kulturní dům Máj,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-02-16,b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,Nemocnice Pelhřimov - Kulturní dům Máj,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-25
+2021-02-16,b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,Nemocnice Pelhřimov - Kulturní dům Máj,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-04-01
 2021-02-16,b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,Nemocnice Pelhřimov - Kulturní dům Máj,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-07
 2021-02-16,b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,Nemocnice Pelhřimov - Kulturní dům Máj,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-16,b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,Nemocnice Pelhřimov - Kulturní dům Máj,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-18
@@ -6922,28 +6881,28 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-16,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-02-16,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-02-16,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-06
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-24
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-06
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-24
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-16,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-16,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-24
 2021-02-16,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
 2021-02-16,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
@@ -7070,7 +7029,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-16,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-16,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-16,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
-2021-02-16,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-02-16,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-16,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-16,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
@@ -7108,7 +7066,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-16,da5422b1-8002-456c-aa95-9a26a5e0e622,Břeclav Dům školství,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-08
 2021-02-16,da5422b1-8002-456c-aa95-9a26a5e0e622,Břeclav Dům školství,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-02-16,da5422b1-8002-456c-aa95-9a26a5e0e622,Břeclav Dům školství,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-01
-2021-02-16,e1279737-8cfb-4197-ad38-3def6a9a17e0,Zdravotní ústav se sídlem v Ostravě - pracoviště Brno,CZ064,Jihomoravský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-02-16,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
 2021-02-16,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
 2021-02-16,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
@@ -7510,7 +7467,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-17,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-17,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-17,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-17,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,,
 2021-02-17,51f67019-bb4e-41e0-a38b-91c9480596fd,L Dermamedest s.r.o.,CZ010,Hlavní město Praha,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-27
 2021-02-17,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-02
 2021-02-17,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-02
@@ -8268,7 +8224,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-17,14b71e51-3e80-42e9-8f0d-eb50320dd7f4,LITVÍNOV - Krušnohorská poliklinika s.r.o.,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-02-17,14b71e51-3e80-42e9-8f0d-eb50320dd7f4,LITVÍNOV - Krušnohorská poliklinika s.r.o.,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-17,14b71e51-3e80-42e9-8f0d-eb50320dd7f4,LITVÍNOV - Krušnohorská poliklinika s.r.o.,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-17
-2021-02-17,14b71e51-3e80-42e9-8f0d-eb50320dd7f4,LITVÍNOV - Krušnohorská poliklinika s.r.o.,CZ042,Ústecký kraj,80+,neuvedeno,CZ,,
 2021-02-17,14b71e51-3e80-42e9-8f0d-eb50320dd7f4,LITVÍNOV - Krušnohorská poliklinika s.r.o.,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-17,35226817-f739-4586-9a31-defc268d56e1,Nemocnice Litoměřice a.s.,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-17,35226817-f739-4586-9a31-defc268d56e1,Nemocnice Litoměřice a.s.,CZ042,Ústecký kraj,80+,neuvedeno,CZ,,
@@ -8323,7 +8278,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-17,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-03
 2021-02-17,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-03
 2021-02-17,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-17,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-07
 2021-02-17,d149c33b-4906-410d-948d-25128f4aa4d7,Hornická nemocnice s poliklinikou spol. s.r.o. - Bílina,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-17,d166058b-d215-4166-925d-69f7c168ef96,"Krajská zdravotní, a.s. - Nemocnice Teplice",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-10
 2021-02-17,d166058b-d215-4166-925d-69f7c168ef96,"Krajská zdravotní, a.s. - Nemocnice Teplice",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-04
@@ -8671,21 +8625,21 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-17,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-02-17,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-02-17,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
-2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
-2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
+2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
+2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-17,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-17,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-23
 2021-02-17,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-23
 2021-02-17,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,SK,1.0,2021-02-23
@@ -8896,7 +8850,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-17,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-02-17,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-17,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-23
-2021-02-17,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,,
 2021-02-17,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-25
 2021-02-17,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-17,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-25
@@ -9837,7 +9790,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-18,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-03-02
 2021-02-18,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-03-12
 2021-02-18,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-03-02
-2021-02-18,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-02-18,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-24
 2021-02-18,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-24
 2021-02-18,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-24
@@ -9984,7 +9936,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-18,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-02-18,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-25
 2021-02-18,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
-2021-02-18,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
+2021-02-18,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-04-01
 2021-02-18,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-02-18,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-02-18,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
@@ -10214,7 +10166,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-18,b3427f78-5252-4318-b26e-80670c7bf0a6,Nemocnice AGEL Louny a.s.,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-03
 2021-02-18,b3427f78-5252-4318-b26e-80670c7bf0a6,Nemocnice AGEL Louny a.s.,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-03
 2021-02-18,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-18
-2021-02-18,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-07
 2021-02-18,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-15
 2021-02-18,d149c33b-4906-410d-948d-25128f4aa4d7,Hornická nemocnice s poliklinikou spol. s.r.o. - Bílina,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-02-18,d149c33b-4906-410d-948d-25128f4aa4d7,Hornická nemocnice s poliklinikou spol. s.r.o. - Bílina,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-27
@@ -10585,10 +10536,10 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-18,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-26
 2021-02-18,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-26
 2021-02-18,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-02-18,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-05
+2021-02-18,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-04-01
 2021-02-18,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-26
 2021-02-18,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-26
-2021-02-18,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-05
+2021-02-18,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-04-01
 2021-02-18,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-05
 2021-02-18,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-22
 2021-02-18,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-26
@@ -10684,16 +10635,16 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-18,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-02-18,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-02-18,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-05
-2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-24
-2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
-2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
-2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-05
+2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-24
+2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
+2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
+2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-18,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-18,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-23
 2021-02-18,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-23
 2021-02-18,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-23
@@ -12414,7 +12365,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-19,b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,Nemocnice Pelhřimov - Kulturní dům Máj,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-19,b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,Nemocnice Pelhřimov - Kulturní dům Máj,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-02-25
 2021-02-19,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-26
-2021-02-19,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-05
+2021-02-19,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-04-01
 2021-02-19,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-26
 2021-02-19,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-26
 2021-02-19,cc785573-e41f-43bb-91ea-9a1893f6b9d2,Nemocnice Třebíč,CZ063,Kraj Vysočina,80+,neuvedeno,CZ,1.0,2021-03-26
@@ -12495,29 +12446,29 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-19,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-19,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-19,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-05
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-05
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
-2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-21
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-05
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-05
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
+2021-02-19,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-19,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-23
 2021-02-19,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-27
 2021-02-19,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-26
