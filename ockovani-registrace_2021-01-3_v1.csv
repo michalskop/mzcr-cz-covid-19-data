@@ -693,7 +693,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,41efe0d6-da6d-4978-8f80-ee2999a71580,"Sdružené zdravotnické zařízení Krnov, p. o. - pediatrické odd.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-04
 2021-01-30,41efe0d6-da6d-4978-8f80-ee2999a71580,"Sdružené zdravotnické zařízení Krnov, p. o. - pediatrické odd.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-03
 2021-01-30,41efe0d6-da6d-4978-8f80-ee2999a71580,"Sdružené zdravotnické zařízení Krnov, p. o. - pediatrické odd.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-03-23
-2021-01-30,41efe0d6-da6d-4978-8f80-ee2999a71580,"Sdružené zdravotnické zařízení Krnov, p. o. - pediatrické odd.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-01-30,41efe0d6-da6d-4978-8f80-ee2999a71580,"Sdružené zdravotnické zařízení Krnov, p. o. - pediatrické odd.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-01-30,4b39139d-22d5-40e3-b752-dfa2d6aca34e,EUC klinika Ostrava a.s.,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-30,4b39139d-22d5-40e3-b752-dfa2d6aca34e,EUC klinika Ostrava a.s.,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
@@ -1358,6 +1357,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-07
 2021-01-31,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-01
 2021-01-31,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-05
+2021-01-31,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-04-03
 2021-01-31,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-31,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-01
 2021-01-31,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-12
@@ -1375,7 +1375,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,c782926c-12bf-4071-a62a-79b75515a1a6,"Nemocnice Hustopeče, p.o.",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-28
 2021-01-31,ccccfd3b-1362-49d5-b3b6-b0f71dc6d572,Nemocnice TGM Hodonín,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-01-31,d03cc3a3-044e-4d00-a2ec-7abccc400b3b,"Nemocnice Vyškov, p. o.",CZ064,Jihomoravský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-22
-2021-01-31,d03cc3a3-044e-4d00-a2ec-7abccc400b3b,"Nemocnice Vyškov, p. o.",CZ064,Jihomoravský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-01-31,d03cc3a3-044e-4d00-a2ec-7abccc400b3b,"Nemocnice Vyškov, p. o.",CZ064,Jihomoravský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-22
 2021-01-31,d03cc3a3-044e-4d00-a2ec-7abccc400b3b,"Nemocnice Vyškov, p. o.",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-05
 2021-01-31,d03cc3a3-044e-4d00-a2ec-7abccc400b3b,"Nemocnice Vyškov, p. o.",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
@@ -1444,7 +1443,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-01-31,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-01
 2021-01-31,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-01
-2021-01-31,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,,
 2021-01-31,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-01
 2021-01-31,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-01
 2021-01-31,bbbcf265-9f34-4056-a7e8-f9067fd339a4,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Šternberk",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-25
