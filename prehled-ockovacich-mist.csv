@@ -194,7 +194,7 @@ db148287-219d-4213-806f-4c7322e26291,"Nemocnice v Chebu",CZ0411,,"K nemocnici 17
 ade1335c-0185-4292-af9a-5de58be97774,"Nemocnice České Budějovice - OČKO Výstaviště České Budějovice",CZ0311,1,"Husova 523/30, 370 05 České Budějovice",48.9855900,14.4598200,26068877000,1000,1
 e7d3f647-96bc-44ba-88d2-77e1b2b1be48,"Nemocnice Český Krumlov - OČKO Sportovní hala",CZ0312,1,"Chvalšinská 111, 381 01 Český Krumlov",48.8117300,14.3265400,26095149000,0,1
 d206ef0a-fb75-44d3-a67f-f1cc73121aa1,"Nemocnice Čáslav",CZ0205,1,"Jeníkovská, 348/17, Čáslav",49.9042383,15.4007222,873764000,0,
-0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,"Nemocnice Šumperk",CZ0715,1,"Nerudova 41, 787 01 Šumperk",49.9595753,16.9681881,47682795000,100,1
+0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,"Nemocnice Šumperk",CZ0715,1,"Nerudova 41, 787 01 Šumperk",49.9595753,16.9681881,47682795000,500,1
 5192f1b9-836b-4736-80a6-28653ef1b965,"Nemocnice Žatec, o.p.s.",CZ0424,1,"Husova 2796, 43801 Žatec",50.3195300,13.5380300,25026259000,0,
 15065368-c355-4728-b0ae-d3fc8798cf42,"ON Mladá Boleslav - Kino Mnichovo Hradiště",CZ0207,1,"I. Olbrachta 897, 295 01 Mnichovo Hradiště",50.5195600,14.9757600,27256456000,80,
 ecdde69c-5828-46ca-a973-2ce3cb9ae1b6,"Oblastní nemocnice Jičín a.s.",CZ0522,1,"Bolzanova 512, 50601 Jičín - Valdické Předměstí",50.4401092,15.3574047,26001551000,0,1
@@ -221,7 +221,7 @@ a45e27be-cb59-449e-8ee0-ee8646ef0325,"Podřipská nemocnice s poliklinikou Roudn
 e1aecc42-6aa6-46cc-9dde-9761fd6fa830,"Poliklinika Prosek a.s.",CZ0100,1,"Lovosická 440/40",50.1292300,14.4897400,28495306000,60,1
 3f0f3044-990c-4143-a85e-9fc16da5bb1b,"Poliklinika Telč, spol. s r.o.",CZ0632,1,"Masarykova 330, 588 56 Telč",49.1835000,15.4598000,25302833000,100,
 a8413ced-4d83-4b81-bcb9-e53132722acc,"Poliklinika Třešť spol. s.r.o",CZ0632,1,"Palackého 1334 58901 Třešť",49.2854428,15.4813150,49434691000,100,1
-483119cf-7b11-4434-8416-b90a646dd990,"Praktik a internista s.r.o.",CZ0100,1,"Trávníčkova 1744/4, Praha 5",50.0434800,14.3199797,1432184000,60,
+483119cf-7b11-4434-8416-b90a646dd990,"Praktik a internista s.r.o.",CZ0100,1,"Trávníčkova 1744/4, Praha 5",50.0434800,14.3199797,1432184000,60,1
 28f83d48-bce8-4d12-9b1f-4316e973c02f,Privamed,CZ0325,1,"Kotíkovská 927/19, 323 00 Plzeň 1-Severní Předměstí",49.7655100,13.3593800,46885251000,0,
 eecc0842-a27e-4e28-8e69-24e624877713,"Psychiatrická nemocnice v Dobřanech",CZ0324,,"Ústavní, 33441 Dobřany",49.6396200,13.2864800,669792000,0,
 b8a946ef-4994-4dcd-859e-09040f43a6d0,"RESPIMED s.r.o.",CZ0100,1,"Urešova 1757, 148 00 Praha 4",50.0218600,14.4867600,47454296002,96,1
