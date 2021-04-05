@@ -1456,7 +1456,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-11,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-02-11,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-01
 2021-02-11,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-11,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-02-11,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-11,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-11,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
@@ -2879,7 +2878,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-12,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-12,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-12,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-02-12,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-02-12,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-12,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-12,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
@@ -2936,7 +2934,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-12,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-13
 2021-02-12,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-25
 2021-02-12,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-12
-2021-02-12,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-02-12,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-12
 2021-02-12,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-14
 2021-02-12,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-13
@@ -2944,16 +2941,13 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-12,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,70-74,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-12
 2021-02-12,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-14
 2021-02-12,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-13
-2021-02-12,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,,
 2021-02-12,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-13
 2021-02-12,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-12,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-13
-2021-02-12,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,,
 2021-02-12,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-03-07
 2021-02-12,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-12,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-12,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
-2021-02-12,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,,
 2021-02-12,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-12,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-12,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
@@ -3220,7 +3214,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-13,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-25
 2021-02-13,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-13,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
-2021-02-13,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-02-13,af3ecd8e-ad5d-4098-8bcd-bbcee81bfdc0,Stodská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-13,c10c6184-1773-46c8-85c3-7c09f8877880,Tachov - Poliklinika Tachov,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-13,c10c6184-1773-46c8-85c3-7c09f8877880,Tachov - Poliklinika Tachov,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-03-07
@@ -3713,7 +3706,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-14,28f83d48-bce8-4d12-9b1f-4316e973c02f,Privamed,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-02-14,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-14,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
-2021-02-14,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-02-14,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-02-14,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-03-17
 2021-02-14,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
@@ -4049,7 +4041,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-15,12d05c60-f168-462a-a4e1-ac5ad8e42722,Městská poliklinika Praha - Spálená,CZ010,Hlavní město Praha,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-28
 2021-02-15,12d05c60-f168-462a-a4e1-ac5ad8e42722,Městská poliklinika Praha - Spálená,CZ010,Hlavní město Praha,70-74,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-01
 2021-02-15,12d05c60-f168-462a-a4e1-ac5ad8e42722,Městská poliklinika Praha - Spálená,CZ010,Hlavní město Praha,70-74,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-28
-2021-02-15,30b0373e-0b9a-444d-aa0d-42c8066a39a7,ImunoGen s.r.o.,CZ010,Hlavní město Praha,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-02-15,381ef57d-e0e9-4079-a1b9-fd7d476a8aae,Státní zdravotní ústav - budova 11,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,44133735-28b0-4c07-a675-f6613a761f8c,Nemocnice Sv. Kříže Žižkov,CZ010,Hlavní město Praha,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-26
 2021-02-15,44133735-28b0-4c07-a675-f6613a761f8c,Nemocnice Sv. Kříže Žižkov,CZ010,Hlavní město Praha,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-26
@@ -4763,8 +4754,8 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-15,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-15,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,,
 2021-02-15,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-03-02
-2021-02-15,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-03-02
 2021-02-15,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-17
+2021-02-15,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-03-02
 2021-02-15,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-15,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-15,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-17
@@ -5329,7 +5320,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-15,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-02-15,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-02-15,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,Nemocnice Tišnov,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
@@ -5416,7 +5406,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-15,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-15,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-15,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-02-15,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,,
 2021-02-15,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-15,481dd978-47d9-46a2-a379-84fc06761772,Vsetínská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-15,481dd978-47d9-46a2-a379-84fc06761772,Vsetínská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
@@ -8044,7 +8033,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-17,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-02-17,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-17,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-17,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-02-17,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-17,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-03-16
 2021-02-17,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-25
@@ -8052,7 +8040,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-17,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-27
 2021-02-17,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-17,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-17,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-02-17,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-17,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-02-17,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-27
@@ -8905,7 +8892,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-17,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
 2021-02-17,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-18
 2021-02-17,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-18
-2021-02-17,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-02-17,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
 2021-02-17,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
 2021-02-17,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,75-79,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-18
@@ -10288,6 +10274,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-18,8facdb9c-6716-4666-ae00-b58f7ccee441,Oblastní nemocnice Trutnov a.s.,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-18,8facdb9c-6716-4666-ae00-b58f7ccee441,Oblastní nemocnice Trutnov a.s.,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-18,8facdb9c-6716-4666-ae00-b58f7ccee441,Oblastní nemocnice Trutnov a.s.,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-18,8facdb9c-6716-4666-ae00-b58f7ccee441,Oblastní nemocnice Trutnov a.s.,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-04-04
 2021-02-18,8facdb9c-6716-4666-ae00-b58f7ccee441,Oblastní nemocnice Trutnov a.s.,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-18,8facdb9c-6716-4666-ae00-b58f7ccee441,Oblastní nemocnice Trutnov a.s.,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-18,8facdb9c-6716-4666-ae00-b58f7ccee441,Oblastní nemocnice Trutnov a.s.,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-18
@@ -10987,6 +10974,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-18,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-18,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-18,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-02-18,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-04-04
 2021-02-18,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-18,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-02-18,3ffb874d-db62-4e50-8c75-d819d283d160,Moje Ambulance a.s. Havířov,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
@@ -11836,7 +11824,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-19,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-19,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-19,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
-2021-02-19,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-02-19,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-19,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-19,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22

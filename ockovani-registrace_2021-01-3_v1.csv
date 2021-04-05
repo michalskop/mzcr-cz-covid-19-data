@@ -264,8 +264,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-28
 2021-01-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
-2021-01-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
-2021-01-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-01-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
@@ -590,7 +588,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-05
 2021-01-30,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-05
 2021-01-30,7db4f337-4936-4175-b7a9-4ddffa91b6f4,Kyjov Městské kulturní středisko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
-2021-01-30,7db4f337-4936-4175-b7a9-4ddffa91b6f4,Kyjov Městské kulturní středisko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
+2021-01-30,7db4f337-4936-4175-b7a9-4ddffa91b6f4,Kyjov Městské kulturní středisko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-04-04
 2021-01-30,7db4f337-4936-4175-b7a9-4ddffa91b6f4,Kyjov Městské kulturní středisko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-01-30,c782926c-12bf-4071-a62a-79b75515a1a6,"Nemocnice Hustopeče, p.o.",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-01-30,ca2ebe9a-25f5-4386-a47a-1def0c83afa5,"Nemocnice TGM Hodonín, přísp. organizace Dům kultury Hodonín - očkovací centrum COVID-19",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-11
@@ -618,9 +616,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-01-30,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-01-30,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-22
-2021-01-30,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,,
 2021-01-30,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-03
-2021-01-30,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,,
 2021-01-30,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-03
 2021-01-30,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-03
 2021-01-30,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-10
@@ -649,7 +645,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-01-30,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-03-02
 2021-01-30,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-28
-2021-01-30,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,,
 2021-01-30,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-16
 2021-01-30,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-16
 2021-01-30,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-03
@@ -836,7 +831,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,b62c5314-15f8-4da2-95f0-0aedd6d11ac2,Nemocnice Na Homolce,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-09
 2021-01-31,b62c5314-15f8-4da2-95f0-0aedd6d11ac2,Nemocnice Na Homolce,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-05
 2021-01-31,b8a946ef-4994-4dcd-859e-09040f43a6d0,RESPIMED s.r.o.,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-02
-2021-01-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-16
 2021-01-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-12
 2021-01-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,SK,1.0,2021-02-12
 2021-01-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-01
@@ -1005,7 +999,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-01
 2021-01-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
-2021-01-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-01-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-01-31,4a387070-9a9b-4824-b1b0-437120b10481,Mulačova nemocnice s.r.o.,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-01-31,4a387070-9a9b-4824-b1b0-437120b10481,Mulačova nemocnice s.r.o.,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-03-10
@@ -1027,7 +1020,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,c10c6184-1773-46c8-85c3-7c09f8877880,Tachov - Poliklinika Tachov,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-01-31,c10c6184-1773-46c8-85c3-7c09f8877880,Tachov - Poliklinika Tachov,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-11
 2021-01-31,c10c6184-1773-46c8-85c3-7c09f8877880,Tachov - Poliklinika Tachov,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
-2021-01-31,c5881ce2-0007-4fe1-8a80-66fba7dafa3d,"Nemocnice následné péče Svatá Anna, s.r.o.",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-01-31,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-25
 2021-01-31,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-01-31,f6a9ae5b-0d93-4bd4-b630-b3667a9c9059,EUC Klinika Plzeň,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
@@ -1357,7 +1349,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-07
 2021-01-31,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-01
 2021-01-31,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-05
-2021-01-31,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-04-03
 2021-01-31,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-31,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-01
 2021-01-31,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-12
@@ -1412,9 +1403,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-31,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-03
 2021-01-31,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-01-31,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,,
 2021-01-31,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-01-31,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,,
 2021-01-31,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-01-31,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-01-31,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-24
@@ -1456,14 +1445,12 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-02
 2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-27
 2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-24
-2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,,
 2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-09
 2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-03-28
 2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-09
 2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-27
 2021-01-31,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-03-03
 2021-01-31,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,70-74,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-11
-2021-01-31,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,,
 2021-01-31,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-01
 2021-01-31,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-03
 2021-01-31,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-01
