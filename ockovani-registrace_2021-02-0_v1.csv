@@ -1975,7 +1975,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-02,31de7f09-960c-4287-80b4-012568de1703,"Vakcinační centrum COVID19 - Obecní dům Nymburk, provozovatel Nemocnice Nymburk s.r.o.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-02-02,39aece24-3e8d-4261-8cab-db23b2d48d50,"Mělnická zdravotní, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-04
 2021-02-02,39aece24-3e8d-4261-8cab-db23b2d48d50,"Mělnická zdravotní, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
-2021-02-02,3dc2a084-026d-417c-9401-6f295a918010,Nemocnice Sedlčany - Kulturní dům Josefa Suka Sedlčany,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-02-02,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-02,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-02,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
@@ -2217,7 +2216,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-02,5960ec70-2686-4b29-8af0-04a1481e7351,Sušická nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-02,5960ec70-2686-4b29-8af0-04a1481e7351,Sušická nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-02,5960ec70-2686-4b29-8af0-04a1481e7351,Sušická nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
-2021-02-02,a2dce440-6580-4f31-9c03-bd832da754e3,Velkokapacitní OČM Plzeňského kraje Plzeň-Skvrňany,CZ032,Plzeňský kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-02-02,a2dce440-6580-4f31-9c03-bd832da754e3,Velkokapacitní OČM Plzeňského kraje Plzeň-Skvrňany,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-03-23
 2021-02-02,af3ecd8e-ad5d-4098-8bcd-bbcee81bfdc0,Stodská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-14
 2021-02-02,af3ecd8e-ad5d-4098-8bcd-bbcee81bfdc0,Stodská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
@@ -3034,7 +3032,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-02,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
 2021-02-02,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
 2021-02-02,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
-2021-02-02,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,,
 2021-02-02,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-02,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,,
 2021-02-02,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
@@ -3445,9 +3442,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-03,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-04
 2021-02-03,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-04
 2021-02-03,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-04
-2021-02-03,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-02-03,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-05
-2021-02-03,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-02-03,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-04
 2021-02-03,31de7f09-960c-4287-80b4-012568de1703,"Vakcinační centrum COVID19 - Obecní dům Nymburk, provozovatel Nemocnice Nymburk s.r.o.",CZ020,Středočeský kraj,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-11
 2021-02-03,31de7f09-960c-4287-80b4-012568de1703,"Vakcinační centrum COVID19 - Obecní dům Nymburk, provozovatel Nemocnice Nymburk s.r.o.",CZ020,Středočeský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-25
@@ -3467,8 +3462,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-03,39aece24-3e8d-4261-8cab-db23b2d48d50,"Mělnická zdravotní, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
 2021-02-03,39aece24-3e8d-4261-8cab-db23b2d48d50,"Mělnická zdravotní, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-02-03,39aece24-3e8d-4261-8cab-db23b2d48d50,"Mělnická zdravotní, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
-2021-02-03,3dc2a084-026d-417c-9401-6f295a918010,Nemocnice Sedlčany - Kulturní dům Josefa Suka Sedlčany,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
-2021-02-03,3dc2a084-026d-417c-9401-6f295a918010,Nemocnice Sedlčany - Kulturní dům Josefa Suka Sedlčany,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-02-03,3dc2a084-026d-417c-9401-6f295a918010,Nemocnice Sedlčany - Kulturní dům Josefa Suka Sedlčany,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-03-30
 2021-02-03,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-22
 2021-02-03,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
@@ -4583,7 +4576,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-03,ae9c4f09-2a1d-41dd-bf45-f8864f24dd5c,Karvinská hornická nemocnice a.s. Oddělení pracovního lékařství KHN,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-02-03,ae9c4f09-2a1d-41dd-bf45-f8864f24dd5c,Karvinská hornická nemocnice a.s. Oddělení pracovního lékařství KHN,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-03,ae9c4f09-2a1d-41dd-bf45-f8864f24dd5c,Karvinská hornická nemocnice a.s. Oddělení pracovního lékařství KHN,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-25
-2021-02-03,ae9c4f09-2a1d-41dd-bf45-f8864f24dd5c,Karvinská hornická nemocnice a.s. Oddělení pracovního lékařství KHN,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-03-25
+2021-02-03,ae9c4f09-2a1d-41dd-bf45-f8864f24dd5c,Karvinská hornická nemocnice a.s. Oddělení pracovního lékařství KHN,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-04-06
 2021-02-03,bd060d74-64dd-45dd-bd06-51f9d6147814,Moje Ambulance a.s. Ostrava - Poruba,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-03-09
 2021-02-03,bd060d74-64dd-45dd-bd06-51f9d6147814,Moje Ambulance a.s. Ostrava - Poruba,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-28
 2021-02-03,c2ec6521-6a37-44c7-a661-1370adbac9c5,"Bohumínská městská nemocnice, a.s.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
@@ -4838,7 +4831,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-04,281cd704-c5c4-447d-aace-debad0aa3269,Nemocnice AGEL Říčany a.s. - Sportovní hala,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-25
 2021-02-04,281cd704-c5c4-447d-aace-debad0aa3269,Nemocnice AGEL Říčany a.s. - Sportovní hala,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-02-04,281cd704-c5c4-447d-aace-debad0aa3269,Nemocnice AGEL Říčany a.s. - Sportovní hala,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
-2021-02-04,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-02-04,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-04
 2021-02-04,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-04
 2021-02-04,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
@@ -4850,7 +4842,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-04,31de7f09-960c-4287-80b4-012568de1703,"Vakcinační centrum COVID19 - Obecní dům Nymburk, provozovatel Nemocnice Nymburk s.r.o.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-04,39aece24-3e8d-4261-8cab-db23b2d48d50,"Mělnická zdravotní, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-04,39aece24-3e8d-4261-8cab-db23b2d48d50,"Mělnická zdravotní, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
-2021-02-04,3dc2a084-026d-417c-9401-6f295a918010,Nemocnice Sedlčany - Kulturní dům Josefa Suka Sedlčany,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-02-04,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,BE,1.0,2021-02-19
 2021-02-04,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
 2021-02-04,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-08
@@ -4909,7 +4900,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-04,989b3700-401f-4700-a684-ae09d348a3c0,Nemocnice Hořovice,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-02-04,a8b62b00-0e64-4b8d-8202-316e0c00f809,"Nemocnice Rudolfa a Stefanie Benešov, a.s.",CZ020,Středočeský kraj,75-79,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-07
 2021-02-04,a8b62b00-0e64-4b8d-8202-316e0c00f809,"Nemocnice Rudolfa a Stefanie Benešov, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
-2021-02-04,a8b62b00-0e64-4b8d-8202-316e0c00f809,"Nemocnice Rudolfa a Stefanie Benešov, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
+2021-02-04,a8b62b00-0e64-4b8d-8202-316e0c00f809,"Nemocnice Rudolfa a Stefanie Benešov, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-04-06
 2021-02-04,a8b62b00-0e64-4b8d-8202-316e0c00f809,"Nemocnice Rudolfa a Stefanie Benešov, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-04,a8b62b00-0e64-4b8d-8202-316e0c00f809,"Nemocnice Rudolfa a Stefanie Benešov, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-04,a8b62b00-0e64-4b8d-8202-316e0c00f809,"Nemocnice Rudolfa a Stefanie Benešov, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-03-07
@@ -6073,9 +6064,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-05,281cd704-c5c4-447d-aace-debad0aa3269,Nemocnice AGEL Říčany a.s. - Sportovní hala,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-27
 2021-02-05,281cd704-c5c4-447d-aace-debad0aa3269,Nemocnice AGEL Říčany a.s. - Sportovní hala,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-27
 2021-02-05,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-03-02
-2021-02-05,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
-2021-02-05,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
-2021-02-05,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-02-05,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-05,31de7f09-960c-4287-80b4-012568de1703,"Vakcinační centrum COVID19 - Obecní dům Nymburk, provozovatel Nemocnice Nymburk s.r.o.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-02-05,31de7f09-960c-4287-80b4-012568de1703,"Vakcinační centrum COVID19 - Obecní dům Nymburk, provozovatel Nemocnice Nymburk s.r.o.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
@@ -6289,7 +6277,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-05,586ab361-ba26-4429-b0f3-8ff9831f07b2,"Dopravní zdravotnictví a.s., Poliklinika AGEL Plzeň",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-05,586ab361-ba26-4429-b0f3-8ff9831f07b2,"Dopravní zdravotnictví a.s., Poliklinika AGEL Plzeň",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-05,5960ec70-2686-4b29-8af0-04a1481e7351,Sušická nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
-2021-02-05,a2dce440-6580-4f31-9c03-bd832da754e3,Velkokapacitní OČM Plzeňského kraje Plzeň-Skvrňany,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-02-05,af3ecd8e-ad5d-4098-8bcd-bbcee81bfdc0,Stodská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-05,af3ecd8e-ad5d-4098-8bcd-bbcee81bfdc0,Stodská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-05,af3ecd8e-ad5d-4098-8bcd-bbcee81bfdc0,Stodská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
@@ -7038,7 +7025,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-06,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-17
 2021-02-06,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-06,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
-2021-02-06,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-02-06,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-06,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-02-06,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
@@ -7551,7 +7537,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-06,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-23
 2021-02-06,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-23
 2021-02-06,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-03
-2021-02-06,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-22
 2021-02-06,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-02-06,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-02-06,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
@@ -8264,7 +8249,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-08,02614fc8-a7d0-439d-8589-57c599cb495d,Nemocnice Na Františku,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,1.0,2021-02-27
 2021-02-08,02614fc8-a7d0-439d-8589-57c599cb495d,Nemocnice Na Františku,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-02-08,12d05c60-f168-462a-a4e1-ac5ad8e42722,Městská poliklinika Praha - Spálená,CZ010,Hlavní město Praha,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-02
-2021-02-08,12d05c60-f168-462a-a4e1-ac5ad8e42722,Městská poliklinika Praha - Spálená,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,,
 2021-02-08,381ef57d-e0e9-4079-a1b9-fd7d476a8aae,Státní zdravotní ústav - budova 11,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-08,381ef57d-e0e9-4079-a1b9-fd7d476a8aae,Státní zdravotní ústav - budova 11,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-02-08,381ef57d-e0e9-4079-a1b9-fd7d476a8aae,Státní zdravotní ústav - budova 11,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-17
@@ -8792,7 +8776,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-08,5960ec70-2686-4b29-8af0-04a1481e7351,Sušická nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-02-08,5960ec70-2686-4b29-8af0-04a1481e7351,Sušická nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-02-08,5960ec70-2686-4b29-8af0-04a1481e7351,Sušická nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-11
-2021-02-08,a2dce440-6580-4f31-9c03-bd832da754e3,Velkokapacitní OČM Plzeňského kraje Plzeň-Skvrňany,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-02-08,a2dce440-6580-4f31-9c03-bd832da754e3,Velkokapacitní OČM Plzeňského kraje Plzeň-Skvrňany,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-03-23
 2021-02-08,c10c6184-1773-46c8-85c3-7c09f8877880,Tachov - Poliklinika Tachov,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-08,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
@@ -8815,7 +8798,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-08,4aec9f14-bc39-4d73-be9e-d2c7e60e3495,Nemocnice Ostrov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-09
 2021-02-08,4aec9f14-bc39-4d73-be9e-d2c7e60e3495,Nemocnice Ostrov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-09
 2021-02-08,4aec9f14-bc39-4d73-be9e-d2c7e60e3495,Nemocnice Ostrov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-09
-2021-02-08,4aec9f14-bc39-4d73-be9e-d2c7e60e3495,Nemocnice Ostrov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-08
 2021-02-08,4aec9f14-bc39-4d73-be9e-d2c7e60e3495,Nemocnice Ostrov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-08
 2021-02-08,4aec9f14-bc39-4d73-be9e-d2c7e60e3495,Nemocnice Ostrov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-08
 2021-02-08,4aec9f14-bc39-4d73-be9e-d2c7e60e3495,Nemocnice Ostrov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-08
