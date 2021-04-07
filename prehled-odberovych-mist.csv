@@ -48,7 +48,7 @@ e45380c8-3319-4af2-b80b-9a264699ea1e,"AG Covid Point - Home Park Zličín",CZ010
 91bd1e57-485e-4793-aa8d-cf37988df849,"AG Covid Point - OC Letňany - Tesco",CZ0100,1,"Veselská 663 199 00 Praha 9",50.1341969,14.4985997,370,,,1,
 d6c96226-e0cc-449c-91f1-072e1582234b,"AG Covid Point - OC Černý most",CZ0100,1,"Chlumecká ul. Praha 9-Černý Most",50.1070308,14.5872724,370,,,1,
 77fd260e-4765-4147-acfe-1a60a69ac13b,"AG Covid Point Brumlovka",CZ0100,1,"Želetavská ul. Praha 4 - Michle",50.0485050,14.4563825,370,,,1,
-92fb5fab-7445-41a9-baa5-42fda666ec2d,"AG Covid Point EUROPARK Štěboholy",CZ0100,1,"Nákupní 389/3 Praha10- Štěrboholy",50.0720610,14.5457870,370,,,1,
+92fb5fab-7445-41a9-baa5-42fda666ec2d,"AG Covid Point EUROPARK Štěboholy",CZ0100,1,"Nákupní 389/3 Praha10- Štěrboholy",50.0722167,14.5436394,370,,,1,
 d85305f7-d116-4a7e-b3ba-eea6fe9ad6ac,"AG Covid Point OC Šestka",CZ0100,1,"Fajtlova1090 Praha 6 - Ruzyně",50.0940622,14.2912836,370,,,1,
 23ab953f-88a7-41d2-9931-abfdcdd03985,"AG Covidpoint - Brno Globus",CZ0642,,"Hradecká 40",49.1536100,16.3452900,200,,,1,
 c63857c0-50c0-4aae-944c-d31787fd193e,"AG Covidpoint - Havířov Globus",CZ0803,1,"U Skleníků 1490/24, 735 64 Havířov - Prostřední Suchá",49.7916286,18.4405233,200,,,1,
@@ -108,7 +108,7 @@ d91a2948-366c-40d2-a593-3358b8504f7b,"Dopravní zdravotnictví a.s., Poliklinika
 f527ce85-caf0-4905-bcde-34afafc29b35,"Drive IN - Hola Biolabs - Parkoviště CK Victoria - Heršpická 758/13",CZ0642,1,"Heršpická 758/13, 619 00 Brno - Štýřice",49.1715433,16.6022936,200,1,,1,1
 b4f471e1-7a52-47db-b9d1-cfa736df6ffb,"ELISABETH PHARMACON, spol. s. r. o.",CZ0642,1,"Rokycanova 4437/5, 615 00 Brno-Židenice",49.2005653,16.6407833,2050,,,,
 5a1d0419-8b22-4c61-9ff4-52751b4ee02f,"EMA Emergency s.r.o. - odběrové místo Olomouc Šantovka",CZ0712,1,"Polská 1201/1, 779 00 Olomouc",49.5874261,17.2579194,250,,,1,
-feeffab8-0292-460c-8715-5b390e4a5013,"EUC Klinika Liberec s.r.o. - odběrové místo",CZ0513,1,"Klášterní 117/2, 460 05 Liberec V-Kristiánov",50.7685825,15.0665256,60,,,1,
+feeffab8-0292-460c-8715-5b390e4a5013,"EUC Klinika Liberec s.r.o. - odběrové místo",CZ0513,1,"Klášterní 117/2, 460 05 Liberec V-Kristiánov",50.7685825,15.0665256,30,,,1,
 9166bc1c-e787-46dc-bfdf-8de9869e4371,"EUC Klinika Plzeň - pouze Ag testy",CZ0323,1,"Denisovo nábřeží 1000/4, 301 00 Plzeň 3",49.7450789,13.3830597,80,,,1,1
 2824c268-029c-4718-891d-82ab1a58c7a0,"EUC Klinika Praha Kartouzská",CZ0100,1,"Kartouzská 204/6,Praha 5",50.0742825,14.4015444,200,1,,1,
 5ff0bd2f-129b-439b-bb4e-dcb98049fd75,"EUC Laboratoře -  poliklinika České Budějovice",CZ0311,1,"Matice školské 1786/17, České Budějovice",48.9666044,14.4760956,200,1,,1,
@@ -216,6 +216,7 @@ c18b1d84-7211-4aa4-b897-4cc791e2ea13,"Laboratoř Chodov",CZ0413,1,"Tovární 600
 317e7a5f-facf-47b2-a8ba-6c57cf0d7274,"Laboratoře Diagnostika s.r.o.",CZ0427,1,"Novosedlické nám. 1, 400 03, Ústí nad Labem",50.6494553,14.0601222,80,1,1,1,
 dfec150c-4c67-4436-bafe-4bffdf504f1d,"Laboratoře lékařské genetiky",CZ0532,1,"Masarykovo náměstí 2667, Pardubice",50.0378189,15.7674169,100,1,,1,
 a58b3f43-3880-4ff6-9d43-a8718a319b5f,"Laboratoře lékařské genetiky - Lovosická",CZ0100,1,"Lovosická 440, Praha 9, 19800",50.1288628,14.4901978,180,1,,1,
+43e1dc00-5cd2-40c2-9fbf-1833685197b8,"Levitovo centrum následné péče (LCNP)",CZ0522,1,"Riegrova 655, 508 01 Hořice",50.3684781,15.6398039,72,,,1,
 17d9eb60-4c0d-4cc7-ad6a-bf7d7a3e1cc1,"Liberec - ZÚ Ústí nad Labem",CZ0513,1,"U Sila 1139, 4311 Liberec",50.7524967,15.0811989,140,1,,1,
 e74d8ae8-9864-44c3-9b05-f2da78a345ba,"Litomyšlská nemocnice",CZ0533,1,"J. E. Purkyně 652, 570 14 Litomyšl",49.8657292,16.3132428,300,,,1,
 ad1fc6c8-087c-4c07-8628-d9ea36514530,"Livian s.r.o. - CTP Hrabová",CZ0806,1,"Na Rovince 720, 720 00 Ostrava",49.7713122,18.2686181,1800,,,1,
@@ -303,6 +304,7 @@ dc977f09-dea9-42f5-9ee5-6c324c11b152,"Městská nemocnice Čáslav",CZ0205,1,"Je
 5189d544-9318-4e95-9d98-03aa573ba664,"Městská poliklinika Otrokovice",CZ0724,1,"Třída osvobození 1388, 765 02 Otrokovice",49.2054656,17.5361694,60,1,,1,
 c0397090-af76-40fd-a902-a0af3a2be3b7,"Městská poliklinika Praha - Spálená",CZ0100,1,"Spálená 12, Praha 1",50.0802836,14.4199494,100,,,1,
 0ac2caad-3073-4d7a-a7ee-0ccc27fe1476,"Městská poliklinika Praha, Výstaviště Praha",CZ0100,,"Výstaviště 67, Praha 7",50.1046158,14.4305628,180,,,,
+0b9516a2-57bc-48cb-8d6b-d9821f3aa892,"NEURO-MEDNET s.r.o. - Olomouc",CZ0712,1,"tř. Svobody 1067/32, Olomouc",49.5893164,17.2531981,120,1,,1,
 92ceb326-179d-468f-8edb-45e17d577633,"NH Hospital a.s. - OM Nemocnice Hořovice",CZ0202,1,"K Nemocnici 1106/14, Hořovice, 268 31",49.8406575,13.9155844,1000,1,1,1,
 5dd4d785-7837-43c5-9d8b-9dc2908c5c47,"NH Hospital a.s. - OM Nemocnice Hořovice - Beroun",CZ0202,1,"Prof. Veselého 493, 266 56 Beroun",49.9648486,14.0954883,300,1,1,1,
 6994d689-6773-46de-a62e-a47b58e4f91f,"NZZ Garant-Service group",CZ0412,1,"Fr. Krejčího 6, 360 01 Karlovy Vary",50.2118658,12.9056306,50,1,1,1,1
@@ -365,8 +367,8 @@ f9822c01-9c1c-4760-abe5-be9a6c72293b,"Nemocnice s poliklinikou Havířov, p.o.",
 92b03d48-f556-46be-b3a0-a838d1391c85,"Nemocnice s poliklinikou Česká Lípa",CZ0511,1,"Purkyňova 1849, Česká Lípa 470 01",50.6866311,14.5484203,200,1,,1,
 f8481e8a-f027-4ba6-b582-d4fbea21aa0e,"Nemocnice s poliklinikou Karviná, p. o.",CZ0803,1,"Vydmuchov 399/5, 734 01 Karviná-Ráj",49.8476090,18.5516250,150,1,,1,1
 e4796ba3-bdd8-463d-b6b6-2f206319e67e,"Nemocnice ve Frýdku-Místku, p.o.",CZ0802,1,"El. Krásnohorské 321, Frýdek, 738 01 Frýdek-Místek",49.6899870,18.3553920,150,1,,1,
-e6c85208-7725-4773-b1a9-e9198d1decc8,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",48.9590440,14.4686910,800,1,,1,
 e6794a78-b750-4403-b948-05594fef0584,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",,,100,,,,
+e6c85208-7725-4773-b1a9-e9198d1decc8,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",48.9590440,14.4686910,800,1,,1,
 d72b10d4-741d-494d-b7de-ef6201852291,"Nemocnice Český Krumlov",CZ0312,1,"Nemocniční 429, 38301 Český Krumlov",48.8114706,14.3266972,350,1,,1,
 feef4fd2-5f23-4d24-92e6-f6dbc706c4ea,"Nemocnice Šumperk a.s.",CZ0715,1,"Nerudova 640/41, 787 01 Šumperk",49.9586911,16.9631111,250,1,,1,
 58a81619-1e77-4fce-922f-70d6d3475c39,"Nemocnice Žatec, o.p.s.",CZ0424,1,"Husova 2796, Žatec 438 01",50.3218992,13.5388500,100,1,,1,
@@ -393,6 +395,7 @@ a4107a8d-19a8-473a-aa6e-1f2ece894e45,"Oblastní nemocnice Příbram, a.s.",CZ020
 646ceaa6-9c61-4812-a21b-cca2507f6556,"Oblastní spolek Českého červeného kříže Liberec",CZ0513,1,"Palachova  504/7, 460 01 Liberec",50.7692867,15.0607281,300,,,1,
 22584346-f0fb-468b-9378-4c0da3bb63e8,"Odběrné místo Litovel – praporní obvaziště pro uzavřenou oblast Litovelska a Uničovska",CZ0712,,"Mladeč, 783 21",49.5552820,17.7448510,0,,,,
 217c29db-e647-4e85-9c49-0385bac773d8,"Odběrové místo Scimed",CZ0521,1,"Hradecká 1227/4, Hradec Králové, 500 03",50.2027900,15.8311300,600,1,,1,
+fc1cec86-4c4d-40c1-92ed-033e770e5f0d,"Ordinace Ruzyně s.r.o. - Plzeňský kraj",CZ0323,1,,,,1000,1,1,1,
 6d469c09-e779-4b55-926f-78b575c10dd1,"Ordinace Ruzyně s.r.o. - odběrové místo Vysoké Mýto",CZ0534,,"Dobrovského 74, Vysoké mýto",49.9558594,16.1539228,2000,1,,1,
 d05da5f2-f2b3-4d41-b524-72d813bd2582,"Ordinace Ruzyně s.r.o. - odběrové místo Čakovice",CZ0100,1,"Kostelecká 823/77, Praha 9",50.1511097,14.5048142,300,,,1,
 d9bac971-6760-4e71-9f47-2ce5701ca463,"Ordinace Ruzyně s.r.o., odběrové místo Chodov",CZ0100,1,"Opatovská, Praha 11 - Chodov",50.0256747,14.5165409,200,1,,1,
@@ -405,6 +408,7 @@ e407cb1e-3d33-44e0-b3bf-5103f5ed31b2,"PREVEDIG medical - Jihlava",CZ0632,1,"na p
 bfe85780-eb4c-4108-ba5c-3706d57cd515,"PREVEDIG medical - Krupka - Maršov",CZ0426,1,"K.Čapka 294, 417 42 Krupka - Maršov",50.6866842,13.8855194,200,1,1,1,
 1c637b80-9180-4b0d-b0cf-4b11a940d4fa,"PREVEDIG medical - Libiš",CZ0206,1,"Pražská 626, 277 11 Libiš",50.2804939,14.4967375,300,1,,1,1
 57f1de95-2606-4b4b-9d7d-f4a0e60e5d50,"PREVEDIG medical - Poznaňská (Bohnice)",CZ0100,1,"Poznaňská 461/34,180 00 Praha 8 - Bohnice",50.1294869,14.4222086,200,1,,1,
+19c4d917-1ffe-42d5-9651-e0ca9d82f83d,"PREVEDIG medical - Sokolov",CZ0413,1,"Heyrovského 1812, 356 01 Sokolov",50.1743022,12.6577692,200,,,,
 3d3391cc-e7d5-448e-aa42-d99981d9dad9,"PREVEDIG medical - Teplice",CZ0426,1,"Tržní náměstí 241, 415 01 Teplice",50.6446775,13.8268697,200,1,,,
 cd1bdad3-2a1f-4fa2-9af2-e08d6ee63d1b,"PREVEDIG medical - Ústí nad Labem",CZ0427,1,"Velká hradební 619, 400 01 Ústí nad Labem",50.6622900,14.0419658,200,1,,1,
 ccf58d40-e213-4ab3-9ac0-0ad7efc9e9e6,"PREVEDIG medical - Šutka",CZ0100,1,"Čimická 848/41, Praha 8",50.1264842,14.4362497,300,1,,1,1
