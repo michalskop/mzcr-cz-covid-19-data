@@ -76,8 +76,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,9295cb5e-e9ae-4858-97ce-5dadaf99ad72,Všeobecná fakultní nemocnice Praha,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-02
 2021-01-30,9295cb5e-e9ae-4858-97ce-5dadaf99ad72,Všeobecná fakultní nemocnice Praha,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-03
 2021-01-30,9295cb5e-e9ae-4858-97ce-5dadaf99ad72,Všeobecná fakultní nemocnice Praha,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-03
-2021-01-30,b62c5314-15f8-4da2-95f0-0aedd6d11ac2,Nemocnice Na Homolce,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,,
-2021-01-30,b62c5314-15f8-4da2-95f0-0aedd6d11ac2,Nemocnice Na Homolce,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,,
 2021-01-30,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-01-30,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-12
 2021-01-30,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-12
@@ -293,7 +291,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,db148287-219d-4213-806f-4c7322e26291,Nemocnice v Chebu,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-03
 2021-01-30,db148287-219d-4213-806f-4c7322e26291,Nemocnice v Chebu,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-03
 2021-01-30,14b71e51-3e80-42e9-8f0d-eb50320dd7f4,LITVÍNOV - Krušnohorská poliklinika s.r.o.,CZ042,Ústecký kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
-2021-01-30,14b71e51-3e80-42e9-8f0d-eb50320dd7f4,LITVÍNOV - Krušnohorská poliklinika s.r.o.,CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-13
 2021-01-30,35226817-f739-4586-9a31-defc268d56e1,Nemocnice Litoměřice a.s.,CZ042,Ústecký kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-01-30,4475c51f-69b3-410d-b404-eaf319711512,"Krajská zdravotní, a.s. - Masarykova nemocnice v Ústí nad Labem, o.z.",CZ042,Ústecký kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-01-30,4475c51f-69b3-410d-b404-eaf319711512,"Krajská zdravotní, a.s. - Masarykova nemocnice v Ústí nad Labem, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-28
@@ -390,7 +387,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,03d60c72-2c3b-4aa1-882f-ed7b9f43d734,Svitavská nemocnice - multifunkční centrum Fabrika,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-13
 2021-01-30,03d60c72-2c3b-4aa1-882f-ed7b9f43d734,Svitavská nemocnice - multifunkční centrum Fabrika,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-01-30
 2021-01-30,03d60c72-2c3b-4aa1-882f-ed7b9f43d734,Svitavská nemocnice - multifunkční centrum Fabrika,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-01
-2021-01-30,03d60c72-2c3b-4aa1-882f-ed7b9f43d734,Svitavská nemocnice - multifunkční centrum Fabrika,CZ053,Pardubický kraj,80+,neuvedeno,CZ,,
 2021-01-30,03d60c72-2c3b-4aa1-882f-ed7b9f43d734,Svitavská nemocnice - multifunkční centrum Fabrika,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-01-31
 2021-01-30,0c7e626d-b0e6-413f-bd48-9bfce9b5487e,Orlickoústecká nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-14
 2021-01-30,0c7e626d-b0e6-413f-bd48-9bfce9b5487e,Orlickoústecká nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-19
@@ -582,9 +578,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-06
 2021-01-30,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-05
 2021-01-30,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-05
-2021-01-30,7db4f337-4936-4175-b7a9-4ddffa91b6f4,Kyjov Městské kulturní středisko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-01-30,7db4f337-4936-4175-b7a9-4ddffa91b6f4,Kyjov Městské kulturní středisko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-04-04
-2021-01-30,7db4f337-4936-4175-b7a9-4ddffa91b6f4,Kyjov Městské kulturní středisko,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-01-30,c782926c-12bf-4071-a62a-79b75515a1a6,"Nemocnice Hustopeče, p.o.",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-01-30,ca2ebe9a-25f5-4386-a47a-1def0c83afa5,"Nemocnice TGM Hodonín, přísp. organizace Dům kultury Hodonín - očkovací centrum COVID-19",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-11
 2021-01-30,ca2ebe9a-25f5-4386-a47a-1def0c83afa5,"Nemocnice TGM Hodonín, přísp. organizace Dům kultury Hodonín - očkovací centrum COVID-19",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-11
@@ -1167,7 +1161,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,0c7e626d-b0e6-413f-bd48-9bfce9b5487e,Orlickoústecká nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-03
 2021-01-31,0c7e626d-b0e6-413f-bd48-9bfce9b5487e,Orlickoústecká nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-01-31
 2021-01-31,0c7e626d-b0e6-413f-bd48-9bfce9b5487e,Orlickoústecká nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-10
-2021-01-31,6edad920-0382-4946-af44-cafeb841d6b1,Litomyšlská nemocnice,CZ053,Pardubický kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-01-31,6edad920-0382-4946-af44-cafeb841d6b1,Litomyšlská nemocnice,CZ053,Pardubický kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-05
 2021-01-31,6edad920-0382-4946-af44-cafeb841d6b1,Litomyšlská nemocnice,CZ053,Pardubický kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-01
 2021-01-31,6edad920-0382-4946-af44-cafeb841d6b1,Litomyšlská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-01
@@ -1498,7 +1491,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,71b299fb-33f6-46b7-ae94-78815297125c,Nemocnice AGEL Ostrava-Vítkovice a.s.,CZ080,Moravskoslezský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-04
 2021-01-31,71b299fb-33f6-46b7-ae94-78815297125c,Nemocnice AGEL Ostrava-Vítkovice a.s.,CZ080,Moravskoslezský kraj,55-59,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-16
 2021-01-31,71b299fb-33f6-46b7-ae94-78815297125c,Nemocnice AGEL Ostrava-Vítkovice a.s.,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-03-11
-2021-01-31,71b299fb-33f6-46b7-ae94-78815297125c,Nemocnice AGEL Ostrava-Vítkovice a.s.,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-03-01
 2021-01-31,71b299fb-33f6-46b7-ae94-78815297125c,Nemocnice AGEL Ostrava-Vítkovice a.s.,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-03-15
 2021-01-31,71b299fb-33f6-46b7-ae94-78815297125c,Nemocnice AGEL Ostrava-Vítkovice a.s.,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-31,77e3d92d-123b-452d-93ec-30afac4e2c0b,"Nemocnice s poliklinikou Karviná-Ráj, p.o. - pracoviště Karviná",CZ080,Moravskoslezský kraj,70-74,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-11
