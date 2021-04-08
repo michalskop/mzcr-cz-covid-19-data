@@ -191,7 +191,7 @@ a047cf19-f136-4ad8-a804-82d0ca88a4b6,"Klinické laboratoře Tábor - Mobilní od
 83497f16-4abf-498a-9853-b7af4c65373a,"Krajská nemocnice T.Bati, a. s.",CZ0724,1,"Havlíčkovo nábřeží 600, 762 75 Zlín",49.2300910,17.6940250,1200,1,1,1,1
 34c7c1cb-2367-41d5-b1ea-48209660a472,"Kroměřížská nemocnice a.s.",CZ0721,1,"Havlíčkova 660/69 767 01 Kroměříž",49.2929931,17.3817067,200,1,,1,
 8fbc61f7-4bc0-4f6e-b612-b219320ce737,"Kroměřížská nemocnice a.s. - Výstaviště Floria",CZ0721,1,"K Výstavišti 4069/8, 767 01 Kroměříž",49.2832297,17.3929950,800,1,,,1
-192cfd57-c7dc-4a09-a009-4341782d3491,"LF UK v Plzni",CZ0323,,"Lidická 538/4, 323 00, Plzeň",49.7624669,13.3699161,100,,,1,
+192cfd57-c7dc-4a09-a009-4341782d3491,"LF UK v Plzni",CZ0323,1,"Lidická 538/4, 323 00, Plzeň",49.7624669,13.3699161,100,,,1,
 4f97ca41-4ac7-492a-b8ee-0a4e99fbbbfe,"Lab In  Kladno",CZ0203,1,"J. Palacha 1636, 272 01 Kladno",50.1436175,14.0943547,100,1,1,1,
 230976f4-52a0-44d4-baf7-ae4edd87e07a,"Lab In - Institut laboratorní medicíny - MOT Karlovarský - Karlovy Vary",CZ0412,1,,,,180,,,,
 91c51abb-4a64-4e75-9950-ddbcd3da431d,"Lab In - Institut laboratorní medicíny - MOT Středočeský - Kladno",CZ0203,1,,,,180,,,,
@@ -238,7 +238,7 @@ f96a0924-67b1-48ab-9d25-5335e3728ac9,"MEDICAL TESTING s.r.o. Vestec u Prahy",CZ0
 4c3b2594-5ce5-435e-9fa5-52c88003db8d,"MMN, .a.s., nemocnice Jilemnice",CZ0514,1,"Metyšova 465, 514 01 Jilemnice",50.6115283,15.4993889,100,,,1,
 f66c347c-01b0-41d1-8e0d-5a5a6a9f357f,"MMN, a.s. (nemocnice Semily)",CZ0514,1,"3.května 421, Semily",50.5980375,15.3533992,50,1,,1,
 d9caa381-ccfa-4345-a0ca-2a785ba4969a,"MUDr. Marcel Pekárek - Stomatologická s.r.o.",CZ0205,1,"Fibichova 1338, 286 01 Čáslav",49.9053192,15.3949031,50,,,1,
-93bfdd12-6252-4199-8910-ff4265782743,"MUDr. Petr Tomaštík - odběrové místo Brno",CZ0642,1,"Kolejní, 612 00 Brno - Královo Pole, zastávka ,,Podnikatelská''",49.2279690,16.5755360,5000,,,1,
+93bfdd12-6252-4199-8910-ff4265782743,"MUDr. Petr Tomaštík - odběrové místo Brno",CZ0642,1,"Kolejní, 612 00 Brno - Královo Pole, zastávka ,,Podnikatelská''",49.2279690,16.5755360,5000,1,,1,
 87a59132-b611-474c-9ce2-04463cc08df6,"MUDr. Vratislav Prejzek s.r.o.",CZ0421,1,"Náměstí Míru 344, 407 77 Šluknov",51.0030603,14.4531467,100,,,1,1
 5aac53f7-f572-4b78-8707-652928a37a90,"Masarykova nemocnice Rakovník s.r.o.",CZ020C,1,"Dukelských hrdinů 200",50.1073508,13.7175817,200,1,,1,
 d980efee-a877-46b8-a887-5b4775749f82,"Masarykova nemocnice v Ústí nad Labem, o.z.",CZ0427,1,"Sociální péče 3316/12a, 401 13 Ústí nad Labem",50.6808530,14.0215120,130,1,1,1,
@@ -367,8 +367,8 @@ f9822c01-9c1c-4760-abe5-be9a6c72293b,"Nemocnice s poliklinikou Havířov, p.o.",
 92b03d48-f556-46be-b3a0-a838d1391c85,"Nemocnice s poliklinikou Česká Lípa",CZ0511,1,"Purkyňova 1849, Česká Lípa 470 01",50.6866311,14.5484203,200,1,,1,
 f8481e8a-f027-4ba6-b582-d4fbea21aa0e,"Nemocnice s poliklinikou Karviná, p. o.",CZ0803,1,"Vydmuchov 399/5, 734 01 Karviná-Ráj",49.8476090,18.5516250,150,1,,1,1
 e4796ba3-bdd8-463d-b6b6-2f206319e67e,"Nemocnice ve Frýdku-Místku, p.o.",CZ0802,1,"El. Krásnohorské 321, Frýdek, 738 01 Frýdek-Místek",49.6899870,18.3553920,150,1,,1,
-e6794a78-b750-4403-b948-05594fef0584,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",,,100,,,,
 e6c85208-7725-4773-b1a9-e9198d1decc8,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",48.9590440,14.4686910,800,1,,1,
+e6794a78-b750-4403-b948-05594fef0584,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",,,100,,,,
 d72b10d4-741d-494d-b7de-ef6201852291,"Nemocnice Český Krumlov",CZ0312,1,"Nemocniční 429, 38301 Český Krumlov",48.8114706,14.3266972,350,1,,1,
 feef4fd2-5f23-4d24-92e6-f6dbc706c4ea,"Nemocnice Šumperk a.s.",CZ0715,1,"Nerudova 640/41, 787 01 Šumperk",49.9586911,16.9631111,250,1,,1,
 58a81619-1e77-4fce-922f-70d6d3475c39,"Nemocnice Žatec, o.p.s.",CZ0424,1,"Husova 2796, Žatec 438 01",50.3218992,13.5388500,100,1,,1,
@@ -502,7 +502,7 @@ b2d01884-fe3f-4c77-99c1-492b104073bd,"Zubní Rosnička s.r.o.",CZ0532,1,"Sladkov
 1770f203-43bf-4a46-a9fc-3e9245e29bb2,"Záchranná služba ASČR -  mobilní tým",,1,,,,0,,,,
 9bbe1fe1-8615-43c0-93c7-92b18f286f77,"Záchranná služba ASČR Kralupy nad Vltavou * mobilní tým",CZ0206,,"Vodárenská 33, 278 01 Kralupy nad Vltavou",50.2479592,14.3212653,350,,,1,
 c7580602-8b5d-4f3b-9647-7e964ac9f32e,"Záchranná služba ASČR Praha-Zbraslav",CZ0100,1,"U Včely 1442, Praha 5 - Zbraslav",49.9699681,14.3879028,150,,,1,
-c7b2bd02-4e22-445c-b8a3-e12e7492c7e9,"Záchranná služba ASČR Praha-západ * Mobilní tým Rozvadov",CZ0327,1,"Rozvadov 142, 34806 Rozvadov",,,400,,,1,1
+c7b2bd02-4e22-445c-b8a3-e12e7492c7e9,"Záchranná služba ASČR Praha-západ * Mobilní tým Rozvadov + ČR",CZ0327,1,"Rozvadov 142, 34806 Rozvadov",,,400,,,1,1
 ff3d467a-14c8-4d8a-ae48-268817ae45c3,"Záchranná služba Asociace samaritánů ČR - OM Kralupy nad Vltavou",CZ0206,1,"Vodárenská 33, 278 01 Kralupy nad Vltavou - Lobeček",50.2479603,14.3212650,350,,,1,
 5a0aa001-c835-4a68-a5d2-855bc58c8daf,"Záchranná služba Asociace samaritánů ČR - OM Kralupy nad Vltavou Vodárenská",CZ0206,,"Vodárenská 33, 278 01 Kralupy nad Vltavou - Lobeček",50.2479603,14.3212650,350,,,1,
 af201738-8b3f-4857-88cb-fbb3c7d8ad7e,"Ústav imunologie a mikrobiologie 1 LF UK",CZ0100,,"Klinika pracovního lékařství VFN,    Na Bojišti 1, Praha 2.",50.0731897,14.4273403,70,,,,
