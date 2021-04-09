@@ -133,6 +133,8 @@ f240d6a1-e736-4736-b8ce-b6d13dd96282,"Fakultní nemocnice Ostrava",CZ0806,1,"17.
 7b786058-dfe9-487e-9f8a-9a7cc18464f2,"Fakultní nemocnice v Motole",CZ0100,1,"V Úvalu 84, 15006, Praha 5",50.0731780,14.3446610,960,,,1,
 e3319b75-0002-43ad-9c30-c5a707a7d3f0,"Filip Chaloupek - EMS Liberec",CZ0513,1,"Broumovská 843/11, Liberec",,,50,1,,1,1
 5156d2b6-f31b-4cd0-9fba-30ab77157d90,"GENvia s.r.o. - Nuselská poliklinika",CZ0100,1,"Nuselská poliklinika, Táborská 325/57, Praha 4, Nusle 4, 14000",50.0629900,14.4412100,114,1,,1,
+75fe31de-9fe6-4758-b604-5fbf9d05eca2,"GENvia, s.r.o, - odběrové místo Rokycany",CZ0326,1,"Odpočívka Rokycany, 58.8 km (P), Rokycany - Borek",49.7579519,13.6166961,500,,,1,
+7b4854d4-4f46-4719-bdcf-9e4024860624,"GENvia, s.r.o, - odběrové místo Šlovice",CZ0324,1,"Odpočívka Šlovice, 83.2 km (P), Dobřany - Šlovice",49.6781475,13.3295697,500,1,,1,
 d880adb6-3f63-4fc1-8bcd-f7e87d2cce79,"GHC GENETICS Praha - Vítězné náměstí",CZ0100,1,"Vítězné náměstí, Praha 6,",50.1017797,14.3929494,100,1,,1,
 2a8e40a8-5df4-4c2b-bca7-56e5e884ee9a,"GHC GENETICS Praha - Výstaviště Holešovice",CZ0100,1,"Výstaviště 67, Bubeneč, Praha 7, 170 00",50.1054428,14.4328139,100,1,,1,1
 5a136b42-596b-4b38-8582-d160c5c8e85e,"GHC Praha - Letiště Václava Havla",CZ0100,1,"Aviatická, 160 00 Praha 6",50.1063694,14.2665906,200,1,,1,
@@ -229,6 +231,7 @@ c08e1f99-454c-4f49-867e-3ae69707aa81,"Livian s.r.o. - odběrové místo Brno Tu�
 e0ca0618-12e9-4d21-915a-48738a81cbcc,"Livian s.r.o. - odběrové místo Plzeň",CZ0323,1,"Technická, 301 00 Plzeň 3 - Skvrňany",49.7278756,13.3521531,1800,,,1,
 22c94edf-348d-42c4-9105-77da6b8a6dd1,"Lázně Darkov, a.s",CZ0803,1,"Čsl. armády 2954/2, 733 12 Karviná - Hranice",49.8669981,18.5616514,160,1,,1,
 30ebe186-48e5-45cd-860b-bb1d6604f349,"Lázně Teplice v Čechách a.s. - odběrové místo Rooseveltova",CZ0426,1,"Rooseveltova 272/5, 415 01 Teplice",50.6387925,13.8299325,100,,,,
+74a71d47-6cd9-4315-a2b1-524ed775f4fd,"Lékárna Senovážné nám. s.r.o. - odběrové místo České Budějovice",CZ0311,1,"Senovážné nám. 1616, 370 01 České Budějovice 6",48.9718106,14.4772528,120,,,1,
 d01b8f57-d63b-4cde-a2b8-40559259ddb7,"Lékárna ve Voticích s.r.o. - odběrové místo Komenského nám.",CZ0201,1,"Komenského nám. 143, 259 01 Votice",49.6395953,14.6414975,1000,1,1,1,
 0fb2cfa4-fc16-48af-8d3f-4efe199f7423,"Léčebna respiračních nemocí Cvikov,p.o.",CZ0511,1,"Ústavní 529, 471 54 Cvikov II",50.7854361,14.6404967,96,,,1,
 809f1f09-8204-4fdc-9bec-475643e8bb26,"Léčebné lázně Mariánské Lázně a.s. Villa Butterfly",CZ0411,1,"Hlavní 655, Mariánské Lázně",49.9689778,12.7019442,15,,,,
@@ -367,8 +370,8 @@ f9822c01-9c1c-4760-abe5-be9a6c72293b,"Nemocnice s poliklinikou Havířov, p.o.",
 92b03d48-f556-46be-b3a0-a838d1391c85,"Nemocnice s poliklinikou Česká Lípa",CZ0511,1,"Purkyňova 1849, Česká Lípa 470 01",50.6866311,14.5484203,200,1,,1,
 f8481e8a-f027-4ba6-b582-d4fbea21aa0e,"Nemocnice s poliklinikou Karviná, p. o.",CZ0803,1,"Vydmuchov 399/5, 734 01 Karviná-Ráj",49.8476090,18.5516250,150,1,,1,1
 e4796ba3-bdd8-463d-b6b6-2f206319e67e,"Nemocnice ve Frýdku-Místku, p.o.",CZ0802,1,"El. Krásnohorské 321, Frýdek, 738 01 Frýdek-Místek",49.6899870,18.3553920,150,1,,1,
-e6c85208-7725-4773-b1a9-e9198d1decc8,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",48.9590440,14.4686910,800,1,,1,
 e6794a78-b750-4403-b948-05594fef0584,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",,,100,,,,
+e6c85208-7725-4773-b1a9-e9198d1decc8,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",48.9590440,14.4686910,800,1,,1,
 d72b10d4-741d-494d-b7de-ef6201852291,"Nemocnice Český Krumlov",CZ0312,1,"Nemocniční 429, 38301 Český Krumlov",48.8114706,14.3266972,350,1,,1,
 feef4fd2-5f23-4d24-92e6-f6dbc706c4ea,"Nemocnice Šumperk a.s.",CZ0715,1,"Nerudova 640/41, 787 01 Šumperk",49.9586911,16.9631111,250,1,,1,
 58a81619-1e77-4fce-922f-70d6d3475c39,"Nemocnice Žatec, o.p.s.",CZ0424,1,"Husova 2796, Žatec 438 01",50.3218992,13.5388500,100,1,,1,
@@ -396,6 +399,7 @@ a4107a8d-19a8-473a-aa6e-1f2ece894e45,"Oblastní nemocnice Příbram, a.s.",CZ020
 22584346-f0fb-468b-9378-4c0da3bb63e8,"Odběrné místo Litovel – praporní obvaziště pro uzavřenou oblast Litovelska a Uničovska",CZ0712,,"Mladeč, 783 21",49.5552820,17.7448510,0,,,,
 217c29db-e647-4e85-9c49-0385bac773d8,"Odběrové místo Scimed",CZ0521,1,"Hradecká 1227/4, Hradec Králové, 500 03",50.2027900,15.8311300,600,1,,1,
 fc1cec86-4c4d-40c1-92ed-033e770e5f0d,"Ordinace Ruzyně s.r.o. - Plzeňský kraj",CZ0323,1,,,,1000,1,1,1,
+6295ab72-69a0-4afa-a76b-8346e46e0954,"Ordinace Ruzyně s.r.o. - odběrové místo Smíchov",CZ0100,1,"Plzeňská 233/8, 150 00 Praha 5 - Smíchov",50.0729022,14.4020550,300,1,,1,
 6d469c09-e779-4b55-926f-78b575c10dd1,"Ordinace Ruzyně s.r.o. - odběrové místo Vysoké Mýto",CZ0534,,"Dobrovského 74, Vysoké mýto",49.9558594,16.1539228,2000,1,,1,
 d05da5f2-f2b3-4d41-b524-72d813bd2582,"Ordinace Ruzyně s.r.o. - odběrové místo Čakovice",CZ0100,1,"Kostelecká 823/77, Praha 9",50.1511097,14.5048142,300,,,1,
 d9bac971-6760-4e71-9f47-2ce5701ca463,"Ordinace Ruzyně s.r.o., odběrové místo Chodov",CZ0100,1,"Opatovská, Praha 11 - Chodov",50.0256747,14.5165409,200,1,,1,
@@ -443,7 +447,7 @@ c09100ad-1d39-4198-ab96-43ce2637ff51,"SYNLAB Brno Zahradníkova",CZ0642,1,"Zahra
 2a84b128-2a9c-463e-99c8-952188900ee5,"SYNLAB CZECH s.r.o. Liberec",CZ0513,1,"Jeronýmova 570, Liberec",50.7524694,15.0509336,150,,,1,1
 29122b8f-996e-4d2f-a53c-238d796c6683,"SYNLAB Hradec Králové - Letiště",CZ0521,1,"Letiště 98, Hradec Králové",50.2383075,15.8394017,100,,,1,1
 77bd3405-7364-4765-9f54-a4d258dd459c,"SYNLAB Jirkov - odběrové místo",CZ0422,1,"Zaječická 382, 431 11 Jirkov",50.4955958,13.4567150,60,1,,1,1
-bd0071e2-0e16-4fd5-b575-cc5a9462daed,"SYNLAB Ostrava - mobilní odběrové místo",CZ0806,1,"Ruská 3077/135, 700 30 Ostrava - Zábřeh",49.8049000,18.2484000,70,,,1,1
+bd0071e2-0e16-4fd5-b575-cc5a9462daed,"SYNLAB Ostrava - ČEZ aréna",CZ0806,1,"Ruská 3077/135, 700 30 Ostrava - Zábřeh",49.8049000,18.2484000,70,1,,1,1
 06384ebe-02a5-42aa-8ab3-8f72f22b5341,"SYNLAB Plzeň - Majerova",CZ0323,1,"Majerova 2525/7, 301 00 Plzeň",49.7278139,13.3740386,50,1,,1,
 02641e13-677d-48f8-a8f5-18668f226b57,"SYNLAB Praha CUBE Evropská",CZ0100,1,"Evropská 423/178, Praha 6",50.0960103,14.3397825,75,,,1,1
 0f5949fe-63f4-4d80-8b28-7b898d30b2de,"SYNLAB Písek",CZ0314,1,"Drlíčov 149, 37901 Písek",49.3066064,14.1479489,30,,,,
