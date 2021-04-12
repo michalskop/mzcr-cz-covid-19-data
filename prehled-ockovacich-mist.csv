@@ -80,7 +80,7 @@ e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ0724,
 fbbde94b-4a74-41a3-93e1-c3fc53cf2189,"Krajská zdravotní a.s., - MNUL pracoviště výstaviště Zahrada Čech Litoměřice",CZ0423,1,"Na Vinici 739/13, Litoměřice",50.5358614,14.1506781,25488627010,90,1
 4475c51f-69b3-410d-b404-eaf319711512,"Krajská zdravotní, a.s. - Masarykova nemocnice v Ústí nad Labem, o.z.",CZ0427,1,"Sociální péče 3316/12a, 400 11 Ústí nad Labem",50.6805661,14.0166656,25488627010,0,1
 c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ0422,1,"Kochova 1185, 430 12, Chomutov",50.4556889,13.4099056,25488627050,500,1
-77a1d5c5-26b3-4c61-9814-fa6497f83bdd,"Krajská zdravotní, a.s. - Nemocnice Děčín, o.z.",CZ0421,1,"U nemocnice 1, Děčín 40502",50.7821578,14.2252856,25488627020,72,
+77a1d5c5-26b3-4c61-9814-fa6497f83bdd,"Krajská zdravotní, a.s. - Nemocnice Děčín, o.z. - budova ČVUT",CZ0421,1,"Pohraniční  1288/1, 405 01 Děčín",50.7789925,14.2160292,25488627020,72,1
 518f6665-84b8-4964-ae04-3bff5e0f2d93,"Krajská zdravotní, a.s. - Nemocnice Most, o.z.",CZ0425,1,"Jana Evangelisty Purkyně 270, Most, 434 64",50.5076983,13.6273403,25488627040,48,1
 d166058b-d215-4166-925d-69f7c168ef96,"Krajská zdravotní, a.s. - Nemocnice Teplice",CZ0426,1,"Duchcovská 53, Teplice, 415 01",50.6365694,13.8108558,25488627030,30,1
 ec7464b3-cfbd-4e49-8187-5f438f69c731,"Kroměřížská nemocnice a.s. - Výstaviště Kroměříž",CZ0721,1,"Výstaviště Kroměříž, K Výstavišti 4069/8, 76701 Kroměříž",49.2836386,17.3928511,27660532000,1000,1
@@ -171,7 +171,7 @@ de1e1058-0b21-497f-bcf8-94a5690d8b33,"Nemocnice Sedlčany",CZ020B,,"Tyršova 161
 3dc2a084-026d-417c-9401-6f295a918010,"Nemocnice Sedlčany - Kulturní dům Josefa Suka Sedlčany",CZ020B,1,"Havlíčkova 514, Sedlčany 264 01",49.6596900,14.4206900,26429683000,580,1
 92c26a50-b614-45b4-94f6-366a766796a0,"Nemocnice Slaný",CZ0203,1,"Třebízkého 161, Slaný",50.2315758,14.0830872,875295000,500,1
 5d4ec5da-2348-4a49-9661-ae1f9a60485a,"Nemocnice Sokolov",CZ0413,,"Slovenská 545, 356 01 Sokolov",50.1780194,12.6505769,24747246000,0,
-313285e5-df33-485b-aad2-1f121d45aba8,"Nemocnice Strakonice - OČKO tělocvična STARZ",CZ0316,1,"Lidická 193, 386 01 Strakonice",49.2641636,13.9058569,26095181000,1000,1
+313285e5-df33-485b-aad2-1f121d45aba8,"Nemocnice Strakonice - OČKO centrum, tělocvična STARZ Lidická 193",CZ0316,1,"Lidická 193, 386 01 Strakonice",49.2641636,13.9058569,26095181000,1000,1
 44133735-28b0-4c07-a675-f6613a761f8c,"Nemocnice Sv. Kříže Žižkov",CZ0100,1,"Kubelíkova 1250/16, Praha 3, 130 00",50.0817681,14.4479294,47124733000,100,
 ccccfd3b-1362-49d5-b3b6-b0f71dc6d572,"Nemocnice TGM Hodonín",CZ0645,,"Purkyňova 2731/11, 695 01 Hodonín",48.8645394,17.1446758,226637000,0,1
 ca2ebe9a-25f5-4386-a47a-1def0c83afa5,"Nemocnice TGM Hodonín, přísp. organizace Dům kultury Hodonín - očkovací centrum COVID-19",CZ0645,1,"Horní Valy 3747/6, 695 01 Hodonín",48.8508178,17.1332531,226637000,800,1
