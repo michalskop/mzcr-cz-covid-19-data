@@ -76,7 +76,7 @@ f65d303b-2cb4-464d-8454-d491747046ad,"Bioinova, s.r.o.",CZ0100,,"Vídeňská 108
 f338d743-b013-4878-a5d7-f9cd5ee7d562,"Bioptická laboratoř s.r.o.",CZ0323,1,"Rejskova 10, 326 00 Plzeň",49.7410781,13.3876475,1000,1,,1,
 d4327480-4ee5-4ffe-8991-e788114841b3,"Bohumínská městská nemocnice, a.s.",CZ0803,1,"Slezská 207, 735 81 Bohumín – Starý Bohumín",49.9179383,18.3354442,50,1,,,1
 9c78095e-a853-4fc5-8697-a69d5bb94e2f,"Bílovecká nemocnice, a.s.",CZ0804,1,"17. listopadu 538/57 743 01  Bílovec",49.7620964,18.0172797,40,1,,1,1
-3107bd36-1e4d-4d13-a13a-c2e5fa6244c8,"CITYLAB spol. s r.o. - mobilní odběrové místo České Budějovice",CZ0311,1,"Jihočeský kraj",,,100,1,,1,
+3107bd36-1e4d-4d13-a13a-c2e5fa6244c8,"CITYLAB spol. s r.o. - mobilní odběrové místo České Budějovice",CZ0324,1,"Jihočeský kraj",,,100,1,1,1,
 7db80469-3092-4efe-a372-7e3e1ee5e53a,"CITYLAB spol. s r.o. - odběrové místo Benátky nad Jizerou",CZ0207,1,"Náměstí 17. listopadu 703, Benátky nad Jizerou",50.2868908,14.8381339,100,1,,1,
 45462d0a-9987-46da-8a1b-27358eab6bfa,"CITYLAB spol. s r.o. - odběrové místo Kolín",CZ0204,1,"V Břízách 478",50.0257383,15.1921917,100,,,,
 a36615d1-937f-4232-98f7-cd9cfadffde9,"CITYLAB spol. s r.o. - odběrové místo Kutná Hora Čáslavská",CZ0205,1,"Pobřežní 194, 28401 Kutná Hora - Karlov",49.9450722,15.2755117,100,1,,1,
@@ -92,7 +92,7 @@ ef50331c-7422-4d36-90a1-a72673d855b5,"Charita Zlín - odběrové místo",CZ0724,
 088baba9-49f9-49d4-b660-6e3687bf47f0,"Chrudimská nemocnice, NPK, .a.s.",CZ0531,1,"Václavská 570, 537 27 Chrudim",49.9419936,15.8064839,160,1,,1,
 870eb4b6-cd8c-4328-9283-5ce418de6996,"Citylab  s.r.o. - Poliklinika Stodůlky",CZ0100,1,"Hostinského 1533, Praha 13",50.0462122,14.3149161,50,1,,1,
 25e371dc-9af4-4de1-bb3a-be0d55b39438,"Citylab s.r.o. -  Hostivice",CZ020A,1,"Husovo náměstí 59, Hostivice",50.0807336,14.2574936,50,1,,1,1
-5d40c2ac-e22b-4065-a494-a4606df2ff97,"Citylab s.r.o. - Poliklinika Medicentrum MÁJ 5.patro",CZ0311,1,"Dr. Bureše 1251/9a, 37005 České Budějovice",48.9881236,14.4406361,50,1,,1,
+5d40c2ac-e22b-4065-a494-a4606df2ff97,"Citylab s.r.o. - Poliklinika Medicentrum MÁJ 5.patro",CZ0311,1,"Dr. Bureše 1251/9a, 37005 České Budějovice",48.9881236,14.4406361,70,1,1,1,
 36e18b1d-acce-4f19-891b-f15ffe082c65,"Citylab s.r.o. - Poliklinika Michnova",CZ0100,1,"Michnova 1622, Praha 4",50.0313361,14.5206247,50,1,,1,
 a9b735bb-9831-4604-98b7-3383b27415da,"Citylab s.r.o. - Uhříněves",CZ0100,1,"Peceradská 12B, Praha 10 - Uhříněves",50.0294417,14.6001378,100,1,,,
 2494ec4c-8f5b-4cb5-839b-021e01d7f555,"Covid - Neratovice",CZ0206,1,"Náměstí Republiky, 277 11 Neratovice",50.2583314,14.5176575,250,1,1,1,
@@ -100,6 +100,7 @@ f05668a2-29fe-4c96-80da-e5dc563304f6,Covid-Prosek,CZ0100,1,"Kytlická 758/21, 19
 eb2cf89b-cebb-436b-b077-237bd99fd222,"CovidPoint ČSAP z.s. - Praha 8, Karlín",CZ0100,1,"Malého 282/3, Praha 8",50.0895008,14.4440450,1834,1,1,1,
 3cbd7d60-459b-4967-9e95-b722c29d2589,"Cytogenetická laboratoř Brno, s.r.o.",CZ0642,1,"Veveří 39, 602 00 Brno",49.2017253,16.5986119,50,,,1,
 d675d47b-78c8-40eb-85f9-c6f05a75f1e9,"Domažlická nemocnice, a.s.",CZ0321,1,"Kozinova 292, 344 01 Domažlice",49.4380530,12.9079180,120,1,1,1,1
+62039ce3-34cd-4c61-b5b8-575a302357fb,"Dopravní a záchranná služba s.r.o.",CZ0323,,"Wenzigova 340/11, 301 00 Plzeň 3 - Východní Předměstí",49.7457797,13.3899411,200,,,1,
 06612a1a-ef79-464b-9984-ad728ae35fb8,"Dopravní zdravotnictví a.s., Poliklinika AGEL Olomouc",CZ0712,1,"Jermenkova 1056/40, 772 52 Olomouc",49.5916508,17.2763164,200,,,1,
 c7162021-8d24-4c8d-9f07-2eaa926ee880,"Dopravní zdravotnictví a.s., Poliklinika AGEL Plzeň",CZ0323,1,"Švihovská 14, Plzeň",49.7458553,13.3935442,30,1,,1,
 d91a2948-366c-40d2-a593-3358b8504f7b,"Dopravní zdravotnictví a.s., Poliklinika AGEL Praha",CZ0100,1,"Italská 560/37, 121 43, Praha 2",50.0805722,14.4379836,200,1,,1,
@@ -118,7 +119,7 @@ c66e5d2d-2855-499e-ac20-3b301c06342d,"EUC klinika Ostrava a.s.",CZ0806,1,"Opavsk
 1ed509e4-9612-4e19-b980-bfd97d55f14c,"EUC laboratoře - Poliklinika Šustova",CZ0100,1,"Šustova 1930/2, Praha",50.0274633,14.4893417,200,1,,1,
 2c400476-462e-40da-be55-9bdd3a0d8b4c,"EliteMedical s.r.o.",CZ0100,1,"Na Příkopě 859/22, 110 00 Praha 1 - Nové Město",50.0864122,14.4273183,20,1,,,
 7bd73b5c-75de-4a3f-b689-b0f65be7857f,"Elphogene s.r.o. - odběrové místo Stříbro",CZ0327,1,"Revoluční 712, 349 01 Stříbro",49.7556228,12.9928947,100,1,1,,1
-523bb7a3-b5aa-45d8-b570-6dc2bf923325,"EuroCentrumHelp z.s. Rohatec - mobilní odběrový tým",CZ0645,1,"Strážnická 615/1, 696 01 Rohatec",48.8866342,17.1904917,500,,,1,1
+523bb7a3-b5aa-45d8-b570-6dc2bf923325,"EuroCentrumHelp z.s. Rohatec - mobilní odběrový tým",,1,"Strážnická 615/1, 696 01 Rohatec",48.8866342,17.1904917,500,,,1,1
 91c26934-6798-45ab-a906-d11eb7feda49,"FIRM CLINIC s.r.o. - odběrové místo Jesenice",CZ020A,1,,,,1000,,,,1
 087c05c3-584a-4b6f-8da5-d6d250b0a216,"FN Brno Bohunice - mobilní odběrové místo",CZ0642,,"Jihlavská 20, Brno 62500",49.1755828,16.5704460,160,,,,
 20cb8476-3ade-499b-a22f-1f2c4a327e68,"FN Brno Bohunice - odběrová sanita",CZ0642,1,"Jihlavská 20, Brno 62500",49.1755828,16.5704460,40,,,,
@@ -178,7 +179,7 @@ ef9c6450-b73a-4b4e-830f-e3c618a62b2d,"Home Care Promedica s.r.o. - odběrové m�
 9a6e6bd4-f384-4623-ad1f-80ccd123932b,"IFCOR Jihlava",CZ0632,1,"Seifertova 59, 586 01 Jihlava",49.3914669,15.5787950,70,,,1,
 8b3a4b02-fc4a-4ff2-9d58-7c0811ba7fcc,"IFCOR Ostrava Svinov",CZ0806,,"Peterkova 105, Ostrava Svinov",49.8235100,18.2095200,1000,,,,1
 ee2a1d7c-2f4f-47f7-97e8-e28e067f21fa,"IFCOR Uherské Hradiště",CZ0722,1,"Verbířská 1286, 686 01 Uherské Hradiště",49.0701753,17.4704978,160,,,1,
-ad6e15a3-a3d0-436e-b854-6f25721d0b78,"IFCOR, Brno mobilní",CZ0642,1,,,,100,,,1,
+ad6e15a3-a3d0-436e-b854-6f25721d0b78,"IFCOR, Brno mobilní",,1,,,,100,,,1,
 b08ed639-a90f-4fd8-aede-612afd1a764f,"INTER CLINIC Praha-Radotín, s.r.o.",CZ0100,1,"Na Výšince 149/3, 153 00, Praha 5 - Radotín",49.9839758,14.3561414,20,,,1,
 f701f8bf-a98a-4c7f-8714-9c21020a12a0,"IVF CUBE",CZ0100,1,"Evropská 423, 160 00 Praha 6-Vokovice",50.0951508,14.3383903,0,1,,1,
 067ef1e2-2c18-490c-aee5-ccae6558110e,"Imunogen s.r.o. - Odběrové místo Sluneční náměstí",CZ0100,1,"Sluneční náměstí 2588/15",50.0503111,14.3434461,60,1,,1,
@@ -261,7 +262,7 @@ b0a879a4-3239-4a34-9d3c-6ef034da5b2d,"Medical Testing s.r.o. - Žernosecká ul."
 d7675bd5-1857-44cf-aec4-e69d96bd85c4,"Medical Testing s.r.o. Radotín",CZ0100,1,"Náměstí Osvoboditelů, Praha 5 - Radotín",49.9838825,14.3594247,200,1,,1,
 18a76876-8887-470e-b7ea-99a6f5afad1d,"Medical plus s.r.o. - odběrové místo Uherské Hradiště",CZ0722,1,"Obchodní 1507, 68601 Uherské Hradiště",49.0695114,17.4631997,200,1,,1,
 a9dc5e89-d2ec-4d68-b230-806033b85273,"Medical service Davepo s.r.o.",CZ020A,1,"Masarykova 1363, 252 19 Rudná",50.0252819,14.2104781,500,,,1,
-9280a5ff-88ef-4dfd-9fa3-37291b8cb0d2,"Medical testing s.r.o. - mobilní odběrový tým Náplavka",CZ0100,1,,,,370,,,,
+9280a5ff-88ef-4dfd-9fa3-37291b8cb0d2,"Medical testing s.r.o. - mobilní odběrový tým Náplavka",,1,,,,370,,,,
 773205a4-8e38-441d-90b1-32b16acb4589,"Medical testing s.r.o. - mobilní odběrový tým Střední Čechy",,1,"vždy předem ohlášeno do 48 hodin",,,370,,,,
 5d551462-d203-4c2d-8d08-61dea48b7993,"Medical testing s.r.o. - odběrové místo Náplavka Čechův most",CZ0100,1,"pata Čechova mostu, p.č. (1006). Č.LV 122, 110 00 Praha 1",50.0923630,14.4175240,370,1,,1,
 784f4d33-b88e-4818-9c5f-9d54d7f3752b,"Medical testing s.r.o. - odběrové místo Stodůlky EGLO",CZ0100,1,"Plzeňská 1110/21, 155 00 Praha 13-Stodůlky",50.0615550,14.3094830,370,1,,1,
@@ -374,8 +375,8 @@ f9822c01-9c1c-4760-abe5-be9a6c72293b,"Nemocnice s poliklinikou Havířov, p.o.",
 92b03d48-f556-46be-b3a0-a838d1391c85,"Nemocnice s poliklinikou Česká Lípa",CZ0511,1,"Purkyňova 1849, Česká Lípa 470 01",50.6866311,14.5484203,200,1,,1,
 f8481e8a-f027-4ba6-b582-d4fbea21aa0e,"Nemocnice s poliklinikou Karviná, p. o.",CZ0803,1,"Vydmuchov 399/5, 734 01 Karviná-Ráj",49.8476090,18.5516250,150,1,,1,1
 e4796ba3-bdd8-463d-b6b6-2f206319e67e,"Nemocnice ve Frýdku-Místku, p.o.",CZ0802,1,"El. Krásnohorské 321, Frýdek, 738 01 Frýdek-Místek",49.6899870,18.3553920,150,1,,1,
-e6c85208-7725-4773-b1a9-e9198d1decc8,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",48.9590440,14.4686910,800,1,,1,
 e6794a78-b750-4403-b948-05594fef0584,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",,,100,,,,
+e6c85208-7725-4773-b1a9-e9198d1decc8,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",48.9590440,14.4686910,800,1,,1,
 d72b10d4-741d-494d-b7de-ef6201852291,"Nemocnice Český Krumlov",CZ0312,1,"Nemocniční 429, 38301 Český Krumlov",48.8114706,14.3266972,350,1,,1,
 feef4fd2-5f23-4d24-92e6-f6dbc706c4ea,"Nemocnice Šumperk a.s.",CZ0715,1,"Nerudova 640/41, 787 01 Šumperk",49.9586911,16.9631111,250,1,,1,
 58a81619-1e77-4fce-922f-70d6d3475c39,"Nemocnice Žatec, o.p.s.",CZ0424,1,"Husova 2796, Žatec 438 01",50.3218992,13.5388500,100,1,,1,
@@ -389,7 +390,7 @@ b252d40d-34b8-4dd4-b3f2-c65904392205,"NutriMed Lab s.r.o. - odběrové místo Li
 be273a2b-923e-4335-915a-d499aa236547,"OKB Lab a.s. - odběrové místo Litvínov",CZ0425,1,"Tylova 661, 436 01 Litvínov - Horní Litvínov",50.6041108,13.6067300,100,1,,1,
 2f161f8e-6b55-4473-998c-e2838cd85061,"OKB Lab a.s. - odběrové místo poliklinika Bílina",CZ0426,1,"Pražská 206/95, 418 01 Bílina - Pražské Předměstí",50.5411144,13.7843264,100,1,,1,
 c4d36856-e7c1-4e39-a638-97afc13e4b1c,"OKB Lab a.s. - odběrové místo Ústí nad Labem",CZ0427,1,"Vaníčkova 1318/25, 400 01 Ústí nad Labem-centrum",50.6614281,14.0334361,90,1,,1,
-c2b8f01d-89c3-42c7-9212-79613286e7f0,"OKB Lab a.s. Praha 8 - odběrové místo Mazurská",CZ0100,1,"Mazurská 484/2, 181 00 Praha 8 - Troja",50.1267986,14.4155778,90,1,,1,
+c2b8f01d-89c3-42c7-9212-79613286e7f0,"OKB Lab a.s. Praha 8 - odběrové místo Mazurská",CZ0100,,"Mazurská 484/2, 181 00 Praha 8 - Troja",50.1267986,14.4155778,90,1,,1,
 429da6b9-eb2d-490f-825d-f2bf07b3ada3,"ORL ambulance TINITUS s.r.o. - odběrové místo Chrudim",CZ0531,1,"Palackého třída 165, 537 01 Chrudim",49.9491611,15.7904039,100,1,,1,
 0571167b-ecc8-482a-a428-b2bc3d049187,"ORL-sluchadla s.r.o. - odběrové místo Pardubice",CZ0532,1,"Sladkovského 505, 530 02 Pardubice I - Zelené Předměstí",50.0331300,15.7749203,0,,,1,
 0611da1e-af54-40fa-b047-887b25ebba96,"Oblastní nemocnice Jičín a.s.",CZ0522,1,"Bolzánova ulice 512, 506 01 Jičín",50.4391336,15.3568119,220,1,,1,1
@@ -438,14 +439,14 @@ a35671a2-ea21-4148-b77b-14b744737406,"Poliklinika Flora Cheb",CZ0411,1,"Májová
 983197fc-2be4-4b14-a7ad-e84fceb24e16,"Rehabilitační klinika Malvazinky",CZ0100,1,"U Malvazinky 177/7, 150 00 Praha 5 - Smíchov",50.0640731,14.3936992,10,,,,1
 dd0ee8e2-1b08-49c7-8fad-762c694996b0,"Renturi s.r.o. - odběrové místo Ostrava",CZ0806,1,"Sokolská třída 1925/49",49.8425392,18.2886106,0,,,1,
 19b4b578-196f-4a3c-ab49-52a69fe65bd7,"Rokycanská nemocnice, a.s.",CZ0326,1,"Voldušská 750/II, 337 01 Rokycany",49.7489310,13.6042890,96,,,1,1
-8f049af9-83a0-4f27-8d0c-9e85ce54a464,"SAFRES Group s.r.o. - odběrové místo Česká Skalice",CZ0523,1,"Tyršova 820, 552 03 Česká Skalice",50.3956547,16.0519642,1200,,,1,
+8f049af9-83a0-4f27-8d0c-9e85ce54a464,"SAFRES Group s.r.o. - odběrové místo Česká Skalice",CZ0511,1,"Tyršova 820, 552 03 Česká Skalice",50.3956547,16.0519642,1200,,,1,
 5921011d-054f-43b1-9e07-f4de44bf3432,"SANATORIUM EDEL s.r.o. - odběrové místo Zlaté Hory",CZ0711,1,"Lázeňská 491, 793 76 Zlaté Hory",50.2521425,17.3908583,16,,,1,
 606640a8-15f6-4642-b870-e408612cb2db,"SMRŽO-MEDIC, s.r.o. - Hrádek nad Nisou",CZ0513,1,"Legionářská 269, Hrádek nad Nisou",50.8510081,14.8467617,0,,,1,
 eec73e5f-bae8-4f41-9c0e-8970d3e01761,"SMRŽO-MEDIC, s.r.o. - Tanvald",CZ0512,1,"Sportovní 576, 46841, Tanvald",50.7370531,15.2962239,0,,,1,
 e8d84f6b-6fe8-4312-a0c1-9174d68fb16b,"SOSAN - soukromá sanita - mobilní odběrový tým Praha Háje",CZ0100,1,"Kosmická 752/31, 149 00 Praha 11 - Háje",50.0324875,14.5296436,0,,,,
 915bd22b-07a0-49f7-a92f-af1f9f329608,"SPADIA LAB Brno Veveří",CZ0643,1,"Veveří 64, Brno, 602 00",49.2058942,16.5939769,250,1,,,
 ebc5756c-3532-4850-94c7-17625f342203,"SPADIA LAB, a.s. Žluté Lázně",CZ0100,1,"Podolské nábř. 3/1184",50.0482039,14.4135175,1200,1,,1,
-e32d7e30-d374-4c47-b3a0-e9786156ca0c,"SPEA Olomouc s.r.o. - mobilní tým",CZ0712,1,"Nám. Národních hrdinů 2",49.5957894,17.2477492,0,,,,
+e32d7e30-d374-4c47-b3a0-e9786156ca0c,"SPEA Olomouc s.r.o. - mobilní tým",,1,"Nám. Národních hrdinů 2",49.5957894,17.2477492,0,,,,
 654b91ac-c0cb-4564-bd3b-9de7dbcfbfa2,"STAYNEGATIVE Aiomica a.s./PREVEDIG medical - ČZU Suchdol",CZ0100,1,"na hlavním parkovišti P1 v areálu České zemědělské univerzity v Praze, Kamýcká 129, Praha – Suchdol",50.1318686,14.3771583,200,,,,
 27bd4312-441a-4725-963a-ed3854690b9e,"STAYNEGATIVE aiomica/PREVEDIG medical - Flora",CZ0100,1,"na prostranství za OC Flora, Praha 3",50.0782928,14.4612969,200,1,1,1,
 b5799295-40a7-46d5-b8d4-1e3387961bc6,"STAYNEGATIVE aiomica/PREVEDIG medical - Havlíčkovo náměstí",CZ0100,1,"Havlíčkovo náměstí 300/10, 130 00 Praha 3",50.0849172,14.4536656,1000,1,,1,
@@ -512,6 +513,7 @@ fdffdb56-f2c5-40d8-a46a-3c593b827c52,"ZRUŠENO - Nextclinics Praha Hvězdova",CZ
 3a702a5d-72ca-488d-8c8e-c47d2974482c,"Zdravotní ústav se sídlem v Ostravě",CZ0806,1,"Partyzánské náměstí 2633/7, Moravská Ostrava",49.8465378,18.2845431,20,1,,1,
 dc66c43f-2b37-40ce-bdb6-904f5ac1e5c7,"Zdravotní ústav se sídlem v Ústí nad Labem",CZ0427,1,"Prokopa Diviše 1316/3  400 01 Ústí nad Labem-centrum",50.6631958,14.0316994,100,1,,1,
 b2d01884-fe3f-4c77-99c1-492b104073bd,"Zubní Rosnička s.r.o.",CZ0532,1,"Sladkovského 420, 535 01 Přelouč",50.0381558,15.5665764,50,,,1,
+a34306d0-c7d7-483e-a593-c4efcc8a7039,"Zubní s.r.o. - odběrové místo Brandýs nad Labem",CZ0209,1,"Ivana Olbrachta 50/8, 250 01 Brandýs nad Labem-Stará Boleslav - Brandýs nad Labem",50.1863114,14.6623672,500,1,,1,
 1770f203-43bf-4a46-a9fc-3e9245e29bb2,"Záchranná služba ASČR -  mobilní tým",,1,,,,0,,,,
 9bbe1fe1-8615-43c0-93c7-92b18f286f77,"Záchranná služba ASČR Kralupy nad Vltavou * mobilní tým",CZ0206,,"Vodárenská 33, 278 01 Kralupy nad Vltavou",50.2479592,14.3212653,350,,,1,
 c7580602-8b5d-4f3b-9647-7e964ac9f32e,"Záchranná služba ASČR Praha-Zbraslav",CZ0100,1,"U Včely 1442, Praha 5 - Zbraslav",49.9699681,14.3879028,150,,,1,
