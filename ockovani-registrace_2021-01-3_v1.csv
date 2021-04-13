@@ -25,7 +25,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-30,481dd978-47d9-46a2-a379-84fc06761772,Vsetínská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-01-30,85032af2-2893-4ba7-afbc-fe5cdee9a5cb,"MEDICAL PLUS, s.r.o.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-01-30,243d9780-7f89-4218-8db5-e18ceda4778b,Nemocnice AGEL Podhorská a.s. pracoviště Bruntál,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
-2021-01-30,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-01-30,77e3d92d-123b-452d-93ec-30afac4e2c0b,"Nemocnice s poliklinikou Karviná-Ráj, p.o. - pracoviště Karviná",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-01-30,77e3d92d-123b-452d-93ec-30afac4e2c0b,"Nemocnice s poliklinikou Karviná-Ráj, p.o. - pracoviště Karviná",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-01-30,a74425f4-80fe-4f1f-abb9-3e8df7ca8aac,"Městská nemocnice Ostrava, p.o., Vakcinační centrum",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
@@ -50,8 +49,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,333a11ee-363d-499f-90cb-9d61f62543cc,"Rokycanská nemocnice, a. s.",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-01-31,4a387070-9a9b-4824-b1b0-437120b10481,Mulačova nemocnice s.r.o.,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-03-10
 2021-01-31,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
-2021-01-31,35226817-f739-4586-9a31-defc268d56e1,Nemocnice Litoměřice a.s.,CZ042,Ústecký kraj,80+,neuvedeno,CZ,,
-2021-01-31,35226817-f739-4586-9a31-defc268d56e1,Nemocnice Litoměřice a.s.,CZ042,Ústecký kraj,80+,neuvedeno,CZ,,
+2021-01-31,4475c51f-69b3-410d-b404-eaf319711512,"Krajská zdravotní, a.s. - Masarykova nemocnice v Ústí nad Labem, o.z.",CZ042,Ústecký kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-01-31,4475c51f-69b3-410d-b404-eaf319711512,"Krajská zdravotní, a.s. - Masarykova nemocnice v Ústí nad Labem, o.z.",CZ042,Ústecký kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-01-31,518f6665-84b8-4964-ae04-3bff5e0f2d93,"Krajská zdravotní, a.s. - Nemocnice Most, o.z.",CZ042,Ústecký kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-01-31,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-07
@@ -59,7 +57,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-15
 2021-01-31,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-15
 2021-01-31,d166058b-d215-4166-925d-69f7c168ef96,"Krajská zdravotní, a.s. - Nemocnice Teplice",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-03
-2021-01-31,f61ca8f1-48b4-4381-86ca-e922e82b9066,Zdravotní ústav se sídlem v Ústí nad Labem,CZ042,Ústecký kraj,35-39,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-01-31,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec (KNL),CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-03-29
 2021-01-31,be3e9bad-6d9f-4302-8d3c-99fb456f7643,"Nemocnice Rychnov nad Kněžnou, Společenské centrum",CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-01-31,0c7e626d-b0e6-413f-bd48-9bfce9b5487e,Orlickoústecká nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-20
@@ -77,9 +74,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-31,ec7464b3-cfbd-4e49-8187-5f438f69c731,Kroměřížská nemocnice a.s. - Výstaviště Kroměříž,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-23
 2021-01-31,243d9780-7f89-4218-8db5-e18ceda4778b,Nemocnice AGEL Podhorská a.s. pracoviště Bruntál,CZ080,Moravskoslezský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-01-31,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
-2021-01-31,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
-2021-01-31,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-01-31,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-03-02
-2021-01-31,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-01-31,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-01-31,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
