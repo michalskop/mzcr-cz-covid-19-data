@@ -50,7 +50,7 @@ c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,"Fakultní nemocnice Královské Vinohrady"
 a1f7b243-f18c-45a2-8d82-5a3273c687b8,"Fakultní nemocnice Olomouc",CZ0712,1,"I. P. Pavlova 185/6, 77900 Olomouc - Nová Ulice",49.5844861,17.2399364,98892000,500,1
 41c51947-5951-432c-9099-bf317756b09d,"Fakultní nemocnice Plzeň - očkovací místo",CZ0323,1,"Edvarda Beneše 13, 300 00 Plzeň",49.7353128,13.3739317,669806000,0,1
 4a444781-6d8f-496e-9da0-5f813f6113a6,"Fakultní nemocnice u sv. Anny v Brně",CZ0642,1,"Pekařská 53 656 91 BRNO",49.1912400,16.5990900,159816000,400,1
-77079458-38f2-4bff-b983-7f99a07afdc3,"Fakultní nemocnice v Motole",CZ0100,1,"V Úvalu 84/1, 15000 Praha 5 - Motol",50.0740167,14.3409881,64203000,0,1
+77079458-38f2-4bff-b983-7f99a07afdc3,"Fakultní nemocnice v Motole",CZ0100,,"V Úvalu 84/1, 15000 Praha 5 - Motol",50.0740167,14.3409881,64203000,0,1
 fc43817f-7eb9-49db-a93d-c37b9808cd43,"GHC GENETICS, s.r.o. - Praha 8 Libeň",CZ0100,1,"V Holešovičkách 29",50.1176147,14.4589072,28188535000,50,
 461c2eda-5db7-4b18-bdbc-3a3111dac0e8,"Gerontologické centrum",CZ0100,1,"Šimůnkova 1600, Praha 8, 182 00",50.1340300,14.4710900,45250022000,60,1
 304f0edc-0a56-4624-8f31-fe2b82391eb6,"Hamzova odborná léčebna pro děti a dospělé",CZ0531,1,"Košumberk 80, 538 54  Luže",49.8889200,16.0305000,183024000,60,1
@@ -149,9 +149,8 @@ c782926c-12bf-4071-a62a-79b75515a1a6,"Nemocnice Hustopeče, p.o.",CZ0644,1,"Brn�
 01a3372d-3209-471a-a1cc-daf68f28caed,"Nemocnice Ivančice, p.o.",CZ0643,1,"Široká 16, 66491 Ivančice",49.1024056,16.3726178,225827000,96,1
 4ed8c2be-fe2b-41d2-b58e-d69ed9a4c9f7,"Nemocnice Jablonec n. Nisou",CZ0512,1,"Očkovací centrum v Městské hale - SPORT (nad bazénem), U Přehrady 4747/20, Jablonec nad Nisou",50.7329022,15.1789922,829838000,1000,1
 65653e1e-fb9e-4f78-9e95-eb7c46d328d5,"Nemocnice Jihlava",CZ0632,,"Vrchlického 59, Jihlava",49.3972100,15.5699300,90638000,0,1
-c4411674-d3bd-4666-96df-fdedefed8b68,"Nemocnice Jindřichův Hradec- Očko VŠE",CZ0313,1,"Jarošovská 1117, Jindřichův Hradec 37701",49.1489181,15.0059594,26095157000,250,1
+c4411674-d3bd-4666-96df-fdedefed8b68,"Nemocnice Jindřichův Hradec- Očko VŠE",CZ0313,1,"Jarošovská 1117, Jindřichův Hradec 37701",49.1489181,15.0059594,26095157000,1200,1
 76a174fb-e672-40c5-ae9c-06c50eb4ce7a,"Nemocnice Kadaň s.r.o.",CZ0422,1,"Golovinova 1559, Kadaň 432 01",50.3912239,13.2701558,25479300000,0,1
-7fc4f736-04a4-403d-888b-9d52f1727a2e,"Nemocnice Kutná Hora",CZ0205,1,"Vojtěšská 237/26, Kutná Hora ·",49.9456714,15.2536853,27256391005,0,1
 492920f2-e2f6-4d29-9b60-b1ec9924d84d,"Nemocnice Kyjov, příspěvková organizace",CZ0645,,"Strážovská 1247/22, Kyjov 69701",49.0070983,17.1104022,226912000,100,
 35226817-f739-4586-9a31-defc268d56e1,"Nemocnice Litoměřice a.s.",CZ0423,1,"Žitenická 2084, 41201 Litoměřice - Předměstí",50.5409889,14.1433078,6199518000,100,1
 ac07c79a-c04b-4115-8f33-40041d2e2bc7,"Nemocnice Milosrdných bratří, p.o., mobilní očkovací tým Zahradníkova",CZ0642,,"Polní 553/3, Brno 63900",49.1855700,16.5969100,48512478000,10,
@@ -213,6 +212,7 @@ e6d0a768-a1a5-4fc8-aada-081ecf2b68b0,"Oblastní nemocnice Příbram",CZ020B,1,"G
 b53d6d7a-60bd-4acd-98cb-97893f87d163,"Odborný léčebný ústav Jevíčko",CZ0533,1,"TRN - léčebna 508, 56943 Jevíčko",49.6339600,16.6696600,193976000,100,
 0c7e626d-b0e6-413f-bd48-9bfce9b5487e,"Orlickoústecká nemocnice",CZ0534,1,"Čs. armády 1076, 562 18 Ústí nad Orlicí",49.9695364,16.4041458,27520528000,0,1
 13226cfa-b720-4a12-b6d7-3c60b6b718d6,"Ortopedie - Nandana Bruntál s.r.o.",CZ0801,1,"Nádražní 1589/29, 792 01 Bruntál",49.9946800,17.4712600,9587250000,100,
+7fc4f736-04a4-403d-888b-9d52f1727a2e,"OČM Kutná Hora (GASK)",CZ0205,1,"OČM Kutná Hora (GASK), Kremnická 239/7, Kutná Hora 284 01",49.9456714,15.2536853,27256391005,0,1
 b85e83d4-e9be-456d-b6b5-8e2acac97990,"Očkovací centrum Dobřichovice sportovní hala BIOS",CZ020A,1,"Pražská 375, 252 29 Dobřichovice",49.9293642,14.2726686,2084325000,0,
 73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,"Očkovací centrum Liberec (KNL)",CZ0513,1,"U Jezu 642/2a, Liberec",50.7640786,15.0543333,27283933000,1000,1
 51202c9c-0869-494a-803f-eb6de980f6f3,"Očkovací centrum Třebíč",CZ0634,1,"Kulturní dům Fórum, Masarykovo nám. 1313/13, 674 07 Třebíč",49.2139389,15.8784253,839396000,300,
