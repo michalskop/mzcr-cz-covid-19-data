@@ -72,6 +72,7 @@ ea992325-3efa-48d9-898e-933ee2be052d,"AKESO holding - OM Univerzitní, Plzeň - 
 bbeeefc5-5529-4f98-a8d4-1b6f49323ccd,"AeskuLab Teplice",CZ0426,1,"Teplice, Duchcovská 53",50.6365694,13.8108558,80,1,,1,
 4460862b-9dd1-4b29-91b5-ebebdb3e7201,"Antigenní Odběrové Centrum CHARITY ZÁBŘEH",CZ0715,1,"Sušilova 1285/38, 789 01 Zábřeh",49.8863853,16.8688744,112,,,1,
 cdc44ae3-297d-4c59-837d-408a5a65dcfc,"B-smiledent s.r.o. - odběrové místo Dobřichovice",CZ020A,1,"Pražská 375, 252 29 Dobřichovice",49.9300003,14.2731800,160,,,1,
+2b126047-3c57-4e37-9cf4-60cdee9d9ea4,"BENEDOR s.r.o. - odběrové místo Ostrava Poruba",CZ0806,,"Opavská 6117/51, 708 00 Ostrava - Poruba",49.8320553,18.1767714,500,1,,1,
 f65d303b-2cb4-464d-8454-d491747046ad,"Bioinova, s.r.o.",CZ0100,,"Vídeňská 1083, 142 20  Praha 4 - Krč",50.0172242,14.4658303,100,,,,1
 f338d743-b013-4878-a5d7-f9cd5ee7d562,"Bioptická laboratoř s.r.o.",CZ0323,1,"Rejskova 10, 326 00 Plzeň",49.7410781,13.3876475,1000,1,,1,
 d4327480-4ee5-4ffe-8991-e788114841b3,"Bohumínská městská nemocnice, a.s.",CZ0803,1,"Slezská 207, 735 81 Bohumín – Starý Bohumín",49.9179383,18.3354442,50,1,,,1
@@ -304,13 +305,14 @@ ddcfd334-d38a-4efd-bcc5-48a95b54511b,"Mobilní odběrový tým, HZS Plzeňského
 62c95498-1594-412f-9b99-6d6b346ebb5d,"Mobilní odběrový tým, HZS Zlínského kraje",,1,,,,0,,,1,
 4f1fcc33-4477-45bf-a5bd-c914322943da,"Mobilní odběrový tým, HZS Ústeckého kraje",,1,,,,0,,,1,
 fd2b38b0-dcf8-4c99-9c37-9135d4801f17,"Mělnická zdravotní, a.s.",CZ0206,1,"Pražská 528/29, Mělník 276 01",50.3470022,14.4847847,40,1,,1,
-35c386ec-7016-4a15-a59e-080db5a4c661,"Městská nemocnice Odry - odběrové místo",CZ0804,1,"Nadační 375/1, 742 35 Odry",49.6655158,17.8279533,50,,,1,
 dc0021c7-08fa-4a37-b238-75745ea61f1a,"Městská nemocnice Ostrava - Fifejdy AG",CZ0806,1,"Nemocniční 898/20a, Moravská Ostrava, 702 00 Ostrava (pavilon D1)",49.8331600,18.2765360,0,,,1,
 eadc583e-25f4-4c8d-8e11-89e8978fad15,"Městská nemocnice Ostrava - Fifejdy PCR",CZ0806,1,"Nemocniční 898/20a, Moravská Ostrava, 702 00 Ostrava (pavilon D1)",49.8345661,18.2763014,90,,,,1
+35c386ec-7016-4a15-a59e-080db5a4c661,"Městská nemocnice v Odrách, p.o.",CZ0804,1,"Nadační 375/1, 742 35 Odry",49.6655158,17.8279533,50,,,1,
 dc977f09-dea9-42f5-9ee5-6c324c11b152,"Městská nemocnice Čáslav",CZ0205,1,"Jeníkovská 348/17,286 01  Čáslav",49.9042383,15.4007222,250,1,,1,
 2f549ab7-e657-4c31-9640-3cae32e70fd1,"Městská nemocnice, a.s. Dvůr Králové nad Labem",CZ0525,1,"Vrchlického 1504 Dvůr Králové nad Labem 54401",50.4485744,15.8140356,80,1,,1,1
 5189d544-9318-4e95-9d98-03aa573ba664,"Městská poliklinika Otrokovice",CZ0724,1,"Třída osvobození 1388, 765 02 Otrokovice",49.2054656,17.5361694,60,1,,1,
-c0397090-af76-40fd-a902-a0af3a2be3b7,"Městská poliklinika Praha - Spálená",CZ0100,1,"Spálená 12, Praha 1",50.0802836,14.4199494,100,,,1,
+c0397090-af76-40fd-a902-a0af3a2be3b7,"Městská poliklinika Praha - Spálená",CZ0100,1,"Spálená 12, Praha 1",50.0802836,14.4199494,120,1,,1,
+47e1679c-97bb-46d3-97e6-e0a66547ea4e,"Městská poliklinika Praha - odběrové místo Mariánské náměstí",CZ0100,1,"Mariánské náměstí, Praha 1",50.0868892,14.4174425,300,1,,1,
 0ac2caad-3073-4d7a-a7ee-0ccc27fe1476,"Městská poliklinika Praha, Výstaviště Praha",CZ0100,,"Výstaviště 67, Praha 7",50.1046158,14.4305628,180,,,,
 0b9516a2-57bc-48cb-8d6b-d9821f3aa892,"NEURO-MEDNET s.r.o. - Olomouc",CZ0712,1,"tř. Svobody 1067/32, Olomouc",49.5893164,17.2531981,120,1,,1,
 92ceb326-179d-468f-8edb-45e17d577633,"NH Hospital a.s. - OM Nemocnice Hořovice",CZ0202,1,"K Nemocnici 1106/14, Hořovice, 268 31",49.8406575,13.9155844,1000,1,1,1,
@@ -325,7 +327,7 @@ c5abcd33-c52f-41ed-88d9-3a50304d7418,"Nemocnice AGEL Jeseník a.s. - stacionárn
 ff747341-814e-4d9c-9827-54a2e8255e0c,"Nemocnice AGEL Český Těšín a.s.",CZ0803,1,"Ostravská 783, 73701 Český Těšín",49.7455461,18.6093144,50,1,,1,
 167d8323-6237-4ebe-9dff-9ac239af3c46,"Nemocnice Agel Říčany",CZ0209,1,"Smiřických 315/26, Říčany  251 01",49.9959511,14.6748392,60,1,,1,
 76cab305-0d63-4423-91f4-a44c47efac5e,"Nemocnice Blansko",CZ0641,1,"Sadová 1596/33, Blansko 678 31",49.3615633,16.6521872,100,1,,1,
-cf149af4-9694-45d2-9847-7c678d56f303,"Nemocnice Boskovice, s.r.o.",CZ0641,1,"Otakara Kubína 179",49.4906381,16.6448706,60,1,,1,
+cf149af4-9694-45d2-9847-7c678d56f303,"Nemocnice Boskovice, s.r.o.",CZ0641,1,"Otakara Kubína 179",49.4906381,16.6448706,150,1,,1,
 a3111c41-8842-417c-b28b-3df7a9d04590,"Nemocnice Břeclav",CZ0644,1,"U Nemocnice 3066/1, 690 02  BŘECLAV",48.7529560,16.8807480,80,1,,1,
 c223dd21-d6d5-41c8-ba65-1bb830176054,"Nemocnice Cheb",CZ0411,1,"K Nemocnici 17, 350 02 Cheb",50.0699219,12.3681942,200,1,,,1
 0924a12d-b242-4e9e-87fb-a7366ea346cb,"Nemocnice Chomutov o.z.",CZ0422,1,"Kochova 1185, 43001 Chomutov",50.4551730,13.4112930,180,1,1,1,
@@ -363,7 +365,7 @@ ab55f5cf-e053-41ba-9ec0-80fb1c3ff037,"Nemocnice Strakonice,a.s.",CZ0316,1,"Radom
 374f7ded-63ac-408c-9cb1-54168f76d81e,"Nemocnice Teplice, o.z.",CZ0426,1,"Duchcovská 962/53, 415 29 Teplice",50.6363272,13.8094942,180,1,,1,
 5fb379ad-cabe-4e8e-9f13-746ce9edf1ce,"Nemocnice Tišnov, příspěvková organizace",CZ0643,1,"Purkyňova 279, 666 13 Tišnov",49.3478869,16.4328889,30,1,,1,
 53356a29-687c-4a73-ac30-5ec9505890f9,"Nemocnice Tábor, a.s.",CZ0317,1,"Tř. kpt. Jaroše 2000, 390 03 Tábor",49.4183300,14.6527701,250,1,,1,1
-46cb6724-3433-419a-8885-1d5afa026e46,"Nemocnice Třebíč, CL",CZ0634,1,"Purkyňovo nám. 133/2 67401 Třebíč",49.2123925,15.8923914,200,1,,1,1
+46cb6724-3433-419a-8885-1d5afa026e46,"Nemocnice Třebíč, CL",CZ0634,1,"Purkyňovo nám. 133/2 67401 Třebíč",49.2123631,15.8938136,200,1,,1,1
 58a08a6a-aec6-4821-a3fe-8d0533fcc6fa,"Nemocnice Třinec, p.o.",CZ0802,1,"Kaštanová 268, Dolní Líštná, 739 61 Třinec",49.6747550,18.6907020,240,1,,1,1
 3c858d60-4c30-47c0-804b-a2853dd67780,"Nemocnice Varnsdorf p.o. - odběrové místo",CZ0421,1,"Karlova 2280, 407 47 Varnsdorf",50.8937803,14.6117519,90,,,1,
 a6276120-00de-4bc6-af8e-845c3a15d5dd,"Nemocnice Vrchlabí",CZ0525,1,"Fügnerova 50, Vrchlabí, 54301",50.6224131,15.6088869,80,,,1,
@@ -452,17 +454,18 @@ e32d7e30-d374-4c47-b3a0-e9786156ca0c,"SPEA Olomouc s.r.o. - mobilní tým",,1,"N
 27bd4312-441a-4725-963a-ed3854690b9e,"STAYNEGATIVE aiomica/PREVEDIG medical - Flora",CZ0100,1,"na prostranství za OC Flora, Praha 3",50.0782928,14.4612969,200,1,1,1,
 b5799295-40a7-46d5-b8d4-1e3387961bc6,"STAYNEGATIVE aiomica/PREVEDIG medical - Havlíčkovo náměstí",CZ0100,1,"Havlíčkovo náměstí 300/10, 130 00 Praha 3",50.0849172,14.4536656,1000,1,,1,
 430efd6e-65f0-4416-99e0-308f1a1f764e,"SWISS MED CLINIC s.r.o. - odběrové místo Planá",CZ0327,1,"Bezdružická 274, 348 15 Planá",49.8691633,12.7485836,60,,,1,
-c09100ad-1d39-4198-ab96-43ce2637ff51,"SYNLAB Brno Zahradníkova",CZ0642,1,"Zahradníkova 494/2, 602 00 Brno - Veveří",49.2060675,16.5939969,24,,,,
-8507f18c-e8cb-4e66-bc5d-a660efdcb161,"SYNLAB CZECH s.r.o. Brno Tuřany",CZ0642,1,"Tuřany 904/1, Brno 627 00",49.1555761,16.6907556,150,,,1,1
-2a84b128-2a9c-463e-99c8-952188900ee5,"SYNLAB CZECH s.r.o. Liberec",CZ0513,1,"Jeronýmova 570, Liberec",50.7524694,15.0509336,150,,,1,1
-29122b8f-996e-4d2f-a53c-238d796c6683,"SYNLAB Hradec Králové - Letiště",CZ0521,1,"Letiště 98, Hradec Králové",50.2383075,15.8394017,100,,,1,1
+c09100ad-1d39-4198-ab96-43ce2637ff51,"SYNLAB Brno Zahradníkova",CZ0642,,"Zahradníkova 494/2, 602 00 Brno - Veveří",49.2060675,16.5939969,24,,,,
+8507f18c-e8cb-4e66-bc5d-a660efdcb161,"SYNLAB CZECH s.r.o. Brno Tuřany",CZ0642,1,"Tuřany 904/1, Brno 627 00",49.1555761,16.6907556,150,1,,1,1
+2a84b128-2a9c-463e-99c8-952188900ee5,"SYNLAB CZECH s.r.o. Liberec",CZ0513,1,"Jeronýmova 570, Liberec",50.7524694,15.0509336,150,1,,1,1
+29122b8f-996e-4d2f-a53c-238d796c6683,"SYNLAB Hradec Králové - Letiště",CZ0521,1,"Letiště 98, Hradec Králové",50.2383075,15.8394017,100,1,,1,1
 77bd3405-7364-4765-9f54-a4d258dd459c,"SYNLAB Jirkov - odběrové místo",CZ0422,1,"Zaječická 382, 431 11 Jirkov",50.4955958,13.4567150,60,1,,1,1
 bd0071e2-0e16-4fd5-b575-cc5a9462daed,"SYNLAB Ostrava - Ostravar Aréna",CZ0806,1,"Ruská 3077/135, 700 30 Ostrava - Zábřeh",49.8049000,18.2484000,70,1,,1,1
+ebbc7808-57f3-42de-8c37-9ec6a457175c,"SYNLAB Ostrava - mobilní odběrové místo ČEZ aréna",CZ0806,1,"Ruská 3077/135, 700 30 Ostrava - Zábřeh",49.8049000,18.2484000,70,1,,1,1
 06384ebe-02a5-42aa-8ab3-8f72f22b5341,"SYNLAB Plzeň - Majerova",CZ0323,1,"Majerova 2525/7, 301 00 Plzeň",49.7278139,13.3740386,50,1,,1,
-02641e13-677d-48f8-a8f5-18668f226b57,"SYNLAB Praha CUBE Evropská",CZ0100,1,"Evropská 423/178, Praha 6",50.0960103,14.3397825,75,,,1,1
+02641e13-677d-48f8-a8f5-18668f226b57,"SYNLAB Praha CUBE Evropská",CZ0100,1,"Evropská 423/178, Praha 6",50.0960103,14.3397825,75,1,,1,1
 0f5949fe-63f4-4d80-8b28-7b898d30b2de,"SYNLAB Písek",CZ0314,1,"Drlíčov 149, 37901 Písek",49.3066064,14.1479489,30,,,,
 b25fc982-b75c-4e49-9fa0-9983bf28508e,"SYNLAB České Budějovice U tří lvů",CZ0311,1,"U Tří lvů 294/4, 370 01 České Budějovice",48.9710669,14.4794606,20,1,,,
-1522c5c8-5c8a-4602-8fb2-69836849ddc0,"SYNLAB České Budějovice Vrbenská",CZ0311,1,"České Budějovice Vrbenská 197/23",48.9761700,14.4941394,30,,,1,
+1522c5c8-5c8a-4602-8fb2-69836849ddc0,"SYNLAB České Budějovice Vrbenská",CZ0311,1,"České Budějovice Vrbenská 197/23",48.9761700,14.4941394,30,1,,1,
 79041d7d-43b6-4e84-9c4d-5fe61b560339,"SYNLAB Český Krumlov",CZ0312,1,"T. G. Masaryka 188, 381 01 Český Krumlov",48.8163575,14.3157803,20,,,,
 745504a5-e327-46c2-921e-11975bd50067,"Salubrita Praha 1",CZ0100,1,"Palackého 5, Praha 1",50.0811300,14.4231269,50,1,,1,
 58226d12-2ee2-4028-bca5-8d9c872d484e,"Saunový ráj - odběrové místo Holice",CZ0532,1,"Vysokomýtská 629, 534 01 Holice",50.0650244,15.9885950,100,,,1,
@@ -526,3 +529,4 @@ af201738-8b3f-4857-88cb-fbb3c7d8ad7e,"Ústav imunologie a mikrobiologie 1 LF UK"
 f8d72611-e065-4dfe-b0df-b4ac57d04b8c,"Ústřední vojenská nemocnice",CZ0100,1,"U Vojenské nemocnice 1200, 169 02 Praha 6",50.0898056,14.3627833,1500,1,,1,
 68aa3332-e242-4bdd-9362-80aa56f4f047,"Česká Laboratorní s.r.o. - mobilní odběrové místo",CZ0100,1,"Pod Krejcárkem 975/2, 130 00 Praha 3 - Žižkov",50.0967586,14.4771825,150,1,1,,
 a5a7522c-3cd6-49b4-8fe6-8e12ceda419f,"Česká laboratorní s.r.o. Český Brod",CZ0204,1,"Žižkova 282, 282 01 Český Brod",50.0731139,14.8524322,300,1,1,,
+6f349b55-669e-4ad3-8b38-2fc76e46b2f7,"Česká nemocniční s.r.o. - odběrové místo DBK Praha 4",CZ0100,1,"Budějovická 1667/64, 140 00 Praha 4",50.0438900,14.4493078,450,,,,

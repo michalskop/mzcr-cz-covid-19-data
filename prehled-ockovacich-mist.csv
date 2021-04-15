@@ -12,7 +12,7 @@ be9e7655-6160-4531-816d-62afdf91806b,"Avenier a.s. Centrum očkování a cestovn
 5c30086c-42d4-4e27-b940-2bf80e739739,"Avenier a.s. Centrum očkování a cestovní medicíny - Praha 6",CZ0100,,"Veleslavínská 150/44, 162 00  Praha 6",50.0947206,14.3487636,26260654027,32,
 07270775-d371-4118-b680-91322bb26b17,"Avenier a.s. Centrum očkování a cestovní medicíny - Zlín",CZ0724,,"Třída T. Bati 3705, 760 01  Zlín",49.2209556,17.6553811,26260654012,32,
 cae71614-b96b-4eab-9b3b-41390ff0ae45,"Be Elite Clinic",CZ0100,1,"Jindřišská 939/20",50.0840553,14.4287628,5805627000,60,
-19a6168f-de5b-41d1-80f8-1ca39e836f72,"Bluedent Očkovací centrum 65+ , Brno-Slatina",CZ0642,1,"Matlachova 234/24, Brno-Slatina, 62700",,,2356635000,250,
+19a6168f-de5b-41d1-80f8-1ca39e836f72,"Bluedent Očkovací centrum 65+ , Brno-Slatina",CZ0642,1,"Matlachova 234/24, Brno-Slatina, 62700",49.1772100,16.6901100,2356635000,250,
 c2ec6521-6a37-44c7-a661-1370adbac9c5,"Bohumínská městská nemocnice, a.s.",CZ0803,1,"Slezská 207, Bohumín",49.9174400,18.3352500,26834022000,36,1
 95d1157e-5f77-49fe-ae2d-24e5eef3606c,"Bor - Poliklinika Bor",CZ0327,1,"Přimdská 501, 348 02 Bor",49.7144106,12.7750631,29090300000,160,
 f1b3f2dc-c4d1-4f50-b79a-a48ed0c393d6,"Bílovecká nemocnice, a.s.",CZ0804,1,"17. listopadu 538 743 01 Bílovec",49.7632200,18.0165908,26865858000,80,1
@@ -71,7 +71,7 @@ c4d419b8-311f-427e-a6fc-3538e2ffc7bb,"Infocentrum Chodov",CZ0413,1,"Staroměstsk
 800e3522-2335-4e5c-bb6e-c219b5667f30,"KV ARÉNA OČKOVACÍ CENTRUM",CZ0412,1,"Západní 1812, 360 01 Karlovy Vary",50.2246400,12.8442300,26365804000,300,1
 f191d2d1-0716-4a9b-a563-2a27c8925b87,"Karlovarská krajská nemocnice a.s.",CZ0412,,"Bezručova 1190/19, 360 01 Karlovy Vary",50.2321753,12.8752203,26365804000,100,1
 ae9c4f09-2a1d-41dd-bf45-f8864f24dd5c,"Karvinská hornická nemocnice a.s. Oddělení pracovního lékařství KHN",CZ0803,1,"Zakladatelská 975/22, Karviná - Nové Město 735 06",49.8701931,18.5406322,60793490000,20,1
-cd252dde-b78e-4c74-88e5-e95d894968ab,"Klatovská nemocnice",CZ0322,1,"Plzeňská 929, 339 01 Klatovy",49.4041700,13.2921900,26360527000,350,1
+cd252dde-b78e-4c74-88e5-e95d894968ab,"Klatovská nemocnice",CZ0322,1,"Plzeňská 929, 339 01 Klatovy",49.4041700,13.2921900,26360527000,400,1
 371ee4e8-da22-446f-a9c3-f897c1a3fded,"Klášter - Staré náměstí Sokolov",CZ0413,1,"Komenského 77, 356 01 Sokolov",50.1789750,12.6374000,24747246000,400,
 22761b98-e54e-451a-832a-63f0e7a17d66,"Konstantinovy Lázně - Kulturní dům",CZ0327,1,"Tichá 164, 34952 Konstantinovy Lázně",49.8822447,12.9805508,29090300000,160,
 931fb801-8158-4fc2-ac92-2c68d76907d7,"Krajská majetková, p.o. středisko Lužická nemocnice Rumburk",CZ0421,1,"Lesní 1062/26, Rumburk",50.9458519,14.5417969,829048015,0,1
@@ -82,7 +82,7 @@ fbbde94b-4a74-41a3-93e1-c3fc53cf2189,"Krajská zdravotní a.s., - MNUL pracoviš
 c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ0422,1,"Kochova 1185, 430 12, Chomutov",50.4556889,13.4099056,25488627050,500,1
 77a1d5c5-26b3-4c61-9814-fa6497f83bdd,"Krajská zdravotní, a.s. - Nemocnice Děčín, o.z. - budova ČVUT",CZ0421,1,"Pohraniční  1288/1, 405 01 Děčín",50.7789925,14.2160292,25488627020,72,1
 518f6665-84b8-4964-ae04-3bff5e0f2d93,"Krajská zdravotní, a.s. - Nemocnice Most, o.z.",CZ0425,1,"Jana Evangelisty Purkyně 270, Most, 434 64",50.5076983,13.6273403,25488627040,48,1
-d166058b-d215-4166-925d-69f7c168ef96,"Krajská zdravotní, a.s. - Nemocnice Teplice",CZ0426,1,"Duchcovská 53, Teplice, 415 01",50.6365694,13.8108558,25488627030,30,1
+d166058b-d215-4166-925d-69f7c168ef96,"Krajská zdravotní, a.s. - Nemocnice Teplice - SPORTARÉNA",CZ0426,1,"Na Stínadlech, Teplice, 415 01",50.6403350,13.8139875,25488627030,208,1
 ec7464b3-cfbd-4e49-8187-5f438f69c731,"Kroměřížská nemocnice a.s. - Výstaviště Kroměříž",CZ0721,1,"Výstaviště Kroměříž, K Výstavišti 4069/8, 76701 Kroměříž",49.2836386,17.3928511,27660532000,1000,1
 7db4f337-4936-4175-b7a9-4ddffa91b6f4,"Kyjov Městské kulturní středisko",CZ0645,1,"Masarykovo nám. 34, 697 01 Kyjov",49.0106003,17.1226219,226912000,600,1
 51f67019-bb4e-41e0-a38b-91c9480596fd,"L Dermamedest s.r.o.",CZ0100,1,"Karlovo nám. 313/8, Praha 2",50.0749542,14.4187378,2635178000,60,
@@ -229,7 +229,7 @@ a8413ced-4d83-4b81-bcb9-e53132722acc,"Poliklinika Třešť spol. s.r.o",CZ0632,1
 eecc0842-a27e-4e28-8e69-24e624877713,"Psychiatrická nemocnice v Dobřanech",CZ0324,,"Ústavní, 33441 Dobřany",49.6396200,13.2864800,669792000,0,
 b8a946ef-4994-4dcd-859e-09040f43a6d0,"RESPIMED s.r.o.",CZ0100,1,"Urešova 1757, 148 00 Praha 4",50.0218600,14.4867600,47454296002,96,1
 e8e63305-db89-43c6-8aa2-eeda1a4287ef,"Rehabilitační nemocnici Beroun",CZ0202,1,"Profesora Veselého 493, Beroun",49.9648486,14.0954883,26752051000,0,
-cc49cc05-60f9-4cdb-ad64-e494cd82149d,"Rehabilitační ústav Brandýs nad Orlicí",CZ0534,1,"Žerotínova 98, 561 12 Brandýs nad Orlicí",50.0031844,16.2819850,853879000,80,
+cc49cc05-60f9-4cdb-ad64-e494cd82149d,"Rehabilitační ústav Brandýs nad Orlicí",CZ0534,1,"Žerotínova 98, 561 12 Brandýs nad Orlicí",50.0031844,16.2819850,853879000,80,1
 01dc9958-e5b8-418a-bbd9-fbae8da242ea,"Renturi s. r. o. (Ostrava)",CZ0806,,"Sokolská třída 1925/49, 702 00 Ostrava",49.8425200,18.2886700,0,150,
 554f7058-f9ad-4f57-a48a-130c948eb357,"Renturi s.r.o.(Brandýs nad Labem)",CZ0209,,"Průmyslová 1851",50.1751353,14.6617217,0,150,
 c9691d9b-82d1-4e3c-a471-2a7bbb22bb0b,"Renturi s.r.o.(Dobrovíz)",CZ020A,,"K Amazonu 235, 252 61 Dobrovíz",50.1068808,14.2142636,0,150,
