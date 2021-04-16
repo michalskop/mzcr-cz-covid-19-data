@@ -72,7 +72,7 @@ ea992325-3efa-48d9-898e-933ee2be052d,"AKESO holding - OM Univerzitní, Plzeň - 
 bbeeefc5-5529-4f98-a8d4-1b6f49323ccd,"AeskuLab Teplice",CZ0426,1,"Teplice, Duchcovská 53",50.6365694,13.8108558,80,1,,1,
 4460862b-9dd1-4b29-91b5-ebebdb3e7201,"Antigenní Odběrové Centrum CHARITY ZÁBŘEH",CZ0715,1,"Sušilova 1285/38, 789 01 Zábřeh",49.8863853,16.8688744,112,,,1,
 cdc44ae3-297d-4c59-837d-408a5a65dcfc,"B-smiledent s.r.o. - odběrové místo Dobřichovice",CZ020A,1,"Pražská 375, 252 29 Dobřichovice",49.9300003,14.2731800,160,,,1,
-2b126047-3c57-4e37-9cf4-60cdee9d9ea4,"BENEDOR s.r.o. - odběrové místo Ostrava Poruba",CZ0806,,"Opavská 6117/51, 708 00 Ostrava - Poruba",49.8320553,18.1767714,500,1,,1,
+2b126047-3c57-4e37-9cf4-60cdee9d9ea4,"BENEDOR s.r.o. - odběrové místo Ostrava Poruba",CZ0806,,"Opavská 6117/51, 708 00 Ostrava - Poruba",49.8320553,18.1767714,400,1,,1,
 f65d303b-2cb4-464d-8454-d491747046ad,"Bioinova, s.r.o.",CZ0100,,"Vídeňská 1083, 142 20  Praha 4 - Krč",50.0172242,14.4658303,100,,,,1
 f338d743-b013-4878-a5d7-f9cd5ee7d562,"Bioptická laboratoř s.r.o.",CZ0323,1,"Rejskova 10, 326 00 Plzeň",49.7410781,13.3876475,1000,1,,1,
 d4327480-4ee5-4ffe-8991-e788114841b3,"Bohumínská městská nemocnice, a.s.",CZ0803,1,"Slezská 207, 735 81 Bohumín – Starý Bohumín",49.9179383,18.3354442,50,1,,,1
@@ -112,10 +112,11 @@ b4f471e1-7a52-47db-b9d1-cfa736df6ffb,"ELISABETH PHARMACON, spol. s. r. o.",CZ064
 5a1d0419-8b22-4c61-9ff4-52751b4ee02f,"EMA Emergency s.r.o. - odběrové místo Olomouc Šantovka",CZ0712,1,"Polská 1201/1, 779 00 Olomouc",49.5874261,17.2579194,250,,,1,
 feeffab8-0292-460c-8715-5b390e4a5013,"EUC Klinika Liberec s.r.o. - odběrové místo",CZ0513,1,"Klášterní 117/2, 460 05 Liberec V-Kristiánov",50.7685825,15.0665256,30,,,1,
 9166bc1c-e787-46dc-bfdf-8de9869e4371,"EUC Klinika Plzeň - pouze Ag testy",CZ0323,1,"Denisovo nábřeží 1000/4, 301 00 Plzeň 3",49.7450789,13.3830597,80,,,1,1
-2824c268-029c-4718-891d-82ab1a58c7a0,"EUC Klinika Praha Kartouzská",CZ0100,1,"Kartouzská 204/6,Praha 5",50.0742825,14.4015444,200,1,,1,
 5ff0bd2f-129b-439b-bb4e-dcb98049fd75,"EUC Laboratoře -  poliklinika České Budějovice",CZ0311,1,"Matice školské 1786/17, České Budějovice",48.9666044,14.4760956,200,1,,1,
 61b0a5a6-deab-4985-b7dd-f6ea8c624061,"EUC Laboratoře - odběrové místo Sportcentrum Vysoké Mýto",CZ0534,1,"Jiráskova 111, 566 01 Vysoké Mýto",49.9495042,16.1557247,200,1,,1,
+2824c268-029c-4718-891d-82ab1a58c7a0,"EUC Laboratoře Praha Kartouzská",CZ0100,1,"Kartouzská 204/6,Praha 5",50.0742825,14.4015444,200,1,,1,
 e150ce66-34e6-427b-a27a-ca1cbfd2ff81,"EUC Laboratoře Praha Veleslavín",CZ0100,1,"Veleslavínská 1/30, 162 00 Praha 6",50.0932769,14.3508769,500,1,,1,1
+4b5455a2-d0f9-434d-8550-e88fbf94ca45,"EUC Laboratoře s.r.o. Horní Počernice - odběrové místo",CZ0100,1,"Palackého 720/5",50.1142944,14.6072056,200,1,,1,
 c66e5d2d-2855-499e-ac20-3b301c06342d,"EUC klinika Ostrava a.s.",CZ0806,1,"Opavská 962/39, Ostrava",49.8314431,18.1783136,200,,,1,
 1ed509e4-9612-4e19-b980-bfd97d55f14c,"EUC laboratoře - Poliklinika Šustova",CZ0100,1,"Šustova 1930/2, Praha",50.0274633,14.4893417,200,1,,1,
 2c400476-462e-40da-be55-9bdd3a0d8b4c,"EliteMedical s.r.o.",CZ0100,1,"Na Příkopě 859/22, 110 00 Praha 1 - Nové Město",50.0864122,14.4273183,20,1,,,
@@ -136,6 +137,7 @@ f240d6a1-e736-4736-b8ce-b6d13dd96282,"Fakultní nemocnice Ostrava",CZ0806,1,"17.
 e3319b75-0002-43ad-9c30-c5a707a7d3f0,"Filip Chaloupek - EMS Liberec",CZ0513,1,"Broumovská 843/11, Liberec",,,50,1,,1,1
 4eb9078b-65a9-47cb-82c1-36c208b9c925,"GEN-TREND s.r.o. - odběrové místo Rudolfov",CZ0311,1,"Hůry 149, Rudolfov 373 71",49.0125264,14.5406686,25,1,,,1
 5156d2b6-f31b-4cd0-9fba-30ab77157d90,"GENvia s.r.o. - Nuselská poliklinika",CZ0100,1,"Nuselská poliklinika, Táborská 325/57, Praha 4, Nusle 4, 14000",50.0629900,14.4412100,114,1,,1,
+751cb532-19fe-45bb-ba97-a95aab7efc1a,"GENvia s.r.o. - Pankrác",CZ0100,1,"Milevská 1695/7, 140 00 Praha 4 - Krč",50.0490656,14.4382333,1000,1,,1,
 6e366573-637b-44ba-b8d6-aab0fd01600a,"GENvia, s.r.o, - odběrové místo Kamýk",CZ0100,1,"Těšíkova 912/1",50.0150283,14.4272694,1000,1,,1,
 75fe31de-9fe6-4758-b604-5fbf9d05eca2,"GENvia, s.r.o, - odběrové místo Rokycany",CZ0326,1,"Odpočívka Rokycany, 58.8 km (P), Rokycany - Borek",49.7579519,13.6166961,500,,,1,
 7b4854d4-4f46-4719-bdcf-9e4024860624,"GENvia, s.r.o, - odběrové místo Šlovice",CZ0324,1,"Odpočívka Šlovice, 83.2 km (P), Dobřany - Šlovice",49.6781475,13.3295697,500,1,,1,
@@ -223,6 +225,7 @@ c18b1d84-7211-4aa4-b897-4cc791e2ea13,"Laboratoř Chodov",CZ0413,1,"Tovární 600
 317e7a5f-facf-47b2-a8ba-6c57cf0d7274,"Laboratoře Diagnostika s.r.o.",CZ0427,1,"Novosedlické nám. 1, 400 03, Ústí nad Labem",50.6494553,14.0601222,80,1,1,1,
 dfec150c-4c67-4436-bafe-4bffdf504f1d,"Laboratoře lékařské genetiky",CZ0532,1,"Masarykovo náměstí 2667, Pardubice",50.0378189,15.7674169,100,1,,1,
 a58b3f43-3880-4ff6-9d43-a8718a319b5f,"Laboratoře lékařské genetiky - Lovosická",CZ0100,1,"Lovosická 440, Praha 9, 19800",50.1288628,14.4901978,180,1,,1,
+1133d5ed-f698-4f1b-9bd4-69f92ee6304d,"Laboratoře lékařské genetiky Pardubice -Hlavní nádraží ČD - odběrové místo",CZ0532,1,"nám. Jana Pernera 217",50.0323528,15.7562981,600,1,,1,
 43e1dc00-5cd2-40c2-9fbf-1833685197b8,"Levitovo centrum následné péče (LCNP)",CZ0522,1,"Riegrova 655, 508 01 Hořice",50.3684781,15.6398039,72,,,1,
 17d9eb60-4c0d-4cc7-ad6a-bf7d7a3e1cc1,"Liberec - ZÚ Ústí nad Labem",CZ0513,1,"U Sila 1139, 4311 Liberec",50.7524967,15.0811989,140,1,,1,
 e74d8ae8-9864-44c3-9b05-f2da78a345ba,"Litomyšlská nemocnice",CZ0533,1,"J. E. Purkyně 652, 570 14 Litomyšl",49.8657292,16.3132428,300,,,1,
@@ -235,6 +238,9 @@ c08e1f99-454c-4f49-867e-3ae69707aa81,"Livian s.r.o. - odběrové místo Brno Tu�
 792088bb-8546-46f1-8dbb-09df641b98cb,"Livian s.r.o. - odběrové místo Modřice",CZ0643,1,"Evropská 873, 664 42 Modřice",49.1129000,16.6042000,1800,,,1,
 e0ca0618-12e9-4d21-915a-48738a81cbcc,"Livian s.r.o. - odběrové místo Plzeň",CZ0323,1,"Technická, 301 00 Plzeň 3 - Skvrňany",49.7278756,13.3521531,1800,,,1,
 22c94edf-348d-42c4-9105-77da6b8a6dd1,"Lázně Darkov, a.s",CZ0803,1,"Čsl. armády 2954/2, 733 12 Karviná - Hranice",49.8669981,18.5616514,160,1,,1,
+330fa114-90a9-4e06-957d-7a093999ab64,"Lázně FELICITAS s.r.o. - mobilní odběrové místo Praha",,1,,,,0,,,1,
+ecc1297a-2a9b-4550-8425-28628e4a12dd,"Lázně FELICITAS s.r.o. - mobilní odběrové místo pro střední Čechy",,1,,,,0,,,1,
+8f09cd3d-e048-41be-9bc4-cc57d4e1187a,"Lázně FELICITAS s.r.o. - odběrové místo",CZ0208,1,"nám. T.G.Masaryka 1437, 290 01 Poděbrady III",50.1468400,15.1224669,0,,,1,
 30ebe186-48e5-45cd-860b-bb1d6604f349,"Lázně Teplice v Čechách a.s. - odběrové místo Rooseveltova",CZ0426,1,"Rooseveltova 272/5, 415 01 Teplice",50.6387925,13.8299325,100,,,,
 74a71d47-6cd9-4315-a2b1-524ed775f4fd,"Lékárna Senovážné nám. s.r.o. - odběrové místo České Budějovice",CZ0311,1,"Senovážné nám. 1616, 370 01 České Budějovice 6",48.9718106,14.4772528,120,,,1,
 d01b8f57-d63b-4cde-a2b8-40559259ddb7,"Lékárna ve Voticích s.r.o. - odběrové místo Komenského nám.",CZ0201,1,"Komenského nám. 143, 259 01 Votice",49.6395953,14.6414975,1000,1,1,1,
@@ -260,6 +266,7 @@ b0eeff7a-0c4e-4aab-9004-35a777025856,"Medical Testing s.r.o. - Jesenice",CZ020A,
 0cb40cdf-c8e9-4ac9-b40a-82039b3086e5,"Medical Testing s.r.o. - Kaplanova ul.",CZ0100,1,"Kaplanova ul., 14900 Praha11",50.0343470,14.4843510,200,1,,1,
 4855a074-72bb-494d-924e-a6b63f5867eb,"Medical Testing s.r.o. - Kovanecká ul.",CZ0100,1,"Kovanecká ul., 199 00 Praha 9",50.1086380,14.4877480,200,1,,1,
 b0a879a4-3239-4a34-9d3c-6ef034da5b2d,"Medical Testing s.r.o. - Žernosecká ul.",CZ0100,1,"Žernosecká ul. 180 00 Praha 8",50.1328360,14.4739960,200,1,,1,
+16402727-26c3-4ae4-bf46-75b4f06a4bbb,"Medical Testing s.r.o. Mladá Boleslav - odběrové místo",CZ0207,1,"Komenského nám 61/1 293 01 Mladá Boleslav",50.2444600,14.5416700,200,,,1,
 d7675bd5-1857-44cf-aec4-e69d96bd85c4,"Medical Testing s.r.o. Radotín",CZ0100,1,"Náměstí Osvoboditelů, Praha 5 - Radotín",49.9838825,14.3594247,200,1,,1,
 18a76876-8887-470e-b7ea-99a6f5afad1d,"Medical plus s.r.o. - odběrové místo Uherské Hradiště",CZ0722,1,"Obchodní 1507, 68601 Uherské Hradiště",49.0695114,17.4631997,200,1,,1,
 a9dc5e89-d2ec-4d68-b230-806033b85273,"Medical service Davepo s.r.o.",CZ020A,1,"Masarykova 1363, 252 19 Rudná",50.0252819,14.2104781,500,,,1,
