@@ -68,7 +68,7 @@ c4d419b8-311f-427e-a6fc-3538e2ffc7bb,"Infocentrum Chodov",CZ0413,1,"Staroměstsk
 5610e09b-866f-4e7f-b2b5-664fcd5ac19c,"KC Svoboda Cheb",CZ0411,1,"Za Mostní branou 5, 350 02 Cheb",50.0834500,12.3697200,VOČM,26365804001,300,
 1a303c70-c076-409d-af38-ca7108a6f186,"KNL a.s. - nemocnice Turnov",CZ0514,1,"28. října 1000, Turnov",50.5888400,15.1687900,OČM,27283933003,108,
 5a7c4ca5-5efa-4f81-a621-3cc6b97a5e9f,"KNL, a.s. - Nemocnice Frýdlant",CZ0513,1,"V Úvoze 860, Frýdlant",50.9256819,15.0874711,OČM,27283933005,78,1
-800e3522-2335-4e5c-bb6e-c219b5667f30,"KV ARÉNA OČKOVACÍ CENTRUM",CZ0412,1,"Západní 1812, 360 01 Karlovy Vary",50.2246400,12.8442300,VOČM,26365804000,300,1
+800e3522-2335-4e5c-bb6e-c219b5667f30,"KV ARÉNA OČKOVACÍ CENTRUM",CZ0412,1,"Západní 1812, 360 01 Karlovy Vary",50.2246400,12.8442300,VOČM,26365804000,1500,1
 f191d2d1-0716-4a9b-a563-2a27c8925b87,"Karlovarská krajská nemocnice a.s.",CZ0412,,"Bezručova 1190/19, 360 01 Karlovy Vary",50.2321753,12.8752203,DOČM,26365804000,100,1
 ae9c4f09-2a1d-41dd-bf45-f8864f24dd5c,"Karvinská hornická nemocnice a.s. Oddělení pracovního lékařství KHN",CZ0803,1,"Zakladatelská 975/22, Karviná - Nové Město 735 06",49.8701931,18.5406322,OČM,60793490000,114,1
 cd252dde-b78e-4c74-88e5-e95d894968ab,"Klatovská nemocnice",CZ0322,1,"Plzeňská 929, 339 01 Klatovy",49.4041700,13.2921900,OČM,26360527000,400,1
@@ -162,7 +162,7 @@ ffddf34a-46dc-48a5-ba76-cf1c35339bf2,"Nemocnice Neratovice",CZ0206,1,"Alšova 46
 b6f39bb5-9ebf-44be-a1d1-0efacab96703,"Nemocnice Pardubice - Sál Jana Kašpara Krajský úřad",CZ0532,1,"Nám. Komenského 120, Pardubice",50.0384022,15.7816406,OČM,27520536000,0,1
 a29e6eb0-1b21-42d2-8962-90e8b0d9536d,"Nemocnice Pelhřimov",CZ0633,,"Slovanského bratrství 710, 393 01 Pelhřimov",49.4335131,15.2298444,OČM,511951000,100,1
 b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,"Nemocnice Pelhřimov - Kulturní dům Máj",CZ0633,1,"tř. Legií 1115, 393 01 Pelhřimov",49.4290500,15.2196400,VOČM,511951000,500,1
-74087959-c707-4d8e-b5d7-9a2b5ba4844d,"Nemocnice Prachatice - OČKO Hotel Park",CZ0315,1,"U Stadionu 383,  383 01 Prachatice",49.0072700,14.0108200,VOČM,26095165000,0,1
+74087959-c707-4d8e-b5d7-9a2b5ba4844d,"Nemocnice Prachatice - OČKO Hotel Park",CZ0315,1,"U Stadionu 383,  383 01 Prachatice",49.0105492,14.0019592,VOČM,26095165000,0,1
 1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,"Nemocnice Písek - OČKO",CZ0314,1,"Karla Čapka 589, 397 01 Písek",49.3029800,14.1561000,OČM,26095190000,100,
 04e5f4cd-81e8-46fc-a96c-f41d5c96dd11,"Nemocnice Rudolfa a Stefanie Benešov a.s.",CZ0201,,"Máchova 400, Benešov 256 01",49.7861753,14.6791711,DOČM,27253236000,0,
 a8b62b00-0e64-4b8d-8202-316e0c00f809,"Nemocnice Rudolfa a Stefanie Benešov, a.s.",CZ0201,1,"Máchova 400",49.7873358,14.6811406,OČM,27253236000,500,1
