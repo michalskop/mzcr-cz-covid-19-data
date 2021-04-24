@@ -42,7 +42,7 @@ c8986ef2-a361-4830-9fc2-c301cae6dc2a,"AESKULAB Praha Vajgarská",CZ0100,1,"Vajga
 3960f5a9-8269-487c-8b93-f1fee91346ce,"AESKULAB Praha Čs.exilu",CZ0100,1,"Čs.exilu 2175/36, Praha 12",50.0050431,14.4163756,60,1,,,
 c960ecdd-24e8-4b02-b996-d67b735d21b2,"AESKULAB České Budějovice",CZ0311,1,"Senovážné náměstí 231/7, České Budějovice",48.9734850,14.4793167,80,1,,1,
 54ae7bd0-3790-4b16-b0e0-a05c487f4f4f,"AG Covidpoint - Benzina - Průhonice D1 - Pha",CZ0100,1,"Benzina dálnice D1 směr Praha 149 00 Praha - Újezd",50.0103275,14.5420769,370,,,1,
-23ab953f-88a7-41d2-9931-abfdcdd03985,"AG Covidpoint - Brno Globus",CZ0642,,"Hradecká 40",49.1536100,16.3452900,200,,,1,
+23ab953f-88a7-41d2-9931-abfdcdd03985,"AG Covidpoint - Brno Globus",CZ0642,1,"Hradecká 40",49.1536100,16.3452900,200,,,1,
 77fd260e-4765-4147-acfe-1a60a69ac13b,"AG Covidpoint - Brumlovka",CZ0100,1,"Želetavská ul. Praha 4 - Michle",50.0485050,14.4563825,370,,,1,
 92fb5fab-7445-41a9-baa5-42fda666ec2d,"AG Covidpoint - EUROPARK Štěboholy",CZ0100,1,"Nákupní 389/3 Praha10- Štěrboholy",50.0722167,14.5436394,370,,,1,
 c63857c0-50c0-4aae-944c-d31787fd193e,"AG Covidpoint - Havířov Globus",CZ0803,1,"U Skleníků 1490/24, 735 64 Havířov - Prostřední Suchá",49.7916286,18.4405233,200,,,1,
@@ -142,7 +142,7 @@ f240d6a1-e736-4736-b8ce-b6d13dd96282,"Fakultní nemocnice Ostrava",CZ0806,1,"17.
 8d415369-76cc-4dd6-86bc-cefc2cef200d,"Fakultní nemocnice U Svaté Anny",CZ0642,1,"FNUSA Pavilon C, Leitnerova, Brno",49.1907600,16.6023090,270,1,,1,
 7b786058-dfe9-487e-9f8a-9a7cc18464f2,"Fakultní nemocnice v Motole",CZ0100,1,"V Úvalu 84, 15006, Praha 5",50.0731780,14.3446610,960,,,1,
 e3319b75-0002-43ad-9c30-c5a707a7d3f0,"Filip Chaloupek - EMS Liberec",CZ0513,1,"Broumovská 843/11, Liberec",,,50,1,,1,1
-4eb9078b-65a9-47cb-82c1-36c208b9c925,"GEN-TREND s.r.o. - odběrové místo Rudolfov",CZ0311,1,"Hůry 149, Rudolfov 373 71",49.0125264,14.5406686,25,1,,,1
+4eb9078b-65a9-47cb-82c1-36c208b9c925,"GEN-TREND s.r.o. - odběrové místo Rudolfov",CZ0311,1,"Hůry 149, Rudolfov 373 71",49.0125264,14.5406686,25,1,,1,1
 5156d2b6-f31b-4cd0-9fba-30ab77157d90,"GENvia s.r.o. - Nuselská poliklinika",CZ0100,1,"Nuselská poliklinika, Táborská 325/57, Praha 4, Nusle 4, 14000",50.0629900,14.4412100,114,1,,1,
 751cb532-19fe-45bb-ba97-a95aab7efc1a,"GENvia s.r.o. - Pankrác",CZ0100,1,"Milevská 1695/7, 140 00 Praha 4 - Krč",50.0490656,14.4382333,1000,1,,1,
 6e366573-637b-44ba-b8d6-aab0fd01600a,"GENvia, s.r.o, - odběrové místo Kamýk",CZ0100,1,"Těšíkova 912/1",50.0150283,14.4272694,1000,1,,1,
