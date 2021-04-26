@@ -21,11 +21,11 @@ da5422b1-8002-456c-aa95-9a26a5e0e622,"Břeclav Dům školství",CZ0644,1,"17.lis
 5444dcb2-a75d-44a9-af44-14c2f2cae198,"CCR Pardubice s.r.o.",CZ0532,,"třída Míru 2800, 530 02 Pardubice I",50.0364478,15.7705036,,6621341000,0,
 fafb9109-12b6-4278-87cd-310bd66a356a,"CLINICUM a.s. -  Kongresové centrum Praha",CZ0100,1,"5. května 1640/65, 140 21 Praha 4",50.0625194,14.4296664,VOČM,25093126000,1600,1
 222c839e-fbc8-43ca-a40e-77cc2ec62a42,"CZUB zdravotní s.r.o. - Kino Máj, Uherský Brod",CZ0722,1,"nám. 1. máje 2057, 688 01 Uherský Brod",49.0292283,17.6578408,OČM,5110122000,300,1
-3dd70787-ba31-4d14-9606-e122af696fca,"CZdrS Bechyně",CZ0317,,"Bechyně, letiště, PSČ 391 65",49.2736083,14.5015528,VOČM,0,0,
-35064136-cb6f-4421-90ad-082a6838ae7c,"CZdrS Bechyně",CZ0322,,"Klatovy, Dragounská 66, PSČ 339 01",49.3925856,13.2893969,VOČM,0,0,
-211e27ef-53a7-415b-9170-2afdbeec4940,"CZdrS Bechyně",CZ0316,,"Strakonice, V Lipkách 2, PSČ 386 01",49.2548797,13.8895506,VOČM,0,0,
-6797a20f-67f1-45f2-b796-e7f22d5283eb,"CZdrS Bechyně",CZ0313,,"Jindřichův Hradec, Vídeňská 169, PSČ 377 02",49.1390819,15.0086381,VOČM,0,0,
-d5b10f54-ef68-4c80-b6d9-67b7a1efbc24,"CZdrS Bechyně",CZ0317,,"Tábor, Kyjevská 70, PSČ 390 01",49.4221542,14.6558686,VOČM,0,0,
+3dd70787-ba31-4d14-9606-e122af696fca,"CZdrS Bechyně",CZ0317,,"Bechyně, letiště, PSČ 391 65",49.2736083,14.5015528,AČR,0,0,
+35064136-cb6f-4421-90ad-082a6838ae7c,"CZdrS Bechyně",CZ0322,,"Klatovy, Dragounská 66, PSČ 339 01",49.3925856,13.2893969,AČR,0,0,
+211e27ef-53a7-415b-9170-2afdbeec4940,"CZdrS Bechyně",CZ0316,,"Strakonice, V Lipkách 2, PSČ 386 01",49.2548797,13.8895506,AČR,0,0,
+6797a20f-67f1-45f2-b796-e7f22d5283eb,"CZdrS Bechyně",CZ0313,,"Jindřichův Hradec, Vídeňská 169, PSČ 377 02",49.1390819,15.0086381,AČR,0,0,
+d5b10f54-ef68-4c80-b6d9-67b7a1efbc24,"CZdrS Bechyně",CZ0317,,"Tábor, Kyjevská 70, PSČ 390 01",49.4221542,14.6558686,AČR,0,0,
 ccdcc2c1-c477-4271-af37-76ff2ea3e764,"Canadian Medical s.r.o., očkovací centrum",CZ0100,1,"Evropská 859/115a, Praha 6, 160 00",50.0956000,14.3484400,OČM,26775816020,230,1
 02b76041-4f24-4e97-b657-d6d8904aa4a4,"Carvac Aš",CZ0411,,"Nemocniční 2271/52, Aš",50.2235672,12.2028208,OČM,63504260000,20,
 12ca67cd-7038-438f-acf0-d193a141a653,"Centrum zdravotní péče Jirny",CZ0209,1,"Tovární 19, 250 90 Jirny",50.1156000,14.6992000,OČM,25606328000,50,1
@@ -73,7 +73,7 @@ d7b72e99-9792-48e5-b615-661839a75456,"ISCARE a.s.",CZ0100,,"Českomoravská 2510
 30b0373e-0b9a-444d-aa0d-42c8066a39a7,"ImunoGen s.r.o.",CZ0100,1,"Sluneční náměstí 15, Praha 13",50.0503111,14.3434461,OČM,6686630000,200,1
 f48613c8-f616-460b-bbb3-096e07223c73,"ImunoSantana spol. s r.o.",CZ0411,1,"Májová 582/19, 350 02 Cheb",50.0756700,12.3698400,OČM,25687794000,50,1
 c4d419b8-311f-427e-a6fc-3538e2ffc7bb,"Infocentrum Chodov",CZ0413,1,"Staroměstská 39, Chodov 357 35",50.2401831,12.7486403,OČM,26365804000,200,
-4b708512-790d-4edb-8f3c-303d3d192acf,"Institut klinické a experimentální medicíny (IKEM)",CZ0100,1,"Vídeňská 1958/9, 140 21 Praha 4",50.0227853,14.4630069,DOČM,23001000,390,1
+4b708512-790d-4edb-8f3c-303d3d192acf,"Institut klinické a experimentální medicíny (IKEM)",CZ0100,,"Vídeňská 1958/9, 140 21 Praha 4",50.0227853,14.4630069,DOČM,23001000,390,1
 970a0fb5-26c6-4f00-b6c7-a16748f85b9b,"Institut klinické a experimentální medicíny (IKEM) - rezerva",CZ0100,,"Vídeňská 1958/9, 140 21 Praha 4",50.0227869,14.4630069,DOČM,23001000,0,
 7f905c95-b6a3-4f44-87a1-8f18b1ae0c6c,"JMK mezikrajová rezerva",CZ0642,,"Jihlavská 340/20, 62500 Brno - Bohunice",49.1755828,16.5704458,DOČM,65269705000,0,
 5610e09b-866f-4e7f-b2b5-664fcd5ac19c,"KC Svoboda Cheb",CZ0411,1,"Za Mostní branou 5, 350 02 Cheb",50.0834500,12.3697200,VOČM,26365804001,300,
@@ -227,7 +227,7 @@ e6d0a768-a1a5-4fc8-aada-081ecf2b68b0,"Oblastní nemocnice Příbram",CZ020B,1,"G
 b53d6d7a-60bd-4acd-98cb-97893f87d163,"Odborný léčebný ústav Jevíčko",CZ0533,1,"TRN - léčebna 508, 56943 Jevíčko",49.6339600,16.6696600,OČM,193976000,100,
 0c7e626d-b0e6-413f-bd48-9bfce9b5487e,"Orlickoústecká nemocnice",CZ0534,1,"Čs. armády 1076, 562 18 Ústí nad Orlicí",49.9695364,16.4041458,OČM,27520528000,0,1
 13226cfa-b720-4a12-b6d7-3c60b6b718d6,"Ortopedie - Nandana Bruntál s.r.o.",CZ0801,,"Nádražní 1589/29, 792 01 Bruntál",49.9946800,17.4712600,OČM,9587250000,100,
-7fc4f736-04a4-403d-888b-9d52f1727a2e,"OČM Kongresové centrum (GASK)",CZ0205,1,"OČM Kongresové centrum (GASK), Kremnická 239/7, Kutná Hora 284 01",49.9456714,15.2536853,OČM,27256391005,0,1
+7fc4f736-04a4-403d-888b-9d52f1727a2e,"OČM Kongresové centrum (GASK)",CZ0205,1,"OČM Kongresové centrum (GASK), Kremnická 239/7, Kutná Hora 284 01",49.9474433,15.2619894,OČM,27256391005,0,1
 b85e83d4-e9be-456d-b6b5-8e2acac97990,"Očkovací centrum Dobřichovice sportovní hala BIOS",CZ020A,1,"Pražská 375, 252 29 Dobřichovice",49.9293642,14.2726686,VOČM,2084325000,0,
 73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,"Očkovací centrum Liberec (KNL)",CZ0513,1,"U Jezu 642/2a, Liberec",50.7640786,15.0543333,DOČM,27283933000,900,1
 51202c9c-0869-494a-803f-eb6de980f6f3,"Očkovací centrum Třebíč",CZ0634,1,"Kulturní dům Fórum, Masarykovo nám. 1313/13, 674 07 Třebíč",49.2139389,15.8784253,VOČM,839396000,300,
