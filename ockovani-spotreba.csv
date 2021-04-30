@@ -1,4 +1,4 @@
-﻿datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,ockovaci_latka,vyrobce,pouzite_ampulky,znehodnocene_ampulky,pouzite_davky,znehodnocene_davky
+datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,ockovaci_latka,vyrobce,pouzite_ampulky,znehodnocene_ampulky,pouzite_davky,znehodnocene_davky
 2020-12-26,9295cb5e-e9ae-4858-97ce-5dadaf99ad72,"Všeobecná fakultní nemocnice Praha",CZ010,"Hlavní město Praha",Comirnaty,Pfizer,195,0,1170,0
 2020-12-26,0f396137-e1fe-4e67-8291-292e4066376d,"FN Brno Výstaviště",CZ064,"Jihomoravský kraj",Comirnaty,Pfizer,487,0,2922,0
 2020-12-27,77079458-38f2-4bff-b983-7f99a07afdc3,"Fakultní nemocnice v Motole",CZ010,"Hlavní město Praha",Comirnaty,Pfizer,77,0,462,0

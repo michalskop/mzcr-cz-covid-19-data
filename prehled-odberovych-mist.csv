@@ -1,4 +1,4 @@
-﻿odberove_misto_id,odberove_misto_nazev,okres_nuts_kod,operacni_status,odberove_misto_adresa,latitude,longitude,testovaci_kapacita,nasofaryngealni_odber,orofaryngealni_odber,antigenni_odber,drive_in
+odberove_misto_id,odberove_misto_nazev,okres_nuts_kod,operacni_status,odberove_misto_adresa,latitude,longitude,testovaci_kapacita,nasofaryngealni_odber,orofaryngealni_odber,antigenni_odber,drive_in
 a81a99e2-90bd-494c-ae42-7090f93115ca,"#NaŽádanku.cz – Odběrové centrum Praha 15 (H. Měcholupy)",CZ0100,1,"Park na křižovatce ulic Ravennská a Milánská, Praha 15, 109 00",50.0444517,14.5585581,160,1,1,1,
 f4d02b50-1561-4c7e-9cf4-8d85b2d985ea,"#NaŽádanku.cz – Odběrové centrum Praha 6 (Ruzyně)",CZ0100,1,"Drnovská 1112/60 161 00 Praha 6 - Ruzyně",50.0918058,14.2991447,100,1,1,,1
 42c85d23-21e4-4fe9-baef-9ab06c0cbe6d,"#Vyšetři.mě – Odběrové centrum Praha 15 (H. Měcholupy)",CZ0100,1,"Park na křižovatce ulic Ravennská a Milánská, Praha 15, 109 00",50.0444946,14.5583959,560,1,1,,
@@ -261,6 +261,7 @@ d01b8f57-d63b-4cde-a2b8-40559259ddb7,"Lékárna ve Voticích s.r.o. - odběrové
 e0bc358f-8c0e-4dee-9663-94c31a899964,"MCU Koloseum o.p.s. - odběrové místo Liberec",CZ0513,1,"Generála Svobody 83/47, 460 01 Liberec XIII-Nové Pavlovice",50.7808444,15.0491486,200,,,1,
 c94a8137-8126-4acc-97a4-eadf56a38651,"MEDICAL TESTING s.r.o. - Hořejší nábřeží",CZ0100,1,"na nábřeží Vltavy pod Palackého mostem strana Praha-Smíchov",50.0727983,14.4104848,200,1,,1,
 f96a0924-67b1-48ab-9d25-5335e3728ac9,"MEDICAL TESTING s.r.o. Vestec u Prahy",CZ020A,,"Průmyslová u točny autobusu, Vestec, okres Praha-západ",49.9836058,14.4885561,200,1,,1,1
+477129f3-bd89-447c-9c62-ee773bcd1918,"MEDITERRA-Sedlčany s.r.o. -  odběrové místo Kino KDJS",CZ020B,1,"Havlíčková 514, 264 01 Sedlčany",49.6587186,14.4263219,0,,,1,
 4c3b2594-5ce5-435e-9fa5-52c88003db8d,"MMN, .a.s., nemocnice Jilemnice",CZ0514,1,"Metyšova 465, 514 01 Jilemnice",50.6115283,15.4993889,100,,,1,
 f66c347c-01b0-41d1-8e0d-5a5a6a9f357f,"MMN, a.s. (nemocnice Semily)",CZ0514,1,"3.května 421, Semily",50.5980375,15.3533992,50,1,,1,
 1637667e-feff-4fe4-adbd-312bed6c36a5,"MUDr. František Filipi - odběrové místo",CZ0642,1,"Jana Babáka 2733/11, 612 00 Brno - Královo Pole",49.2165269,16.5881706,10,,,1,
@@ -377,7 +378,6 @@ b388d876-9b55-47a3-862a-eb2a4f0f2dfb,"Nemocnice Pardubice - mobilní odběrový 
 ffe11d08-39f8-439a-aea5-0767d14f330f,"Nemocnice Písek, a.s.",CZ0314,1,"Karla Čapka 589, 397 01 Písek",49.3042283,14.1555708,400,1,,1,
 809c4993-e3d1-40d5-8bca-8b6300a47249,"Nemocnice Rudolfa a Stefanie Benešov, a.s.",CZ0201,1,"Máchova 400, 256 01, Benešov",49.7890050,14.6795850,300,1,,1,1
 b9501b3d-d89e-462d-afe0-779b52c95e1d,"Nemocnice Rumburk",CZ0421,1,"U Nemocnice 1298/6, 408 01 Rumburk",50.9487117,14.5474706,120,1,,1,1
-477129f3-bd89-447c-9c62-ee773bcd1918,"Nemocnice Sedlčany - odběrové místo",CZ020B,1,"Tyršova 161, 264 01 Sedlčany",49.6587186,14.4263219,0,,,1,
 9f19b25f-d0d8-444e-9cf8-0d18a3605e2c,"Nemocnice Slaný",CZ0203,1,"Politických vězňů 576, Slaný 27401",50.2340138,14.0831581,300,1,,1,1
 d01b4bcf-1bb5-4ff6-937a-8e21c4ad9952,"Nemocnice Sokolov",CZ0413,,"Jezerní 2156, 356 01 Sokolov",50.1781983,12.6381483,350,1,,1,1
 ab55f5cf-e053-41ba-9ec0-80fb1c3ff037,"Nemocnice Strakonice,a.s.",CZ0316,1,"Radomyšlská 336, 386 29 Strakonice",49.2655450,13.9070370,400,1,,1,1
@@ -392,6 +392,7 @@ a6276120-00de-4bc6-af8e-845c3a15d5dd,"Nemocnice Vrchlabí",CZ0525,1,"Fügnerova 
 667ca87d-22d8-4e54-b53d-68b9999a82f1,"Nemocnice Vyškov",CZ0646,1,"Purkyňova 235/36, Vyškov 68201",49.2775167,16.9799219,85,1,,1,
 fc89d940-a659-41fc-a2be-c6543d27b91d,"Nemocnice Znojmo",CZ0647,1,"MUDr. J. Janského 11, Znojmo",48.8695433,16.0495789,220,1,,1,
 9133b301-77e5-4919-897e-6be3031bded9,"Nemocnice na Bulovce",CZ0100,1,"Budínova 67/2 Praha 8 – Libeň 180 81",50.1146789,14.4596270,1000,1,1,1,
+f4dce0a2-91af-4a8c-b3c2-1549c02530ea,"Nemocnice následné péče LDN Horažďovice, s.r.o.",CZ0322,1,"Blatenská 314, 341 01 Horažďovice",49.3237747,13.7078908,42,,,,
 853de0c2-b014-41bb-a310-182cd6709ab4,"Nemocnice následné péče Moravská Třebová",CZ0533,,"Svitavská 25, 571 01 Moravská Třebová",49.7571611,16.6550031,5,,,,
 f9822c01-9c1c-4760-abe5-be9a6c72293b,"Nemocnice s poliklinikou Havířov, p.o.",CZ0803,1,"Dělnická 1132/24, Město, 736 01 Havířov",49.7845150,18.4379900,150,1,,1,
 92b03d48-f556-46be-b3a0-a838d1391c85,"Nemocnice s poliklinikou Česká Lípa",CZ0511,1,"Purkyňova 1849, Česká Lípa 470 01",50.6866311,14.5484203,200,1,,1,
@@ -464,7 +465,7 @@ a35671a2-ea21-4148-b77b-14b744737406,"Poliklinika Flora Cheb",CZ0411,1,"Májová
 983197fc-2be4-4b14-a7ad-e84fceb24e16,"Rehabilitační klinika Malvazinky",CZ0100,1,"U Malvazinky 177/7, 150 00 Praha 5 - Smíchov",50.0640731,14.3936992,10,,,,1
 9325b633-0b76-4259-bd6c-41f52d3948b7,"Renturi s.r.o. - odběrové místo AVION SHOPPING PARK Ostrava",CZ0806,1,"Rudná 3114/114, 700 30 Ostrava - Zábřeh",49.8020203,18.2279647,180,,,1,
 dd0ee8e2-1b08-49c7-8fad-762c694996b0,"Renturi s.r.o. - odběrové místo Ostrava",CZ0806,1,"Sokolská třída 1925/49",49.8425392,18.2886106,0,,,1,
-dda11d31-35d4-430a-b87a-389f0ea927e2,"Renturi s.r.o. - odběrové místo Rožnov pod Radhoštěm",CZ0723,1,"Bezručova 838, Rožnov pod Radhoštěm, 756 61",49.4643069,18.1420017,180,,,,
+dda11d31-35d4-430a-b87a-389f0ea927e2,"Renturi s.r.o. - odběrové místo Rožnov pod Radhoštěm",CZ0723,1,"Bezručova 838, Rožnov pod Radhoštěm, 756 61",49.4643069,18.1420017,180,,,1,
 19b4b578-196f-4a3c-ab49-52a69fe65bd7,"Rokycanská nemocnice, a.s.",CZ0326,1,"Voldušská 750/II, 337 01 Rokycany",49.7489310,13.6042890,96,,,1,1
 8f049af9-83a0-4f27-8d0c-9e85ce54a464,"SAFRES Group s.r.o. - odběrové místo Česká Skalice",CZ0511,1,"Tyršova 820, 552 03 Česká Skalice",50.3956547,16.0519642,1200,,,1,
 5921011d-054f-43b1-9e07-f4de44bf3432,"SANATORIUM EDEL s.r.o. - odběrové místo Zlaté Hory",CZ0711,1,"Lázeňská 491, 793 76 Zlaté Hory",50.2521425,17.3908583,16,,,1,

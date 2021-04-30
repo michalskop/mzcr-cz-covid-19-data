@@ -1,4 +1,4 @@
-﻿datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,cilove_ockovaci_misto_id,cilove_ockovaci_misto_nazev,cilovy_kraj_kod,cilovy_kraj_nazev,ockovaci_latka,vyrobce,akce,pocet_ampulek,pocet_davek
+datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,cilove_ockovaci_misto_id,cilove_ockovaci_misto_nazev,cilovy_kraj_kod,cilovy_kraj_nazev,ockovaci_latka,vyrobce,akce,pocet_ampulek,pocet_davek
 2020-04-28,e9cf2dde-5f75-4ac6-a013-07c6c257c93d,"Nemocnice Znojmo",CZ064,"Jihomoravský kraj",f5fe8269-61d2-4c43-8661-81876bbbbc89,"Nemocnice Znojmo Sportovni Hala Dvořákova",CZ064,"Jihomoravský kraj",Comirnaty,Pfizer,Výdej,88,528
 2020-12-26,77079458-38f2-4bff-b983-7f99a07afdc3,"Fakultní nemocnice v Motole",CZ010,"Hlavní město Praha",,,,,Comirnaty,Pfizer,Příjem,390,2340
 2020-12-26,98c76ec8-f7d1-474a-927c-d4a4fb2dcd0a,"ÚVN Praha - sklad",CZ010,"Hlavní město Praha",,,,,Comirnaty,Pfizer,Příjem,195,1170
