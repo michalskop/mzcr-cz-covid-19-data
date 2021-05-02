@@ -1455,8 +1455,8 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-04-30,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,65-69,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
 2021-04-30,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,65-69,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
 2021-04-30,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,65-69,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
-2021-04-30,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,65-69,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,,
 2021-04-30,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,65-69,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
+2021-04-30,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,65-69,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,,
 2021-04-30,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,65-69,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
 2021-04-30,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,65-69,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
 2021-04-30,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,65-69,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
@@ -7496,7 +7496,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-04-30,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,65-69,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
 2021-04-30,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,65-69,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
 2021-04-30,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,65-69,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
-2021-04-30,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,65-69,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,,
 2021-04-30,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,65-69,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
 2021-04-30,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,65-69,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,,
 2021-04-30,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,70-74,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,,
@@ -12624,8 +12623,8 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-04-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,55-59,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
 2021-04-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,55-59,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
 2021-04-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,55-59,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
-2021-04-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,55-59,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
 2021-04-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,55-59,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,,
+2021-04-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,55-59,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
 2021-04-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,55-59,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,1.0,2021-04-30
 2021-04-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,55-59,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,,
 2021-04-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,55-59,Na základě dosaženého věku (aktuálně se mohou registrovat osoby starší {0} let),CZ,,
