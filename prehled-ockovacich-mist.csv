@@ -55,6 +55,8 @@ f923b437-fab1-4e93-b5b5-b8d1ca541272,"IMMUNO-FLOW,s.r.o.",CZ0100,1,"U Pazderek 2
 f48613c8-f616-460b-bbb3-096e07223c73,"ImunoSantana spol. s r.o.",CZ0411,1,"Májová 582/19, 350 02 Cheb",50.0756700,12.3698400,OČM,25687794000,50,1
 c4d419b8-311f-427e-a6fc-3538e2ffc7bb,"Infocentrum Chodov",CZ0413,1,"Staroměstská 39, Chodov 357 35",50.2401831,12.7486403,OČM,26365804000,200,
 5610e09b-866f-4e7f-b2b5-664fcd5ac19c,"KC Svoboda Cheb",CZ0411,1,"Za Mostní branou 5, 350 02 Cheb",50.0834500,12.3697200,VOČM,26365804001,350,1
+1a303c70-c076-409d-af38-ca7108a6f186,"KNL a.s. - nemocnice Turnov",CZ0514,1,"28. října 1000, Turnov",50.5888400,15.1687900,OČM,27283933003,108,
+5a7c4ca5-5efa-4f81-a621-3cc6b97a5e9f,"KNL, a.s. - Nemocnice Frýdlant",CZ0513,1,"V Úvoze 860, Frýdlant",50.9256819,15.0874711,OČM,27283933005,78,1
 800e3522-2335-4e5c-bb6e-c219b5667f30,"KV ARÉNA OČKOVACÍ CENTRUM",CZ0412,1,"Západní 1812, 360 01 Karlovy Vary",50.2246400,12.8442300,VOČM,26365804000,1500,1
 ae9c4f09-2a1d-41dd-bf45-f8864f24dd5c,"Karvinská hornická nemocnice a.s. Oddělení pracovního lékařství KHN",CZ0803,1,"Zakladatelská 975/22, Karviná - Nové Město 735 06",49.8701931,18.5406322,OČM,60793490000,114,1
 cd252dde-b78e-4c74-88e5-e95d894968ab,"Klatovská nemocnice",CZ0322,1,"Plzeňská 929, 339 01 Klatovy",49.4041700,13.2921900,OČM,26360527000,400,1
@@ -76,7 +78,7 @@ ec7464b3-cfbd-4e49-8187-5f438f69c731,"Kroměřížská nemocnice a.s. - Výstavi
 c8e549b8-aafb-4b4c-ae3b-b1ccee70513f,"LRS Chvaly, o.p.s.",CZ0100,1,"Stoliňská 920, 193 00",50.1084331,14.5915319,OČM,24805807000,120,
 a70af252-fbab-41e1-a422-5ff5770c1ce9,"Levitovo centrum následné péče",CZ0522,1,"Riegrova 655, Hořice, 508 01",50.3684781,15.6398039,OČM,190217000,70,1
 6edad920-0382-4946-af44-cafeb841d6b1,"Litomyšlská nemocnice",CZ0533,1,"Jana Evangelisty Purkyně 652, 570 01 Litomyšl",49.8634561,16.3132058,OČM,27520579000,240,1
-859a3a84-5aa4-4d6c-9369-1f871bb4a679,"Livian s.r.o.",CZ0806,1,"Porubská 552/24, Ostrava -  Poruba 708 000",48.8270600,18.1720500,VOČM,24250287000,80,1
+859a3a84-5aa4-4d6c-9369-1f871bb4a679,"Livian s.r.o.",CZ0806,1,"Porubská 552/24, Ostrava -  Poruba 708 000",49.8272428,18.1721419,VOČM,24250287000,80,1
 c54c594c-94b9-4120-919e-9ddb40395743,"Livian s.r.o. - Centrum zdravotní péče Jarov",CZ0100,1,"Koněvova 2427/205, Praha 3 - Žižkov, 130 00",50.0928572,14.4861764,OČM,24250287000,100,1
 5744c404-06d8-4842-a068-9f73dd8f98d9,"Livian s.r.o. - Poliklinika KOLF",CZ0532,1,"Masarykovo nám. 2667, 53002",50.0379694,15.7668883,OČM,24250287002,0,
 b61479a7-8702-4529-b0a0-d6f31e635199,"Luhačovice - Zdravotní středisko",CZ0724,1,"Masarykova 315, 763 26 Luhačovice",49.1000700,17.7576000,OČM,25594575001,190,1
@@ -103,7 +105,6 @@ bd060d74-64dd-45dd-bd06-51f9d6147814,"Moje Ambulance a.s. Ostrava - Poruba",CZ08
 39aece24-3e8d-4261-8cab-db23b2d48d50,"Mělnická zdravotní, a.s.",CZ0206,1,"Pražská 528, 276 01 Mělník",50.3482825,14.4849831,OČM,27958639000,200,1
 0707be37-c28c-489c-b0d2-96704013eb91,"Městská nemocnice Městec Králové a.s.",CZ0208,1,"Prezidenta Beneše 343, 28903 Městec Králové",50.2053000,15.2887200,OČM,26495015000,20,
 a74425f4-80fe-4f1f-abb9-3e8df7ca8aac,"Městská nemocnice Ostrava, p.o., Vakcinační centrum",CZ0806,1,"Varenská 3131/5 728 80 Ostrava-Moravská Ostrava",49.8346981,18.2738986,OČM,635162000,400,1
-dd1190e0-c2e5-4e90-baaf-1eefa55c4e46,"Městská nemocnice následné péče",CZ0100,1,"K Moravině 343/6",50.1074903,14.4948775,OČM,45245843000,100,1
 8805928d-545e-48b9-8be1-ea3ac9b4c21c,"Městská nemocnice, a.s. ve Dvoře Králové n. L.",CZ0525,1,"Vrchlického 1504, 54401 Dvůr Králové nad Labem",50.4485428,15.8146781,OČM,25262238000,100,1
 12d05c60-f168-462a-a4e1-ac5ad8e42722,"Městská poliklinika Praha - Spálená",CZ0100,1,"Spálená 78/12",50.0802842,14.4199494,OČM,128601000,300,
 004e0965-84f6-4aa1-92cb-7242c8ae394a,"Nemocnice AGEL Jeseník a.s.",CZ0711,1,"Lipovská 103/39, 790 01 Jeseník",50.2287914,,OČM,47973927000,90,
@@ -120,7 +121,6 @@ ff1d41dd-18a2-45ed-bfee-8b2ff0022633,"Nemocnice Brandýs nad Labem",CZ0209,1,"Br
 5af3b96f-7153-4eec-a66a-20a2fcdb9aa8,"Nemocnice Havlíčkův Brod",CZ0631,1,"Husova 2624, 580 22 Havlíčkův Brod",49.6094800,15.5712758,OČM,179540000,700,1
 989b3700-401f-4700-a684-ae09d348a3c0,"Nemocnice Hořovice",CZ0202,1,"K Nemocnici 1106/14, 268 31 Hořovice",49.8406575,13.9155844,OČM,27872963001,240,1
 09eed895-008f-4a50-839d-8ba8dbfe2850,"Nemocnice Hranice a.s.",CZ0714,1,"Zborovská 1245, 75301 Hranice I-Město",49.5552825,17.7448519,OČM,47677406000,240,
-c782926c-12bf-4071-a62a-79b75515a1a6,"Nemocnice Hustopeče, p.o.",CZ0644,1,"Brněnská 716/41, 693 01 Hustopeče",48.9447669,16.7303258,OČM,4212029000,156,
 01a3372d-3209-471a-a1cc-daf68f28caed,"Nemocnice Ivančice, p.o.",CZ0643,1,"Široká 16, 66491 Ivančice",49.1024056,16.3726178,OČM,225827000,162,1
 4ed8c2be-fe2b-41d2-b58e-d69ed9a4c9f7,"Nemocnice Jablonec n. Nisou",CZ0512,1,"Očkovací centrum v Městské hale - SPORT (nad bazénem), U Přehrady 4747/20, Jablonec nad Nisou",50.7329022,15.1789922,OČM,829838000,1200,1
 c4411674-d3bd-4666-96df-fdedefed8b68,"Nemocnice Jindřichův Hradec- Očko VŠE",CZ0313,1,"Jarošovská 1117, Jindřichův Hradec 37701",49.1489181,15.0059594,VOČM,26095157000,1200,1
@@ -138,7 +138,7 @@ b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,"Nemocnice Pelhřimov - Kulturní dům Máj
 1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,"Nemocnice Písek - OČKO",CZ0314,1,"Karla Čapka 589, 397 01 Písek",49.3029800,14.1561000,OČM,26095190000,1000,1
 a8b62b00-0e64-4b8d-8202-316e0c00f809,"Nemocnice Rudolfa a Stefanie Benešov, a.s.",CZ0201,1,"Máchova 400",49.7873358,14.6811406,OČM,27253236000,500,1
 be3e9bad-6d9f-4302-8d3c-99fb456f7643,"Nemocnice Rychnov nad Kněžnou, Společenské centrum",CZ0524,1,"Společenské centrum, Panská 1492, 51601 Rychnov nad Kněžnou",50.1639672,16.2762450,VOČM,26000202009,0,1
-3dc2a084-026d-417c-9401-6f295a918010,"Nemocnice Sedlčany - Kulturní dům Josefa Suka Sedlčany",CZ020B,1,"Havlíčkova 514, Sedlčany 264 01",49.6596900,14.4206900,VOČM,26429683000,600,1
+3dc2a084-026d-417c-9401-6f295a918010,"Nemocnice Sedlčany - Kulturní dům Josefa Suka Sedlčany",CZ020B,1,"Havlíčkova 514, Sedlčany 264 01",49.6596900,14.4206900,VOČM,26429683000,700,1
 92c26a50-b614-45b4-94f6-366a766796a0,"Nemocnice Slaný",CZ0203,1,"Třebízkého 161, Slaný",50.2315758,14.0830872,OČM,875295000,1000,1
 313285e5-df33-485b-aad2-1f121d45aba8,"Nemocnice Strakonice - OČKO centrum, tělocvična STARZ Lidická 193",CZ0316,1,"Lidická 193, 386 01 Strakonice",49.2641636,13.9058569,VOČM,26095181000,1100,1
 44133735-28b0-4c07-a675-f6613a761f8c,"Nemocnice Sv. Kříže Žižkov",CZ0100,1,"Kubelíkova 1250/16, Praha 3, 130 00",50.0817681,14.4479294,OČM,47124733000,300,
@@ -151,7 +151,7 @@ d03cc3a3-044e-4d00-a2ec-7abccc400b3b,"Nemocnice Vyškov, p. o., Sportovní hala 
 f5fe8269-61d2-4c43-8661-81876bbbbc89,"Nemocnice Znojmo Sportovni Hala Dvořákova",CZ0647,1,"Dvořákova 3602/17, 669 02 Znojmo",48.8611000,16.0432500,VOČM,92584000,660,1
 02e9f762-d4ca-4db4-8580-73ab6fb0acaf,"Nemocnice následné péče Moravská Třebová",CZ0533,1,"Svitavská 480/25, 571 01 Moravská Třebová - Předměstí",49.7571611,16.6550031,OČM,193895000,120,1
 c5881ce2-0007-4fe1-8a80-66fba7dafa3d,"Nemocnice následné péče Svatá Anna, s.r.o.",CZ0327,1,"Kyjovská 607,   348 15 Planá u Mariánských Lázní",49.8797569,12.7217789,OČM,26360896000,80,1
-d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ0803,1,"Astronautů 859, 736 01 Havířov",49.7843800,18.4380701,OČM,844896000,1302,1
+d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ0803,1,"Astronautů 859, 736 01 Havířov",49.7833794,18.4363747,OČM,844896000,1302,1
 77e3d92d-123b-452d-93ec-30afac4e2c0b,"Nemocnice s poliklinikou Karviná-Ráj, p.o. - pracoviště Karviná",CZ0803,1,"Vydmuchov 399/5, 734 01, Karviná-Ráj",49.8491067,18.5500953,OČM,844853000,500,1
 63a56753-7d68-44cb-a025-d605c6c8d307,"Nemocnice s poliklinikou Karviná-Ráj, p.o. - pracoviště Orlová",CZ0803,1,"Masarykova 900, 73514, Orlová",49.8756800,18.4347500,OČM,844853001,300,1
 85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ0802,1,"Národní dům, Palackého 134, Místek, 738 01 Frýdek-Místek",49.6746328,18.3439408,OČM,534188000,1000,1
