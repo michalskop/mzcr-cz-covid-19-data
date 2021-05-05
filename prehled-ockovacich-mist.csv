@@ -36,7 +36,7 @@ f4f26d1e-4f97-4f95-aa75-96aa7df42c80,EliteMedical,CZ0100,1,"Na Příkopě 859/22
 af350a27-6433-421b-8eb6-d22b4088c9be,"FN Brno - OČM Velké Meziříčí",CZ0635,1,"Náměstí 15/17, 59401 Velké Meziříčí, Česko",49.3541528,16.0128689,OČM,65269705000,400,
 0f396137-e1fe-4e67-8291-292e4066376d,"FN Brno Výstaviště",CZ0642,1,"Jihlavská 340/20, 62500 Brno - Bohunice",49.1900431,16.5791858,VOČM,65269705000,7000,1
 262721a0-5551-41d6-bc46-06d5aa9d18a8,"FN Ostrava - Poliklinika",CZ0806,1,"17. listopadu 1790/5, Ostrava - Poruba, 708 52",49.8279700,18.1609358,DOČM,843989000,180,1
-1295fe02-0319-40e4-a482-d4b8a0bfe138,"FN Ostrava - Černá Louka Výstaviště",CZ0806,1,"Černá louka 3235, Ostrava-Moravská Ostrava, 702 00",49.8330728,18.2932531,VOČM,843989000,2000,
+1295fe02-0319-40e4-a482-d4b8a0bfe138,"FN Ostrava - Černá Louka Výstaviště",CZ0806,1,"Černá louka 3235, Ostrava-Moravská Ostrava, 702 00",49.8330728,18.2932531,VOČM,843989000,2000,1
 8399fb2d-a203-4194-8b3a-a0d630e13532,"FVZ UO - Katedra epidemiologie",CZ0521,1,"Třebešská 1575, Hradec Králové",,,AČR,0,1000,
 6ad1717f-2bac-44e6-b7e9-6582da6b6598,"Fakultní Nemocnice Bulovka",CZ0100,1,"Budínova 67/2, 18000 Praha 8 - Libeň",50.1156581,14.4647050,DOČM,64211000,510,1
 648f87b6-06e7-49d5-b2a7-2dc31c867ff7,"Fakultní Thomayerova nemocnice",CZ0100,1,"Vídeňská 800, Praha 4",50.0300828,14.4597917,DOČM,64190000,600,1
@@ -52,11 +52,9 @@ d149c33b-4906-410d-948d-25128f4aa4d7,"Hornická nemocnice s poliklinikou spol. s
 66d5df2b-faaa-4590-86ba-8f403066cf8f,"Hustopeče Společenský dům (FN u sv. Anny)",CZ0644,1,"Herbenova 423/4 Hustopeče",48.9375550,16.7400950,VOČM,159816000,650,1
 f923b437-fab1-4e93-b5b5-b8d1ca541272,"IMMUNO-FLOW,s.r.o.",CZ0100,1,"U Pazderek 25",50.1363439,14.5103592,OČM,62415522000,250,1
 30b0373e-0b9a-444d-aa0d-42c8066a39a7,"ImunoGen s.r.o.",CZ0100,1,"Sluneční náměstí 15, Praha 13",50.0503111,14.3434461,OČM,6686630000,200,1
-f48613c8-f616-460b-bbb3-096e07223c73,"ImunoSantana spol. s r.o.",CZ0411,1,"Májová 582/19, 350 02 Cheb",50.0756700,12.3698400,OČM,25687794000,50,1
+f48613c8-f616-460b-bbb3-096e07223c73,"ImunoSantana spol. s r.o.",CZ0411,1,"Májová 582/19, 350 02 Cheb",50.0756700,12.3698400,OČM,25687794000,200,1
 c4d419b8-311f-427e-a6fc-3538e2ffc7bb,"Infocentrum Chodov",CZ0413,1,"Staroměstská 39, Chodov 357 35",50.2401831,12.7486403,OČM,26365804000,200,
 5610e09b-866f-4e7f-b2b5-664fcd5ac19c,"KC Svoboda Cheb",CZ0411,1,"Za Mostní branou 5, 350 02 Cheb",50.0834500,12.3697200,VOČM,26365804001,350,1
-1a303c70-c076-409d-af38-ca7108a6f186,"KNL a.s. - nemocnice Turnov",CZ0514,1,"28. října 1000, Turnov",50.5888400,15.1687900,OČM,27283933003,108,
-5a7c4ca5-5efa-4f81-a621-3cc6b97a5e9f,"KNL, a.s. - Nemocnice Frýdlant",CZ0513,1,"V Úvoze 860, Frýdlant",50.9256819,15.0874711,OČM,27283933005,78,1
 800e3522-2335-4e5c-bb6e-c219b5667f30,"KV ARÉNA OČKOVACÍ CENTRUM",CZ0412,1,"Západní 1812, 360 01 Karlovy Vary",50.2246400,12.8442300,VOČM,26365804000,1500,1
 ae9c4f09-2a1d-41dd-bf45-f8864f24dd5c,"Karvinská hornická nemocnice a.s. Oddělení pracovního lékařství KHN",CZ0803,1,"Zakladatelská 975/22, Karviná - Nové Město 735 06",49.8701931,18.5406322,OČM,60793490000,114,1
 cd252dde-b78e-4c74-88e5-e95d894968ab,"Klatovská nemocnice",CZ0322,1,"Plzeňská 929, 339 01 Klatovy",49.4041700,13.2921900,OČM,26360527000,400,1
@@ -167,13 +165,13 @@ ecdde69c-5828-46ca-a973-2ce3cb9ae1b6,"Oblastní nemocnice Jičín a.s.",CZ0522,1
 718fcb7c-904e-41f3-9be6-15a75ef9b5e0,"Oblastní nemocnice Kolín - očkovací místo",CZ0204,1,"Žižkova 146, 280 02 Kolín",50.0205100,15.1958400,OČM,27256391000,600,1
 4c050cd4-6edf-4b4b-8034-8b731978b216,"Oblastní nemocnice Mladá Boleslav",CZ0207,1,"tř. Václava Klementa 147/23",50.4136636,14.9126878,DOČM,27256456000,640,1
 9d499433-292a-47a3-bf3d-0c804def9478,"Oblastní nemocnice Náchod a.s - nemocnice Broumov",CZ0523,1,"Smetanova 91, 550 01 Broumov",50.5809750,16.3338894,OČM,26000202012,160,1
-e8de7565-5dad-46a9-b7c1-7d7d7d73263f,"Oblastní nemocnice Náchod a.s.",CZ0523,1,"Purkyňova 446, 547 01 Náchod",50.4107608,16.1670247,OČM,26000202000,960,1
+e8de7565-5dad-46a9-b7c1-7d7d7d73263f,"Oblastní nemocnice Náchod a.s.",CZ0523,1,"Purkyňova 446, 547 01 Náchod",50.4102139,16.1670608,OČM,26000202000,960,1
 e6d0a768-a1a5-4fc8-aada-081ecf2b68b0,"Oblastní nemocnice Příbram",CZ020B,1,"Generála Tesaříka 80",49.6917706,14.0104439,DOČM,27085031000,250,1
 80a35019-a69a-49b8-98b8-d34757b45ed2,"Oblastní nemocnice Příbram, a.s. Areál II, Zdaboř",CZ020B,1,"Podbrdská 269, 261 95 Příbram V - Zdaboř",49.6730922,13.9897189,OČM,27085031000,350,1
 8facdb9c-6716-4666-ae00-b58f7ccee441,"Oblastní nemocnice Trutnov a.s.",CZ0525,1,"Maxima Gorkého 77, 54101 Trutnov - Kryblice",50.5594233,15.9204308,OČM,26000237000,108,1
 b53d6d7a-60bd-4acd-98cb-97893f87d163,"Odborný léčebný ústav Jevíčko",CZ0533,1,"TRN-Léčebna 508, 56943 Jevíčko",49.6335208,16.6662925,OČM,193976000,120,
 0c7e626d-b0e6-413f-bd48-9bfce9b5487e,"Orlickoústecká nemocnice",CZ0534,1,"Čs. armády 1076, 562 18 Ústí nad Orlicí",49.9695364,16.4041458,OČM,27520528000,342,1
-7fc4f736-04a4-403d-888b-9d52f1727a2e,"OČM Kongresové centrum (GASK)",CZ0205,1,"OČM Kongresové centrum (GASK), Kremnická 239/7, Kutná Hora 284 01",49.9474433,15.2619894,OČM,27256391005,0,1
+7fc4f736-04a4-403d-888b-9d52f1727a2e,"OČM Kongresové centrum (GASK)",CZ0205,1,"OČM Kongresové centrum (GASK), Kremnická 239/7, Kutná Hora 284 01",49.9474433,15.2619894,OČM,27256391005,500,1
 367fd540-6069-4f6a-8d9b-f04b65e77983,"Očkovací centrum - AL INVEST Břidličná (SZZ Krnov)",CZ0801,1,"Bruntálská 167,793 51 Břidličná",49.9126453,17.3737717,OČM,844641001,300,
 b85e83d4-e9be-456d-b6b5-8e2acac97990,"Očkovací centrum Dobřichovice sportovní hala BIOS",CZ020A,1,"Pražská 375, 252 29 Dobřichovice",49.9293642,14.2726686,VOČM,2084325000,1000,1
 73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,"Očkovací centrum Liberec (KNL)",CZ0513,1,"U Jezu 642/2a, Liberec",50.7640786,15.0543333,DOČM,27283933000,900,1
@@ -199,7 +197,7 @@ d0e1e96a-25c5-4aa6-9bea-4e426589ff07,"SMRŽO - MEDIC, s.r.o. - Hrádek nad Nisou
 c8778581-ad40-4bd4-8861-cfefbad69dcb,"SMRŽO - MEDIC, s.r.o. - Tanvald",CZ0512,1,"Sportovní 576, 46841, Tanvald",50.7370100,15.2963100,OČM,28690028000,300,
 fe82349e-63db-4623-b6c1-cabd2214c1ee,"SYNLAB czech s.r.o. - Kralupy nad Vltavou",CZ0206,1,"Mostní 934, Kralupy nad Vltavou",50.2429800,14.3124100,OČM,49688804009,80,
 41efe0d6-da6d-4978-8f80-ee2999a71580,"Sdružené zdravotnické zařízení Krnov, p. o. - pediatrické odd.",CZ0801,1,"I. P. Pavlova 552/9, 79401 Krnov - Pod Bezručovým vrchem",50.0965919,17.6892661,OČM,844641001,180,1
-22e9b70e-fc3c-4ec2-8f8c-805c495626b2,"Slezská nemocnice v Opavě, p. o. Očkovací centrum - Zámek Kravaře",CZ0805,1,"Alejní 24, 747 21 Kravaře",49.9289428,17.9991356,OČM,47813750000,200,
+22e9b70e-fc3c-4ec2-8f8c-805c495626b2,"Slezská nemocnice v Opavě, p. o. Očkovací centrum - Zámek Kravaře",CZ0805,1,"Alejní 24, 747 21 Kravaře",49.9289428,17.9991356,OČM,47813750000,230,
 aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ0805,1,"Slezská univerzita v Opavě - Bezručovo náměstí 885/14, 746 01 Opava",49.9359431,17.8971244,OČM,47813750000,600,1
 6ce2ad8f-b1f6-4252-b6f0-e8029219c17b,"Stodská nemocnice - očkovací místo Kulturní dům Stod",CZ0324,1,"Nádražní 477, 333 01 Stod",49.6400161,13.1566325,OČM,26361086000,30,1
 381ef57d-e0e9-4079-a1b9-fd7d476a8aae,"Státní zdravotní ústav - budova 11",CZ0100,1,"Šrobárova 49/48, Praha 10, 100 00",50.0759353,14.4729253,DOČM,75010330000,320,

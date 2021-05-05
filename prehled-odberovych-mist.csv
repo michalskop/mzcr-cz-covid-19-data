@@ -336,6 +336,7 @@ dc977f09-dea9-42f5-9ee5-6c324c11b152,"Městská nemocnice Čáslav",CZ0205,1,"Je
 c0397090-af76-40fd-a902-a0af3a2be3b7,"Městská poliklinika Praha - Spálená",CZ0100,1,"Spálená 12, Praha 1",50.0802836,14.4199494,120,1,,1,
 47e1679c-97bb-46d3-97e6-e0a66547ea4e,"Městská poliklinika Praha - odběrové místo Mariánské náměstí",CZ0100,1,"Mariánské náměstí, Praha 1",50.0868892,14.4174425,300,1,,1,
 0ac2caad-3073-4d7a-a7ee-0ccc27fe1476,"Městská poliklinika Praha, Výstaviště Praha",CZ0100,,"Výstaviště 67, Praha 7",50.1046158,14.4305628,180,,,,
+780e91e7-a1df-4056-99bd-a0f6b3efea02,"NEO Centrum - odběrové místo Praha 4",CZ0100,1,"Podolské nábř. 3, 147 00 Praha 4",50.0482039,14.4135175,350,,,,
 0b9516a2-57bc-48cb-8d6b-d9821f3aa892,"NEURO-MEDNET s.r.o. - Olomouc",CZ0712,1,"tř. Svobody 1067/32, Olomouc",49.5893164,17.2531981,120,1,,1,
 92ceb326-179d-468f-8edb-45e17d577633,"NH Hospital a.s. - OM Nemocnice Hořovice",CZ0202,1,"K Nemocnici 1106/14, Hořovice, 268 31",49.8406575,13.9155844,1000,1,1,1,
 5dd4d785-7837-43c5-9d8b-9dc2908c5c47,"NH Hospital a.s. - OM Nemocnice Hořovice - Beroun",CZ0202,1,"Prof. Veselého 493, 266 56 Beroun",49.9648486,14.0954883,300,1,1,1,
@@ -357,7 +358,7 @@ c223dd21-d6d5-41c8-ba65-1bb830176054,"Nemocnice Cheb",CZ0411,1,"K Nemocnici 17, 
 24d19dcb-8df3-403c-9daa-a01db9d8fed3,"Nemocnice Havlíčkův Brod, příspěvková organizace",CZ0631,1,"Husova 2624, 58001 Havlíčkův Brod",49.6101128,15.5688350,190,1,,1,1
 cef7fb65-02a6-40bc-8a89-e2ebcdee9adc,"Nemocnice Hranice a.s.",CZ0714,1,"Zborovská 1245, 753 01 Hranice",49.5557975,17.7495025,150,,,1,1
 6e08a9b6-c960-41ab-b915-ed729da85efe,"Nemocnice Ivančice, p.o.",CZ0643,1,"Široká 16, 66491 Ivančice",49.1024383,16.3719444,72,1,,1,1
-d4151036-0b06-4805-bc32-172294c4dcd8,"Nemocnice Jablonec nad Nisou, p.o.",CZ0513,1,"Nemocniční 15, 466 01 Jablonec nad Nisou",50.7279131,15.1605289,250,,,1,
+d4151036-0b06-4805-bc32-172294c4dcd8,"Nemocnice Jablonec nad Nisou, p.o.",CZ0513,1,"Nemocniční 15, 466 01 Jablonec nad Nisou",50.7294719,15.1596294,250,,,1,
 7df02d1d-54d2-45e2-b84b-59ca8bcd45d4,"Nemocnice Jihlava, příspěvková organizace",CZ0632,1,"Vrchlického 59, 58601 Jihlava",49.3972697,15.5723550,400,1,,1,1
 29c33c7a-fa97-4a31-a192-4ff733d85998,"Nemocnice Jindřichův Hradec a.s.",CZ0313,1,"U Nemocnice 380/III, 377 01 Jindřichův Hradec",49.1388275,15.0062642,500,1,1,1,1
 5fc7e646-b93a-45b4-b0c5-12e560febdab,"Nemocnice Kadaň s.r.o.",CZ0422,1,"U Stadionu 2028, 432 01 Kadaň",50.3870431,13.2728989,20,1,,1,
@@ -466,10 +467,13 @@ a35671a2-ea21-4148-b77b-14b744737406,"Poliklinika Flora Cheb",CZ0411,1,"Májová
 81d11a19-7061-425f-adb7-af56b50ce61a,"Pražská tržnice Holešovice - #safeside PREVEDIG medical - Anygence",CZ0100,1,"Bubenské nábřeží 306/13, 170 00 Praha 7",50.0989028,14.4469169,1500,,,1,
 47944eda-3dc1-40e3-aa79-3c6d9fdd3a6d,"RESCUE HELP - ZDRAVOTNICKÁ SLUŽBA, z. s. - Černuc",CZ0203,1,"Černuc 124, 273 23 Černuc",50.3043400,14.2023100,70,1,1,1,
 983197fc-2be4-4b14-a7ad-e84fceb24e16,"Rehabilitační klinika Malvazinky",CZ0100,1,"U Malvazinky 177/7, 150 00 Praha 5 - Smíchov",50.0640731,14.3936992,10,,,,1
+aae9e7d7-266d-41b1-b75d-783333f39d3f,"Renturi s.r.o. - Hronov",CZ0523,1,"Hronov, náměstí ČSA, 549 31",50.4800386,16.1829772,0,,,1,
 9325b633-0b76-4259-bd6c-41f52d3948b7,"Renturi s.r.o. - odběrové místo AVION SHOPPING PARK Ostrava",CZ0806,1,"Rudná 3114/114, 700 30 Ostrava - Zábřeh",49.8020203,18.2279647,180,,,1,
+ced216f7-0e37-44de-9b72-b0197daa7986,"Renturi s.r.o. - odběrové místo Frýdek-Místek",CZ0802,1,"8. pěšího pluku 85",49.6771317,18.3420861,160,,,1,
 dd0ee8e2-1b08-49c7-8fad-762c694996b0,"Renturi s.r.o. - odběrové místo Ostrava",CZ0806,1,"Sokolská třída 1925/49",49.8425392,18.2886106,0,,,1,
 dda11d31-35d4-430a-b87a-389f0ea927e2,"Renturi s.r.o. - odběrové místo Rožnov pod Radhoštěm",CZ0723,1,"Bezručova 838, Rožnov pod Radhoštěm, 756 61",49.4643069,18.1420017,180,,,1,
 d743f838-24e1-433a-8cb4-2da44d653af0,"Renturi s.r.o. - odběrové místo STOP SHOP Příbram",CZ020B,1,"Brodská 601, 261 01 Příbram",49.6670139,13.9944158,170,,,1,
+b24787e0-9a6f-4e1b-ae10-bd53adb3317f,"Renturi s.r.o. - odběrové místo STOP SHOP Třebíč",CZ0634,1,"Spojovací 1345, Třebíč,  674 01",49.2018378,15.8900908,140,,,1,
 19b4b578-196f-4a3c-ab49-52a69fe65bd7,"Rokycanská nemocnice, a.s.",CZ0326,1,"Voldušská 750/II, 337 01 Rokycany",49.7489310,13.6042890,96,,,1,1
 8f049af9-83a0-4f27-8d0c-9e85ce54a464,"SAFRES Group s.r.o. - odběrové místo Česká Skalice",CZ0511,1,"Tyršova 820, 552 03 Česká Skalice",50.3956547,16.0519642,1200,,,1,
 5921011d-054f-43b1-9e07-f4de44bf3432,"SANATORIUM EDEL s.r.o. - odběrové místo Zlaté Hory",CZ0711,1,"Lázeňská 491, 793 76 Zlaté Hory",50.2521425,17.3908583,16,,,1,
