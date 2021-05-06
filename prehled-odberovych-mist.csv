@@ -336,7 +336,7 @@ dc977f09-dea9-42f5-9ee5-6c324c11b152,"Městská nemocnice Čáslav",CZ0205,1,"Je
 c0397090-af76-40fd-a902-a0af3a2be3b7,"Městská poliklinika Praha - Spálená",CZ0100,1,"Spálená 12, Praha 1",50.0802836,14.4199494,120,1,,1,
 47e1679c-97bb-46d3-97e6-e0a66547ea4e,"Městská poliklinika Praha - odběrové místo Mariánské náměstí",CZ0100,1,"Mariánské náměstí, Praha 1",50.0868892,14.4174425,300,1,,1,
 0ac2caad-3073-4d7a-a7ee-0ccc27fe1476,"Městská poliklinika Praha, Výstaviště Praha",CZ0100,,"Výstaviště 67, Praha 7",50.1046158,14.4305628,180,,,,
-780e91e7-a1df-4056-99bd-a0f6b3efea02,"NEO Centrum - odběrové místo Praha 4",CZ0100,1,"Podolské nábř. 3, 147 00 Praha 4",50.0482039,14.4135175,350,,,,
+780e91e7-a1df-4056-99bd-a0f6b3efea02,"NEO Centrum - odběrové místo Praha 4",CZ0100,1,"Podolské nábř. 3, 147 00 Praha 4",50.0482039,14.4135175,350,,,1,
 0b9516a2-57bc-48cb-8d6b-d9821f3aa892,"NEURO-MEDNET s.r.o. - Olomouc",CZ0712,1,"tř. Svobody 1067/32, Olomouc",49.5893164,17.2531981,120,1,,1,
 92ceb326-179d-468f-8edb-45e17d577633,"NH Hospital a.s. - OM Nemocnice Hořovice",CZ0202,1,"K Nemocnici 1106/14, Hořovice, 268 31",49.8406575,13.9155844,1000,1,1,1,
 5dd4d785-7837-43c5-9d8b-9dc2908c5c47,"NH Hospital a.s. - OM Nemocnice Hořovice - Beroun",CZ0202,1,"Prof. Veselého 493, 266 56 Beroun",49.9648486,14.0954883,300,1,1,1,
@@ -394,7 +394,7 @@ a6276120-00de-4bc6-af8e-845c3a15d5dd,"Nemocnice Vrchlabí",CZ0525,1,"Fügnerova 
 667ca87d-22d8-4e54-b53d-68b9999a82f1,"Nemocnice Vyškov",CZ0646,1,"Purkyňova 235/36, Vyškov 68201",49.2775167,16.9799219,85,1,,1,
 fc89d940-a659-41fc-a2be-c6543d27b91d,"Nemocnice Znojmo",CZ0647,1,"MUDr. J. Janského 11, Znojmo",48.8695433,16.0495789,220,1,,1,
 9133b301-77e5-4919-897e-6be3031bded9,"Nemocnice na Bulovce",CZ0100,1,"Budínova 67/2 Praha 8 – Libeň 180 81",50.1146789,14.4596270,1000,1,1,1,
-f4dce0a2-91af-4a8c-b3c2-1549c02530ea,"Nemocnice následné péče LDN Horažďovice, s.r.o.",CZ0322,1,"Blatenská 314, 341 01 Horažďovice",49.3237747,13.7078908,42,,,,
+f4dce0a2-91af-4a8c-b3c2-1549c02530ea,"Nemocnice následné péče LDN Horažďovice, s.r.o.",CZ0322,1,"Blatenská 314, 341 01 Horažďovice",49.3237747,13.7078908,42,,,1,
 853de0c2-b014-41bb-a310-182cd6709ab4,"Nemocnice následné péče Moravská Třebová",CZ0533,,"Svitavská 25, 571 01 Moravská Třebová",49.7571611,16.6550031,5,,,,
 f9822c01-9c1c-4760-abe5-be9a6c72293b,"Nemocnice s poliklinikou Havířov, p.o.",CZ0803,1,"Dělnická 1132/24, Město, 736 01 Havířov",49.7845150,18.4379900,150,1,,1,
 92b03d48-f556-46be-b3a0-a838d1391c85,"Nemocnice s poliklinikou Česká Lípa",CZ0511,1,"Purkyňova 1849, Česká Lípa 470 01",50.6866311,14.5484203,200,1,,1,
@@ -521,7 +521,7 @@ a793599d-ce36-4f44-bdff-ed99b9033bd8,"Středomoravská nemocniční a.s., Nemocn
 491700ef-ad32-4d6c-8052-6831bb22dc97,"Sušická nemocnice s.r.o.",CZ0322,1,"Chmelenská 117, 342 01 Sušice III",49.2300294,13.5264756,400,1,,1,
 4f850ba1-c661-4c07-b6d8-fb56a2ad1fad,"Synlab czech s.r.o. Praha Bělohorská",CZ0100,1,"Bělohorská 39",50.0841378,14.3741594,50,1,,,
 9544b0c3-c315-4f4a-9044-0418d4910cd4,"Synlab czech s.r.o. Praha Zbraslav",CZ0100,1,"Žitavského 496",49.9739556,14.3949369,50,1,,,
-4c40c193-000b-44dd-aa85-09aafdc44956,"Synlab czech s.r.o. Znojmo",CZ0647,1,"Melkusova 41/3053, 671 81 Znojmo",48.8384250,16.0580300,300,,,1,1
+4c40c193-000b-44dd-aa85-09aafdc44956,"Synlab czech s.r.o. Znojmo",CZ0647,1,"Melkusova 41/3053, 671 81 Znojmo",48.8377961,16.0585414,300,,,1,1
 c8b4e8c9-7043-43a1-a7cc-1076fd479fa2,"Synlab, Laboratoř Znojmo",CZ0647,,"Dyjská 579/6,  669 02 Znojmo",48.8513197,16.0507197,45,,,1,
 3880e71e-5a94-49d6-944d-83b1655e3ecf,"THE CLINIC MEDICAL s.r.o.",CZ0100,1,"Na Florenci 1023/21a, Praha 1, 110 00",50.0887794,14.4363261,50,1,1,,
 d481e742-3725-447e-bcd1-b61e5a91250b,"TRANS HOSPITAL PLUS s.r.o. - Řevnice",CZ020A,1,"Řevnice, Mařáková 1080",49.9122897,14.2384225,0,,,1,

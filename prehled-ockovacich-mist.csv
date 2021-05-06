@@ -51,7 +51,8 @@ fc43817f-7eb9-49db-a93d-c37b9808cd43,"GHC GENETICS, s.r.o. - Praha 8 Libeň",CZ0
 d149c33b-4906-410d-948d-25128f4aa4d7,"Hornická nemocnice s poliklinikou spol. s.r.o. - Bílina",CZ0426,1,"Pražská 206/95, 418 01 Bílina",50.5411144,13.7843264,OČM,61325422000,1100,1
 66d5df2b-faaa-4590-86ba-8f403066cf8f,"Hustopeče Společenský dům (FN u sv. Anny)",CZ0644,1,"Herbenova 423/4 Hustopeče",48.9375550,16.7400950,VOČM,159816000,650,1
 f923b437-fab1-4e93-b5b5-b8d1ca541272,"IMMUNO-FLOW,s.r.o.",CZ0100,1,"U Pazderek 25",50.1363439,14.5103592,OČM,62415522000,250,1
-30b0373e-0b9a-444d-aa0d-42c8066a39a7,"ImunoGen s.r.o.",CZ0100,1,"Sluneční náměstí 15, Praha 13",50.0503111,14.3434461,OČM,6686630000,200,1
+d7b72e99-9792-48e5-b615-661839a75456,"ISCARE a.s.",CZ0100,1,"Českomoravská 2510/19, Praha 9",50.1032706,14.4956436,OČM,61858366000,80,1
+30b0373e-0b9a-444d-aa0d-42c8066a39a7,"ImunoGen s.r.o.",CZ0100,1,"Sluneční náměstí 15, Praha 13",50.0503111,14.3434461,OČM,6686630000,300,1
 f48613c8-f616-460b-bbb3-096e07223c73,"ImunoSantana spol. s r.o.",CZ0411,1,"Májová 582/19, 350 02 Cheb",50.0756700,12.3698400,OČM,25687794000,200,1
 c4d419b8-311f-427e-a6fc-3538e2ffc7bb,"Infocentrum Chodov",CZ0413,1,"Staroměstská 39, Chodov 357 35",50.2401831,12.7486403,OČM,26365804000,200,
 5610e09b-866f-4e7f-b2b5-664fcd5ac19c,"KC Svoboda Cheb",CZ0411,1,"Za Mostní branou 5, 350 02 Cheb",50.0834500,12.3697200,VOČM,26365804001,350,1
@@ -61,7 +62,7 @@ cd252dde-b78e-4c74-88e5-e95d894968ab,"Klatovská nemocnice",CZ0322,1,"Plzeňská
 371ee4e8-da22-446f-a9c3-f897c1a3fded,"Klášter - Staré náměstí Sokolov",CZ0413,1,"Komenského 77, 356 01 Sokolov",50.1789750,12.6374000,VOČM,24747246000,400,
 22761b98-e54e-451a-832a-63f0e7a17d66,"Konstantinovy Lázně - Kulturní dům",CZ0327,1,"Tichá 164, 34952 Konstantinovy Lázně",49.8822447,12.9805508,OČM,29090300000,160,
 931fb801-8158-4fc2-ac92-2c68d76907d7,"Krajská majetková, p.o. středisko Lužická nemocnice Rumburk",CZ0421,1,"Lesní 1062/26, Rumburk",50.9458519,14.5417969,OČM,829048015,0,1
-7c7aa47c-bd44-46b8-b428-a132a7bc2f07,"Krajská nemocnice T. Bati, a. s. - PSG Aréna",CZ0724,1,"Zlín čp. 5513",49.2163647,17.6600158,VOČM,27661989000,1100,1
+7c7aa47c-bd44-46b8-b428-a132a7bc2f07,"Krajská nemocnice T. Bati, a. s.",CZ0724,1,"Zlín čp. 5513",49.2163647,17.6600158,VOČM,27661989000,1100,1
 fbbde94b-4a74-41a3-93e1-c3fc53cf2189,"Krajská zdravotní a.s., - MNUL pracoviště výstaviště Zahrada Čech Litoměřice",CZ0423,1,"Na Vinici 739/13, Litoměřice",50.5358614,14.1506781,OČM,25488627010,90,1
 4475c51f-69b3-410d-b404-eaf319711512,"Krajská zdravotní, a.s. - Masarykova nemocnice v Ústí nad Labem, o.z. - Očkovací centrum UJEP, Hoření",CZ0427,1,"Hoření 3083/13, 400 11 Ústí nad Labem - Severní Terasa",50.6750022,14.0363958,DOČM,25488627010,1000,1
 c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ0422,1,"Kochova 1185, 430 12, Chomutov",50.4556889,13.4099056,OČM,25488627050,500,1
@@ -105,7 +106,7 @@ bd060d74-64dd-45dd-bd06-51f9d6147814,"Moje Ambulance a.s. Ostrava - Poruba",CZ08
 a74425f4-80fe-4f1f-abb9-3e8df7ca8aac,"Městská nemocnice Ostrava, p.o., Vakcinační centrum",CZ0806,1,"Varenská 3131/5 728 80 Ostrava-Moravská Ostrava",49.8346981,18.2738986,OČM,635162000,400,1
 8805928d-545e-48b9-8be1-ea3ac9b4c21c,"Městská nemocnice, a.s. ve Dvoře Králové n. L.",CZ0525,1,"Vrchlického 1504, 54401 Dvůr Králové nad Labem",50.4485428,15.8146781,OČM,25262238000,100,1
 12d05c60-f168-462a-a4e1-ac5ad8e42722,"Městská poliklinika Praha - Spálená",CZ0100,1,"Spálená 78/12",50.0802842,14.4199494,OČM,128601000,300,
-004e0965-84f6-4aa1-92cb-7242c8ae394a,"Nemocnice AGEL Jeseník a.s.",CZ0711,1,"Lipovská 103/39, 790 01 Jeseník",50.2287914,,OČM,47973927000,90,
+004e0965-84f6-4aa1-92cb-7242c8ae394a,"Nemocnice AGEL Jeseník a.s.",CZ0711,1,"Lipovská 103/39, 790 01 Jeseník",50.2287914,17.1988036,OČM,47973927000,90,
 b3427f78-5252-4318-b26e-80670c7bf0a6,"Nemocnice AGEL Louny a.s.",CZ0424,1,"Rybalkova 1400, 440 01 Louny",50.3494806,13.8094106,OČM,27332730000,180,1
 249c3cf7-8d0e-4301-998b-140dddf8694d,"Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost",CZ0804,1,"K Nemocnici 1886/57",49.5870456,18.0065553,OČM,25886207000,330,
 71b299fb-33f6-46b7-ae94-78815297125c,"Nemocnice AGEL Ostrava-Vítkovice a.s.",CZ0806,1,"Zalužanského 15, Ostrava",49.8149922,18.2710944,OČM,60793201000,240,1
@@ -122,7 +123,7 @@ ff1d41dd-18a2-45ed-bfee-8b2ff0022633,"Nemocnice Brandýs nad Labem",CZ0209,1,"Br
 01a3372d-3209-471a-a1cc-daf68f28caed,"Nemocnice Ivančice, p.o.",CZ0643,1,"Široká 16, 66491 Ivančice",49.1024056,16.3726178,OČM,225827000,162,1
 4ed8c2be-fe2b-41d2-b58e-d69ed9a4c9f7,"Nemocnice Jablonec n. Nisou",CZ0512,1,"Očkovací centrum v Městské hale - SPORT (nad bazénem), U Přehrady 4747/20, Jablonec nad Nisou",50.7329022,15.1789922,OČM,829838000,1200,1
 c4411674-d3bd-4666-96df-fdedefed8b68,"Nemocnice Jindřichův Hradec- Očko VŠE",CZ0313,1,"Jarošovská 1117, Jindřichův Hradec 37701",49.1489181,15.0059594,VOČM,26095157000,1200,1
-76a174fb-e672-40c5-ae9c-06c50eb4ce7a,"Nemocnice Kadaň s.r.o.",CZ0422,1,"Golovinova 1559, Kadaň 432 01",50.3912239,13.2701558,OČM,25479300000,0,1
+76a174fb-e672-40c5-ae9c-06c50eb4ce7a,"Nemocnice Kadaň s.r.o.",CZ0422,1,"Golovinova 1559, Kadaň 432 01",50.3912239,13.2701558,OČM,25479300000,1000,1
 7db4f337-4936-4175-b7a9-4ddffa91b6f4,"Nemocnice Kyjov - Městské kulturní středisko Kyjov",CZ0645,1,"Masarykovo nám. 34, 697 01 Kyjov",49.0106003,17.1226219,VOČM,226912000,600,1
 02614fc8-a7d0-439d-8589-57c599cb495d,"Nemocnice Na Františku",CZ0100,1,"Na Františku 847/8, Praha 1",50.0927100,14.4214200,DOČM,879444000,60,
 b62c5314-15f8-4da2-95f0-0aedd6d11ac2,"Nemocnice Na Homolce",CZ0100,1,"Roentgenova 37/2, 15000 Praha 5",50.0740175,14.3535847,DOČM,23884000,100,1
@@ -160,7 +161,7 @@ d206ef0a-fb75-44d3-a67f-f1cc73121aa1,"Nemocnice Čáslav",CZ0205,1,"Jeníkovská
 5192f1b9-836b-4736-80a6-28653ef1b965,"Nemocnice Žatec, o.p.s.",CZ0424,1,"Bratří Čapků 2779, Žatec, 43801",50.3195300,13.5380300,OČM,25026259000,450,1
 5affc4c2-414a-4cd4-9a04-56647fa66eef,"Národní očkovací centrum",CZ0100,1,"O2 Universum, Českomoravská 2345/17, 190 00 Praha 9",50.1036911,14.4933339,UNI,61383082000,6000,1
 15065368-c355-4728-b0ae-d3fc8798cf42,"ON Mladá Boleslav - Kino Mnichovo Hradiště",CZ0207,1,"I. Olbrachta 897, 295 01 Mnichovo Hradiště",50.5195600,14.9757600,OČM,27256456000,120,
-ecdde69c-5828-46ca-a973-2ce3cb9ae1b6,"Oblastní nemocnice Jičín a.s.",CZ0522,1,"Bolzanova 512, 50601 Jičín - Valdické Předměstí",50.4401092,15.3574047,OČM,26001551000,420,1
+ecdde69c-5828-46ca-a973-2ce3cb9ae1b6,"Oblastní nemocnice Jičín a.s.",CZ0522,1,"Bolzanova 512, 50601 Jičín - Valdické Předměstí",50.4401092,15.3574047,OČM,26001551000,450,1
 4dd9014a-436c-4e8a-aa45-010ad32272f7,"Oblastní nemocnice Kladno",CZ0203,1,"Vančurova 1548",50.1398914,14.0917836,DOČM,27256537000,700,1
 718fcb7c-904e-41f3-9be6-15a75ef9b5e0,"Oblastní nemocnice Kolín - očkovací místo",CZ0204,1,"Žižkova 146, 280 02 Kolín",50.0205100,15.1958400,OČM,27256391000,600,1
 4c050cd4-6edf-4b4b-8034-8b731978b216,"Oblastní nemocnice Mladá Boleslav",CZ0207,1,"tř. Václava Klementa 147/23",50.4136636,14.9126878,DOČM,27256456000,640,1
