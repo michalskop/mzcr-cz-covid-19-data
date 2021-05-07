@@ -15,11 +15,10 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-01,14c58957-7396-4322-a237-67b5e31b16e3,Domažlická nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-25
 2021-02-01,21ae338b-6213-4a1c-ad13-20ea7bb5d9a8,"Nemocnice Plzeňského kraje, a. s.",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-02-01,333a11ee-363d-499f-90cb-9d61f62543cc,"Rokycanská nemocnice, a. s.",CZ032,Plzeňský kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
-2021-02-01,4475c51f-69b3-410d-b404-eaf319711512,"Krajská zdravotní, a.s. - Masarykova nemocnice v Ústí nad Labem, o.z. - Očkovací centrum UJEP, Hoření",CZ042,Ústecký kraj,80+,neuvedeno,CZ,,
+2021-02-01,4475c51f-69b3-410d-b404-eaf319711512,"Masarykova nemocnice v Ústí nad Labem (KZ,a.s.) - Očkovací centrum UJEP, Hoření",CZ042,Ústecký kraj,80+,neuvedeno,CZ,,
 2021-02-01,4ed8c2be-fe2b-41d2-b58e-d69ed9a4c9f7,Nemocnice Jablonec n. Nisou,CZ051,Liberecký kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-02-01,4ed8c2be-fe2b-41d2-b58e-d69ed9a4c9f7,Nemocnice Jablonec n. Nisou,CZ051,Liberecký kraj,80+,neuvedeno,CZ,,
 2021-02-01,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec (KNL),CZ051,Liberecký kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,SK,1.0,2021-02-19
-2021-02-01,cb0f8a24-3c54-467e-9e67-de01f424ea85,Česká Lípa očkovací místo  Crystal,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-04-30
 2021-02-01,cb0f8a24-3c54-467e-9e67-de01f424ea85,Česká Lípa očkovací místo  Crystal,CZ051,Liberecký kraj,80+,neuvedeno,CZ,,
 2021-02-01,e8de7565-5dad-46a9-b7c1-7d7d7d73263f,Oblastní nemocnice Náchod a.s.,CZ052,Královéhradecký kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,PL,1.0,2021-02-26
 2021-02-01,0c7e626d-b0e6-413f-bd48-9bfce9b5487e,Orlickoústecká nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-09
@@ -49,7 +48,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-02,333a11ee-363d-499f-90cb-9d61f62543cc,"Rokycanská nemocnice, a. s.",CZ032,Plzeňský kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
 2021-02-02,586ab361-ba26-4429-b0f3-8ff9831f07b2,"Dopravní zdravotnictví a.s., Poliklinika AGEL Plzeň",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-02,5960ec70-2686-4b29-8af0-04a1481e7351,Sušická nemocnice,CZ032,Plzeňský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,,
-2021-02-02,518f6665-84b8-4964-ae04-3bff5e0f2d93,"Krajská zdravotní, a.s. - Nemocnice Most, o.z. - SPORTOVNÍ HALA",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-09
+2021-02-02,518f6665-84b8-4964-ae04-3bff5e0f2d93,"Nemocnice Most (KZ,a.s.) - SPORTOVNÍ HALA",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-09
 2021-02-02,4ed8c2be-fe2b-41d2-b58e-d69ed9a4c9f7,Nemocnice Jablonec n. Nisou,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-02,575508f4-5cc6-4ec7-b80c-4d1facd26e0a,"Nemocnice s poliklinikou Česká Lípa, a.s.",CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-03-09
 2021-02-02,cb0f8a24-3c54-467e-9e67-de01f424ea85,Česká Lípa očkovací místo  Crystal,CZ051,Liberecký kraj,80+,neuvedeno,CZ,,
@@ -135,9 +134,9 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-05,718fcb7c-904e-41f3-9be6-15a75ef9b5e0,Oblastní nemocnice Kolín - očkovací místo,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
 2021-02-05,ffddf34a-46dc-48a5-ba76-cf1c35339bf2,Nemocnice Neratovice,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-09
 2021-02-05,ffddf34a-46dc-48a5-ba76-cf1c35339bf2,Nemocnice Neratovice,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
-2021-02-05,518f6665-84b8-4964-ae04-3bff5e0f2d93,"Krajská zdravotní, a.s. - Nemocnice Most, o.z. - SPORTOVNÍ HALA",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-09
-2021-02-05,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Krajská zdravotní, a.s. - Nemocnice Chomutov, o.z.",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-03
-2021-02-05,d166058b-d215-4166-925d-69f7c168ef96,"Krajská zdravotní, a.s. - Nemocnice Teplice - SPORTARÉNA",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-15
+2021-02-05,518f6665-84b8-4964-ae04-3bff5e0f2d93,"Nemocnice Most (KZ,a.s.) - SPORTOVNÍ HALA",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-09
+2021-02-05,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Nemocnice Chomutov (KZ,a.s.)",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-03
+2021-02-05,d166058b-d215-4166-925d-69f7c168ef96,"Nemocnice Teplice (KZ,a.s.) - SPORTARÉNA",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-05,cb0f8a24-3c54-467e-9e67-de01f424ea85,Česká Lípa očkovací místo  Crystal,CZ051,Liberecký kraj,80+,neuvedeno,CZ,,
 2021-02-05,cb0f8a24-3c54-467e-9e67-de01f424ea85,Česká Lípa očkovací místo  Crystal,CZ051,Liberecký kraj,80+,neuvedeno,CZ,,
 2021-02-05,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-06
@@ -149,7 +148,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-05,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-11
 2021-02-06,e6d0a768-a1a5-4fc8-aada-081ecf2b68b0,Oblastní nemocnice Příbram,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-11
 2021-02-06,c10c6184-1773-46c8-85c3-7c09f8877880,Tachov - Poliklinika Tachov,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
-2021-02-06,518f6665-84b8-4964-ae04-3bff5e0f2d93,"Krajská zdravotní, a.s. - Nemocnice Most, o.z. - SPORTOVNÍ HALA",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-10
+2021-02-06,518f6665-84b8-4964-ae04-3bff5e0f2d93,"Nemocnice Most (KZ,a.s.) - SPORTOVNÍ HALA",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-10
 2021-02-06,8facdb9c-6716-4666-ae00-b58f7ccee441,Oblastní nemocnice Trutnov a.s.,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-02-06,0c7e626d-b0e6-413f-bd48-9bfce9b5487e,Orlickoústecká nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-06
 2021-02-06,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
@@ -194,7 +193,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-08,4aec9f14-bc39-4d73-be9e-d2c7e60e3495,Nemocnice Ostrov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-08
 2021-02-08,4aec9f14-bc39-4d73-be9e-d2c7e60e3495,Nemocnice Ostrov,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-08
 2021-02-08,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,,
-2021-02-08,4475c51f-69b3-410d-b404-eaf319711512,"Krajská zdravotní, a.s. - Masarykova nemocnice v Ústí nad Labem, o.z. - Očkovací centrum UJEP, Hoření",CZ042,Ústecký kraj,80+,neuvedeno,CZ,,
+2021-02-08,4475c51f-69b3-410d-b404-eaf319711512,"Masarykova nemocnice v Ústí nad Labem (KZ,a.s.) - Očkovací centrum UJEP, Hoření",CZ042,Ústecký kraj,80+,neuvedeno,CZ,,
 2021-02-08,938b2c05-a892-44bc-a7db-570e9e649072,VITA s.r.o. (nemocnice Duchcov),CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-08,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec (KNL),CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-08
 2021-02-08,6edad920-0382-4946-af44-cafeb841d6b1,Litomyšlská nemocnice,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-02-17
@@ -205,7 +204,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-08,c782926c-12bf-4071-a62a-79b75515a1a6,"Nemocnice Hustopeče, p.o.",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-04
 2021-02-08,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-08,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-03-31
-2021-02-08,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-02-08,243d9780-7f89-4218-8db5-e18ceda4778b,Nemocnice AGEL Podhorská a.s. pracoviště Bruntál,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-02-08,249c3cf7-8d0e-4301-998b-140dddf8694d,Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-02-08,249c3cf7-8d0e-4301-998b-140dddf8694d,Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
