@@ -56,6 +56,8 @@ f923b437-fab1-4e93-b5b5-b8d1ca541272,"IMMUNO-FLOW,s.r.o.",CZ0100,1,"U Pazderek 2
 f48613c8-f616-460b-bbb3-096e07223c73,"ImunoSantana spol. s r.o.",CZ0411,1,"Májová 582/19, 350 02 Cheb",50.0756700,12.3698400,OČM,25687794000,200,1
 c4d419b8-311f-427e-a6fc-3538e2ffc7bb,"Infocentrum Chodov",CZ0413,1,"Staroměstská 39, Chodov 357 35",50.2401831,12.7486403,OČM,26365804000,200,1
 5610e09b-866f-4e7f-b2b5-664fcd5ac19c,"KC Svoboda Cheb",CZ0411,1,"Za Mostní branou 5, 350 02 Cheb",50.0834500,12.3697200,VOČM,26365804001,350,1
+1a303c70-c076-409d-af38-ca7108a6f186,"KNL a.s. - nemocnice Turnov",CZ0514,1,"28. října 1000, Turnov",50.5888400,15.1687900,OČM,27283933003,108,
+5a7c4ca5-5efa-4f81-a621-3cc6b97a5e9f,"KNL, a.s. - Nemocnice Frýdlant",CZ0513,1,"V Úvoze 860, Frýdlant",50.9256819,15.0874711,OČM,27283933005,78,1
 800e3522-2335-4e5c-bb6e-c219b5667f30,"KV ARÉNA OČKOVACÍ CENTRUM",CZ0412,1,"Západní 1812, 360 01 Karlovy Vary",50.2246400,12.8442300,VOČM,26365804000,1500,1
 ae9c4f09-2a1d-41dd-bf45-f8864f24dd5c,"Karvinská hornická nemocnice a.s. Oddělení pracovního lékařství KHN",CZ0803,1,"Zakladatelská 975/22, Karviná - Nové Město 735 06",49.8701931,18.5406322,OČM,60793490000,114,1
 cd252dde-b78e-4c74-88e5-e95d894968ab,"Klatovská nemocnice",CZ0322,1,"Plzeňská 929, 339 01 Klatovy",49.4041700,13.2921900,OČM,26360527000,400,1
@@ -135,7 +137,6 @@ b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,"Nemocnice Pelhřimov - Kulturní dům Máj
 1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,"Nemocnice Písek - OČKO",CZ0314,1,"Karla Čapka 589, 397 01 Písek",49.3029800,14.1561000,OČM,26095190000,1000,1
 a8b62b00-0e64-4b8d-8202-316e0c00f809,"Nemocnice Rudolfa a Stefanie Benešov, a.s.",CZ0201,1,"Máchova 400",49.7873358,14.6811406,OČM,27253236000,500,1
 be3e9bad-6d9f-4302-8d3c-99fb456f7643,"Nemocnice Rychnov nad Kněžnou, Společenské centrum",CZ0524,1,"Společenské centrum, Panská 1492, 51601 Rychnov nad Kněžnou",50.1639672,16.2762450,VOČM,26000202009,0,1
-3dc2a084-026d-417c-9401-6f295a918010,"Nemocnice Sedlčany - Kulturní dům Josefa Suka Sedlčany",CZ020B,1,"Havlíčkova 514, Sedlčany 264 01",49.6596900,14.4206900,VOČM,26429683000,700,1
 92c26a50-b614-45b4-94f6-366a766796a0,"Nemocnice Slaný",CZ0203,1,"Třebízkého 161, Slaný",50.2315758,14.0830872,OČM,875295000,1000,1
 313285e5-df33-485b-aad2-1f121d45aba8,"Nemocnice Strakonice - OČKO centrum, tělocvična STARZ Lidická 193",CZ0316,1,"Lidická 193, 386 01 Strakonice",49.2641636,13.9058569,VOČM,26095181000,1100,1
 44133735-28b0-4c07-a675-f6613a761f8c,"Nemocnice Sv. Kříže Žižkov",CZ0100,1,"Kubelíkova 1250/16, Praha 3, 130 00",50.0817681,14.4479294,OČM,47124733000,300,
@@ -175,6 +176,7 @@ b53d6d7a-60bd-4acd-98cb-97893f87d163,"Odborný léčebný ústav Jevíčko",CZ05
 367fd540-6069-4f6a-8d9b-f04b65e77983,"Očkovací centrum - AL INVEST Břidličná (SZZ Krnov)",CZ0801,1,"Bruntálská 167,793 51 Břidličná",49.9126453,17.3737717,OČM,844641001,300,
 b85e83d4-e9be-456d-b6b5-8e2acac97990,"Očkovací centrum Dobřichovice sportovní hala BIOS",CZ020A,1,"Pražská 375, 252 29 Dobřichovice",49.9293642,14.2726686,VOČM,2084325000,1000,1
 73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,"Očkovací centrum Liberec (KNL)",CZ0513,1,"U Jezu 642/2a, Liberec",50.7640786,15.0543333,DOČM,27283933000,900,1
+3dc2a084-026d-417c-9401-6f295a918010,"Očkovací centrum Sedlčany - Kulturní dům Josefa Suka",CZ020B,1,"Havlíčkova 514, Sedlčany 264 01",49.6596900,14.4206900,VOČM,26429683000,700,1
 51202c9c-0869-494a-803f-eb6de980f6f3,"Očkovací centrum Třebíč",CZ0634,1,"Kulturní dům Fórum, Masarykovo nám. 1313/13, 674 07 Třebíč",49.2139389,15.8784253,OČM,839396000,1000,1
 7d48eb57-8ab6-4c37-a267-f759c4ec03bb,"Plasy - Kulturní dům Plasy",CZ0325,1,"Plzeňská 41, 331 01 Plasy",49.9316000,13.3839417,OČM,29090300000,160,
 d3b8acc6-6815-4ae9-b3a7-e9f6a49dfd33,"Podbořany - Domov pro seniory (Dr. Nabbout)",CZ0424,1,"Nádražní 933, 441 01 Podbořany",50.2244853,13.4068903,OČM,4571673000,200,1
