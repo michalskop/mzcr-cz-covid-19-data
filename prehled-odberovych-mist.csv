@@ -58,6 +58,7 @@ d6c96226-e0cc-449c-91f1-072e1582234b,"AG Covidpoint - OC Černý most",CZ0100,1,
 d85305f7-d116-4a7e-b3ba-eea6fe9ad6ac,"AG Covidpoint - OC Šestka",CZ0100,1,"Fajtlova1090 Praha 6 - Ruzyně",50.0940622,14.2912836,370,,,1,
 e33a4722-808e-438d-bd74-96e75009b1d2,"AG Covidpoint - Ostrava Globus",CZ0806,1,"Opavská 326/90 725 27 Ostrava Plesná",49.8478456,18.1482667,330,,,1,
 2fd4f085-c611-4a96-93fa-a64c5a55151f,"AG Covidpoint - České Budějovice Globus",CZ0311,1,"České Vrbné 2327, 370 11 České Budějovice 2",49.0014072,14.4521917,300,,,1,
+785783ac-1168-4dcf-b28b-001efefc8a7b,"AG Point OC Olympie Brno",CZ0643,1,"U Dálnice 777 664 42 Modřice",49.1382360,16.6340340,370,,,1,
 67e440c9-bf48-495a-a3df-8396679401e6,"AG centrum Multiscan s.r.o. - odběrové místo Pardubická nemocnice",CZ0532,1,"Kyjevská 44, 53203 Pardubice",50.0283775,15.7903178,300,,,1,
 d002184e-3f7a-4176-a291-dee4aa31dd92,"AGEL Hornická poliklinika s.r.o. - odběrové místo Ostrava",CZ0806,1,"Sokolská třída 2587/81, 702 00 Ostrava - Moravská Ostrava",49.8460583,18.2853503,400,,,1,
 3ad3b310-6a64-4328-98d1-3e32b4d9d0de,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ0713,1,"Mathonova 291/1, 796 04 Prostějov",49.4748511,17.0885236,150,1,,1,
@@ -116,11 +117,13 @@ c7162021-8d24-4c8d-9f07-2eaa926ee880,"Dopravní zdravotnictví a.s., Poliklinika
 d91a2948-366c-40d2-a593-3358b8504f7b,"Dopravní zdravotnictví a.s., Poliklinika AGEL Praha",CZ0100,1,"Italská 560/37, 121 43, Praha 2",50.0805722,14.4379836,200,1,,1,
 7a1801e7-f06a-4ec3-9227-81e44bbd1bbc,"Dopravní zdravotnictví a.s., Poliklinika AGEL Praha - Mobilní odběrový tým",CZ0100,1,"Italská 560/37, Praha 2",50.0805722,14.4379836,200,1,,1,
 51aee691-f4b9-4520-9caa-5a31f7b72416,"Dopravní záchranná služba s.r.o - odběrové místo Plzeň",CZ0323,1,"Wenzigova 340/11, Plzeň 301 00",49.7457797,13.3899411,300,,,1,
-f527ce85-caf0-4905-bcde-34afafc29b35,"Drive IN - Hola Biolabs - Parkoviště CK Victoria - Heršpická 758/13",CZ0642,1,"Heršpická 758/13, 619 00 Brno - Štýřice",49.1715433,16.6022936,200,1,,1,1
+f527ce85-caf0-4905-bcde-34afafc29b35,"Drive IN - Hola Biolabs - Parkoviště CK Victoria - Heršpická 758/13",CZ0642,1,"Heršpická 758/13, 619 00 Brno - Štýřice",49.1692386,16.6002650,200,1,,1,1
 0ce915b0-395b-4dee-a338-d2b050996202,"ELECTROLYTE s.r.o. - odběrové místo Karlovy Vary",CZ0412,1,"T. G. Masaryka 53/43",50.2299756,12.8684633,200,,,1,
 0d046652-69ff-4212-a50b-7b14377bb03e,"ELECTROLYTE s.r.o. - odběrové místo Nový Bydžov",CZ0521,1,"Dr. M. Horákové 1568, 504 01 Nový Bydžov",50.2443669,15.4866758,200,,,1,
+20613fd0-cfe4-416b-bfb7-6b252e6d5512,"ELECTROLYTE s.r.o. - odběrové místo Ostrava OC Futurum",CZ0806,1,"Novinářská 3178/6",49.8327336,18.2641572,400,,,1,1
 97ab61c1-640d-49bb-928f-0c1b69906339,"ELECTROLYTE s.r.o. - odběrové místo Trutnov",CZ0525,1,"Svatojánské náměstí/Horská",50.5614081,15.9109681,200,,,1,
 b4f471e1-7a52-47db-b9d1-cfa736df6ffb,"ELISABETH PHARMACON, spol. s. r. o.",CZ0642,1,"Rokycanova 4437/5, 615 00 Brno-Židenice",49.2005653,16.6407833,2050,,,1,
+b9aab6c9-42bf-4a89-93b4-fb8dcd1d8d28,"EMA Emergency s.r.o. - odběrové místo Jeseník",CZ0711,1,"Zámecké nám. 921/5, 790 01 Jeseník",50.2305058,17.2076831,100,,,1,
 5a1d0419-8b22-4c61-9ff4-52751b4ee02f,"EMA Emergency s.r.o. - odběrové místo Olomouc Šantovka",CZ0712,1,"Polská 1201/1, 779 00 Olomouc",49.5874261,17.2579194,250,,,1,
 533d9924-e168-4da4-a442-0aaf85955736,"EMA Emergency,s.r.o. - OC Centro Zlín-Malenovice",CZ0724,1,"3.května 1170 , 76302 Zlín 4 -Malenovice",49.2047183,17.5723225,250,,,1,
 feeffab8-0292-460c-8715-5b390e4a5013,"EUC Klinika Liberec s.r.o. - odběrové místo",CZ0513,1,"Klášterní 117/2, 460 05 Liberec V-Kristiánov",50.7685825,15.0665256,30,,,1,
@@ -151,12 +154,13 @@ e3319b75-0002-43ad-9c30-c5a707a7d3f0,"Filip Chaloupek - EMS Liberec",CZ0513,1,"B
 4eb9078b-65a9-47cb-82c1-36c208b9c925,"GEN-TREND s.r.o. - odběrové místo Rudolfov",CZ0311,1,"Hůry 149, Rudolfov 373 71",49.0125264,14.5406686,25,1,,1,1
 5156d2b6-f31b-4cd0-9fba-30ab77157d90,"GENvia s.r.o. - Nuselská poliklinika",CZ0100,1,"Nuselská poliklinika, Táborská 325/57, Praha 4, Nusle 4, 14000",50.0629900,14.4412100,500,1,,1,
 751cb532-19fe-45bb-ba97-a95aab7efc1a,"GENvia s.r.o. - Pankrác",CZ0100,1,"Milevská 1695/7, 140 00 Praha 4 - Krč",50.0490656,14.4382333,1000,1,,1,
+51ace0e4-8a14-42ed-a752-2bf86d89f3d4,"GENvia s.r.o. - odběrové místo OC Galerie Butovice",CZ0100,1,"Radlická 117",50.0481958,14.3546242,1000,,,1,
 6e366573-637b-44ba-b8d6-aab0fd01600a,"GENvia, s.r.o, - odběrové místo Kamýk",CZ0100,1,"Těšíkova 912/1",50.0150283,14.4272694,1000,1,,1,
 75fe31de-9fe6-4758-b604-5fbf9d05eca2,"GENvia, s.r.o, - odběrové místo Rokycany",CZ0326,1,"Odpočívka Rokycany, 58.8 km (P), Rokycany - Borek",49.7579519,13.6166961,500,,,1,
 7b4854d4-4f46-4719-bdcf-9e4024860624,"GENvia, s.r.o, - odběrové místo Šlovice",CZ0324,1,"Odpočívka Šlovice, 83.2 km (P), Dobřany - Šlovice",49.6781475,13.3295697,500,1,,1,
 d880adb6-3f63-4fc1-8bcd-f7e87d2cce79,"GHC GENETICS Praha - Vítězné náměstí",CZ0100,1,"Vítězné náměstí, Praha 6,",50.1017797,14.3929494,100,1,,1,
 2a8e40a8-5df4-4c2b-bca7-56e5e884ee9a,"GHC GENETICS Praha - Výstaviště Holešovice",CZ0100,1,"Výstaviště 67, Bubeneč, Praha 7, 170 00",50.1054428,14.4328139,100,1,,1,1
-46d37803-4d08-4ab4-8f65-6e517a33f8f0,"GHC Genetics - PVA Letňany DRIVE-IN",CZ0100,,"Parkoviště Pražský veletržní areál Letňany, Praha - Letňany",50.1281075,14.5153736,120,1,,1,1
+46d37803-4d08-4ab4-8f65-6e517a33f8f0,"GHC Genetics - PVA Letňany DRIVE-IN",CZ0100,1,"Parkoviště Pražský veletržní areál Letňany, Praha - Letňany",50.1281075,14.5153736,120,1,,1,1
 5a136b42-596b-4b38-8582-d160c5c8e85e,"GHC Praha - Letiště Václava Havla",CZ0100,1,"Aviatická, 160 00 Praha 6",50.1063694,14.2665906,200,1,,1,
 9947ae04-e229-4101-a856-c22a52ddfa31,"GHC Praha Džbán",CZ0100,,"Nad Lávkou 672/5, Praha 6",50.0986758,14.3368428,100,1,,,1
 4b235f81-daad-49fb-8ba9-5e03c9dcaa28,"GHC, Václavské náměstí",CZ0100,1,"Václavské náměstí 824 / 29, Praha 1",50.0819253,14.4273281,200,1,,1,
@@ -267,6 +271,7 @@ f96a0924-67b1-48ab-9d25-5335e3728ac9,"MEDICAL TESTING s.r.o. Vestec u Prahy",CZ0
 4c3b2594-5ce5-435e-9fa5-52c88003db8d,"MMN, .a.s., nemocnice Jilemnice",CZ0514,1,"Metyšova 465, 514 01 Jilemnice",50.6115283,15.4993889,100,,,1,
 f66c347c-01b0-41d1-8e0d-5a5a6a9f357f,"MMN, a.s. (nemocnice Semily)",CZ0514,1,"3.května 421, Semily",50.5980375,15.3533992,50,1,,1,
 1637667e-feff-4fe4-adbd-312bed6c36a5,"MUDr. František Filipi - odběrové místo",CZ0642,1,"Jana Babáka 2733/11, 612 00 Brno - Královo Pole",49.2165269,16.5881706,10,,,1,
+62c78000-5967-49fa-9370-c509db7e989d,"MUDr. Iva Javůrková - odběrové místo Samotišky",CZ0712,1,"Toveřská 5, Olomouc, 779 00",49.6266350,17.3269778,20,,,,
 d9caa381-ccfa-4345-a0ca-2a785ba4969a,"MUDr. Marcel Pekárek - Stomatologická s.r.o.",CZ0205,1,"Fibichova 1338, 286 01 Čáslav",49.9053192,15.3949031,50,,,1,
 93bfdd12-6252-4199-8910-ff4265782743,"MUDr. Petr Tomaštík - odběrové místo Brno",CZ0642,1,"Kolejní, 612 00 Brno - Královo Pole, zastávka ,,Podnikatelská''",49.2279690,16.5755360,10000,1,,1,
 87a59132-b611-474c-9ce2-04463cc08df6,"MUDr. Vratislav Prejzek s.r.o.",CZ0421,1,"Náměstí Míru 344, 407 77 Šluknov",51.0030603,14.4531467,100,,,1,1
@@ -430,7 +435,10 @@ b7e21fdb-b266-45dc-9b46-e74e877b1dd7,"Oblastní nemocnice Náchod - nemocnice N�
 4b4cc143-85a2-4b41-af1a-002327676426,"Oblastní nemocnice Náchod - nemocnice Rychnov nad Kněžnou",CZ0524,1,"Jiráskova 506, 516 23 Rychnov nad Kněžnou",50.1674500,16.2713253,100,,,1,
 a4107a8d-19a8-473a-aa6e-1f2ece894e45,"Oblastní nemocnice Příbram, a.s.",CZ020B,1,"Gen. R. Tesaříka 80, 261 01 Příbram",49.6917706,14.0104439,250,1,,1,
 05655637-2520-407e-bd61-9db5ea98d9b5,"Oblastní nemocnice Trutnov",CZ0525,1,"Maxima Gorkého 77, Trutnov 541 01",50.5604928,15.9213758,250,1,,1,1
+6278187b-4505-4c2d-99fe-956d5a8692a7,"Oblastní spolek Českého červeného kříže - odběrové místo Blansko",CZ0641,1,"Chelčického 1186/56",49.3585097,16.6540625,250,,,1,
 646ceaa6-9c61-4812-a21b-cca2507f6556,"Oblastní spolek Českého červeného kříže Liberec",CZ0513,1,"Palachova  504/7, 460 01 Liberec",50.7692867,15.0607281,300,,,1,
+b7f48385-fb81-4683-9139-e7539b5a8e37,"Oblastní spolek Českého červeného kříže Liberec - mobilní odběrový tým",CZ0513,1,"Palachova 504/7, 460 01 Liberec",50.7692867,15.0607281,500,,,1,
+46d0199f-ef99-4d4e-bc3d-47d6111af1a4,"Oblastní spolek Českého červeného kříže Liberec - odběrové místo Jilemnice",CZ0525,1,,,,200,,,1,
 22584346-f0fb-468b-9378-4c0da3bb63e8,"Odběrné místo Litovel – praporní obvaziště pro uzavřenou oblast Litovelska a Uničovska",CZ0712,,"Mladeč, 783 21",49.5552820,17.7448510,0,,,,
 217c29db-e647-4e85-9c49-0385bac773d8,"Odběrové místo Scimed",CZ0521,1,"Hradecká 1227/4, Hradec Králové, 500 03",50.2027900,15.8311300,600,1,,1,
 82415d34-0bcd-4906-8583-81c1f779b413,"Odběrový tým Dobronická",CZ0100,1,"Dobronická 892, Praha, 148 00",50.0108833,14.4689731,160,,,1,
