@@ -15,8 +15,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-15,381ef57d-e0e9-4079-a1b9-fd7d476a8aae,Státní zdravotní ústav - budova 11,CZ010,Hlavní město Praha,neuvedeno,neuvedeno,CZ,1.0,2021-01-16
 2021-01-15,4b708512-790d-4edb-8f3c-303d3d192acf,Institut klinické a experimentální medicíny (IKEM),CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-01-16
 2021-01-15,4b708512-790d-4edb-8f3c-303d3d192acf,Institut klinické a experimentální medicíny (IKEM),CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-01-17
-2021-01-15,4b708512-790d-4edb-8f3c-303d3d192acf,Institut klinické a experimentální medicíny (IKEM),CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-01-16
-2021-01-15,4b708512-790d-4edb-8f3c-303d3d192acf,Institut klinické a experimentální medicíny (IKEM),CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-01-16
 2021-01-15,4b708512-790d-4edb-8f3c-303d3d192acf,Institut klinické a experimentální medicíny (IKEM),CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-01-15,4b708512-790d-4edb-8f3c-303d3d192acf,Institut klinické a experimentální medicíny (IKEM),CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-01-16
 2021-01-15,4b708512-790d-4edb-8f3c-303d3d192acf,Institut klinické a experimentální medicíny (IKEM),CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-01-16
@@ -467,7 +465,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-15,c5881ce2-0007-4fe1-8a80-66fba7dafa3d,"Nemocnice následné péče Svatá Anna, s.r.o.",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-01-15,c5881ce2-0007-4fe1-8a80-66fba7dafa3d,"Nemocnice následné péče Svatá Anna, s.r.o.",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-01-15,c5881ce2-0007-4fe1-8a80-66fba7dafa3d,"Nemocnice následné péče Svatá Anna, s.r.o.",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
-2021-01-15,c5881ce2-0007-4fe1-8a80-66fba7dafa3d,"Nemocnice následné péče Svatá Anna, s.r.o.",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-01-15,c5881ce2-0007-4fe1-8a80-66fba7dafa3d,"Nemocnice následné péče Svatá Anna, s.r.o.",CZ032,Plzeňský kraj,neuvedeno,neuvedeno,CZ,,
 2021-01-15,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-01-15,cd252dde-b78e-4c74-88e5-e95d894968ab,Klatovská nemocnice,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-01-21
@@ -520,7 +517,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-15,db148287-219d-4213-806f-4c7322e26291,Nemocnice v Chebu,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-04
 2021-01-15,db148287-219d-4213-806f-4c7322e26291,Nemocnice v Chebu,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-14
 2021-01-15,db148287-219d-4213-806f-4c7322e26291,Nemocnice v Chebu,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-01-17
-2021-01-15,db148287-219d-4213-806f-4c7322e26291,Nemocnice v Chebu,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-01-18
 2021-01-15,db148287-219d-4213-806f-4c7322e26291,Nemocnice v Chebu,CZ041,Karlovarský kraj,neuvedeno,neuvedeno,CZ,1.0,2021-01-16
 2021-01-15,db148287-219d-4213-806f-4c7322e26291,Nemocnice v Chebu,CZ041,Karlovarský kraj,neuvedeno,neuvedeno,CZ,1.0,2021-02-17
 2021-01-15,f191d2d1-0716-4a9b-a563-2a27c8925b87,Karlovarská krajská nemocnice a.s.,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-03-28
@@ -687,7 +683,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-15,57932100-0df4-472c-a015-d2b750df5b58,Fakultní nemocnice Hradec Králové,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-01-20
 2021-01-15,57932100-0df4-472c-a015-d2b750df5b58,Fakultní nemocnice Hradec Králové,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-01-20
 2021-01-15,57932100-0df4-472c-a015-d2b750df5b58,Fakultní nemocnice Hradec Králové,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-28
-2021-01-15,57932100-0df4-472c-a015-d2b750df5b58,Fakultní nemocnice Hradec Králové,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-01-15,57932100-0df4-472c-a015-d2b750df5b58,Fakultní nemocnice Hradec Králové,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-03-16
 2021-01-15,57932100-0df4-472c-a015-d2b750df5b58,Fakultní nemocnice Hradec Králové,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-01-21
 2021-01-15,57932100-0df4-472c-a015-d2b750df5b58,Fakultní nemocnice Hradec Králové,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-01-16
@@ -898,7 +893,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-15,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,neuvedeno,neuvedeno,CZ,1.0,2021-02-22
 2021-01-15,ca2ebe9a-25f5-4386-a47a-1def0c83afa5,"Nemocnice TGM Hodonín, přísp. organizace Dům kultury Hodonín - očkovací centrum COVID-19",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-06
 2021-01-15,ccccfd3b-1362-49d5-b3b6-b0f71dc6d572,Nemocnice TGM Hodonín,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
-2021-01-15,ccccfd3b-1362-49d5-b3b6-b0f71dc6d572,Nemocnice TGM Hodonín,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
 2021-01-15,ccccfd3b-1362-49d5-b3b6-b0f71dc6d572,Nemocnice TGM Hodonín,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-01-15,ccccfd3b-1362-49d5-b3b6-b0f71dc6d572,Nemocnice TGM Hodonín,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-01-15,ccccfd3b-1362-49d5-b3b6-b0f71dc6d572,Nemocnice TGM Hodonín,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-01-16
@@ -962,7 +956,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-15,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-01-16
 2021-01-15,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-01-15,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-01-15
-2021-01-15,a91d8128-c379-456c-b04b-1f1d6aa2da76,AGE Centrum Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-05-03
 2021-01-15,bbbcf265-9f34-4056-a7e8-f9067fd339a4,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Šternberk",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-01-17
 2021-01-15,bbbcf265-9f34-4056-a7e8-f9067fd339a4,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Šternberk",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-10
 2021-01-15,bbbcf265-9f34-4056-a7e8-f9067fd339a4,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Šternberk",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-05
@@ -1563,9 +1556,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-17,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-27
 2021-01-17,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,,
 2021-01-17,db148287-219d-4213-806f-4c7322e26291,Nemocnice v Chebu,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-01-17
-2021-01-17,db148287-219d-4213-806f-4c7322e26291,Nemocnice v Chebu,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-01-17
-2021-01-17,db148287-219d-4213-806f-4c7322e26291,Nemocnice v Chebu,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-01-17
-2021-01-17,db148287-219d-4213-806f-4c7322e26291,Nemocnice v Chebu,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-01-17
 2021-01-17,f191d2d1-0716-4a9b-a563-2a27c8925b87,Karlovarská krajská nemocnice a.s.,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-13
 2021-01-17,4475c51f-69b3-410d-b404-eaf319711512,"Masarykova nemocnice v Ústí nad Labem (KZ,a.s.) - Očkovací centrum UJEP, Hoření",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-03-03
 2021-01-17,4475c51f-69b3-410d-b404-eaf319711512,"Masarykova nemocnice v Ústí nad Labem (KZ,a.s.) - Očkovací centrum UJEP, Hoření",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-01-21
@@ -1703,7 +1693,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-18,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-01-28
 2021-01-18,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-01-18
 2021-01-18,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-01-18
-2021-01-18,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-01-22
 2021-01-18,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-01
 2021-01-18,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-01-18
 2021-01-18,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-01-18
@@ -1774,7 +1763,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-18,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-01-18,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-01-18,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-05
-2021-01-18,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
+2021-01-18,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-05-11
 2021-01-18,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-01-18,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-01-18,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
@@ -1828,7 +1817,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-18,f191d2d1-0716-4a9b-a563-2a27c8925b87,Karlovarská krajská nemocnice a.s.,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-03-28
 2021-01-18,f191d2d1-0716-4a9b-a563-2a27c8925b87,Karlovarská krajská nemocnice a.s.,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-03-28
 2021-01-18,f191d2d1-0716-4a9b-a563-2a27c8925b87,Karlovarská krajská nemocnice a.s.,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-01-18
-2021-01-18,f191d2d1-0716-4a9b-a563-2a27c8925b87,Karlovarská krajská nemocnice a.s.,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-03-28
 2021-01-18,f191d2d1-0716-4a9b-a563-2a27c8925b87,Karlovarská krajská nemocnice a.s.,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-03-28
 2021-01-18,35226817-f739-4586-9a31-defc268d56e1,"Nemocnice Litoměřice, o.z. (KZ,a.s.) - Výstaviště Zahrada Čech",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-01-18
 2021-01-18,4475c51f-69b3-410d-b404-eaf319711512,"Masarykova nemocnice v Ústí nad Labem (KZ,a.s.) - Očkovací centrum UJEP, Hoření",CZ042,Ústecký kraj,80+,neuvedeno,CZ,,
@@ -1932,7 +1920,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-18,2939d29f-8cb9-49ab-908d-c4425afb5f51,Nemocnice AGEL Valašské Meziříčí a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-01-28
 2021-01-18,481dd978-47d9-46a2-a379-84fc06761772,Vsetínská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-01-22
 2021-01-18,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
-2021-01-18,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-05-06
 2021-01-18,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,neuvedeno,neuvedeno,CZ,,
 2021-01-18,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-03-01
 2021-01-18,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
@@ -2066,7 +2053,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-19,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,,
 2021-01-19,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,,
 2021-01-19,db148287-219d-4213-806f-4c7322e26291,Nemocnice v Chebu,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-02-13
-2021-01-19,db148287-219d-4213-806f-4c7322e26291,Nemocnice v Chebu,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-01-19
 2021-01-19,f191d2d1-0716-4a9b-a563-2a27c8925b87,Karlovarská krajská nemocnice a.s.,CZ041,Karlovarský kraj,80+,neuvedeno,CZ,1.0,2021-03-11
 2021-01-19,f191d2d1-0716-4a9b-a563-2a27c8925b87,Karlovarská krajská nemocnice a.s.,CZ041,Karlovarský kraj,neuvedeno,neuvedeno,CZ,1.0,2021-01-19
 2021-01-19,35226817-f739-4586-9a31-defc268d56e1,"Nemocnice Litoměřice, o.z. (KZ,a.s.) - Výstaviště Zahrada Čech",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-04-09
@@ -2154,7 +2140,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-19,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-03-02
 2021-01-19,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-03-08
 2021-01-19,ec7464b3-cfbd-4e49-8187-5f438f69c731,Kroměřížská nemocnice a.s. - Výstaviště Kroměříž,CZ072,Zlínský kraj,80+,neuvedeno,CZ,,
-2021-01-19,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-04-29
 2021-01-19,243d9780-7f89-4218-8db5-e18ceda4778b,Nemocnice AGEL Podhorská a.s. pracoviště Bruntál,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-01-19,243d9780-7f89-4218-8db5-e18ceda4778b,Nemocnice AGEL Podhorská a.s. pracoviště Bruntál,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-01-19,249c3cf7-8d0e-4301-998b-140dddf8694d,Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-09

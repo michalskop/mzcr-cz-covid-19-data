@@ -128,7 +128,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-20,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-01-21,4b708512-790d-4edb-8f3c-303d3d192acf,Institut klinické a experimentální medicíny (IKEM),CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-01-22
 2021-01-21,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,neuvedeno,neuvedeno,CZ,,
-2021-01-21,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-03-25
 2021-01-21,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-01-21
 2021-01-21,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-01-25
 2021-01-21,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-02-25
@@ -347,7 +346,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-23,4ed8c2be-fe2b-41d2-b58e-d69ed9a4c9f7,Nemocnice Jablonec n. Nisou,CZ051,Liberecký kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-01-23,57932100-0df4-472c-a015-d2b750df5b58,Fakultní nemocnice Hradec Králové,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-01-23,57932100-0df4-472c-a015-d2b750df5b58,Fakultní nemocnice Hradec Králové,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-18
-2021-01-23,57932100-0df4-472c-a015-d2b750df5b58,Fakultní nemocnice Hradec Králové,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-03-05
 2021-01-23,ecdde69c-5828-46ca-a973-2ce3cb9ae1b6,Oblastní nemocnice Jičín a.s.,CZ052,Královéhradecký kraj,80+,neuvedeno,CZ,1.0,2021-02-26
 2021-01-23,03d60c72-2c3b-4aa1-882f-ed7b9f43d734,Svitavská nemocnice - multifunkční centrum Fabrika,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-01-24
 2021-01-23,03d60c72-2c3b-4aa1-882f-ed7b9f43d734,Svitavská nemocnice - multifunkční centrum Fabrika,CZ053,Pardubický kraj,80+,neuvedeno,CZ,1.0,2021-04-05
@@ -505,7 +503,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-26,281cd704-c5c4-447d-aace-debad0aa3269,Nemocnice AGEL Říčany a.s. - Sportovní hala,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-25
 2021-01-26,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-05
 2021-01-26,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-05-04
-2021-01-26,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
+2021-01-26,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-05-11
 2021-01-26,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-01-26,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-02
 2021-01-26,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-16
@@ -555,6 +553,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-26,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,SK,1.0,2021-02-22
 2021-01-26,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,SK,1.0,2021-02-22
 2021-01-26,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,SK,1.0,2021-02-22
+2021-01-26,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,50-54,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-05-11
 2021-01-26,c782926c-12bf-4071-a62a-79b75515a1a6,"Nemocnice Hustopeče, p.o.",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-25
 2021-01-26,c782926c-12bf-4071-a62a-79b75515a1a6,"Nemocnice Hustopeče, p.o.",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,,
 2021-01-26,d03cc3a3-044e-4d00-a2ec-7abccc400b3b,"Nemocnice Vyškov, p. o., Sportovní hala Purkyňova 39",CZ064,Jihomoravský kraj,18-24,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-22
@@ -622,7 +621,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-27,281cd704-c5c4-447d-aace-debad0aa3269,Nemocnice AGEL Říčany a.s. - Sportovní hala,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-28
 2021-01-27,281cd704-c5c4-447d-aace-debad0aa3269,Nemocnice AGEL Říčany a.s. - Sportovní hala,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-01-27,39aece24-3e8d-4261-8cab-db23b2d48d50,"Mělnická zdravotní, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
-2021-01-27,39aece24-3e8d-4261-8cab-db23b2d48d50,"Mělnická zdravotní, a.s.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-01-27,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-01-27,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
 2021-01-27,718fcb7c-904e-41f3-9be6-15a75ef9b5e0,Oblastní nemocnice Kolín - očkovací místo,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
@@ -704,7 +702,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-27,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-03-09
 2021-01-27,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-11
 2021-01-27,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-24
-2021-01-27,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-04-07
+2021-01-27,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-05-11
 2021-01-27,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-01-27,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-01-28,4b708512-790d-4edb-8f3c-303d3d192acf,Institut klinické a experimentální medicíny (IKEM),CZ010,Hlavní město Praha,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
@@ -718,7 +716,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-28,31de7f09-960c-4287-80b4-012568de1703,"Vakcinační centrum COVID19 - Obecní dům Nymburk, provozovatel Nemocnice Nymburk s.r.o.",CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-28,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-05-04
 2021-01-28,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-10
-2021-01-28,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
+2021-01-28,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-05-11
 2021-01-28,e6d0a768-a1a5-4fc8-aada-081ecf2b68b0,Oblastní nemocnice Příbram,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-01-28,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-03-02
 2021-01-28,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-09

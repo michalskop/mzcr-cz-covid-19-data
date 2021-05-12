@@ -32,7 +32,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-01,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-02-01,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-02
 2021-02-01,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-24
-2021-02-01,3ffb874d-db62-4e50-8c75-d819d283d160,Moje Ambulance a.s. Havířov,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-02-01,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-24
 2021-02-01,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-02-01,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
@@ -201,7 +200,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-02-08,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-17
 2021-02-08,7bdb206f-d1a2-4afb-9770-863958ae98f7,Nemocnice Boskovice s.r.o.,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-12
 2021-02-08,c782926c-12bf-4071-a62a-79b75515a1a6,"Nemocnice Hustopeče, p.o.",CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-04
-2021-02-08,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-24
 2021-02-08,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-03-31
 2021-02-08,243d9780-7f89-4218-8db5-e18ceda4778b,Nemocnice AGEL Podhorská a.s. pracoviště Bruntál,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-02-08,249c3cf7-8d0e-4301-998b-140dddf8694d,Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
