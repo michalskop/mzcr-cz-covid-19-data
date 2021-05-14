@@ -54,7 +54,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-20,28f83d48-bce8-4d12-9b1f-4316e973c02f,Privamed,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
 2021-01-20,333a11ee-363d-499f-90cb-9d61f62543cc,"Rokycanská nemocnice, a. s.",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-21
 2021-01-20,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-01-20
-2021-01-20,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-01-20
 2021-01-20,586ab361-ba26-4429-b0f3-8ff9831f07b2,"Dopravní zdravotnictví a.s., Poliklinika AGEL Plzeň",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-20,c10c6184-1773-46c8-85c3-7c09f8877880,Tachov - Poliklinika Tachov,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-01-20,ceecb0f2-e752-4719-a586-22edc89ab5f1,FN Plzeň - sklad,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,,
@@ -155,7 +154,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-21,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-01-21,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-15
 2021-01-21,e8e63305-db89-43c6-8aa2-eeda1a4287ef,Rehabilitační nemocnici Beroun,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
-2021-01-21,ff1d41dd-18a2-45ed-bfee-8b2ff0022633,Nemocnice Brandýs n. L.,CZ020,Středočeský kraj,neuvedeno,neuvedeno,CZ,1.0,2021-02-16
 2021-01-21,ffddf34a-46dc-48a5-ba76-cf1c35339bf2,Nemocnice Neratovice,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-02-09
 2021-01-21,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-01-22
 2021-01-21,2cd34358-0cf7-43de-8bf1-e2892ad9611e,Nemocnice Tábor - OČKO  Zimní stadion,CZ031,Jihočeský kraj,neuvedeno,neuvedeno,CZ,1.0,2021-01-21
@@ -392,8 +390,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-24,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-03-11
 2021-01-24,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,80+,neuvedeno,CZ,1.0,2021-02-22
 2021-01-24,de1fc22a-e006-4725-8860-7534682fb18c,Vojenská nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-02-23
-2021-01-24,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-03-02
-2021-01-24,df835442-d55c-4653-ad02-23443d6b1700,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Přerov",CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-03-02
 2021-01-24,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,,
 2021-01-24,ec7464b3-cfbd-4e49-8187-5f438f69c731,Kroměřížská nemocnice a.s. - Výstaviště Kroměříž,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-02-20
 2021-01-24,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-19
@@ -701,6 +697,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-01-27,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-03-09
 2021-01-27,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-11
 2021-01-27,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-24
+2021-01-27,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-05-13
 2021-01-27,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-01-27,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-02-18
 2021-01-28,4b708512-790d-4edb-8f3c-303d3d192acf,Institut klinické a experimentální medicíny (IKEM),CZ010,Hlavní město Praha,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-02-19
