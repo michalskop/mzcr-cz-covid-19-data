@@ -27,6 +27,7 @@ f6a9ae5b-0d93-4bd4-b630-b3667a9c9059,"EUC Klinika Plzeň - Denisovo nábřeží,
 a0b3a397-29de-4207-bc36-402c3e2fb78e,"EUC Klinika Plzeň - Kralovice",CZ0325,1,"Nová 730, 331 41 Kralovice",49.9833700,13.4829100,OČM,25202171000,400,
 0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,"EUC Klinika Praha a.s. - Kartouzská",CZ0100,1,"Kartouzská 204/6 , 150 00 Praha 5",50.0742825,14.4015444,OČM,1918028000,200,
 b2d0f892-c779-4cba-8b55-1ed3e8de0e4c,"EUC Klinika Praha a.s. - Plaňanská",CZ0100,1,"Plaňanská 573/1, Malešice, 108 00 Praha 10",50.0802200,14.5012344,OČM,1918028000,200,
+7c6e5c79-113b-486f-a52c-e8a5f55ceeb4,"EUC Klinika České Budějovice, s.r.o",CZ0311,1,"Matice Školské, 1789/17, 370 01 České Budějovice",,,OČM,0,300,
 4b39139d-22d5-40e3-b752-dfa2d6aca34e,"EUC klinika Ostrava a.s.",CZ0806,1,"Opavská 962/39, Ostrava",49.8314431,18.1783136,OČM,25860836000,120,1
 b8908961-8b5d-46d6-ad40-89bceacd7874,"EUC klinika Praha a.s. - Šustova, Praha 11",CZ0100,1,"Šustova 1930/2, 148 00 Praha 11",50.0277900,14.4896100,OČM,1918028000,400,1
 f4f26d1e-4f97-4f95-aa75-96aa7df42c80,EliteMedical,CZ0100,1,"Na Příkopě 859/22, 110 00 Praha 1 - Nové Město",50.0864122,14.4273183,OČM,6070451000,400,1
@@ -52,6 +53,7 @@ f923b437-fab1-4e93-b5b5-b8d1ca541272,"IMMUNO-FLOW,s.r.o.",CZ0100,1,"U Pazderek 2
 30b0373e-0b9a-444d-aa0d-42c8066a39a7,"ImunoGen s.r.o.",CZ0100,1,"Sluneční náměstí 15, Praha 13",50.0503111,14.3434461,OČM,6686630000,300,1
 f48613c8-f616-460b-bbb3-096e07223c73,"ImunoSantana spol. s r.o.",CZ0411,1,"Májová 582/19, 350 02 Cheb",50.0756700,12.3698400,OČM,25687794000,200,1
 5610e09b-866f-4e7f-b2b5-664fcd5ac19c,"KC Svoboda Cheb",CZ0411,1,"Za Mostní branou 5, 350 02 Cheb",50.0834500,12.3697200,VOČM,26365804001,350,1
+5a7c4ca5-5efa-4f81-a621-3cc6b97a5e9f,"KNL, a.s. - Nemocnice Frýdlant",CZ0513,1,"V Úvoze 860, Frýdlant",50.9256819,15.0874711,OČM,27283933005,78,1
 800e3522-2335-4e5c-bb6e-c219b5667f30,"KV ARÉNA OČKOVACÍ CENTRUM",CZ0412,1,"Západní 1812, 360 01 Karlovy Vary",50.2246400,12.8442300,VOČM,26365804000,1500,1
 ae9c4f09-2a1d-41dd-bf45-f8864f24dd5c,"Karvinská hornická nemocnice a.s. Oddělení pracovního lékařství KHN",CZ0803,1,"Zakladatelská 975/22, Karviná - Nové Město 735 06",49.8701931,18.5406322,OČM,60793490000,114,1
 cd252dde-b78e-4c74-88e5-e95d894968ab,"Klatovská nemocnice",CZ0322,1,"Plzeňská 929, 339 01 Klatovy",49.4041700,13.2921900,OČM,26360527000,400,1
@@ -178,6 +180,7 @@ a45e27be-cb59-449e-8ee0-ee8646ef0325,"Podřipská nemocnice s poliklinikou Roudn
 e1aecc42-6aa6-46cc-9dde-9761fd6fa830,"Poliklinika Prosek a.s.",CZ0100,1,"Lovosická 440/40",50.1292300,14.4897400,OČM,28495306000,200,1
 3f0f3044-990c-4143-a85e-9fc16da5bb1b,"Poliklinika Telč, spol. s r.o.",CZ0632,1,"Masarykova 330, 588 56 Telč",49.1835000,15.4598000,OČM,25302833000,100,
 a8413ced-4d83-4b81-bcb9-e53132722acc,"Poliklinika Třešť spol. s.r.o",CZ0632,1,"Palackého 1334 58901 Třešť",49.2854428,15.4813150,OČM,49434691000,100,1
+8b01aa73-6138-4257-8b11-afdf25875253,"Poličská nemocnice, s.r.o. - Dům Jordán, Tyršova 34, Polička",CZ0533,1,"Tyršova 34, 572 01  Polička",49.7165342,16.2657192,OČM,25296094000,40,
 483119cf-7b11-4434-8416-b90a646dd990,"Praktik a internista s.r.o.",CZ0100,1,"Trávníčkova 1744/4, Praha 5",50.0434800,14.3199797,OČM,1432184000,60,1
 28f83d48-bce8-4d12-9b1f-4316e973c02f,Privamed,CZ0325,1,"Kotíkovská 927/19, 323 00 Plzeň 1-Severní Předměstí",49.7655100,13.3593800,OČM,46885251000,0,
 bc3ee93d-ab1a-4260-abf2-ad4730784b2a,"Přibyslav - Sportovní hala",CZ0631,1,"Česká 34, 582 22 Přibyslav",49.5781172,15.7372317,OČM,2816156000,120,1
@@ -217,6 +220,7 @@ de1fc22a-e006-4725-8860-7534682fb18c,"Vojenská nemocnice Olomouc",CZ0712,1,"Su�
 d6f9d5bb-5752-4338-9542-f47c3aaebaa4,"Vysokomýtská nemocnice",CZ0534,1,"Hradecká 167, 566 01 Vysoké Mýto",49.9552600,16.1514900,OČM,71207856000,80,1
 9295cb5e-e9ae-4858-97ce-5dadaf99ad72,"Všeobecná fakultní nemocnice Praha",CZ0100,1,"U Nemocnice 499/2, 128 08 Praha 2, Očkovací centrum ve Fakultní poliklinice, Karlovo náměstí 32, III. patro",50.0734450,14.4209856,DOČM,64165000,600,
 94a422eb-b0c6-4729-9224-5c3cf7c0809a,"Zdravotní ústav se sídlem v Ostravě",CZ0806,1,"Partyzánské nám. 2633/7, 702 00 Moravská Ostrava a Přívoz",49.8466200,18.2846000,DOČM,71009396000,30,
+e1279737-8cfb-4197-ad38-3def6a9a17e0,"Zdravotní ústav se sídlem v Ostravě - pracoviště Brno",CZ0642,1,"Brno; Gorkého 6; 602 00",49.2001878,16.6000481,OČM,71009396000,90,1
 d39dde40-8947-46df-ae25-97a1faa3f5ef,"Zdravotní ústav se sídlem v Ústí nad Labem - Pracoviště Praha",CZ0100,1,"Praha 2, Dittrichova 17",50.0751686,14.4156322,OČM,71009361000,40,
 fc926c27-6f37-49c2-9944-7b641a03d691,"Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Liberec",CZ0513,1,"U Sila 1139, Liberec, 463 11",50.7527700,15.0809500,OČM,71009361000,30,
 591855d9-aad8-4d12-86e0-db30cfbb36ee,"Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň",CZ0323,1,"Plzeň, 17.listopadu 1",49.7299539,13.3720408,OČM,71009361000,40,

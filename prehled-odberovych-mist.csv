@@ -50,8 +50,8 @@ c63857c0-50c0-4aae-944c-d31787fd193e,"AG Covidpoint - Havířov Globus",CZ0803,1
 e45380c8-3319-4af2-b80b-9a264699ea1e,"AG Covidpoint - Home Park Zličín",CZ0100,1,"Skandinávská 131/1 155 00 Praha 5",50.0509506,14.2978350,370,,,1,
 fb85ae7f-a281-477e-b81f-467a432c8052,"AG Covidpoint - Klatovy",CZ0322,1,"Rozvoj 98, 339 01 Klatovy V",49.3957122,13.2998383,300,,,1,
 71352457-fda3-4463-9f0a-f65cc50d013b,"AG Covidpoint - Metropole Zličín",CZ0100,1,"Řevnická ul. 155 00 Praha 5",50.0530772,14.2899380,370,,,1,
-53f38a3d-a3b6-4524-b769-b2e3c5bcaeef,"AG Covidpoint - Mladá Boleslav",CZ0207,1,"Komenského náměstí 61, 293 01 Mladá Boleslav I",50.4123333,14.9035444,370,,,1,
 16402727-26c3-4ae4-bf46-75b4f06a4bbb,"AG Covidpoint - Mladá Boleslav",CZ0207,,"Komenského nám 61/1 293 01 Mladá Boleslav",50.2444600,14.5416700,200,,,1,
+53f38a3d-a3b6-4524-b769-b2e3c5bcaeef,"AG Covidpoint - Mladá Boleslav",CZ0207,1,"Komenského náměstí 61, 293 01 Mladá Boleslav I",50.4123333,14.9035444,370,,,1,
 9ee060b8-d132-4deb-a09a-8d5cd0596db1,"AG Covidpoint - OC Chodov",CZ0100,1,"Roztylská ul. 148 00 Praha11",50.0300548,14.4917114,370,,,1,
 91bd1e57-485e-4793-aa8d-cf37988df849,"AG Covidpoint - OC Letňany - Tesco",CZ0100,1,"Veselská 663 199 00 Praha 9",50.1341969,14.4985997,370,,,1,
 d6c96226-e0cc-449c-91f1-072e1582234b,"AG Covidpoint - OC Černý most",CZ0100,1,"Chlumecká ul. Praha 9-Černý Most",50.1070308,14.5872724,370,,,1,
@@ -214,9 +214,11 @@ a44eb6f9-3486-4bc9-8ee1-8c3f703eaaab,"Karlovarská krajská nemocnice a.s.",CZ04
 7ccb360f-f43e-43e8-a7df-40f1c4e08d83,"Klatovská nemocnice, a.s.,",CZ0322,1,"Plzeňská 929, Klatovy II,",49.4034211,13.2898983,260,1,,1,1
 d25a9ec0-67ca-4b07-9058-b6cbee256085,"Klinické laboratoře Tábor",CZ0317,1,"U Čápova dvora 3125, Tábor",49.3956794,14.6893042,350,1,,1,1
 a047cf19-f136-4ad8-a804-82d0ca88a4b6,"Klinické laboratoře Tábor - Mobilní odběrový tým",CZ0317,1,"U Čápova dvora 3125, Tábor",,,500,,,1,
+0cacaf24-8521-44f2-af2a-fc0d9972ff22,"Klinika GHC - Praha 1",CZ0100,1,"Krakovská 8, Praha 1, 110 00",50.0780333,14.4280581,200,1,,1,
 74f1319c-d061-47fd-b8e8-df9ff53ba4d5,"KoRo Medics s.r.o.",CZ0713,1,"Olympijská 4228, 796 01 Prostějov",49.4846697,17.1040361,150,,,1,1
 9329aaa6-2955-4311-9476-247ac379be84,"Krajská nemocnice Liberec. a.s.",CZ0513,1,"Husova 10, Liberec",50.7715703,15.0689608,500,1,,1,
 83497f16-4abf-498a-9853-b7af4c65373a,"Krajská nemocnice T.Bati, a. s.",CZ0724,1,"Havlíčkovo nábřeží 600, 762 75 Zlín",49.2300910,17.6940250,600,1,1,1,1
+153da8bc-79c3-42ec-b2ad-02ad7795a789,"Krajská zdravotní, a.s. - Nemocnice Litoměřice, o.z.",CZ0423,1,"Žitenická 2084, 412 01 Litoměřice",50.5409890,14.1433070,260,1,,1,
 34c7c1cb-2367-41d5-b1ea-48209660a472,"Kroměřížská nemocnice a.s.",CZ0721,1,"Havlíčkova 660/69 767 01 Kroměříž",49.2929931,17.3817067,200,1,,1,
 8fbc61f7-4bc0-4f6e-b612-b219320ce737,"Kroměřížská nemocnice a.s. - Výstaviště Floria",CZ0721,1,"K Výstavišti 4069/8, 767 01 Kroměříž",49.2832297,17.3929950,800,1,,,1
 192cfd57-c7dc-4a09-a009-4341782d3491,"LF UK v Plzni",CZ0323,1,"Lidická 538/4, 323 00, Plzeň",49.7624669,13.3699161,100,,,1,
@@ -271,7 +273,7 @@ f96a0924-67b1-48ab-9d25-5335e3728ac9,"MEDICAL TESTING s.r.o. Vestec u Prahy",CZ0
 477129f3-bd89-447c-9c62-ee773bcd1918,"MEDITERRA-Sedlčany s.r.o. -  odběrové místo Kino KDJS",CZ020B,1,"Havlíčková 514, 264 01 Sedlčany",49.6587186,14.4263219,0,,,1,
 4c3b2594-5ce5-435e-9fa5-52c88003db8d,"MMN, .a.s., nemocnice Jilemnice",CZ0514,1,"Metyšova 465, 514 01 Jilemnice",50.6115283,15.4993889,100,,,1,
 f66c347c-01b0-41d1-8e0d-5a5a6a9f357f,"MMN, a.s. (nemocnice Semily)",CZ0514,1,"3.května 421, Semily",50.5980375,15.3533992,50,1,,1,
-73c990ad-612d-432f-8b7b-306002056182,"MUDr. Daniela Šafaříková - odběrové místo Chrudim",CZ0531,1,"Úzká 109 Chrudim",49.9470792,15.7955706,90,,,1,
+73c990ad-612d-432f-8b7b-306002056182,"MUDr. Daniela Šafaříková - odběrové místo Chrudim",CZ0531,,"Úzká 109 Chrudim",49.9470792,15.7955706,90,,,1,
 1637667e-feff-4fe4-adbd-312bed6c36a5,"MUDr. František Filipi - odběrové místo",CZ0642,1,"Jana Babáka 2733/11, 612 00 Brno - Královo Pole",49.2165269,16.5881706,10,,,1,
 ebd0c97b-944b-4abb-b95d-533339fc6dcb,"MUDr. Lenka Jantošíková - odběrové místo Opava Breda",CZ0805,1,"U Fortny 49/10, 746 01 Opava",49.9409244,17.9007386,300,,,1,
 45238971-09ef-4189-a5bc-39d4e5041567,"MUDr. Lenka Jantošíková - odběrové místo Opava Globus",CZ0805,1,"Těšínská 2830/83, 747 01 Opava",49.9290422,17.9409408,300,,,1,
@@ -374,7 +376,6 @@ d4151036-0b06-4805-bc32-172294c4dcd8,"Nemocnice Jablonec nad Nisou, p.o.",CZ0513
 29c33c7a-fa97-4a31-a192-4ff733d85998,"Nemocnice Jindřichův Hradec a.s.",CZ0313,1,"U Nemocnice 380/III, 377 01 Jindřichův Hradec",49.1388275,15.0062642,500,1,1,1,1
 5fc7e646-b93a-45b4-b0c5-12e560febdab,"Nemocnice Kadaň s.r.o.",CZ0422,1,"U Stadionu 2028, 432 01 Kadaň",50.3870431,13.2728989,20,1,,1,
 8ad83963-6aba-4672-8457-4c0c88b56144,"Nemocnice Kyjov",CZ0645,1,"Strážovská 1247/22, Kyjov",49.0088789,17.1119311,70,1,,1,
-153da8bc-79c3-42ec-b2ad-02ad7795a789,"Nemocnice Litoměřice, a.s.",CZ0423,1,"Žitenická 2084, 412 01 Litoměřice",50.5409890,14.1433070,260,1,,1,
 0e090015-384c-404f-9eb4-441a0c29d603,"Nemocnice Milosrdných bratří",CZ0642,1,"639 00 Brno, Polní 553/3",49.1856275,16.5969117,250,1,,1,1
 e61a3f02-429c-4c7e-9130-fddcaea6743e,"Nemocnice Most, o.z.",CZ0425,1,"J. E. Purkyně 270/5, 43401 Most, Česko",50.5076981,13.6273403,100,,,1,
 15e924dc-3786-4b67-8bb1-ed8b76ce2c0d,"Nemocnice Na Františku",CZ0100,1,"Na Františku 847/8, Praha 1",50.0927786,14.4214064,100,1,,,
