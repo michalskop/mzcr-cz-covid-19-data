@@ -9,7 +9,7 @@ c254b811-40e4-4604-8066-feac3dc58c41,"ARC-MED s.r.o. Klášterec, Kyselka 104",C
 19a6168f-de5b-41d1-80f8-1ca39e836f72,"Bluedent Očkovací centrum , Brno-Slatina",CZ0642,1,"Matlachova 234/24, Brno-Slatina, 62700",49.1772100,16.6901100,OČM,2356635000,250,
 c2ec6521-6a37-44c7-a661-1370adbac9c5,"Bohumínská městská nemocnice, a.s.",CZ0803,1,"Slezská 207, Bohumín",49.9174400,18.3352500,OČM,26834022000,120,1
 95d1157e-5f77-49fe-ae2d-24e5eef3606c,"Bor - Poliklinika Bor",CZ0327,1,"Přimdská 501, 348 02 Bor",49.7144106,12.7750631,OČM,29090300000,160,
-f1b3f2dc-c4d1-4f50-b79a-a48ed0c393d6,"Bílovecká nemocnice, a.s.",CZ0804,1,"17. listopadu 538 743 01 Bílovec",49.7632200,18.0165908,OČM,26865858000,100,1
+f1b3f2dc-c4d1-4f50-b79a-a48ed0c393d6,"Bílovecká nemocnice, a.s.",CZ0804,1,"17. listopadu 538 743 01 Bílovec",49.7622106,18.0175350,OČM,26865858000,100,1
 da5422b1-8002-456c-aa95-9a26a5e0e622,"Břeclav Dům školství",CZ0644,1,"17.listopadu 2995 Břeclav",48.7578119,16.8834292,VOČM,390780000,600,1
 5444dcb2-a75d-44a9-af44-14c2f2cae198,"CCR Pardubice s.r.o.",CZ0532,1,"třída Míru 2800, 530 02 Pardubice I",50.0364478,15.7705036,OČM,6621341000,80,1
 fafb9109-12b6-4278-87cd-310bd66a356a,"CLINICUM a.s. -  Kongresové centrum Praha",CZ0100,1,"5. května 1640/65, 140 21 Praha 4",50.0625194,14.4296664,VOČM,25093126000,2200,1
@@ -20,14 +20,14 @@ a1766688-7575-438d-8586-b0117a46153d,"Chrudimská nemocnice",CZ0531,1,"Václavsk
 df47a465-f872-4968-a8e9-057059b8e900,"Comfort Care a.s. - poliklinika Chodov, Praha 11",CZ0100,1,"Kloknerova 1245/1",50.0339900,14.4855000,OČM,25755021000,300,1
 14c58957-7396-4322-a237-67b5e31b16e3,"Domažlická nemocnice",CZ0321,1,"Kozinova 292, 344 22 Domažlice",49.4385100,12.9077800,OČM,26361078000,300,1
 724a30ec-c666-42e1-81ca-9df326988d73,"Dopravní zdravotnictví a.s., Poliklinika AGEL Praha",CZ0100,1,"Italská 560/37, 121 43 Praha 2",50.0805742,14.4379836,OČM,25903659003,50,1
-1f87f33d-96b7-4e48-a6e9-8accc40e2129,"Dopravní zdravotnictví a.s., Poliklinika Ostrava",CZ0806,1,"Tyršova 34, Ostrava 72 806",49.8370636,18.2869211,OČM,25903659004,50,
+1f87f33d-96b7-4e48-a6e9-8accc40e2129,"Dopravní zdravotnictví a.s., Poliklinika Ostrava",CZ0806,1,"Tyršova 34, Ostrava 72 806",49.8370636,18.2869211,OČM,25903659004,50,1
 89cc2427-490c-49ef-9224-7adbaaab042c,"EDUMED - očkovací centrum Jaroměř",CZ0523,1,"Dr. Ed. Beneše 191, 551 01 Jaroměř",50.3532878,15.9207408,OČM,27485820000,300,1
 a4c6a778-78c7-4604-9a76-2a929870a45c,"EUC Klinika Liberec",CZ0513,1,"Klášterní 117/2",50.7685300,15.0666600,OČM,28711319000,60,1
 f6a9ae5b-0d93-4bd4-b630-b3667a9c9059,"EUC Klinika Plzeň - Denisovo nábřeží, Plzeň",CZ0323,1,"Denisovo nábř. 1000/4, 301 00 Plzeň 3",49.7450800,13.3829900,OČM,25202171000,500,1
 a0b3a397-29de-4207-bc36-402c3e2fb78e,"EUC Klinika Plzeň - Kralovice",CZ0325,1,"Nová 730, 331 41 Kralovice",49.9833700,13.4829100,OČM,25202171000,400,
 0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,"EUC Klinika Praha a.s. - Kartouzská",CZ0100,1,"Kartouzská 204/6 , 150 00 Praha 5",50.0742825,14.4015444,OČM,1918028000,200,
 b2d0f892-c779-4cba-8b55-1ed3e8de0e4c,"EUC Klinika Praha a.s. - Plaňanská",CZ0100,1,"Plaňanská 573/1, Malešice, 108 00 Praha 10",50.0802200,14.5012344,OČM,1918028000,200,
-7c6e5c79-113b-486f-a52c-e8a5f55ceeb4,"EUC Klinika České Budějovice, s.r.o",CZ0311,1,"Matice Školské, 1789/17, 370 01 České Budějovice",,,OČM,0,300,
+7c6e5c79-113b-486f-a52c-e8a5f55ceeb4,"EUC Klinika České Budějovice, s.r.o. - Poliklinika JIH",CZ0311,1,"Matice Školské, 1789/17, 370 01 České Budějovice",,,OČM,62525107000,300,
 4b39139d-22d5-40e3-b752-dfa2d6aca34e,"EUC klinika Ostrava a.s.",CZ0806,1,"Opavská 962/39, Ostrava",49.8314431,18.1783136,OČM,25860836000,120,1
 b8908961-8b5d-46d6-ad40-89bceacd7874,"EUC klinika Praha a.s. - Šustova, Praha 11",CZ0100,1,"Šustova 1930/2, 148 00 Praha 11",50.0277900,14.4896100,OČM,1918028000,400,1
 f4f26d1e-4f97-4f95-aa75-96aa7df42c80,EliteMedical,CZ0100,1,"Na Příkopě 859/22, 110 00 Praha 1 - Nové Město",50.0864122,14.4273183,OČM,6070451000,400,1
@@ -62,7 +62,7 @@ cd252dde-b78e-4c74-88e5-e95d894968ab,"Klatovská nemocnice",CZ0322,1,"Plzeňská
 931fb801-8158-4fc2-ac92-2c68d76907d7,"Krajská majetková, p.o. středisko Lužická nemocnice Rumburk",CZ0421,1,"Lesní 1062/26, Rumburk",50.9458519,14.5417969,OČM,829048015,0,1
 7c7aa47c-bd44-46b8-b428-a132a7bc2f07,"Krajská nemocnice T. Bati, a. s. - PSG Aréna",CZ0724,1,"Zlín čp. 5513",49.2163647,17.6600158,VOČM,27661989000,1100,1
 ec7464b3-cfbd-4e49-8187-5f438f69c731,"Kroměřížská nemocnice a.s. - Výstaviště Kroměříž",CZ0721,1,"Výstaviště Kroměříž, K Výstavišti 4069/8, 76701 Kroměříž",49.2836386,17.3928511,OČM,27660532000,1000,1
-51f67019-bb4e-41e0-a38b-91c9480596fd,"L Dermamedest s.r.o.",CZ0100,1,"Karlovo náměstí 313/8, Praha 2",50.0749542,14.4187378,OČM,2635178000,201,1
+51f67019-bb4e-41e0-a38b-91c9480596fd,"L Dermamedest s.r.o.",CZ0100,1,"Karlovo náměstí 313/8, Praha 2",50.0749542,14.4187378,OČM,2635178000,250,1
 0df58e7f-8d17-4bdf-b39d-5245b0759d75,"LDN Rybitví",CZ0532,1,"Činžovních domů 140, 533 54 Rybitví",50.0589700,15.7028600,OČM,190560000,80,1
 14b71e51-3e80-42e9-8f0d-eb50320dd7f4,"LITVÍNOV - Krušnohorská poliklinika s.r.o.",CZ0425,1,"Žižkova 151, 43601 Litvínov - Horní Litvínov",50.6023331,13.6140069,OČM,25030302000,192,1
 c8e549b8-aafb-4b4c-ae3b-b1ccee70513f,"LRS Chvaly, o.p.s.",CZ0100,1,"Stoliňská 920, 193 00",50.1084331,14.5915319,OČM,24805807000,120,
@@ -96,7 +96,7 @@ bd060d74-64dd-45dd-bd06-51f9d6147814,"Moje Ambulance a.s. Ostrava - Poruba",CZ08
 a74425f4-80fe-4f1f-abb9-3e8df7ca8aac,"Městská nemocnice Ostrava, p.o., Vakcinační centrum",CZ0806,1,"Varenská 3131/5 728 80 Ostrava-Moravská Ostrava",49.8346981,18.2738986,OČM,635162000,400,1
 8805928d-545e-48b9-8be1-ea3ac9b4c21c,"Městská nemocnice, a.s. ve Dvoře Králové n. L.",CZ0525,1,"Vrchlického 1504, 54401 Dvůr Králové nad Labem",50.4485428,15.8146781,OČM,25262238000,100,1
 12d05c60-f168-462a-a4e1-ac5ad8e42722,"Městská poliklinika Praha - Spálená",CZ0100,1,"Spálená 78/12",50.0802842,14.4199494,OČM,128601000,350,
-004e0965-84f6-4aa1-92cb-7242c8ae394a,"Nemocnice AGEL Jeseník a.s.",CZ0711,1,"Lipovská 103/39, 790 01 Jeseník",50.2287914,17.1988036,OČM,47973927000,90,
+004e0965-84f6-4aa1-92cb-7242c8ae394a,"Nemocnice AGEL Jeseník a.s.",CZ0711,1,"Lipovská 103/39, 790 01 Jeseník",50.2287914,17.1988036,OČM,47973927000,180,
 b3427f78-5252-4318-b26e-80670c7bf0a6,"Nemocnice AGEL Louny a.s.",CZ0424,1,"Rybalkova 1400, 440 01 Louny",50.3494806,13.8094106,OČM,27332730000,180,1
 249c3cf7-8d0e-4301-998b-140dddf8694d,"Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost",CZ0804,1,"K Nemocnici 1886/57",49.5870456,18.0065553,OČM,25886207000,350,
 71b299fb-33f6-46b7-ae94-78815297125c,"Nemocnice AGEL Ostrava-Vítkovice a.s.",CZ0806,1,"Zalužanského 15, Ostrava",49.8149922,18.2710944,OČM,60793201000,240,1
@@ -120,7 +120,6 @@ c4411674-d3bd-4666-96df-fdedefed8b68,"Nemocnice Jindřichův Hradec- Očko VŠE"
 35226817-f739-4586-9a31-defc268d56e1,"Nemocnice Litoměřice, o.z. (KZ,a.s.) - Výstaviště Zahrada Čech",CZ0423,1,"Žitenická 2084, 41201 Litoměřice - Předměstí",50.5356439,14.1513772,VOČM,6199518000,1000,1
 518f6665-84b8-4964-ae04-3bff5e0f2d93,"Nemocnice Most (KZ,a.s.) - SPORTOVNÍ HALA",CZ0425,1,"U Sportovní haly, Most, 434 01",50.5089506,13.6445933,VOČM,25488627040,1000,1
 02614fc8-a7d0-439d-8589-57c599cb495d,"Nemocnice Na Františku",CZ0100,1,"Na Františku 847/8, Praha 1",50.0927100,14.4214200,DOČM,879444000,60,
-b62c5314-15f8-4da2-95f0-0aedd6d11ac2,"Nemocnice Na Homolce",CZ0100,1,"Roentgenova 37/2, 15000 Praha 5",50.0740175,14.3535847,DOČM,23884000,100,1
 ffddf34a-46dc-48a5-ba76-cf1c35339bf2,"Nemocnice Neratovice",CZ0206,1,"Alšova 462 Neratovice",50.2587306,14.5104344,OČM,25079174000,0,
 30ffe93f-6b2b-4324-9c24-8cdd2750524f,"Nemocnice Nové Město na Moravě",CZ0635,1,"Žďárská 610 592 31 Nové Město na Moravě",49.5607206,16.0642397,OČM,842001000,180,1
 4aec9f14-bc39-4d73-be9e-d2c7e60e3495,"Nemocnice Ostrov",CZ0412,1,"U Nemocnice 1161, 363 01 Ostrov",50.3122722,12.9638325,OČM,47714913000,50,1
@@ -137,7 +136,7 @@ be3e9bad-6d9f-4302-8d3c-99fb456f7643,"Nemocnice Rychnov nad Kněžnou, Společen
 ca2ebe9a-25f5-4386-a47a-1def0c83afa5,"Nemocnice TGM Hodonín, přísp. organizace Dům kultury Hodonín - očkovací centrum COVID-19",CZ0645,1,"Horní Valy 3747/6, 695 01 Hodonín",48.8508178,17.1332531,VOČM,226637000,800,1
 d166058b-d215-4166-925d-69f7c168ef96,"Nemocnice Teplice (KZ,a.s.) - SPORTARÉNA",CZ0426,1,"Na Stínadlech 3280, Teplice, 415 01",50.6403350,13.8139875,OČM,25488627030,208,1
 e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,"Nemocnice Tišnov",CZ0643,1,"Purkyňova 279",49.3479200,16.4338400,OČM,44947909000,156,1
-2cd34358-0cf7-43de-8bf1-e2892ad9611e,"Nemocnice Tábor - OČKO  Zimní stadion",CZ0317,1,"Kpt. Jaroše 2000, 10, 390 03 Tábor",49.4234322,14.6515736,OČM,26095203000,1000,1
+2cd34358-0cf7-43de-8bf1-e2892ad9611e,"Nemocnice Tábor - OČKO  Sportovní hala Kvapilova",CZ0317,1,"Kpt. Jaroše 2000, 10, 390 03 Tábor",49.4234322,14.6515736,OČM,26095203000,1000,1
 8c388fdf-5cd1-4773-819c-093088aee130,"Nemocnice Varnsdorf",CZ0421,1,"Karlova 2280, 407 47 Varnsdorf",50.8937803,14.6117519,OČM,49888498000,60,1
 0ea63d3f-dd1c-47bb-b029-cbbdf187a357,"Nemocnice Vrchlabí, s.r.o.",CZ0525,1,"Fügnerova 50, 54301 Vrchlabí",50.6224481,15.6076125,OČM,64827232000,0,
 d03cc3a3-044e-4d00-a2ec-7abccc400b3b,"Nemocnice Vyškov, p. o., Sportovní hala Purkyňova 39",CZ0646,1,"Sportovní hala Purkyňova 39",49.2773800,16.9807200,VOČM,839205000,800,1
@@ -180,7 +179,6 @@ a45e27be-cb59-449e-8ee0-ee8646ef0325,"Podřipská nemocnice s poliklinikou Roudn
 e1aecc42-6aa6-46cc-9dde-9761fd6fa830,"Poliklinika Prosek a.s.",CZ0100,1,"Lovosická 440/40",50.1292300,14.4897400,OČM,28495306000,200,1
 3f0f3044-990c-4143-a85e-9fc16da5bb1b,"Poliklinika Telč, spol. s r.o.",CZ0632,1,"Masarykova 330, 588 56 Telč",49.1835000,15.4598000,OČM,25302833000,100,
 a8413ced-4d83-4b81-bcb9-e53132722acc,"Poliklinika Třešť spol. s.r.o",CZ0632,1,"Palackého 1334 58901 Třešť",49.2854428,15.4813150,OČM,49434691000,100,1
-8b01aa73-6138-4257-8b11-afdf25875253,"Poličská nemocnice, s.r.o. - Dům Jordán, Tyršova 34, Polička",CZ0533,1,"Tyršova 34, 572 01  Polička",49.7165342,16.2657192,OČM,25296094000,40,
 483119cf-7b11-4434-8416-b90a646dd990,"Praktik a internista s.r.o.",CZ0100,1,"Trávníčkova 1744/4, Praha 5",50.0434800,14.3199797,OČM,1432184000,60,1
 28f83d48-bce8-4d12-9b1f-4316e973c02f,Privamed,CZ0325,1,"Kotíkovská 927/19, 323 00 Plzeň 1-Severní Předměstí",49.7655100,13.3593800,OČM,46885251000,0,
 bc3ee93d-ab1a-4260-abf2-ad4730784b2a,"Přibyslav - Sportovní hala",CZ0631,1,"Česká 34, 582 22 Přibyslav",49.5781172,15.7372317,OČM,2816156000,120,1
@@ -199,7 +197,6 @@ fe82349e-63db-4623-b6c1-cabd2214c1ee,"SYNLAB czech s.r.o. - Kralupy nad Vltavou"
 aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ0805,1,"Slezská univerzita v Opavě - Bezručovo náměstí 885/14, 746 01 Opava",49.9359431,17.8971244,OČM,47813750000,600,1
 ea4fc5e8-aa02-4e34-8f5d-bde3d2db4e21,"Sportovní hala Gymnázia Chotěboř",CZ0631,1,"Jiráskova 637, Chotěboř",49.7170025,15.6723056,OČM,9139796000,120,1
 6ce2ad8f-b1f6-4252-b6f0-e8029219c17b,"Stodská nemocnice - očkovací místo Kulturní dům Stod",CZ0324,1,"Nádražní 477, 333 01 Stod",49.6400161,13.1566325,OČM,26361086000,30,1
-381ef57d-e0e9-4079-a1b9-fd7d476a8aae,"Státní zdravotní ústav - budova 11",CZ0100,1,"Šrobárova 49/48, Praha 10, 100 00",50.0759353,14.4729253,DOČM,75010330000,320,
 29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ0713,1,"Komenského 4142/6, Prostějov",49.4707592,17.1133050,VOČM,27797660003,0,
 d420fe26-7f32-4287-b929-4dc90d824b77,"Stříbro - Kulturní dům Stříbro",CZ0327,1,"Gagarinova 1344, 349 01 Stříbro",49.7587508,13.0063667,OČM,29090300000,160,
 5960ec70-2686-4b29-8af0-04a1481e7351,"Sušická nemocnice",CZ0322,1,"Chmelenská 117, Sušice III, 342 01 Sušice",49.2302800,13.5264300,OČM,8176302000,20,1

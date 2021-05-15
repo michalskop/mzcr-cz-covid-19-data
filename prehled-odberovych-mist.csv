@@ -50,8 +50,8 @@ c63857c0-50c0-4aae-944c-d31787fd193e,"AG Covidpoint - Havířov Globus",CZ0803,1
 e45380c8-3319-4af2-b80b-9a264699ea1e,"AG Covidpoint - Home Park Zličín",CZ0100,1,"Skandinávská 131/1 155 00 Praha 5",50.0509506,14.2978350,370,,,1,
 fb85ae7f-a281-477e-b81f-467a432c8052,"AG Covidpoint - Klatovy",CZ0322,1,"Rozvoj 98, 339 01 Klatovy V",49.3957122,13.2998383,300,,,1,
 71352457-fda3-4463-9f0a-f65cc50d013b,"AG Covidpoint - Metropole Zličín",CZ0100,1,"Řevnická ul. 155 00 Praha 5",50.0530772,14.2899380,370,,,1,
-16402727-26c3-4ae4-bf46-75b4f06a4bbb,"AG Covidpoint - Mladá Boleslav",CZ0207,,"Komenského nám 61/1 293 01 Mladá Boleslav",50.2444600,14.5416700,200,,,1,
 53f38a3d-a3b6-4524-b769-b2e3c5bcaeef,"AG Covidpoint - Mladá Boleslav",CZ0207,1,"Komenského náměstí 61, 293 01 Mladá Boleslav I",50.4123333,14.9035444,370,,,1,
+16402727-26c3-4ae4-bf46-75b4f06a4bbb,"AG Covidpoint - Mladá Boleslav",CZ0207,,"Komenského nám 61/1 293 01 Mladá Boleslav",50.2444600,14.5416700,200,,,1,
 9ee060b8-d132-4deb-a09a-8d5cd0596db1,"AG Covidpoint - OC Chodov",CZ0100,1,"Roztylská ul. 148 00 Praha11",50.0300548,14.4917114,370,,,1,
 91bd1e57-485e-4793-aa8d-cf37988df849,"AG Covidpoint - OC Letňany - Tesco",CZ0100,1,"Veselská 663 199 00 Praha 9",50.1341969,14.4985997,370,,,1,
 d6c96226-e0cc-449c-91f1-072e1582234b,"AG Covidpoint - OC Černý most",CZ0100,1,"Chlumecká ul. Praha 9-Černý Most",50.1070308,14.5872724,370,,,1,
@@ -167,7 +167,7 @@ d880adb6-3f63-4fc1-8bcd-f7e87d2cce79,"GHC GENETICS Praha - Vítězné náměstí
 a64d2ab1-6e59-40cf-baac-78fe5d025c44,"GenDetective - Brandýs nad Labem",CZ0209,1,"Zápy 301, 250 01 Brandýs nad Labem",50.1750278,14.6722222,250,1,,,1
 cfbabb96-6c89-4b05-9158-5aef3119e4f7,"GenDetective - Liberec",CZ0513,1,"České mládeže 456, 460 03 Liberec",50.7419300,15.0493000,250,1,,,1
 f5a96a2d-de00-4782-9819-383e2c1832ea,"GenDetective - Mladá Boleslav",CZ0207,1,"OC Olympia, Jičínská 1350/III, 293 01 Mladá Boleslav",50.4080242,14.9366775,250,1,1,,1
-4d3cda9e-a123-4a83-8e43-a8d8aeba634b,"GenDetective - Plzeň",CZ0323,1,"U Prazdroje 2750/24, 301 00 Plzeň",49.7471500,13.3949000,250,1,,,1
+4d3cda9e-a123-4a83-8e43-a8d8aeba634b,"GenDetective - Plzeň",CZ0323,1,"U Prazdroje 2750/24, 301 00 Plzeň",49.7474722,13.3957778,250,1,,,1
 f1b639ac-946b-4632-87e9-87a25259171c,"GenDetective - Černý Most",CZ0100,1,"Chlumecká 2424, 193 00 Praha",50.1116580,14.5769080,250,1,1,,1
 2512832b-9178-4ffe-a6cf-5dc8f06e7f21,"GenDetective - Čestlice",CZ0100,1,"U Makra 102, 251 01 Čestlice",50.0061300,14.5759440,250,1,1,,1
 7b8159ea-bb56-4b0d-9373-b5135ee6f031,"GenDetective s.r.o. - Hamr Braník",CZ0100,1,"Modřanská 1542, 147 00 Praha 4",50.0278478,14.4023850,250,1,1,,1
@@ -476,6 +476,7 @@ f0da7b52-e4e1-4c93-b7f9-f73ca7646a39,"PRIVAMED a.s. Plzeň",CZ0323,1,"Kotíkovsk
 4c92c09a-6051-48b1-9678-4a1665355f88,"PRONATAL s.r.o.  Mobilní odběry",CZ0100,1,"Antala Staška 1670/80, Praha 4, 140 00",50.0425325,14.4510703,100,,,,
 a8b2c626-b6b7-4a1c-87cc-7f7d8ade131b,"Panattoni Park Brno Airport",CZ0642,,"Evropská Brno Tuřany",,,0,,,,
 0398be79-a5dd-4042-9164-2d87d296931a,"Parkoviště Nové Sady Drive IN - #safeside - Anygence -  PREVEDIG medical - Brno",CZ0642,1,"parkoviště na parc. č. 1358/1, Nové Sady, 602 00 Brno",49.1868233,16.6054058,200,1,,1,1
+6ef98963-39a7-4118-9eb0-7499ca90fbad,"Pediatrie Zubří s.r.o",CZ0723,1,"MUDr. Antonína Fabiána 638, 756 54 Zubří",49.4632281,18.0884200,10,,,1,
 f326e18e-2502-4551-860e-04056d7696a2,"Podané ruce o.p.s. Brno - Ag testy",CZ0642,1,"Výstaviště Brno, hlavní brána, ulice Křížkovského",49.1888236,16.5856286,1000,,,1,
 7953a298-59ee-4c94-b436-fd5fb6b37adf,"Podkrušnohorská medicína Litvínov s.r.o. - odběrové místo",,1,"Tylova 541, provozovna Žižkova 151, 436 01 Litvínov - Horní Litvínov",50.6042703,13.6073183,65,,,1,
 f5aad7d7-89f1-4cee-b395-7658fd11b439,"Poliklinika Chomutovická",CZ0100,1,"Chomutovická 1444/2, Praha 4",50.0233878,14.5134325,50,1,,1,
@@ -491,7 +492,7 @@ cf1dec7f-2a2b-425e-84a6-ad1084e412c7,"Renturi s.r.o. - odběrové místo Hlinsko
 dd0ee8e2-1b08-49c7-8fad-762c694996b0,"Renturi s.r.o. - odběrové místo Ostrava",CZ0806,1,"Sokolská třída 1925/49",49.8425392,18.2886106,0,,,1,
 dda11d31-35d4-430a-b87a-389f0ea927e2,"Renturi s.r.o. - odběrové místo Rožnov pod Radhoštěm",CZ0723,1,"Bezručova 838, Rožnov pod Radhoštěm, 756 61",49.4643069,18.1420017,180,,,1,
 d743f838-24e1-433a-8cb4-2da44d653af0,"Renturi s.r.o. - odběrové místo STOP SHOP Příbram",CZ020B,1,"Brodská 601, 261 01 Příbram",49.6670139,13.9944158,170,,,1,
-b24787e0-9a6f-4e1b-ae10-bd53adb3317f,"Renturi s.r.o. - odběrové místo STOP SHOP Třebíč",CZ0634,1,"Spojovací 1345, Třebíč,  674 01",49.2018378,15.8900908,140,,,1,
+b24787e0-9a6f-4e1b-ae10-bd53adb3317f,"Renturi s.r.o. - odběrové místo STOP SHOP Třebíč",CZ0634,1,"Spojovací 1345, Třebíč,  674 01",49.2018378,15.8900908,140,1,,1,
 19b4b578-196f-4a3c-ab49-52a69fe65bd7,"Rokycanská nemocnice, a.s.",CZ0326,1,"Voldušská 750/II, 337 01 Rokycany",49.7489310,13.6042890,96,,,1,1
 8f049af9-83a0-4f27-8d0c-9e85ce54a464,"SAFRES Group s.r.o. - odběrové místo Česká Skalice",CZ0511,1,"Tyršova 820, 552 03 Česká Skalice",50.3956547,16.0519642,1200,,,1,
 5921011d-054f-43b1-9e07-f4de44bf3432,"SANATORIUM EDEL s.r.o. - odběrové místo Zlaté Hory",CZ0711,1,"Lázeňská 491, 793 76 Zlaté Hory",50.2521425,17.3908583,16,,,1,
@@ -519,7 +520,7 @@ b25fc982-b75c-4e49-9fa0-9983bf28508e,"SYNLAB České Budějovice U tří lvů",C
 1522c5c8-5c8a-4602-8fb2-69836849ddc0,"SYNLAB České Budějovice Vrbenská",CZ0311,1,"České Budějovice Vrbenská 197/23",48.9761700,14.4941394,30,1,,1,
 79041d7d-43b6-4e84-9c4d-5fe61b560339,"SYNLAB Český Krumlov",CZ0312,1,"T. G. Masaryka 188, 381 01 Český Krumlov",48.8163575,14.3157803,20,,,,
 745504a5-e327-46c2-921e-11975bd50067,"Salubrita Praha 1",CZ0100,1,"Palackého 5, Praha 1",50.0811300,14.4231269,50,1,,1,
-58226d12-2ee2-4028-bca5-8d9c872d484e,"Saunový ráj - odběrové místo Holice",CZ0532,1,"Vysokomýtská 629, 534 01 Holice",50.0650244,15.9885950,50,,,1,
+58226d12-2ee2-4028-bca5-8d9c872d484e,"Saunový ráj - odběrové místo Holice",CZ0532,1,"Vysokomýtská 629, 534 01 Holice",50.0650244,15.9885950,100,,,1,
 21529fad-b337-451c-9f40-5f0721b7b5fe,"Scimed Biotechnologies, s.r.o. - Kladno",CZ0203,1,"Františka Kloze 2313, Kladno 272 01",50.1399614,14.0919678,600,1,1,1,
 53e2f6fd-99ac-41c7-a42f-68c9fd5e0d26,"Scimed Biotechnologies, s.r.o. - odběrové místo Pardubice",CZ0532,1,"Záchytné parkoviště kasárna T.G. Masaryka, Pardubice",50.0223531,15.7740419,800,1,,1,1
 634dc37d-63d2-4942-8eca-070ef6c9f98c,"Scimed Lidická",CZ0100,1,"Lidická 337/30, Praha 5, 150 00",50.0723289,14.4060183,600,1,,1,
@@ -530,7 +531,7 @@ ca792ca0-0cd5-41a3-b508-e507645e0f1e,"Spadia Lab Brno Rohatec",CZ0645,1,"Vítěz
 dc07ca2a-c5a9-4c0c-911f-65013274f86e,"Spadia Lab, a.s. Frýdek Místek",CZ0802,1,"8. pěšího pluku 85, 738 01 Frýdek-Místek",49.6771317,18.3420861,80,1,,1,
 f348b480-01ef-40be-b78f-073b5cf09e88,"Spadia Lab, a.s. Nový Jičín",CZ0804,1,"Máchova 30, 741 01 Nový Jičín",49.5933086,18.0156033,30,1,,1,
 f432ba02-df65-4a10-b2ac-dfb2364582af,"Spadia Lab, a.s. Ostrava",CZ0806,1,"Lechowiczova 2970/6, 702 00 Moravská Ostrava a Přívoz",49.8408042,18.2650158,50,1,,1,
-57b8ee0a-39ee-4768-a8af-5b0a70b20297,"Společenský dům Hustopeče",CZ0644,1,"Herbenova 423/4, 693 01 Hustopeče",48.9375550,16.7400950,140,,,1,
+57b8ee0a-39ee-4768-a8af-5b0a70b20297,"Společenský dům Hustopeče (M-klub)",CZ0644,1,"Herbenova 423/4, 693 01 Hustopeče",48.9375550,16.7400950,140,,,1,
 a51a3bfd-1e5b-4e9e-9178-412c0f9716fd,"Sportovní traumatologie, chirurgie a fyzioterapie s.r.o.",CZ0427,1,"Malátova 2509/14, 400 11 Ústí nad Labem-centrum",50.6714958,14.0394769,300,,,1,
 c41d4196-7d4b-4451-9b36-4963bd66a9cb,"Stodská nemocnice a.s.",CZ0324,1,"Hradecká 600, Stod",49.6363219,13.1558053,300,1,,1,
 ae218233-d589-4965-bf09-15317be07baf,"Státní léčebné lázně Janské lázně s.p. - odběrové místo",CZ0525,1,"Náměstí Svobody 272",50.6303561,15.7809689,80,,,1,
