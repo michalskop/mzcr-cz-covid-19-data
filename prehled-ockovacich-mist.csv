@@ -105,13 +105,14 @@ b3427f78-5252-4318-b26e-80670c7bf0a6,"Nemocnice AGEL Louny a.s.",CZ0424,1,"Rybal
 2939d29f-8cb9-49ab-908d-c4425afb5f51,"Nemocnice AGEL Valašské Meziříčí a.s.",CZ0723,1,"U Nemocnice 980 Valašské Meziříčí",49.4629172,17.9770242,OČM,26822105000,600,1
 281cd704-c5c4-447d-aace-debad0aa3269,"Nemocnice AGEL Říčany a.s. - Sportovní hala",CZ0209,1,"Sportovní hala Škroupova 2026/2",49.9886550,14.6582194,OČM,27365867000,600,1
 2606719f-ddd9-4b63-8a67-68236380820f,"Nemocnice Blansko - Sportovní hala Údolní",CZ0641,1,"Údolní 1961/8a, 678 01 Blansko",49.3562606,16.6552264,VOČM,386634000,600,1
-7bdb206f-d1a2-4afb-9770-863958ae98f7,"Nemocnice Boskovice s.r.o.",CZ0641,1,"Otakara Kubína 179, 680 01 Boskovice",49.4909900,16.6430600,OČM,26925974000,240,1
+7bdb206f-d1a2-4afb-9770-863958ae98f7,"Nemocnice Boskovice s.r.o.",CZ0641,1,"Otakara Kubína 179, 680 01 Boskovice",49.4909900,16.6430600,OČM,26925974000,420,1
 ff1d41dd-18a2-45ed-bfee-8b2ff0022633,"Nemocnice Brandýs n. L.",CZ0209,1,"Brázdimská 1000/3 Brandýs nad Labem - Stará Boleslav",50.1882275,14.6521522,OČM,26085011004,500,1
 c1308736-72a2-4f4b-b215-a68603bc5fb6,"Nemocnice Chomutov (KZ,a.s.)",CZ0422,1,"Kochova 1185, 430 12, Chomutov",50.4556889,13.4099056,OČM,25488627050,500,1
 77a1d5c5-26b3-4c61-9814-fa6497f83bdd,"Nemocnice Děčín (KZ,a.s.) - budova ČVUT",CZ0421,1,"Pohraniční  1288/1, 405 01 Děčín",50.7789925,14.2160292,OČM,25488627020,72,1
 5af3b96f-7153-4eec-a66a-20a2fcdb9aa8,"Nemocnice Havlíčkův Brod",CZ0631,1,"Husova 2624, 580 22 Havlíčkův Brod",49.6094800,15.5712758,OČM,179540000,700,1
 989b3700-401f-4700-a684-ae09d348a3c0,"Nemocnice Hořovice",CZ0202,1,"K Nemocnici 1106/14, 268 31 Hořovice",49.8406575,13.9155844,OČM,27872963001,240,1
 09eed895-008f-4a50-839d-8ba8dbfe2850,"Nemocnice Hranice a.s.",CZ0714,1,"Zborovská 1245, 75301 Hranice I-Město",49.5552825,17.7448519,OČM,47677406000,240,
+c782926c-12bf-4071-a62a-79b75515a1a6,"Nemocnice Hustopeče, p.o.",CZ0644,1,"Brněnská 716/41, 693 01 Hustopeče",48.9447669,16.7303258,OČM,4212029000,156,
 01a3372d-3209-471a-a1cc-daf68f28caed,"Nemocnice Ivančice, p.o.",CZ0643,1,"Široká 16, 66491 Ivančice",49.1024056,16.3726178,OČM,225827000,145,1
 4ed8c2be-fe2b-41d2-b58e-d69ed9a4c9f7,"Nemocnice Jablonec n. Nisou",CZ0512,1,"Očkovací centrum v Městské hale - SPORT (nad bazénem), U Přehrady 4747/20, Jablonec nad Nisou",50.7329022,15.1789922,OČM,829838000,1200,1
 c4411674-d3bd-4666-96df-fdedefed8b68,"Nemocnice Jindřichův Hradec- Očko VŠE",CZ0313,1,"Jarošovská 1117, Jindřichův Hradec 37701",49.1489181,15.0059594,VOČM,26095157000,1200,1
@@ -136,7 +137,7 @@ be3e9bad-6d9f-4302-8d3c-99fb456f7643,"Nemocnice Rychnov nad Kněžnou, Společen
 ca2ebe9a-25f5-4386-a47a-1def0c83afa5,"Nemocnice TGM Hodonín, přísp. organizace Dům kultury Hodonín - očkovací centrum COVID-19",CZ0645,1,"Horní Valy 3747/6, 695 01 Hodonín",48.8508178,17.1332531,VOČM,226637000,800,1
 d166058b-d215-4166-925d-69f7c168ef96,"Nemocnice Teplice (KZ,a.s.) - SPORTARÉNA",CZ0426,1,"Na Stínadlech 3280, Teplice, 415 01",50.6403350,13.8139875,OČM,25488627030,208,1
 e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,"Nemocnice Tišnov",CZ0643,1,"Purkyňova 279",49.3479200,16.4338400,OČM,44947909000,156,1
-2cd34358-0cf7-43de-8bf1-e2892ad9611e,"Nemocnice Tábor - OČKO  Sportovní hala Kvapilova",CZ0317,1,"Kpt. Jaroše 2000, 10, 390 03 Tábor",49.4234322,14.6515736,OČM,26095203000,1000,1
+2cd34358-0cf7-43de-8bf1-e2892ad9611e,"Nemocnice Tábor - OČKO  Sportovní hala Kvapilova, Kvapilova 2419, Tábor",CZ0317,1,"Kpt. Jaroše 2000, 10, 390 03 Tábor",49.4234322,14.6515736,OČM,26095203000,1000,1
 8c388fdf-5cd1-4773-819c-093088aee130,"Nemocnice Varnsdorf",CZ0421,1,"Karlova 2280, 407 47 Varnsdorf",50.8937803,14.6117519,OČM,49888498000,60,1
 0ea63d3f-dd1c-47bb-b029-cbbdf187a357,"Nemocnice Vrchlabí, s.r.o.",CZ0525,1,"Fügnerova 50, 54301 Vrchlabí",50.6224481,15.6076125,OČM,64827232000,0,
 d03cc3a3-044e-4d00-a2ec-7abccc400b3b,"Nemocnice Vyškov, p. o., Sportovní hala Purkyňova 39",CZ0646,1,"Sportovní hala Purkyňova 39",49.2773800,16.9807200,VOČM,839205000,800,1

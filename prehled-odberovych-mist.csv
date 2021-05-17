@@ -50,8 +50,8 @@ c63857c0-50c0-4aae-944c-d31787fd193e,"AG Covidpoint - Havířov Globus",CZ0803,1
 e45380c8-3319-4af2-b80b-9a264699ea1e,"AG Covidpoint - Home Park Zličín",CZ0100,1,"Skandinávská 131/1 155 00 Praha 5",50.0509506,14.2978350,370,,,1,
 fb85ae7f-a281-477e-b81f-467a432c8052,"AG Covidpoint - Klatovy",CZ0322,1,"Rozvoj 98, 339 01 Klatovy V",49.3957122,13.2998383,300,,,1,
 71352457-fda3-4463-9f0a-f65cc50d013b,"AG Covidpoint - Metropole Zličín",CZ0100,1,"Řevnická ul. 155 00 Praha 5",50.0530772,14.2899380,370,,,1,
-16402727-26c3-4ae4-bf46-75b4f06a4bbb,"AG Covidpoint - Mladá Boleslav",CZ0207,,"Komenského nám 61/1 293 01 Mladá Boleslav",50.2444600,14.5416700,200,,,1,
 53f38a3d-a3b6-4524-b769-b2e3c5bcaeef,"AG Covidpoint - Mladá Boleslav",CZ0207,1,"Komenského náměstí 61, 293 01 Mladá Boleslav I",50.4123333,14.9035444,370,,,1,
+16402727-26c3-4ae4-bf46-75b4f06a4bbb,"AG Covidpoint - Mladá Boleslav",CZ0207,,"Komenského nám 61/1 293 01 Mladá Boleslav",50.2444600,14.5416700,200,,,1,
 9ee060b8-d132-4deb-a09a-8d5cd0596db1,"AG Covidpoint - OC Chodov",CZ0100,1,"Roztylská ul. 148 00 Praha11",50.0300548,14.4917114,370,,,1,
 91bd1e57-485e-4793-aa8d-cf37988df849,"AG Covidpoint - OC Letňany - Tesco",CZ0100,1,"Veselská 663 199 00 Praha 9",50.1341969,14.4985997,370,,,1,
 d6c96226-e0cc-449c-91f1-072e1582234b,"AG Covidpoint - OC Černý most",CZ0100,1,"Chlumecká ul. Praha 9-Černý Most",50.1070308,14.5872724,370,,,1,
@@ -118,6 +118,7 @@ d91a2948-366c-40d2-a593-3358b8504f7b,"Dopravní zdravotnictví a.s., Poliklinika
 7a1801e7-f06a-4ec3-9227-81e44bbd1bbc,"Dopravní zdravotnictví a.s., Poliklinika AGEL Praha - Mobilní odběrový tým",CZ0100,1,"Italská 560/37, Praha 2",50.0805722,14.4379836,200,1,,1,
 51aee691-f4b9-4520-9caa-5a31f7b72416,"Dopravní záchranná služba s.r.o - odběrové místo Plzeň",CZ0323,1,"Wenzigova 340/11, Plzeň 301 00",49.7457797,13.3899411,300,,,1,
 f527ce85-caf0-4905-bcde-34afafc29b35,"Drive IN - Hola Biolabs - Parkoviště CK Victoria - Heršpická 758/13",CZ0642,1,"Heršpická 758/13, 619 00 Brno - Štýřice",49.1692386,16.6002650,200,1,,1,1
+3950fdb3-ae84-4e93-952e-4f19badc38f3,"Dětská ambulance, Soukalova 3355/3, Praha 12",CZ0100,1,"Soukalova 3355/3, 143 00 Praha 12 - Modřany",50.0058683,14.4142556,10,1,,,
 0ce915b0-395b-4dee-a338-d2b050996202,"ELECTROLYTE s.r.o. - odběrové místo Karlovy Vary",CZ0412,1,"T. G. Masaryka 53/43",50.2299756,12.8684633,200,,,1,
 0d046652-69ff-4212-a50b-7b14377bb03e,"ELECTROLYTE s.r.o. - odběrové místo Nový Bydžov",CZ0521,1,"Dr. M. Horákové 1568, 504 01 Nový Bydžov",50.2443669,15.4866758,200,,,1,
 20613fd0-cfe4-416b-bfb7-6b252e6d5512,"ELECTROLYTE s.r.o. - odběrové místo Ostrava OC Futurum",CZ0806,1,"Novinářská 3178/6",49.8327336,18.2641572,300,,,1,
