@@ -1,5 +1,4 @@
 datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_skupina,povolani,stat,rezervace,datum_rezervace
-2021-03-30,02614fc8-a7d0-439d-8589-57c599cb495d,Nemocnice Na Františku,CZ010,Hlavní město Praha,40-44,Osoba s chronickým onemocněním,CZ,1.0,2021-05-04
 2021-03-30,02614fc8-a7d0-439d-8589-57c599cb495d,Nemocnice Na Františku,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,,
 2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,18-24,Osoba s chronickým onemocněním,CZ,1.0,2021-05-11
 2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,25-29,Kritická infrastruktura,CZ,1.0,2021-05-01
@@ -9,17 +8,17 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-27
 2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-05-01
 2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-27
-2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-28
 2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-29
+2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-28
 2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-27
 2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-28
 2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-28
-2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
-2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-28
-2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-28
 2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-05-06
-2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,1.0,2021-04-29
+2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-28
+2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-28
+2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
 2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,1.0,2021-04-28
+2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,1.0,2021-04-29
 2021-03-30,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,1.0,2021-04-28
 2021-03-30,12d05c60-f168-462a-a4e1-ac5ad8e42722,Městská poliklinika Praha - Spálená,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,1.0,2021-03-30
 2021-03-30,30b0373e-0b9a-444d-aa0d-42c8066a39a7,ImunoGen s.r.o.,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,,
@@ -28,9 +27,9 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-21
 2021-03-30,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-21
 2021-03-30,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,,
-2021-03-30,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
-2021-03-30,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
 2021-03-30,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-03-31
+2021-03-30,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
+2021-03-30,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
 2021-03-30,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
 2021-03-30,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,80+,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
 2021-03-30,51f67019-bb4e-41e0-a38b-91c9480596fd,L Dermamedest s.r.o.,CZ010,Hlavní město Praha,40-44,Osoba s chronickým onemocněním,CZ,1.0,2021-04-20
@@ -38,24 +37,22 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,45-49,Kritická infrastruktura,CZ,,
 2021-03-30,5fec0218-4280-40c9-8f6d-c096ea70bbaa,ResTrial s.r.o. - ordinace PL,CZ010,Hlavní město Praha,70-74,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
-2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-26
-2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-26
 2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-29
+2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-26
 2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
 2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,65-69,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-04-06
 2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,70-74,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
-2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-05-05
 2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-06
+2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-05-11
 2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-06
 2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-06
 2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
-2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-05-11
 2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
 2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-03-30
-2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,,
 2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,1.0,2021-04-06
-2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,Osoba s chronickým onemocněním,CZ,,
+2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,,
 2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
+2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
 2021-03-30,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-04-06
 2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-04-22
@@ -69,21 +66,20 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-25
 2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-22
 2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
-2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-22
 2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-30
 2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
 2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
+2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-22
 2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
-2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,,
-2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,,
 2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,1.0,2021-04-22
+2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,,
+2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,,
 2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,80+,Kritická infrastruktura,SK,1.0,2021-04-22
 2021-03-30,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,80+,neuvedeno,CZ,1.0,2021-04-22
 2021-03-30,724a30ec-c666-42e1-81ca-9df326988d73,"Dopravní zdravotnictví a.s., Poliklinika AGEL Praha",CZ010,Hlavní město Praha,40-44,Osoba s chronickým onemocněním,CZ,1.0,2021-04-29
 2021-03-30,77079458-38f2-4bff-b983-7f99a07afdc3,Fakultní nemocnice v Motole,CZ010,Hlavní město Praha,30-34,Kritická infrastruktura,CZ,1.0,2021-04-30
 2021-03-30,77079458-38f2-4bff-b983-7f99a07afdc3,Fakultní nemocnice v Motole,CZ010,Hlavní město Praha,45-49,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,77079458-38f2-4bff-b983-7f99a07afdc3,Fakultní nemocnice v Motole,CZ010,Hlavní město Praha,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-21
-2021-03-30,77079458-38f2-4bff-b983-7f99a07afdc3,Fakultní nemocnice v Motole,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-11
 2021-03-30,77079458-38f2-4bff-b983-7f99a07afdc3,Fakultní nemocnice v Motole,CZ010,Hlavní město Praha,80+,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
 2021-03-30,7fd8c9d3-96af-4379-be5c-63849cf5e013,"Poliklinika Anděl s.r.o., Praha 5 - Smíchov",CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-12
 2021-03-30,7fd8c9d3-96af-4379-be5c-63849cf5e013,"Poliklinika Anděl s.r.o., Praha 5 - Smíchov",CZ010,Hlavní město Praha,80+,Osoba s chronickým onemocněním,CZ,1.0,2021-04-09
@@ -94,9 +90,7 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,b2d0f892-c779-4cba-8b55-1ed3e8de0e4c,EUC Klinika Praha a.s. - Plaňanská,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,1.0,2021-04-27
 2021-03-30,b62c5314-15f8-4da2-95f0-0aedd6d11ac2,Nemocnice Na Homolce,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-13
 2021-03-30,b62c5314-15f8-4da2-95f0-0aedd6d11ac2,Nemocnice Na Homolce,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
-2021-03-30,b62c5314-15f8-4da2-95f0-0aedd6d11ac2,Nemocnice Na Homolce,CZ010,Hlavní město Praha,75-79,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
 2021-03-30,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,SK,,
-2021-03-30,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,35-39,Kritická infrastruktura,CZ,1.0,2021-04-07
 2021-03-30,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,70-74,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-16
 2021-03-30,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,,
@@ -111,10 +105,9 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,fb6b58b9-4956-4a01-8c5f-b9b106dc784e,Medica JM - Poliklinika Michnova,CZ010,Hlavní město Praha,80+,Kritická infrastruktura,SK,1.0,2021-04-09
 2021-03-30,fc43817f-7eb9-49db-a93d-c37b9808cd43,"GHC GENETICS, s.r.o. - Praha 8 Libeň",CZ010,Hlavní město Praha,35-39,Kritická infrastruktura,CZ,,
 2021-03-30,12ca67cd-7038-438f-acf0-d193a141a653,Centrum zdravotní péče Jirny,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
-2021-03-30,281cd704-c5c4-447d-aace-debad0aa3269,Nemocnice AGEL Říčany a.s. - Sportovní hala,CZ020,Středočeský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-05-14
 2021-03-30,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
-2021-03-30,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,70-74,neuvedeno,CZ,1.0,2021-04-12
 2021-03-30,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,70-74,neuvedeno,CZ,,
+2021-03-30,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,70-74,neuvedeno,CZ,1.0,2021-04-12
 2021-03-30,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,75-79,neuvedeno,CZ,1.0,2021-04-06
 2021-03-30,28d59069-2d52-40f5-a2a3-75b0daba1c2f,Masarykova nemocnice Rakovník s.r.o.,CZ020,Středočeský kraj,75-79,neuvedeno,CZ,,
 2021-03-30,31de7f09-960c-4287-80b4-012568de1703,"Vakcinační centrum COVID19 - Obecní dům Nymburk, provozovatel Nemocnice Nymburk s.r.o.",CZ020,Středočeský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-04-10
@@ -136,7 +129,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,80a35019-a69a-49b8-98b8-d34757b45ed2,"Oblastní nemocnice Příbram, a.s. Areál II, Zdaboř",CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-03-30,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,70-74,Osoba s chronickým onemocněním,CZ,,
-2021-03-30,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,70-74,neuvedeno,CZ,1.0,2021-05-11
 2021-03-30,989b3700-401f-4700-a684-ae09d348a3c0,Nemocnice Hořovice,CZ020,Středočeský kraj,40-44,Osoba s chronickým onemocněním,CZ,1.0,2021-04-13
 2021-03-30,989b3700-401f-4700-a684-ae09d348a3c0,Nemocnice Hořovice,CZ020,Středočeský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-12
 2021-03-30,989b3700-401f-4700-a684-ae09d348a3c0,Nemocnice Hořovice,CZ020,Středočeský kraj,70-74,Osoba s chronickým onemocněním,CZ,,
@@ -146,34 +138,33 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,a8b62b00-0e64-4b8d-8202-316e0c00f809,"Nemocnice Rudolfa a Stefanie Benešov, a.s.",CZ020,Středočeský kraj,70-74,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,a8b62b00-0e64-4b8d-8202-316e0c00f809,"Nemocnice Rudolfa a Stefanie Benešov, a.s.",CZ020,Středočeský kraj,75-79,neuvedeno,CZ,1.0,2021-04-07
 2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-14
+2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
+2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
 2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-16
+2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
 2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-16
-2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
-2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
-2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
 2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
 2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-14
+2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
 2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-16
+2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
 2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-14
-2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
-2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
-2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
-2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-03-30
-2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-14
+2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
+2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-03-30
+2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
 2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
 2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,75-79,neuvedeno,CZ,1.0,2021-03-30
 2021-03-30,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,80+,Osoba s chronickým onemocněním,SK,1.0,2021-04-08
 2021-03-30,d206ef0a-fb75-44d3-a67f-f1cc73121aa1,Nemocnice Čáslav,CZ020,Středočeský kraj,80+,neuvedeno,CZ,,
 2021-03-30,e6d0a768-a1a5-4fc8-aada-081ecf2b68b0,Oblastní nemocnice Příbram,CZ020,Středočeský kraj,70-74,Osoba s chronickým onemocněním,CZ,1.0,2021-04-14
-2021-03-30,fe82349e-63db-4623-b6c1-cabd2214c1ee,SYNLAB czech s.r.o. - Kralupy nad Vltavou,CZ020,Středočeský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-29
 2021-03-30,ff1d41dd-18a2-45ed-bfee-8b2ff0022633,Nemocnice Brandýs n. L.,CZ020,Středočeský kraj,70-74,neuvedeno,CZ,,
 2021-03-30,ff1d41dd-18a2-45ed-bfee-8b2ff0022633,Nemocnice Brandýs n. L.,CZ020,Středočeský kraj,70-74,neuvedeno,CZ,,
 2021-03-30,ffddf34a-46dc-48a5-ba76-cf1c35339bf2,Nemocnice Neratovice,CZ020,Středočeský kraj,75-79,neuvedeno,CZ,,
 2021-03-30,ffddf34a-46dc-48a5-ba76-cf1c35339bf2,Nemocnice Neratovice,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-04-06
-2021-03-30,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,1.0,2021-03-30
-2021-03-30,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,1.0,2021-04-10
 2021-03-30,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,1.0,2021-03-31
+2021-03-30,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,1.0,2021-04-10
+2021-03-30,1ae4455d-99b0-4baa-9613-4cd2fb67ac4e,Nemocnice Písek - OČKO,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,1.0,2021-03-30
 2021-03-30,2cd34358-0cf7-43de-8bf1-e2892ad9611e,"Nemocnice Tábor - OČKO  Sportovní hala Kvapilova, Kvapilova 2419, Tábor",CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,,
 2021-03-30,313285e5-df33-485b-aad2-1f121d45aba8,"Nemocnice Strakonice - OČKO centrum, tělocvična STARZ Lidická 193",CZ031,Jihočeský kraj,75-79,neuvedeno,CZ,1.0,2021-04-08
 2021-03-30,313285e5-df33-485b-aad2-1f121d45aba8,"Nemocnice Strakonice - OČKO centrum, tělocvična STARZ Lidická 193",CZ031,Jihočeský kraj,80+,Osoba s chronickým onemocněním,CZ,,
@@ -185,8 +176,8 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,1.0,2021-04-13
 2021-03-30,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,,
-2021-03-30,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,75-79,neuvedeno,CZ,,
 2021-03-30,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,75-79,neuvedeno,CZ,1.0,2021-04-08
+2021-03-30,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,75-79,neuvedeno,CZ,,
 2021-03-30,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,,
 2021-03-30,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,,
 2021-03-30,e7d3f647-96bc-44ba-88d2-77e1b2b1be48,Nemocnice Český Krumlov - OČKO Sportovní hala,CZ031,Jihočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-10
@@ -198,18 +189,18 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,35-39,Osoba s chronickým onemocněním,CZ,1.0,2021-04-23
 2021-03-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,40-44,Kritická infrastruktura,CZ,1.0,2021-04-14
 2021-03-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,45-49,Osoba s chronickým onemocněním,CZ,1.0,2021-04-22
-2021-03-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-22
 2021-03-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-26
+2021-03-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-22
 2021-03-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,55-59,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,60-64,Osoba s chronickým onemocněním,CZ,,
-2021-03-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-21
+2021-03-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,75-79,neuvedeno,CZ,1.0,2021-04-05
 2021-03-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-04-05
 2021-03-30,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-04-05
-2021-03-30,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-03
 2021-03-30,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-03-31
+2021-03-30,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-03
 2021-03-30,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-03-31
 2021-03-30,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-03-31
 2021-03-30,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-03-31
@@ -232,8 +223,8 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,f6a9ae5b-0d93-4bd4-b630-b3667a9c9059,"EUC Klinika Plzeň - Denisovo nábřeží, Plzeň",CZ032,Plzeňský kraj,45-49,Kritická infrastruktura,CZ,1.0,2021-05-18
 2021-03-30,f6a9ae5b-0d93-4bd4-b630-b3667a9c9059,"EUC Klinika Plzeň - Denisovo nábřeží, Plzeň",CZ032,Plzeňský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-25
 2021-03-30,f6a9ae5b-0d93-4bd4-b630-b3667a9c9059,"EUC Klinika Plzeň - Denisovo nábřeží, Plzeň",CZ032,Plzeňský kraj,80+,neuvedeno,CZ,1.0,2021-03-31
-2021-03-30,371ee4e8-da22-446f-a9c3-f897c1a3fded,Klášter - Staré náměstí Sokolov,CZ041,Karlovarský kraj,70-74,neuvedeno,CZ,1.0,2021-04-09
 2021-03-30,371ee4e8-da22-446f-a9c3-f897c1a3fded,Klášter - Staré náměstí Sokolov,CZ041,Karlovarský kraj,70-74,neuvedeno,CZ,1.0,2021-04-02
+2021-03-30,371ee4e8-da22-446f-a9c3-f897c1a3fded,Klášter - Staré náměstí Sokolov,CZ041,Karlovarský kraj,70-74,neuvedeno,CZ,1.0,2021-04-09
 2021-03-30,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-20
 2021-03-30,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,70-74,neuvedeno,CZ,,
 2021-03-30,800e3522-2335-4e5c-bb6e-c219b5667f30,KV ARÉNA OČKOVACÍ CENTRUM,CZ041,Karlovarský kraj,70-74,neuvedeno,CZ,,
@@ -245,7 +236,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,4475c51f-69b3-410d-b404-eaf319711512,"Masarykova nemocnice v Ústí nad Labem (KZ,a.s.) - Očkovací centrum UJEP, Hoření",CZ042,Ústecký kraj,80+,neuvedeno,CZ,,
 2021-03-30,518f6665-84b8-4964-ae04-3bff5e0f2d93,"Nemocnice Most (KZ,a.s.) - SPORTOVNÍ HALA",CZ042,Ústecký kraj,75-79,neuvedeno,CZ,1.0,2021-04-01
 2021-03-30,5192f1b9-836b-4736-80a6-28653ef1b965,"Nemocnice Žatec, o.p.s.",CZ042,Ústecký kraj,70-74,neuvedeno,CZ,,
-2021-03-30,5999950a-0e64-4981-bc02-8c4bce24c1e5,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Ústí,CZ042,Ústecký kraj,45-49,Osoba s chronickým onemocněním,CZ,1.0,2021-04-11
 2021-03-30,77a1d5c5-26b3-4c61-9814-fa6497f83bdd,"Nemocnice Děčín (KZ,a.s.) - budova ČVUT",CZ042,Ústecký kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,77a1d5c5-26b3-4c61-9814-fa6497f83bdd,"Nemocnice Děčín (KZ,a.s.) - budova ČVUT",CZ042,Ústecký kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,77a1d5c5-26b3-4c61-9814-fa6497f83bdd,"Nemocnice Děčín (KZ,a.s.) - budova ČVUT",CZ042,Ústecký kraj,70-74,neuvedeno,CZ,1.0,2021-04-03
@@ -265,7 +255,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,d149c33b-4906-410d-948d-25128f4aa4d7,Hornická nemocnice s poliklinikou spol. s.r.o. - Bílina,CZ042,Ústecký kraj,80+,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
 2021-03-30,d166058b-d215-4166-925d-69f7c168ef96,"Nemocnice Teplice (KZ,a.s.) - SPORTARÉNA",CZ042,Ústecký kraj,45-49,Kritická infrastruktura,CZ,1.0,2021-04-23
 2021-03-30,d166058b-d215-4166-925d-69f7c168ef96,"Nemocnice Teplice (KZ,a.s.) - SPORTARÉNA",CZ042,Ústecký kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-22
-2021-03-30,d166058b-d215-4166-925d-69f7c168ef96,"Nemocnice Teplice (KZ,a.s.) - SPORTARÉNA",CZ042,Ústecký kraj,75-79,neuvedeno,CZ,1.0,2021-04-07
 2021-03-30,fbbde94b-4a74-41a3-93e1-c3fc53cf2189,"Krajská zdravotní a.s., - (bývalá Zahrada Čech)",CZ042,Ústecký kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-14
 2021-03-30,fbbde94b-4a74-41a3-93e1-c3fc53cf2189,"Krajská zdravotní a.s., - (bývalá Zahrada Čech)",CZ042,Ústecký kraj,75-79,neuvedeno,CZ,1.0,2021-04-04
 2021-03-30,1a303c70-c076-409d-af38-ca7108a6f186,KNL a.s. - nemocnice Turnov,CZ051,Liberecký kraj,70-74,neuvedeno,CZ,1.0,2021-04-04
@@ -279,8 +268,8 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec (KNL),CZ051,Liberecký kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
 2021-03-30,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec (KNL),CZ051,Liberecký kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec (KNL),CZ051,Liberecký kraj,70-74,neuvedeno,CZ,1.0,2021-04-08
-2021-03-30,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec (KNL),CZ051,Liberecký kraj,70-74,neuvedeno,CZ,1.0,2021-04-08
 2021-03-30,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec (KNL),CZ051,Liberecký kraj,70-74,neuvedeno,CZ,1.0,2021-04-09
+2021-03-30,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec (KNL),CZ051,Liberecký kraj,70-74,neuvedeno,CZ,1.0,2021-04-08
 2021-03-30,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec (KNL),CZ051,Liberecký kraj,75-79,neuvedeno,CZ,,
 2021-03-30,cb0f8a24-3c54-467e-9e67-de01f424ea85,Česká Lípa očkovací místo  Crystal,CZ051,Liberecký kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-21
 2021-03-30,57932100-0df4-472c-a015-d2b750df5b58,Fakultní nemocnice Hradec Králové,CZ052,Královéhradecký kraj,25-29,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-03-30
@@ -303,7 +292,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,304f0edc-0a56-4624-8f31-fe2b82391eb6,Hamzova odborná léčebna pro děti a dospělé,CZ053,Pardubický kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,61655af2-1ed8-4603-91b2-bb7a9433ccc2,MUDr. Radoslav Svoboda s.r.o. - Seč,CZ053,Pardubický kraj,70-74,neuvedeno,CZ,,
 2021-03-30,61655af2-1ed8-4603-91b2-bb7a9433ccc2,MUDr. Radoslav Svoboda s.r.o. - Seč,CZ053,Pardubický kraj,70-74,neuvedeno,CZ,,
-2021-03-30,6edad920-0382-4946-af44-cafeb841d6b1,Litomyšlská nemocnice,CZ053,Pardubický kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
 2021-03-30,92d45d98-832d-4f9b-85fc-c0e70a5e9516,"ALBERTINUM, odborný léčebný ústav, Žamberk",CZ053,Pardubický kraj,80+,neuvedeno,CZ,,
 2021-03-30,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-05
 2021-03-30,a1766688-7575-438d-8586-b0117a46153d,Chrudimská nemocnice,CZ053,Pardubický kraj,70-74,Osoba s chronickým onemocněním,CZ,,
@@ -313,10 +301,10 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
 2021-03-30,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
 2021-03-30,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
-2021-03-30,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
 2021-03-30,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
-2021-03-30,4e7faebb-41aa-4841-9982-1868d0bc94dc,Velkokapacitní očkovací místo Žďár nad Sázavou,CZ063,Kraj Vysočina,70-74,neuvedeno,CZ,,
+2021-03-30,30ffe93f-6b2b-4324-9c24-8cdd2750524f,Nemocnice Nové Město na Moravě,CZ063,Kraj Vysočina,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
 2021-03-30,4e7faebb-41aa-4841-9982-1868d0bc94dc,Velkokapacitní očkovací místo Žďár nad Sázavou,CZ063,Kraj Vysočina,70-74,neuvedeno,CZ,1.0,2021-04-06
+2021-03-30,4e7faebb-41aa-4841-9982-1868d0bc94dc,Velkokapacitní očkovací místo Žďár nad Sázavou,CZ063,Kraj Vysočina,70-74,neuvedeno,CZ,,
 2021-03-30,4e7faebb-41aa-4841-9982-1868d0bc94dc,Velkokapacitní očkovací místo Žďár nad Sázavou,CZ063,Kraj Vysočina,70-74,neuvedeno,CZ,1.0,2021-04-09
 2021-03-30,4e7faebb-41aa-4841-9982-1868d0bc94dc,Velkokapacitní očkovací místo Žďár nad Sázavou,CZ063,Kraj Vysočina,70-74,neuvedeno,CZ,1.0,2021-04-06
 2021-03-30,4e7faebb-41aa-4841-9982-1868d0bc94dc,Velkokapacitní očkovací místo Žďár nad Sázavou,CZ063,Kraj Vysočina,75-79,neuvedeno,CZ,1.0,2021-04-01
@@ -330,18 +318,18 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,Nemocnice Pelhřimov - Kulturní dům Máj,CZ063,Kraj Vysočina,80+,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,SK,1.0,2021-04-01
 2021-03-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-21
 2021-03-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
-2021-03-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
-2021-03-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,70-74,neuvedeno,CZ,1.0,2021-04-14
-2021-03-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,70-74,neuvedeno,CZ,1.0,2021-04-14
+2021-03-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,70-74,neuvedeno,CZ,1.0,2021-04-13
+2021-03-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,70-74,neuvedeno,CZ,1.0,2021-04-14
+2021-03-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,70-74,neuvedeno,CZ,1.0,2021-04-14
 2021-03-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,75-79,neuvedeno,CZ,1.0,2021-04-08
-2021-03-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
+2021-03-30,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,80+,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,2606719f-ddd9-4b63-8a67-68236380820f,Nemocnice Blansko - Sportovní hala Údolní,CZ064,Jihomoravský kraj,70-74,neuvedeno,CZ,1.0,2021-04-02
 2021-03-30,2a70afbb-3957-427a-9201-2e79e3b2a5dd,Vojenská nemocnice Brno,CZ064,Jihomoravský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-05-19
-2021-03-30,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-12
 2021-03-30,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,55-59,Osoba s chronickým onemocněním,CZ,,
+2021-03-30,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-12
 2021-03-30,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,70-74,neuvedeno,CZ,,
 2021-03-30,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,75-79,neuvedeno,CZ,1.0,2021-04-08
 2021-03-30,4a444781-6d8f-496e-9da0-5f813f6113a6,Fakultní nemocnice u sv. Anny v Brně,CZ064,Jihomoravský kraj,75-79,neuvedeno,CZ,,
@@ -359,22 +347,19 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,f5fe8269-61d2-4c43-8661-81876bbbbc89,Nemocnice Znojmo Sportovni Hala Dvořákova,CZ064,Jihomoravský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
 2021-03-30,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,45-49,Osoba s chronickým onemocněním,CZ,,
-2021-03-30,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
 2021-03-30,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-11
 2021-03-30,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-05
-2021-03-30,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,1.0,2021-04-04
 2021-03-30,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,75-79,neuvedeno,CZ,,
 2021-03-30,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-09
-2021-03-30,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,1.0,2021-04-06
 2021-03-30,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,1.0,2021-04-06
 2021-03-30,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,75-79,neuvedeno,CZ,1.0,2021-04-01
 2021-03-30,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,45-49,Osoba s chronickým onemocněním,CZ,1.0,2021-04-14
 2021-03-30,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,50-54,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,70-74,Osoba s chronickým onemocněním,CZ,,
-2021-03-30,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,1.0,2021-04-08
 2021-03-30,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,,
+2021-03-30,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,1.0,2021-04-08
 2021-03-30,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,,
 2021-03-30,a91d8128-c379-456c-b04b-1f1d6aa2da76,AGE Centrum Olomouc,CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,1.0,2021-04-16
 2021-03-30,bbbcf265-9f34-4056-a7e8-f9067fd339a4,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Šternberk",CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,,
@@ -393,36 +378,36 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,70-74,neuvedeno,CZ,1.0,2021-04-21
 2021-03-30,ec7464b3-cfbd-4e49-8187-5f438f69c731,Kroměřížská nemocnice a.s. - Výstaviště Kroměříž,CZ072,Zlínský kraj,70-74,neuvedeno,CZ,,
 2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,40-44,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-04-23
-2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,45-49,Kritická infrastruktura,CZ,1.0,2021-04-21
 2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,45-49,Kritická infrastruktura,CZ,1.0,2021-04-15
-2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-20
+2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,45-49,Kritická infrastruktura,CZ,1.0,2021-04-21
 2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-30
+2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-20
 2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,55-59,Kritická infrastruktura,CZ,1.0,2021-04-15
 2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-19
 2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,60-64,Kritická infrastruktura,CZ,1.0,2021-04-21
 2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-04-14
 2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
-2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,1.0,2021-04-16
+2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,,
 2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,1.0,2021-04-16
 2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,1.0,2021-04-16
 2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,,
-2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,,
-2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,,
+2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,1.0,2021-04-16
 2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,1.0,2021-04-16
-2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,80+,Osoba s chronickým onemocněním,CZ,1.0,2021-04-01
+2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,,
 2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,80+,Osoba s chronickým onemocněním,DE,1.0,2021-04-01
+2021-03-30,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,80+,Osoba s chronickým onemocněním,CZ,1.0,2021-04-01
 2021-03-30,249c3cf7-8d0e-4301-998b-140dddf8694d,Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost,CZ080,Moravskoslezský kraj,45-49,Osoba s chronickým onemocněním,CZ,1.0,2021-04-24
 2021-03-30,249c3cf7-8d0e-4301-998b-140dddf8694d,Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost,CZ080,Moravskoslezský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-27
 2021-03-30,249c3cf7-8d0e-4301-998b-140dddf8694d,Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost,CZ080,Moravskoslezský kraj,60-64,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,249c3cf7-8d0e-4301-998b-140dddf8694d,Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost,CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,1.0,2021-04-17
-2021-03-30,249c3cf7-8d0e-4301-998b-140dddf8694d,Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost,CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,,
-2021-03-30,249c3cf7-8d0e-4301-998b-140dddf8694d,Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost,CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,,
 2021-03-30,249c3cf7-8d0e-4301-998b-140dddf8694d,Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost,CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,1.0,2021-04-17
+2021-03-30,249c3cf7-8d0e-4301-998b-140dddf8694d,Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost,CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,,
+2021-03-30,249c3cf7-8d0e-4301-998b-140dddf8694d,Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost,CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,,
 2021-03-30,249c3cf7-8d0e-4301-998b-140dddf8694d,Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
 2021-03-30,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,45-49,Kritická infrastruktura,CZ,1.0,2021-04-15
 2021-03-30,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,55-59,Kritická infrastruktura,CZ,1.0,2021-04-21
-2021-03-30,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-20
 2021-03-30,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
+2021-03-30,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-20
 2021-03-30,262721a0-5551-41d6-bc46-06d5aa9d18a8,FN Ostrava - Poliklinika,CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,1.0,2021-04-19
 2021-03-30,4cf475a4-9727-4afb-a458-80cbe7d7a497,Nemocnice AGEL Podhorská a.s.- pracoviště Rýmařov,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-04-07
 2021-03-30,63a56753-7d68-44cb-a025-d605c6c8d307,"Nemocnice s poliklinikou Karviná-Ráj, p.o. - pracoviště Orlová",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-03-31
@@ -431,80 +416,57 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-30,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
 2021-03-30,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
 2021-03-30,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
-2021-03-30,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
-2021-03-30,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
-2021-03-30,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
-2021-03-30,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
+2021-03-30,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,40-44,Osoba s chronickým onemocněním,CZ,1.0,2021-05-22
 2021-03-30,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
 2021-03-30,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
 2021-03-30,c4c7db25-dd2d-4182-bd32-0b6ad04f0bb1,VOČM DDM Třinec,CZ080,Moravskoslezský kraj,30-34,Osoba s chronickým onemocněním,CZ,,
 2021-03-30,c4c7db25-dd2d-4182-bd32-0b6ad04f0bb1,VOČM DDM Třinec,CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,1.0,2021-04-07
-2021-03-30,c4c7db25-dd2d-4182-bd32-0b6ad04f0bb1,VOČM DDM Třinec,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-04-09
 2021-03-30,c4c7db25-dd2d-4182-bd32-0b6ad04f0bb1,VOČM DDM Třinec,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,,
+2021-03-30,c4c7db25-dd2d-4182-bd32-0b6ad04f0bb1,VOČM DDM Třinec,CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-04-09
 2021-03-30,d58b9a53-e9a4-4374-9853-1d93c4540fb4,"THERÁPON 98, a.s. - Kopřivnice",CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,,
-2021-03-30,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,18-24,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
 2021-03-30,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
-2021-03-30,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
 2021-03-30,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
-2021-03-30,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
-2021-03-30,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
 2021-03-30,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
-2021-03-30,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,1.0,2021-04-08
 2021-03-30,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,,
-2021-03-30,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,1.0,2021-04-06
-2021-03-30,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,1.0,2021-04-07
+2021-03-30,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,1.0,2021-04-08
 2021-03-30,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-04-07
-2021-03-30,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-04-06
 2021-03-30,f1b3f2dc-c4d1-4f50-b79a-a48ed0c393d6,"Bílovecká nemocnice, a.s.",CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,1.0,2021-04-07
 2021-03-31,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,45-49,Osoba s chronickým onemocněním,CZ,1.0,2021-05-06
 2021-03-31,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,45-49,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-04-28
 2021-03-31,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-05-01
 2021-03-31,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-28
-2021-03-31,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-29
 2021-03-31,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-28
+2021-03-31,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-29
 2021-03-31,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-28
 2021-03-31,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-27
 2021-03-31,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-28
 2021-03-31,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-05-03
-2021-03-31,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-28
 2021-03-31,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-05-01
+2021-03-31,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-28
 2021-03-31,0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,EUC Klinika Praha a.s. - Kartouzská,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,1.0,2021-04-28
 2021-03-31,4b708512-790d-4edb-8f3c-303d3d192acf,Institut klinické a experimentální medicíny (IKEM),CZ010,Hlavní město Praha,25-29,Osoba s chronickým onemocněním,SK,1.0,2021-04-20
 2021-03-31,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-05-14
-2021-03-31,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-01
 2021-03-31,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
+2021-03-31,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-01
 2021-03-31,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,1.0,2021-04-14
 2021-03-31,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,,
 2021-03-31,4ea9c79c-ebac-4505-8176-7d22ca45c0d2,ÚVN Praha - Vakcinační centrum COVID-19,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,,
 2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,18-24,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,18-24,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,18-24,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,25-29,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,25-29,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,25-29,Osoba s chronickým onemocněním,CZ,,
+2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,30-34,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,30-34,Osoba s chronickým onemocněním,CZ,1.0,2021-05-16
-2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,30-34,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,30-34,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,30-34,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,35-39,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,45-49,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,45-49,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,70-74,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,75-79,Osoba s chronickým onemocněním,CZ,1.0,2021-05-17
-2021-03-31,5affc4c2-414a-4cd4-9a04-56647fa66eef,Národní očkovací centrum,CZ010,Hlavní město Praha,80+,Osoba s chronickým onemocněním,US,,
 2021-03-31,5fec0218-4280-40c9-8f6d-c096ea70bbaa,ResTrial s.r.o. - ordinace PL,CZ010,Hlavní město Praha,70-74,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,45-49,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
 2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,45-49,Osoba s chronickým onemocněním,CZ,1.0,2021-04-26
-2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,60-64,Kritická infrastruktura,CZ,1.0,2021-05-03
 2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,60-64,Kritická infrastruktura,CZ,1.0,2021-04-06
+2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,60-64,Kritická infrastruktura,CZ,1.0,2021-05-03
 2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
 2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
 2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
 2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
+2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
 2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
 2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-26
-2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
 2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
 2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,70-74,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
 2021-03-31,648f87b6-06e7-49d5-b2a7-2dc31c867ff7,Fakultní Thomayerova nemocnice,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
@@ -515,14 +477,13 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,35-39,Kritická infrastruktura,CZ,1.0,2021-04-23
 2021-03-31,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-22
 2021-03-31,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,60-64,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-23
 2021-03-31,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-22
 2021-03-31,6ad1717f-2bac-44e6-b7e9-6582da6b6598,Fakultní Nemocnice Bulovka,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,,
 2021-03-31,724a30ec-c666-42e1-81ca-9df326988d73,"Dopravní zdravotnictví a.s., Poliklinika AGEL Praha",CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-02
 2021-03-31,77079458-38f2-4bff-b983-7f99a07afdc3,Fakultní nemocnice v Motole,CZ010,Hlavní město Praha,40-44,Osoba s chronickým onemocněním,CZ,1.0,2021-04-30
 2021-03-31,77079458-38f2-4bff-b983-7f99a07afdc3,Fakultní nemocnice v Motole,CZ010,Hlavní město Praha,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-22
-2021-03-31,77079458-38f2-4bff-b983-7f99a07afdc3,Fakultní nemocnice v Motole,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,1.0,2021-04-08
 2021-03-31,77079458-38f2-4bff-b983-7f99a07afdc3,Fakultní nemocnice v Motole,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,1.0,2021-04-09
+2021-03-31,77079458-38f2-4bff-b983-7f99a07afdc3,Fakultní nemocnice v Motole,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,1.0,2021-04-08
 2021-03-31,77079458-38f2-4bff-b983-7f99a07afdc3,Fakultní nemocnice v Motole,CZ010,Hlavní město Praha,80+,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
 2021-03-31,9295cb5e-e9ae-4858-97ce-5dadaf99ad72,Všeobecná fakultní nemocnice Praha,CZ010,Hlavní město Praha,25-29,Osoba s chronickým onemocněním,CZ,1.0,2021-04-21
 2021-03-31,9295cb5e-e9ae-4858-97ce-5dadaf99ad72,Všeobecná fakultní nemocnice Praha,CZ010,Hlavní město Praha,30-34,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
@@ -530,19 +491,17 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,9295cb5e-e9ae-4858-97ce-5dadaf99ad72,Všeobecná fakultní nemocnice Praha,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
 2021-03-31,9295cb5e-e9ae-4858-97ce-5dadaf99ad72,Všeobecná fakultní nemocnice Praha,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
 2021-03-31,b62c5314-15f8-4da2-95f0-0aedd6d11ac2,Nemocnice Na Homolce,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,b8908961-8b5d-46d6-ad40-89bceacd7874,"EUC klinika Praha a.s. - Šustova, Praha 11",CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-05-13
 2021-03-31,b8908961-8b5d-46d6-ad40-89bceacd7874,"EUC klinika Praha a.s. - Šustova, Praha 11",CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,,
 2021-03-31,b8a946ef-4994-4dcd-859e-09040f43a6d0,RESPIMED s.r.o.,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-06
 2021-03-31,b8a946ef-4994-4dcd-859e-09040f43a6d0,RESPIMED s.r.o.,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,,
 2021-03-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-24
 2021-03-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-24
 2021-03-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-26
-2021-03-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-19
 2021-03-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
+2021-03-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-19
 2021-03-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,70-74,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,70-74,neuvedeno,CZ,1.0,2021-04-13
-2021-03-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,75-79,neuvedeno,CZ,1.0,2021-04-06
 2021-03-31,c2ca4cb4-2c8d-4463-9b85-88dff5eb4ba5,Fakultní nemocnice Královské Vinohrady,CZ010,Hlavní město Praha,80+,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,SK,1.0,2021-04-06
 2021-03-31,c8e549b8-aafb-4b4c-ae3b-b1ccee70513f,"LRS Chvaly, o.p.s.",CZ010,Hlavní město Praha,75-79,Osoba s chronickým onemocněním,CZ,1.0,2021-04-01
 2021-03-31,ccdcc2c1-c477-4271-af37-76ff2ea3e764,"Canadian Medical s.r.o., očkovací centrum",CZ010,Hlavní město Praha,80+,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
@@ -566,21 +525,20 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,70-74,neuvedeno,CZ,,
 2021-03-31,4c050cd4-6edf-4b4b-8034-8b731978b216,Oblastní nemocnice Mladá Boleslav,CZ020,Středočeský kraj,80+,Osoba s chronickým onemocněním,SK,1.0,2021-04-07
 2021-03-31,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,55-59,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-14
 2021-03-31,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-16
-2021-03-31,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,70-74,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
+2021-03-31,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-14
 2021-03-31,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,70-74,Osoba s chronickým onemocněním,CZ,1.0,2021-04-09
+2021-03-31,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,70-74,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
 2021-03-31,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,70-74,neuvedeno,CZ,,
 2021-03-31,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,75-79,neuvedeno,CZ,,
-2021-03-31,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,75-79,neuvedeno,CZ,1.0,2021-04-06
 2021-03-31,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,75-79,neuvedeno,CZ,,
+2021-03-31,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,75-79,neuvedeno,CZ,1.0,2021-04-06
 2021-03-31,4dd9014a-436c-4e8a-aa45-010ad32272f7,Oblastní nemocnice Kladno,CZ020,Středočeský kraj,80+,neuvedeno,CZ,1.0,2021-04-06
-2021-03-31,718fcb7c-904e-41f3-9be6-15a75ef9b5e0,Oblastní nemocnice Kolín - očkovací místo,CZ020,Středočeský kraj,70-74,neuvedeno,CZ,,
 2021-03-31,718fcb7c-904e-41f3-9be6-15a75ef9b5e0,Oblastní nemocnice Kolín - očkovací místo,CZ020,Středočeský kraj,70-74,neuvedeno,CZ,1.0,2021-04-09
+2021-03-31,718fcb7c-904e-41f3-9be6-15a75ef9b5e0,Oblastní nemocnice Kolín - očkovací místo,CZ020,Středočeský kraj,70-74,neuvedeno,CZ,,
 2021-03-31,718fcb7c-904e-41f3-9be6-15a75ef9b5e0,Oblastní nemocnice Kolín - očkovací místo,CZ020,Středočeský kraj,75-79,neuvedeno,CZ,1.0,2021-04-08
 2021-03-31,80a35019-a69a-49b8-98b8-d34757b45ed2,"Oblastní nemocnice Příbram, a.s. Areál II, Zdaboř",CZ020,Středočeský kraj,45-49,Osoba s chronickým onemocněním,CZ,1.0,2021-04-09
 2021-03-31,80a35019-a69a-49b8-98b8-d34757b45ed2,"Oblastní nemocnice Příbram, a.s. Areál II, Zdaboř",CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,70-74,neuvedeno,CZ,1.0,2021-05-11
 2021-03-31,92c26a50-b614-45b4-94f6-366a766796a0,Nemocnice Slaný,CZ020,Středočeský kraj,80+,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
 2021-03-31,989b3700-401f-4700-a684-ae09d348a3c0,Nemocnice Hořovice,CZ020,Středočeský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-13
 2021-03-31,989b3700-401f-4700-a684-ae09d348a3c0,Nemocnice Hořovice,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-12
@@ -588,16 +546,16 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,30-34,Osoba s chronickým onemocněním,CZ,1.0,2021-04-14
 2021-03-31,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,40-44,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
 2021-03-31,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,40-44,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
-2021-03-31,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,40-44,Osoba s chronickým onemocněním,CZ,1.0,2021-04-21
 2021-03-31,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,40-44,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
+2021-03-31,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,40-44,Osoba s chronickým onemocněním,CZ,1.0,2021-04-21
 2021-03-31,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,40-44,Osoba s chronickým onemocněním,CZ,1.0,2021-04-29
 2021-03-31,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,45-49,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
 2021-03-31,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-16
 2021-03-31,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-16
 2021-03-31,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
 2021-03-31,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
-2021-03-31,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-16
 2021-03-31,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
+2021-03-31,b85e83d4-e9be-456d-b6b5-8e2acac97990,Očkovací centrum Dobřichovice sportovní hala BIOS,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-16
 2021-03-31,fe82349e-63db-4623-b6c1-cabd2214c1ee,SYNLAB czech s.r.o. - Kralupy nad Vltavou,CZ020,Středočeský kraj,75-79,neuvedeno,CZ,1.0,2021-05-11
 2021-03-31,ff1d41dd-18a2-45ed-bfee-8b2ff0022633,Nemocnice Brandýs n. L.,CZ020,Středočeský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,ff1d41dd-18a2-45ed-bfee-8b2ff0022633,Nemocnice Brandýs n. L.,CZ020,Středočeský kraj,70-74,neuvedeno,CZ,,
@@ -613,9 +571,9 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,74087959-c707-4d8e-b5d7-9a2b5ba4844d,Nemocnice Prachatice - OČKO Hotel Park,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,,
 2021-03-31,74087959-c707-4d8e-b5d7-9a2b5ba4844d,Nemocnice Prachatice - OČKO Hotel Park,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,,
 2021-03-31,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,45-49,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,1.0,2021-04-11
-2021-03-31,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,,
 2021-03-31,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,1.0,2021-04-13
+2021-03-31,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,,
+2021-03-31,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,70-74,neuvedeno,CZ,1.0,2021-04-11
 2021-03-31,ade1335c-0185-4292-af9a-5de58be97774,Nemocnice České Budějovice - OČKO Výstaviště České Budějovice,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,1.0,2021-05-03
 2021-03-31,c4411674-d3bd-4666-96df-fdedefed8b68,Nemocnice Jindřichův Hradec- Očko VŠE,CZ031,Jihočeský kraj,80+,neuvedeno,CZ,,
 2021-03-31,28f83d48-bce8-4d12-9b1f-4316e973c02f,Privamed,CZ032,Plzeňský kraj,70-74,neuvedeno,CZ,,
@@ -624,28 +582,26 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-23
 2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-24
 2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,55-59,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-21
-2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-21
-2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
-2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-18
+2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
+2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,75-79,Osoba s chronickým onemocněním,CZ,,
+2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,75-79,neuvedeno,CZ,1.0,2021-04-05
+2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,75-79,neuvedeno,CZ,1.0,2021-04-05
 2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,75-79,neuvedeno,CZ,,
-2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,75-79,neuvedeno,CZ,1.0,2021-04-05
-2021-03-31,41c51947-5951-432c-9099-bf317756b09d,Fakultní nemocnice Plzeň - očkovací místo,CZ032,Plzeňský kraj,75-79,neuvedeno,CZ,1.0,2021-04-05
 2021-03-31,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,45-49,Osoba s chronickým onemocněním,CZ,1.0,2021-04-28
 2021-03-31,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,45-49,Osoba s chronickým onemocněním,CZ,1.0,2021-04-02
 2021-03-31,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-03-31
 2021-03-31,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-03-31
 2021-03-31,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-03-31
 2021-03-31,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,70-74,neuvedeno,CZ,1.0,2021-03-31
-2021-03-31,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,70-74,neuvedeno,CZ,1.0,2021-03-31
 2021-03-31,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,70-74,neuvedeno,CZ,1.0,2021-04-16
+2021-03-31,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,70-74,neuvedeno,CZ,1.0,2021-03-31
 2021-03-31,591855d9-aad8-4d12-86e0-db30cfbb36ee,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň,CZ032,Plzeňský kraj,75-79,neuvedeno,CZ,1.0,2021-03-31
 2021-03-31,5960ec70-2686-4b29-8af0-04a1481e7351,Sušická nemocnice,CZ032,Plzeňský kraj,50-54,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,5960ec70-2686-4b29-8af0-04a1481e7351,Sušická nemocnice,CZ032,Plzeňský kraj,70-74,neuvedeno,CZ,,
-2021-03-31,6ce2ad8f-b1f6-4252-b6f0-e8029219c17b,Stodská nemocnice - očkovací místo Kulturní dům Stod,CZ032,Plzeňský kraj,70-74,neuvedeno,CZ,1.0,2021-04-09
 2021-03-31,6ce2ad8f-b1f6-4252-b6f0-e8029219c17b,Stodská nemocnice - očkovací místo Kulturní dům Stod,CZ032,Plzeňský kraj,70-74,neuvedeno,CZ,,
+2021-03-31,6ce2ad8f-b1f6-4252-b6f0-e8029219c17b,Stodská nemocnice - očkovací místo Kulturní dům Stod,CZ032,Plzeňský kraj,70-74,neuvedeno,CZ,1.0,2021-04-09
 2021-03-31,6ce2ad8f-b1f6-4252-b6f0-e8029219c17b,Stodská nemocnice - očkovací místo Kulturní dům Stod,CZ032,Plzeňský kraj,80+,Osoba s chronickým onemocněním,CZ,1.0,2021-04-02
 2021-03-31,a2dce440-6580-4f31-9c03-bd832da754e3,Velkokapacitní OČM Plzeňského kraje Plzeň-Skvrňany,CZ032,Plzeňský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
 2021-03-31,a2dce440-6580-4f31-9c03-bd832da754e3,Velkokapacitní OČM Plzeňského kraje Plzeň-Skvrňany,CZ032,Plzeňský kraj,70-74,neuvedeno,CZ,,
@@ -678,7 +634,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,5192f1b9-836b-4736-80a6-28653ef1b965,"Nemocnice Žatec, o.p.s.",CZ042,Ústecký kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-14
 2021-03-31,5192f1b9-836b-4736-80a6-28653ef1b965,"Nemocnice Žatec, o.p.s.",CZ042,Ústecký kraj,70-74,neuvedeno,CZ,,
 2021-03-31,5192f1b9-836b-4736-80a6-28653ef1b965,"Nemocnice Žatec, o.p.s.",CZ042,Ústecký kraj,70-74,neuvedeno,CZ,1.0,2021-04-18
-2021-03-31,5999950a-0e64-4981-bc02-8c4bce24c1e5,Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Ústí,CZ042,Ústecký kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-12
 2021-03-31,76a174fb-e672-40c5-ae9c-06c50eb4ce7a,Nemocnice Kadaň s.r.o.,CZ042,Ústecký kraj,70-74,neuvedeno,CZ,,
 2021-03-31,77a1d5c5-26b3-4c61-9814-fa6497f83bdd,"Nemocnice Děčín (KZ,a.s.) - budova ČVUT",CZ042,Ústecký kraj,40-44,Osoba s chronickým onemocněním,CZ,1.0,2021-04-22
 2021-03-31,77a1d5c5-26b3-4c61-9814-fa6497f83bdd,"Nemocnice Děčín (KZ,a.s.) - budova ČVUT",CZ042,Ústecký kraj,55-59,Kritická infrastruktura,CZ,1.0,2021-04-21
@@ -692,10 +647,9 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Nemocnice Chomutov (KZ,a.s.)",CZ042,Ústecký kraj,30-34,Kritická infrastruktura,CZ,1.0,2021-04-20
 2021-03-31,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Nemocnice Chomutov (KZ,a.s.)",CZ042,Ústecký kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-13
 2021-03-31,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Nemocnice Chomutov (KZ,a.s.)",CZ042,Ústecký kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-13
-2021-03-31,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Nemocnice Chomutov (KZ,a.s.)",CZ042,Ústecký kraj,70-74,neuvedeno,CZ,,
 2021-03-31,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Nemocnice Chomutov (KZ,a.s.)",CZ042,Ústecký kraj,70-74,neuvedeno,CZ,1.0,2021-04-13
+2021-03-31,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Nemocnice Chomutov (KZ,a.s.)",CZ042,Ústecký kraj,70-74,neuvedeno,CZ,,
 2021-03-31,c1308736-72a2-4f4b-b215-a68603bc5fb6,"Nemocnice Chomutov (KZ,a.s.)",CZ042,Ústecký kraj,75-79,neuvedeno,CZ,1.0,2021-04-08
-2021-03-31,c254b811-40e4-4604-8066-feac3dc58c41,"ARC-MED s.r.o. Klášterec, Kyselka 104",CZ042,Ústecký kraj,55-59,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,d149c33b-4906-410d-948d-25128f4aa4d7,Hornická nemocnice s poliklinikou spol. s.r.o. - Bílina,CZ042,Ústecký kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-22
 2021-03-31,d149c33b-4906-410d-948d-25128f4aa4d7,Hornická nemocnice s poliklinikou spol. s.r.o. - Bílina,CZ042,Ústecký kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
 2021-03-31,d166058b-d215-4166-925d-69f7c168ef96,"Nemocnice Teplice (KZ,a.s.) - SPORTARÉNA",CZ042,Ústecký kraj,40-44,Osoba s chronickým onemocněním,CZ,1.0,2021-04-24
@@ -704,8 +658,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,fbbde94b-4a74-41a3-93e1-c3fc53cf2189,"Krajská zdravotní a.s., - (bývalá Zahrada Čech)",CZ042,Ústecký kraj,18-24,Kritická infrastruktura,CZ,1.0,2021-04-06
 2021-03-31,fbbde94b-4a74-41a3-93e1-c3fc53cf2189,"Krajská zdravotní a.s., - (bývalá Zahrada Čech)",CZ042,Ústecký kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-04
 2021-03-31,fbbde94b-4a74-41a3-93e1-c3fc53cf2189,"Krajská zdravotní a.s., - (bývalá Zahrada Čech)",CZ042,Ústecký kraj,80+,neuvedeno,CZ,1.0,2021-04-05
-2021-03-31,1a303c70-c076-409d-af38-ca7108a6f186,KNL a.s. - nemocnice Turnov,CZ051,Liberecký kraj,40-44,Osoba s chronickým onemocněním,CZ,1.0,2021-04-28
-2021-03-31,1a303c70-c076-409d-af38-ca7108a6f186,KNL a.s. - nemocnice Turnov,CZ051,Liberecký kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-05-20
 2021-03-31,4ed8c2be-fe2b-41d2-b58e-d69ed9a4c9f7,Nemocnice Jablonec n. Nisou,CZ051,Liberecký kraj,60-64,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-04-04
 2021-03-31,4ed8c2be-fe2b-41d2-b58e-d69ed9a4c9f7,Nemocnice Jablonec n. Nisou,CZ051,Liberecký kraj,70-74,neuvedeno,CZ,1.0,2021-04-09
 2021-03-31,4ed8c2be-fe2b-41d2-b58e-d69ed9a4c9f7,Nemocnice Jablonec n. Nisou,CZ051,Liberecký kraj,70-74,neuvedeno,CZ,,
@@ -714,8 +666,8 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec (KNL),CZ051,Liberecký kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
 2021-03-31,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec (KNL),CZ051,Liberecký kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
 2021-03-31,73bb8a1c-2a4f-48ae-a5c3-5c295ae45d53,Očkovací centrum Liberec (KNL),CZ051,Liberecký kraj,70-74,neuvedeno,CZ,1.0,2021-04-08
-2021-03-31,c8778581-ad40-4bd4-8861-cfefbad69dcb,"SMRŽO - MEDIC, s.r.o. - Tanvald",CZ051,Liberecký kraj,70-74,neuvedeno,CZ,1.0,2021-04-12
 2021-03-31,c8778581-ad40-4bd4-8861-cfefbad69dcb,"SMRŽO - MEDIC, s.r.o. - Tanvald",CZ051,Liberecký kraj,70-74,neuvedeno,CZ,,
+2021-03-31,c8778581-ad40-4bd4-8861-cfefbad69dcb,"SMRŽO - MEDIC, s.r.o. - Tanvald",CZ051,Liberecký kraj,70-74,neuvedeno,CZ,1.0,2021-04-12
 2021-03-31,c8778581-ad40-4bd4-8861-cfefbad69dcb,"SMRŽO - MEDIC, s.r.o. - Tanvald",CZ051,Liberecký kraj,70-74,neuvedeno,CZ,,
 2021-03-31,c8778581-ad40-4bd4-8861-cfefbad69dcb,"SMRŽO - MEDIC, s.r.o. - Tanvald",CZ051,Liberecký kraj,80+,neuvedeno,CZ,,
 2021-03-31,cb0f8a24-3c54-467e-9e67-de01f424ea85,Česká Lípa očkovací místo  Crystal,CZ051,Liberecký kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-10
@@ -757,8 +709,8 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,b3ab4e46-5faa-4c1a-9a18-e2c8df0726e5,Nemocnice Pelhřimov - Kulturní dům Máj,CZ063,Kraj Vysočina,70-74,neuvedeno,CZ,,
 2021-03-31,01a3372d-3209-471a-a1cc-daf68f28caed,"Nemocnice Ivančice, p.o.",CZ064,Jihomoravský kraj,70-74,neuvedeno,CZ,1.0,2021-04-02
 2021-03-31,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
-2021-03-31,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,60-64,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-16
+2021-03-31,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,60-64,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-15
 2021-03-31,0f396137-e1fe-4e67-8291-292e4066376d,FN Brno Výstaviště,CZ064,Jihomoravský kraj,70-74,neuvedeno,CZ,,
 2021-03-31,19a6168f-de5b-41d1-80f8-1ca39e836f72,"Bluedent Očkovací centrum , Brno-Slatina",CZ064,Jihomoravský kraj,70-74,neuvedeno,CZ,1.0,2021-05-14
@@ -784,18 +736,14 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-09
 2021-03-31,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,1.0,2021-04-09
 2021-03-31,004e0965-84f6-4aa1-92cb-7242c8ae394a,Nemocnice AGEL Jeseník a.s.,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-04-08
-2021-03-31,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,50-54,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
 2021-03-31,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,1.0,2021-04-04
-2021-03-31,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,75-79,neuvedeno,CZ,1.0,2021-04-06
-2021-03-31,0980ebfa-a1f3-4b2f-8ae3-a946d3b77cc8,Nemocnice Šumperk,CZ071,Olomoucký kraj,80+,neuvedeno,CZ,1.0,2021-04-04
 2021-03-31,09eed895-008f-4a50-839d-8ba8dbfe2850,Nemocnice Hranice a.s.,CZ071,Olomoucký kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,,
 2021-03-31,29b4659f-2463-4125-bbf6-2be99d607807,"Středomoravská nemocniční a.s., Nemocnice AGEL Prostějov",CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,1.0,2021-04-12
-2021-03-31,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
+2021-03-31,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,,
 2021-03-31,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,1.0,2021-04-11
 2021-03-31,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,,
 2021-03-31,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,1.0,2021-04-06
-2021-03-31,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,,
 2021-03-31,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,70-74,neuvedeno,CZ,,
 2021-03-31,a1f7b243-f18c-45a2-8d82-5a3273c687b8,Fakultní nemocnice Olomouc,CZ071,Olomoucký kraj,75-79,neuvedeno,CZ,,
 2021-03-31,bbbcf265-9f34-4056-a7e8-f9067fd339a4,"AGEL Středomoravská nemocniční a.s., Nemocnice AGEL Šternberk",CZ071,Olomoucký kraj,80+,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
@@ -803,7 +751,6 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,481dd978-47d9-46a2-a379-84fc06761772,Vsetínská nemocnice a.s.,CZ072,Zlínský kraj,70-74,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,7c7aa47c-bd44-46b8-b428-a132a7bc2f07,"Krajská nemocnice T. Bati, a. s. - PSG Aréna",CZ072,Zlínský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-25
 2021-03-31,7c7aa47c-bd44-46b8-b428-a132a7bc2f07,"Krajská nemocnice T. Bati, a. s. - PSG Aréna",CZ072,Zlínský kraj,70-74,neuvedeno,CZ,,
-2021-03-31,85032af2-2893-4ba7-afbc-fe5cdee9a5cb,"MEDICAL PLUS, s.r.o.",CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-04-02
 2021-03-31,be35ee3b-3ddc-4723-b6f5-4f21cd2558a6,Uherskohradišťská nemocnice a.s.,CZ072,Zlínský kraj,80+,neuvedeno,CZ,1.0,2021-04-02
 2021-03-31,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
 2021-03-31,e342972a-ccb3-4a9a-9a9f-ac95a11997eb,"Krajská nemocnice T. Bati, a. s.",CZ072,Zlínský kraj,70-74,neuvedeno,CZ,1.0,2021-04-21
@@ -818,8 +765,8 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-02
 2021-03-31,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,,
-2021-03-31,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,,
 2021-03-31,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,1.0,2021-04-15
+2021-03-31,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,,
 2021-03-31,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,,
 2021-03-31,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,80+,Osoba s chronickým onemocněním,CZ,1.0,2021-04-01
 2021-03-31,1295fe02-0319-40e4-a482-d4b8a0bfe138,FN Ostrava - Černá Louka Výstaviště,CZ080,Moravskoslezský kraj,neuvedeno,Osoba s chronickým onemocněním,CZ,,
@@ -840,15 +787,10 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,77e3d92d-123b-452d-93ec-30afac4e2c0b,"Nemocnice s poliklinikou Karviná-Ráj, p.o. - pracoviště Karviná",CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-21
 2021-03-31,77e3d92d-123b-452d-93ec-30afac4e2c0b,"Nemocnice s poliklinikou Karviná-Ráj, p.o. - pracoviště Karviná",CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,,
 2021-03-31,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-08
-2021-03-31,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
-2021-03-31,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
-2021-03-31,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
-2021-03-31,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,65-69,Osoba s chronickým onemocněním,CZ,1.0,2021-04-06
-2021-03-31,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,1.0,2021-04-06
 2021-03-31,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,,
 2021-03-31,85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,,
-2021-03-31,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,1.0,2021-04-07
 2021-03-31,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,,
+2021-03-31,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,1.0,2021-04-07
 2021-03-31,aa0a5675-d1ba-4282-9bbf-c36053f0e7c9,"Slezská nemocnice v Opavě, p.o.",CZ080,Moravskoslezský kraj,80+,neuvedeno,CZ,1.0,2021-04-08
 2021-03-31,ae9c4f09-2a1d-41dd-bf45-f8864f24dd5c,Karvinská hornická nemocnice a.s. Oddělení pracovního lékařství KHN,CZ080,Moravskoslezský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-22
 2021-03-31,ae9c4f09-2a1d-41dd-bf45-f8864f24dd5c,Karvinská hornická nemocnice a.s. Oddělení pracovního lékařství KHN,CZ080,Moravskoslezský kraj,75-79,neuvedeno,CZ,,
@@ -856,7 +798,3 @@ datum,ockovaci_misto_id,ockovaci_misto_nazev,kraj_nuts_kod,kraj_nazev,vekova_sku
 2021-03-31,c4c7db25-dd2d-4182-bd32-0b6ad04f0bb1,VOČM DDM Třinec,CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,,
 2021-03-31,d58b9a53-e9a4-4374-9853-1d93c4540fb4,"THERÁPON 98, a.s. - Kopřivnice",CZ080,Moravskoslezský kraj,70-74,neuvedeno,CZ,,
 2021-03-31,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,30-34,Zdravotnický pracovník dle §76 a §77 zákona 372/2011  Sb.,CZ,1.0,2021-04-11
-2021-03-31,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,45-49,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
-2021-03-31,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
-2021-03-31,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,55-59,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
-2021-03-31,d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ080,Moravskoslezský kraj,60-64,Osoba s chronickým onemocněním,CZ,1.0,2021-04-07
