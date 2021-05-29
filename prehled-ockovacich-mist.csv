@@ -143,7 +143,7 @@ c5881ce2-0007-4fe1-8a80-66fba7dafa3d,"Nemocnice následné péče Svatá Anna, s
 d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ0803,1,"Astronautů 859, 736 01 Havířov",49.7833794,18.4363747,OČM,844896000,1302,1
 77e3d92d-123b-452d-93ec-30afac4e2c0b,"Nemocnice s poliklinikou Karviná-Ráj, p.o. - pracoviště Karviná",CZ0803,1,"Vydmuchov 399/5, 734 01, Karviná-Ráj",49.8491067,18.5500953,OČM,844853000,500,1
 63a56753-7d68-44cb-a025-d605c6c8d307,"Nemocnice s poliklinikou Karviná-Ráj, p.o. - pracoviště Orlová",CZ0803,1,"Masarykova 900, 73514, Orlová",49.8756800,18.4347500,OČM,844853001,300,1
-575508f4-5cc6-4ec7-b80c-4d1facd26e0a,"Nemocnice s poliklinikou Česká Lípa, a.s.",CZ0511,1,"Purkyňova 1849, 470 01 Česká Lípa",50.6858542,14.5488336,OČM,27283518000,816,1
+575508f4-5cc6-4ec7-b80c-4d1facd26e0a,"Nemocnice s poliklinikou Česká Lípa, a.s.",CZ0511,1,"Purkyňova 1849, 470 01 Česká Lípa",50.6858542,14.5488336,OČM,27283518000,750,1
 85683ce8-5a0e-4733-b5e3-614d9d4ef335,"Nemocnice ve Frýdku-Místku, p.o.",CZ0802,1,"Národní dům, Palackého 134, Místek, 738 01 Frýdek-Místek",49.6746328,18.3439408,OČM,534188000,1200,1
 ade1335c-0185-4292-af9a-5de58be97774,"Nemocnice České Budějovice - OČKO Výstaviště České Budějovice",CZ0311,1,"Husova 523/30, 370 05 České Budějovice",48.9855900,14.4598200,VOČM,26068877000,1500,1
 e7d3f647-96bc-44ba-88d2-77e1b2b1be48,"Nemocnice Český Krumlov - OČKO Sportovní hala",CZ0312,1,"Chvalšinská 111, 381 01 Český Krumlov",48.8156892,14.3101431,VOČM,26095149000,800,1
@@ -220,5 +220,3 @@ e1279737-8cfb-4197-ad38-3def6a9a17e0,"Zdravotní ústav se sídlem v Ostravě - 
 d39dde40-8947-46df-ae25-97a1faa3f5ef,"Zdravotní ústav se sídlem v Ústí nad Labem - Pracoviště Praha",CZ0100,1,"Praha 2, Dittrichova 17",50.0751686,14.4156322,OČM,71009361000,40,
 fc926c27-6f37-49c2-9944-7b641a03d691,"Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Liberec",CZ0513,1,"U Sila 1139, Liberec, 463 11",50.7527700,15.0809500,OČM,71009361000,30,
 591855d9-aad8-4d12-86e0-db30cfbb36ee,"Zdravotní ústav se sídlem v Ústí nad Labem - pracoviště Plzeň",CZ0323,1,"Plzeň, 17.listopadu 1",49.7299539,13.3720408,OČM,71009361000,40,
-4ea9c79c-ebac-4505-8176-7d22ca45c0d2,"ÚVN Praha - Vakcinační centrum COVID-19",CZ0100,1,"U Vojenské nemocnice 1200/1, 162 00 Praha, Břevnov",50.0904111,14.3634275,UNI,61383082000,650,1
-cb0f8a24-3c54-467e-9e67-de01f424ea85,"Česká Lípa očkovací místo  Crystal",CZ0511,1,"Boženy Němcové 2942, Česká Lípa",50.6848600,14.5342200,OČM,27283518000,546,1
