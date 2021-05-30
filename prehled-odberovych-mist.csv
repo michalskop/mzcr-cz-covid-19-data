@@ -117,7 +117,7 @@ f05668a2-29fe-4c96-80da-e5dc563304f6,Covid-Prosek,CZ0100,1,"Kytlická 758/21, 19
 eb2cf89b-cebb-436b-b077-237bd99fd222,"CovidPoint ČSAP z.s. - Praha 8, Karlín",CZ0100,1,"Malého 282/3, Praha 8",50.0895008,14.4440450,1834,1,1,1,
 3cbd7d60-459b-4967-9e95-b722c29d2589,"Cytogenetická laboratoř Brno, s.r.o.",CZ0642,1,"Veveří 39, 602 00 Brno",49.2017253,16.5986119,50,,,1,
 18ec1178-b99c-437b-a79c-a44c5cb50fd6,"DZS Přeštice s.r.o. - odběrové místo",CZ0324,1,"Sedláčkova 553, 334 01 Přeštice",49.5733014,13.3251628,50,,,1,
-d675d47b-78c8-40eb-85f9-c6f05a75f1e9,"Domažlická nemocnice, a.s.",CZ0321,1,"Kozinova 292, 344 01 Domažlice",49.4380530,12.9079180,120,1,1,1,1
+d675d47b-78c8-40eb-85f9-c6f05a75f1e9,"Domažlická nemocnice, a.s.",CZ0321,1,"Kozinova 292, 344 01 Domažlice",49.4380530,12.9079180,180,1,1,1,1
 62039ce3-34cd-4c61-b5b8-575a302357fb,"Dopravní a záchranná služba s.r.o.",CZ0323,,"Wenzigova 340/11, 301 00 Plzeň 3 - Východní Předměstí",49.7457797,13.3899411,200,,,1,
 06612a1a-ef79-464b-9984-ad728ae35fb8,"Dopravní zdravotnictví a.s., Poliklinika AGEL Olomouc",CZ0712,1,"Jermenkova 1056/40, 772 52 Olomouc",49.5916508,17.2763164,200,,,1,
 c7162021-8d24-4c8d-9f07-2eaa926ee880,"Dopravní zdravotnictví a.s., Poliklinika AGEL Plzeň",CZ0323,1,"Švihovská 14, Plzeň",49.7458553,13.3935442,30,1,,1,
@@ -542,7 +542,7 @@ b25fc982-b75c-4e49-9fa0-9983bf28508e,"SYNLAB České Budějovice U tří lvů",C
 1522c5c8-5c8a-4602-8fb2-69836849ddc0,"SYNLAB České Budějovice Vrbenská",CZ0311,1,"České Budějovice Vrbenská 197/23",48.9761700,14.4941394,30,1,,1,
 79041d7d-43b6-4e84-9c4d-5fe61b560339,"SYNLAB Český Krumlov",CZ0312,1,"T. G. Masaryka 188, 381 01 Český Krumlov",48.8163575,14.3157803,20,,,,
 745504a5-e327-46c2-921e-11975bd50067,"Salubrita Praha 1",CZ0100,1,"Palackého 5, Praha 1",50.0811300,14.4231269,50,1,,1,
-58226d12-2ee2-4028-bca5-8d9c872d484e,"Saunový ráj - odběrové místo Holice",CZ0532,1,"Vysokomýtská 629, 534 01 Holice",50.0650244,15.9885950,100,,,1,
+58226d12-2ee2-4028-bca5-8d9c872d484e,"Saunový ráj - odběrové místo Holice",CZ0532,1,"Vysokomýtská 629, 534 01 Holice",50.0650244,15.9885950,170,,,1,
 21529fad-b337-451c-9f40-5f0721b7b5fe,"Scimed Biotechnologies, s.r.o. - Kladno",CZ0203,1,"Františka Kloze 2313, Kladno 272 01",50.1399614,14.0919678,600,1,1,1,
 53e2f6fd-99ac-41c7-a42f-68c9fd5e0d26,"Scimed Biotechnologies, s.r.o. - odběrové místo Pardubice",CZ0532,1,"Záchytné parkoviště kasárna T.G. Masaryka, Pardubice",50.0223531,15.7740419,800,1,1,1,1
 634dc37d-63d2-4942-8eca-070ef6c9f98c,"Scimed Lidická",CZ0100,1,"Lidická 337/30, Praha 5, 150 00",50.0723289,14.4060183,600,1,1,1,
