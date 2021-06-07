@@ -62,7 +62,7 @@ cd252dde-b78e-4c74-88e5-e95d894968ab,"Klatovská nemocnice",CZ0322,1,"Plzeňská
 931fb801-8158-4fc2-ac92-2c68d76907d7,"Krajská majetková, p.o. středisko Lužická nemocnice Rumburk",CZ0421,1,"Lesní 1062/26, Rumburk",50.9458519,14.5417969,OČM,829048015,0,1
 7c7aa47c-bd44-46b8-b428-a132a7bc2f07,"Krajská nemocnice T. Bati, a. s. - PSG Aréna",CZ0724,1,"Zlín čp. 5513",49.2163647,17.6600158,VOČM,27661989000,1100,1
 ec7464b3-cfbd-4e49-8187-5f438f69c731,"Kroměřížská nemocnice a.s. - Výstaviště Kroměříž",CZ0721,1,"Výstaviště Kroměříž, K Výstavišti 4069/8, 76701 Kroměříž",49.2836386,17.3928511,OČM,27660532000,1000,1
-51f67019-bb4e-41e0-a38b-91c9480596fd,"L Dermamedest s.r.o.",CZ0100,1,"Karlovo náměstí 313/8, Praha 2",50.0749542,14.4187378,OČM,2635178000,250,1
+51f67019-bb4e-41e0-a38b-91c9480596fd,"L Dermamedest s.r.o.",CZ0100,1,"Karlovo náměstí 313/8, Praha 2",50.0749542,14.4187378,OČM,2635178000,301,1
 0df58e7f-8d17-4bdf-b39d-5245b0759d75,"LDN Rybitví",CZ0532,1,"Činžovních domů 140, 533 54 Rybitví",50.0589700,15.7028600,OČM,190560000,80,1
 c8e549b8-aafb-4b4c-ae3b-b1ccee70513f,"LRS Chvaly, o.p.s.",CZ0100,1,"Stoliňská 920, 193 00",50.1084331,14.5915319,OČM,24805807000,108,
 a70af252-fbab-41e1-a422-5ff5770c1ce9,"Levitovo centrum následné péče",CZ0522,1,"Riegrova 655, Hořice, 508 01",50.3684781,15.6398039,OČM,190217000,70,1
@@ -99,7 +99,6 @@ a74425f4-80fe-4f1f-abb9-3e8df7ca8aac,"Městská nemocnice Ostrava, p.o., Vakcina
 249c3cf7-8d0e-4301-998b-140dddf8694d,"Nemocnice AGEL Nový Jičín a.s. - Vakcinační centrum pro veřejnost",CZ0804,1,"K Nemocnici 1886/57",49.5870456,18.0065553,OČM,25886207000,380,
 71b299fb-33f6-46b7-ae94-78815297125c,"Nemocnice AGEL Ostrava-Vítkovice a.s.",CZ0806,1,"Zalužanského 15, Ostrava",49.8149922,18.2710944,OČM,60793201000,240,1
 243d9780-7f89-4218-8db5-e18ceda4778b,"Nemocnice AGEL Podhorská a.s. pracoviště Bruntál",CZ0801,1,"Nádražní 1589/29, 79201 Bruntál",49.9946861,17.4712525,OČM,47668989000,204,1
-4cf475a4-9727-4afb-a458-80cbe7d7a497,"Nemocnice AGEL Podhorská a.s.- pracoviště Rýmařov",CZ0801,1,"Hornoměstská 549/16; Rýmařov",49.9308081,17.2614961,OČM,47668989000,120,1
 2939d29f-8cb9-49ab-908d-c4425afb5f51,"Nemocnice AGEL Valašské Meziříčí a.s.",CZ0723,1,"U Nemocnice 980 Valašské Meziříčí",49.4629172,17.9770242,OČM,26822105000,600,1
 281cd704-c5c4-447d-aace-debad0aa3269,"Nemocnice AGEL Říčany a.s. - Sportovní hala",CZ0209,1,"Sportovní hala Škroupova 2026/2",49.9886550,14.6582194,OČM,27365867000,600,1
 77370fab-c7c5-4a05-b845-06acfd42bc34,"Nemocnice Agel Třinec-Podlesí a.s.",CZ0802,1,"Konská 453",49.6881408,18.6472303,OČM,48401129000,15,
@@ -138,6 +137,7 @@ e7c6b8a7-11b2-4921-bf5b-6738b008f7dc,"Nemocnice Tišnov",CZ0643,1,"Purkyňova 27
 0ea63d3f-dd1c-47bb-b029-cbbdf187a357,"Nemocnice Vrchlabí, s.r.o.",CZ0525,1,"Fügnerova 50, 54301 Vrchlabí",50.6224481,15.6076125,OČM,64827232000,0,
 d03cc3a3-044e-4d00-a2ec-7abccc400b3b,"Nemocnice Vyškov, p. o., Sportovní hala Purkyňova 39",CZ0646,1,"Sportovní hala Purkyňova 39",49.2748858,16.9831514,VOČM,839205000,800,1
 f5fe8269-61d2-4c43-8661-81876bbbbc89,"Nemocnice Znojmo Sportovni Hala Dvořákova",CZ0647,1,"Dvořákova 3602/17, 669 02 Znojmo",48.8611000,16.0432500,VOČM,92584000,1000,1
+02e9f762-d4ca-4db4-8580-73ab6fb0acaf,"Nemocnice následné péče Moravská Třebová",CZ0533,1,"Svitavská 480/25, 571 01 Moravská Třebová - Předměstí",49.7571611,16.6550031,OČM,193895000,120,1
 c5881ce2-0007-4fe1-8a80-66fba7dafa3d,"Nemocnice následné péče Svatá Anna, s.r.o.",CZ0327,1,"Kyjovská 607,   348 15 Planá u Mariánských Lázní",49.8797569,12.7217789,OČM,26360896000,80,1
 d98e57cf-fc29-40fb-a432-7631f17956ea,"Nemocnice s poliklinikou Havířov, p.o.  - OČKO Sportovní hala Slávie",CZ0803,1,"Astronautů 859, 736 01 Havířov",49.7833794,18.4363747,OČM,844896000,1302,1
 77e3d92d-123b-452d-93ec-30afac4e2c0b,"Nemocnice s poliklinikou Karviná-Ráj, p.o. - pracoviště Karviná",CZ0803,1,"Vydmuchov 399/5, 734 01, Karviná-Ráj",49.8491067,18.5500953,OČM,844853000,500,1

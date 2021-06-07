@@ -1,8 +1,8 @@
 odberove_misto_id,odberove_misto_nazev,okres_nuts_kod,operacni_status,odberove_misto_adresa,latitude,longitude,testovaci_kapacita,nasofaryngealni_odber,orofaryngealni_odber,antigenni_odber,drive_in
 a81a99e2-90bd-494c-ae42-7090f93115ca,"#NaŽádanku.cz – Odběrové centrum Praha 15 (H. Měcholupy)",CZ0100,1,"Park na křižovatce ulic Ravennská a Milánská, Praha 15, 109 00",50.0444517,14.5585581,160,1,1,1,
 f4d02b50-1561-4c7e-9cf4-8d85b2d985ea,"#NaŽádanku.cz – Odběrové centrum Praha 6 (Ruzyně)",CZ0100,1,"Drnovská 1112/60 161 00 Praha 6 - Ruzyně",50.0918058,14.2991447,100,1,1,1,1
-42c85d23-21e4-4fe9-baef-9ab06c0cbe6d,"#Vyšetři.mě – Odběrové centrum Praha 15 (H. Měcholupy)",CZ0100,1,"Park na křižovatce ulic Ravennská a Milánská, Praha 15, 109 00",50.0444946,14.5583959,560,1,1,,
-4bf34117-aadf-400d-91ec-77dc8633874f,"#Vyšetři.mě – Odběrové centrum Praha 6 (Ruzyně)",CZ0100,1,"Drnovská 1112/60 161 00 Praha 6 - Ruzyně",50.0921792,14.2998285,200,1,1,,1
+42c85d23-21e4-4fe9-baef-9ab06c0cbe6d,"#Vyšetři.mě – Odběrové centrum Praha 15 (H. Měcholupy)",CZ0100,1,"Park na křižovatce ulic Ravennská a Milánská, Praha 15, 109 00",50.0444946,14.5583959,560,1,1,1,
+4bf34117-aadf-400d-91ec-77dc8633874f,"#Vyšetři.mě – Odběrové centrum Praha 6 (Ruzyně)",CZ0100,1,"Drnovská 1112/60 161 00 Praha 6 - Ruzyně",50.0921792,14.2998285,200,1,1,1,1
 3e8efabc-3f63-46c7-914e-90cd9cda352a,"01 OT AČR",,1,,49.3043147,16.9771492,20,,,,
 054fe258-9488-4407-8030-739e0ba19b81,"02 OT AČR",,1,,49.3043147,16.9771492,20,,,,
 8011f561-ce69-4e40-918f-08a721ee9e7f,"03 OT AČR",,1,,,,20,,,,
@@ -430,8 +430,8 @@ f9822c01-9c1c-4760-abe5-be9a6c72293b,"Nemocnice s poliklinikou Havířov, p.o.",
 92b03d48-f556-46be-b3a0-a838d1391c85,"Nemocnice s poliklinikou Česká Lípa",CZ0511,1,"Purkyňova 1849, Česká Lípa 470 01",50.6866311,14.5484203,100,1,,1,
 f8481e8a-f027-4ba6-b582-d4fbea21aa0e,"Nemocnice s poliklinikou Karviná, p. o.",CZ0803,1,"Vydmuchov 399/5, 734 01 Karviná-Ráj",49.8476090,18.5516250,150,1,,1,1
 e4796ba3-bdd8-463d-b6b6-2f206319e67e,"Nemocnice ve Frýdku-Místku, p.o.",CZ0802,1,"El. Krásnohorské 321, Frýdek, 738 01 Frýdek-Místek",49.6899870,18.3553920,150,1,,1,
-e6c85208-7725-4773-b1a9-e9198d1decc8,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",48.9590440,14.4686910,800,1,,1,
 e6794a78-b750-4403-b948-05594fef0584,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",,,100,,,,
+e6c85208-7725-4773-b1a9-e9198d1decc8,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",48.9590440,14.4686910,800,1,,1,
 d72b10d4-741d-494d-b7de-ef6201852291,"Nemocnice Český Krumlov",CZ0312,1,"Nemocniční 429, 38301 Český Krumlov",48.8114706,14.3266972,350,1,,1,
 feef4fd2-5f23-4d24-92e6-f6dbc706c4ea,"Nemocnice Šumperk a.s.",CZ0715,1,"Nerudova 640/41, 787 01 Šumperk",49.9586911,16.9631111,250,1,,1,
 58a81619-1e77-4fce-922f-70d6d3475c39,"Nemocnice Žatec, o.p.s.",CZ0424,1,"Husova 2796, Žatec 438 01",50.3218992,13.5388500,100,1,,1,
