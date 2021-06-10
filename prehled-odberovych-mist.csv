@@ -50,8 +50,8 @@ c63857c0-50c0-4aae-944c-d31787fd193e,"AG Covidpoint - Havířov Globus",CZ0803,1
 e45380c8-3319-4af2-b80b-9a264699ea1e,"AG Covidpoint - Home Park Zličín",CZ0100,1,"Skandinávská 131/1 155 00 Praha 5",50.0509506,14.2978350,370,,,1,
 fb85ae7f-a281-477e-b81f-467a432c8052,"AG Covidpoint - Klatovy",CZ0322,1,"Rozvoj 98, 339 01 Klatovy V",49.3957122,13.2998383,300,,,1,
 71352457-fda3-4463-9f0a-f65cc50d013b,"AG Covidpoint - Metropole Zličín",CZ0100,1,"Řevnická ul. 155 00 Praha 5",50.0530772,14.2899380,370,,,1,
-53f38a3d-a3b6-4524-b769-b2e3c5bcaeef,"AG Covidpoint - Mladá Boleslav",CZ0207,1,"Komenského náměstí 61, 293 01 Mladá Boleslav I",50.4123333,14.9035444,370,,,1,
 16402727-26c3-4ae4-bf46-75b4f06a4bbb,"AG Covidpoint - Mladá Boleslav",CZ0207,,"Komenského nám 61/1 293 01 Mladá Boleslav",50.2444600,14.5416700,200,,,1,
+53f38a3d-a3b6-4524-b769-b2e3c5bcaeef,"AG Covidpoint - Mladá Boleslav",CZ0207,1,"Komenského náměstí 61, 293 01 Mladá Boleslav I",50.4123333,14.9035444,370,,,1,
 9ee060b8-d132-4deb-a09a-8d5cd0596db1,"AG Covidpoint - OC Chodov",CZ0100,1,"Roztylská ul. 148 00 Praha11",50.0300548,14.4917114,370,,,1,
 91bd1e57-485e-4793-aa8d-cf37988df849,"AG Covidpoint - OC Letňany - Tesco",CZ0100,1,"Veselská 663 199 00 Praha 9",50.1341969,14.4985997,370,,,1,
 d6c96226-e0cc-449c-91f1-072e1582234b,"AG Covidpoint - OC Černý most",CZ0100,1,"Chlumecká ul. Praha 9-Černý Most",50.1070308,14.5872724,370,,,1,
@@ -217,7 +217,7 @@ ef9c6450-b73a-4b4e-830f-e3c618a62b2d,"Home Care Promedica s.r.o. - odběrové m�
 8b3a4b02-fc4a-4ff2-9d58-7c0811ba7fcc,"IFCOR Ostrava Svinov",CZ0806,,"Peterkova 105, Ostrava Svinov",49.8235100,18.2095200,1000,,,,1
 ee2a1d7c-2f4f-47f7-97e8-e28e067f21fa,"IFCOR Uherské Hradiště",CZ0722,1,"Verbířská 1286, 686 01 Uherské Hradiště",49.0701753,17.4704978,160,1,,1,
 ad6e15a3-a3d0-436e-b854-6f25721d0b78,"IFCOR, Brno mobilní",,1,,,,100,,,1,
-b08ed639-a90f-4fd8-aede-612afd1a764f,"INTER CLINIC Praha-Radotín, s.r.o.",CZ0100,1,"Na Výšince 149/3, 153 00, Praha 5 - Radotín",49.9839758,14.3561414,20,,,1,
+b08ed639-a90f-4fd8-aede-612afd1a764f,"INTER CLINIC Praha-Radotín, s.r.o.",CZ0100,1,"Na Výšince 149/3, 153 00, Praha 5 - Radotín",49.9839758,14.3561414,20,1,,1,
 f701f8bf-a98a-4c7f-8714-9c21020a12a0,"IVF CUBE",CZ0100,1,"Evropská 423, 160 00 Praha 6-Vokovice",50.0951508,14.3383903,0,1,,1,
 067ef1e2-2c18-490c-aee5-ccae6558110e,"Imunogen s.r.o. - Odběrové místo Sluneční náměstí",CZ0100,1,"Sluneční náměstí 2588/15",50.0503111,14.3434461,60,,,1,
 68b00b3c-f73b-45a2-a96f-a88f1d6d072b,JHM-923,CZ0645,1,"Strážnická 615/1 Rohatec 69601",,,500,1,,1,1
@@ -523,7 +523,7 @@ c5009ad9-a84c-48a5-85b0-bfaad540e5a7,"Renturi s.r.o. - odběrové místo Rychnov
 d743f838-24e1-433a-8cb4-2da44d653af0,"Renturi s.r.o. - odběrové místo STOP SHOP Příbram",CZ020B,,"Brodská 601, 261 01 Příbram",49.6670139,13.9944158,170,,,1,
 b24787e0-9a6f-4e1b-ae10-bd53adb3317f,"Renturi s.r.o. - odběrové místo STOP SHOP Třebíč",CZ0634,1,"Spojovací 1345, Třebíč,  674 01",49.2018378,15.8900908,140,1,,1,
 e3bed57c-9725-48c5-ada0-fb01c2c60779,"Renturi s.r.o. - odběrové místo STOP SHOP Uherské Hradiště",CZ0722,,"Východní 21/32, 686 01 Staré Město",49.0779294,17.4554867,168,,,1,
-d2037166-1fc3-43dd-a765-8c33a0e1d488,"Renturi s.r.o. - odběrové místo Studénka",CZ0804,,"Budovatelská 770, Butovice, 742 13 Studénka",49.7116728,18.0536569,120,,,1,
+d2037166-1fc3-43dd-a765-8c33a0e1d488,"Renturi s.r.o. - odběrové místo Studénka",CZ0804,1,"Budovatelská 770, Butovice, 742 13 Studénka",49.7116728,18.0536569,120,,,1,
 cf53378d-0f7d-40a5-9cc0-c68dd7615ac5,"Renturi s.r.o. - odběrové místo České Budějovice Galerie Dvořák",CZ0311,1,"nám. Přemysla Otakara II. 123/36, České Budějovice, 370 01",48.9736536,14.4738928,144,,,1,
 19b4b578-196f-4a3c-ab49-52a69fe65bd7,"Rokycanská nemocnice, a.s.",CZ0326,1,"Voldušská 750/II, 337 01 Rokycany",49.7489310,13.6042890,96,1,,1,1
 8f049af9-83a0-4f27-8d0c-9e85ce54a464,"SAFRES Group s.r.o. - odběrové místo Česká Skalice",CZ0511,1,"Tyršova 820, 552 03 Česká Skalice",50.3956547,16.0519642,1200,,,1,
