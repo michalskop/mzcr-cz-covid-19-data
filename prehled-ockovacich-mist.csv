@@ -36,7 +36,6 @@ f6a9ae5b-0d93-4bd4-b630-b3667a9c9059,"EUC Klinika Plzeň - Denisovo nábřeží,
 a0b3a397-29de-4207-bc36-402c3e2fb78e,"EUC Klinika Plzeň - Kralovice",CZ0325,1,"Nová 730, 331 41 Kralovice",49.9833700,13.4829100,OČM,25202171000,400,
 0dd50ed6-5e29-48b1-9a7a-c2ec804c7350,"EUC Klinika Praha a.s. - Kartouzská",CZ0100,1,"Kartouzská 204/6 , 150 00 Praha 5",50.0742825,14.4015444,OČM,1918028000,200,
 b2d0f892-c779-4cba-8b55-1ed3e8de0e4c,"EUC Klinika Praha a.s. - Plaňanská",CZ0100,1,"Plaňanská 573/1, Malešice, 108 00 Praha 10",50.0802200,14.5012344,OČM,1918028000,200,
-7c6e5c79-113b-486f-a52c-e8a5f55ceeb4,"EUC Klinika České Budějovice, s.r.o. - Poliklinika JIH",CZ0311,1,"Matice Školské, 1789/17, 370 01 České Budějovice",48.9666000,14.4760900,OČM,62525107000,300,1
 4b39139d-22d5-40e3-b752-dfa2d6aca34e,"EUC klinika Ostrava a.s.",CZ0806,1,"Opavská 962/39, Ostrava",49.8314431,18.1783136,OČM,25860836000,100,1
 7d48eb57-8ab6-4c37-a267-f759c4ec03bb,"EUC klinika Plzeň - Plasy, Kulturní dům Plasy",CZ0325,1,"Plzeňská 41, 331 01 Plasy",49.9316000,13.3839417,OČM,25202171000,160,
 d420fe26-7f32-4287-b929-4dc90d824b77,"EUC klinika Plzeň - Stříbro, Kulturní dům Stříbro",CZ0327,1,"Gagarinova 1344, 349 01 Stříbro",49.7587508,13.0063667,OČM,25202171000,160,
@@ -210,6 +209,7 @@ bc3ee93d-ab1a-4260-abf2-ad4730784b2a,"Přibyslav - Sportovní hala",CZ0631,1,"Č
 b8a946ef-4994-4dcd-859e-09040f43a6d0,"RESPIMED s.r.o.",CZ0100,1,"Urešova 1757, 148 00 Praha 4",50.0218600,14.4867600,OČM,47454296002,96,1
 e8e63305-db89-43c6-8aa2-eeda1a4287ef,"Rehabilitační nemocnici Beroun",CZ0202,1,"Profesora Veselého 493, Beroun",49.9648486,14.0954883,OČM,26752051000,378,
 cc49cc05-60f9-4cdb-ad64-e494cd82149d,"Rehabilitační ústav Brandýs nad Orlicí",CZ0534,1,"Žerotínova 98, 561 12 Brandýs nad Orlicí",50.0031844,16.2819850,OČM,853879000,114,1
+ddcb3824-b327-4bbb-84a1-aab68697c10a,"Renturi s. r. o. - Lanškroun",CZ0534,1,"Kulturní centrum Lanškroun Nádražní 335 Žichlínské Předměstí 563 01 Lanškroun",49.9070856,16.6035136,VOČM,28405757002,0,1
 fa6fc53b-ca0f-43b2-9ca3-5295c7c4201f,"Renturi s.r.o. - Česká Třebová",CZ0534,1,"Skalka 1692, Česká Třebová",49.9071886,16.4461789,OČM,28405757002,138,
 8c0b90bf-f6c7-4b5d-9023-3672a81c52bf,"Renturi s.r.o.(Nižní Lhoty)",CZ0802,1,"Hyundai 700/1, 739 51, Nižní Lhoty",49.6579600,18.4536500,OČM,28405757001,100,
 5fec0218-4280-40c9-8f6d-c096ea70bbaa,"ResTrial s.r.o. - ordinace PL",CZ0100,1,"Zhořelecká 514/2, Praha 8",50.1313819,14.4099225,OČM,27194051006,80,

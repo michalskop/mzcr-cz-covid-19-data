@@ -50,8 +50,8 @@ c63857c0-50c0-4aae-944c-d31787fd193e,"AG Covidpoint - Havířov Globus",CZ0803,1
 e45380c8-3319-4af2-b80b-9a264699ea1e,"AG Covidpoint - Home Park Zličín",CZ0100,1,"Skandinávská 131/1 155 00 Praha 5",50.0509506,14.2978350,370,,,1,
 fb85ae7f-a281-477e-b81f-467a432c8052,"AG Covidpoint - Klatovy",CZ0322,1,"Rozvoj 98, 339 01 Klatovy V",49.3957122,13.2998383,300,,,1,
 71352457-fda3-4463-9f0a-f65cc50d013b,"AG Covidpoint - Metropole Zličín",CZ0100,1,"Řevnická ul. 155 00 Praha 5",50.0530772,14.2899380,370,,,1,
-53f38a3d-a3b6-4524-b769-b2e3c5bcaeef,"AG Covidpoint - Mladá Boleslav",CZ0207,1,"Komenského náměstí 61, 293 01 Mladá Boleslav I",50.4123333,14.9035444,370,,,1,
 16402727-26c3-4ae4-bf46-75b4f06a4bbb,"AG Covidpoint - Mladá Boleslav",CZ0207,,"Komenského nám 61/1 293 01 Mladá Boleslav",50.2444600,14.5416700,200,,,1,
+53f38a3d-a3b6-4524-b769-b2e3c5bcaeef,"AG Covidpoint - Mladá Boleslav",CZ0207,1,"Komenského náměstí 61, 293 01 Mladá Boleslav I",50.4123333,14.9035444,370,,,1,
 9ee060b8-d132-4deb-a09a-8d5cd0596db1,"AG Covidpoint - OC Chodov",CZ0100,1,"Roztylská ul. 148 00 Praha11",50.0300548,14.4917114,370,,,1,
 91bd1e57-485e-4793-aa8d-cf37988df849,"AG Covidpoint - OC Letňany - Tesco",CZ0100,1,"Veselská 663 199 00 Praha 9",50.1341969,14.4985997,370,,,1,
 d6c96226-e0cc-449c-91f1-072e1582234b,"AG Covidpoint - OC Černý most",CZ0100,1,"Chlumecká ul. Praha 9-Černý Most",50.1070308,14.5872724,370,,,1,
@@ -246,7 +246,7 @@ feb510ce-4e80-48a2-8439-0cb9b510f4a6,"Lab In - Institut laboratorní medicíny -
 c26cac40-7edf-4a83-849c-8c0ce2fa0a8a,"Lab In Dobřany",CZ0324,1,"Dragounů 1017, 334 41 Dobřany",49.6516742,13.3003378,150,1,1,1,1
 c00a3c16-8481-4241-8c14-b08e5e826d86,"Lab In Jirkov",CZ0422,1,"Dvořákova 1398, 431 11 Jirkov",50.5015172,13.4433022,80,1,1,1,1
 773985ef-6170-4ffe-adfb-3edf3d24d5ea,"Lab In Karlovy Vary",CZ0412,1,"Bezručova 1098/10, 360 01 Karlovy Vary",50.2312236,12.8752986,100,1,1,1,
-417cf2c5-8942-47e5-8933-832b7a2bf98c,"Lab In Kladno Čtyřobvod",CZ0203,1,"Unhošťská 2533, 272 01 Kladno",50.1304625,14.1250756,200,1,1,1,1
+417cf2c5-8942-47e5-8933-832b7a2bf98c,"Lab In Kladno Čtyřobvod",CZ0203,,"Unhošťská 2533, 272 01 Kladno",50.1304625,14.1250756,200,1,1,1,1
 2f307a76-4e43-4f1e-8862-07d104f93c09,"Lab In Klášterec",CZ0422,1,"Pod Stadionem 404, 431 51 Klášterec nad Ohří",50.3877467,13.1837053,180,,,,1
 ac290bfe-e448-4fe5-8cc8-4bea932e4b5c,"Lab In Kraslice",CZ0413,1,"Havlíčkova 1431, 358 01 Kraslice",50.3306211,12.5141156,80,1,1,1,
 deec2b96-274b-48dc-a4f9-57d47e1fbe42,"Lab In Louny",CZ0424,1,"Rakovnická 2505, 440 01 Louny",50.3531761,13.8049239,150,1,1,1,1
@@ -433,8 +433,8 @@ f9822c01-9c1c-4760-abe5-be9a6c72293b,"Nemocnice s poliklinikou Havířov, p.o.",
 92b03d48-f556-46be-b3a0-a838d1391c85,"Nemocnice s poliklinikou Česká Lípa",CZ0511,1,"Purkyňova 1849, Česká Lípa 470 01",50.6866311,14.5484203,100,1,,1,
 f8481e8a-f027-4ba6-b582-d4fbea21aa0e,"Nemocnice s poliklinikou Karviná, p. o.",CZ0803,1,"Vydmuchov 399/5, 734 01 Karviná-Ráj",49.8476090,18.5516250,150,1,,1,1
 e4796ba3-bdd8-463d-b6b6-2f206319e67e,"Nemocnice ve Frýdku-Místku, p.o.",CZ0802,1,"El. Krásnohorské 321, Frýdek, 738 01 Frýdek-Místek",49.6899870,18.3553920,150,1,,1,
-e6c85208-7725-4773-b1a9-e9198d1decc8,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",48.9590440,14.4686910,800,1,,1,
 e6794a78-b750-4403-b948-05594fef0584,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",,,100,,,,
+e6c85208-7725-4773-b1a9-e9198d1decc8,"Nemocnice České Budějovice, a.s.",CZ0311,1,"B. Němcové 585/54, 370 01 České Budějovice",48.9590440,14.4686910,800,1,,1,
 d72b10d4-741d-494d-b7de-ef6201852291,"Nemocnice Český Krumlov",CZ0312,1,"Nemocniční 429, 38301 Český Krumlov",48.8114706,14.3266972,350,1,,1,
 feef4fd2-5f23-4d24-92e6-f6dbc706c4ea,"Nemocnice Šumperk a.s.",CZ0715,1,"Nerudova 640/41, 787 01 Šumperk",49.9586911,16.9631111,250,1,,1,
 58a81619-1e77-4fce-922f-70d6d3475c39,"Nemocnice Žatec, o.p.s.",CZ0424,1,"Husova 2796, Žatec 438 01",50.3218992,13.5388500,100,1,,1,
@@ -557,7 +557,7 @@ b25fc982-b75c-4e49-9fa0-9983bf28508e,"SYNLAB České Budějovice U tří lvů",C
 21529fad-b337-451c-9f40-5f0721b7b5fe,"Scimed Biotechnologies, s.r.o. - Kladno",CZ0203,1,"Františka Kloze 2313, Kladno 272 01",50.1399614,14.0919678,600,1,1,1,
 53e2f6fd-99ac-41c7-a42f-68c9fd5e0d26,"Scimed Biotechnologies, s.r.o. - odběrové místo Pardubice",CZ0532,1,"Záchytné parkoviště kasárna T.G. Masaryka, Pardubice",50.0223531,15.7740419,800,1,1,1,1
 634dc37d-63d2-4942-8eca-070ef6c9f98c,"Scimed Lidická",CZ0100,1,"Lidická 337/30, Praha 5, 150 00",50.0723289,14.4060183,600,1,1,1,
-81eeb04c-bd34-4f3d-aedd-454718fede2b,"Scimed biotechnologies - areál FNKV",CZ0100,1,"Šrobárova 50, Praha 10",50.0757194,14.4754253,120,1,1,1,1
+81eeb04c-bd34-4f3d-aedd-454718fede2b,"Scimed biotechnologies -  Lidový dům",CZ0100,,"Hybernská 1033, Praha 1",50.5145600,14.2553257,120,1,1,1,1
 f986a0d1-cf01-414a-8b86-c797c9dc7e48,"Sdružené zdravotnické zařízení Krnov, p.o.",CZ0801,1,"I. P. Pavlova 552/9, Pod Bezručovým vrchem, 794 01 Krnov",50.0968836,17.6885569,240,1,,1,1
 8b5cf084-2fab-4181-863b-b7549abce858,"Slezská nemocnice v Opavě, p.o.",CZ0805,1,"Olomoucká 470/86, Předměstí, 746 01 Opava",49.9357925,17.8774553,240,,,1,1
 afd0e3aa-c69c-471e-ba7c-871e926c7a4b,"Sociální služby města Mimoň - odběrové místo Sídliště pod Ralskem",CZ0511,1,"Sídliště pod Ralskem 636, Mimoň",50.6584689,14.7329044,50,,,1,
